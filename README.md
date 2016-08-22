@@ -22,7 +22,9 @@ Docker Hub - [namsangboy/scikit-classify-server](https://hub.docker.com/r/namsan
 	- Utility/my_test.py
 
 - classify_image_module.py
+	get data from json; pre defined data from image
 - classify_server.py
+
 - classify.py
 - classify.test
 
@@ -30,6 +32,7 @@ Docker Hub - [namsangboy/scikit-classify-server](https://hub.docker.com/r/namsan
 Archive: Raise the classification accuracy
 
 - basemodel: 66.1429%
+- finalmodel(model/Maybe/*): 72.2041%
 
 ## Implementation
 
