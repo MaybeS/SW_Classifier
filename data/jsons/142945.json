@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.65992"
+      ], 
+      [
+        "microwave", 
+        "0.11362"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05777"
+      ], 
+      [
+        "CD player", 
+        "0.04938"
+      ], 
+      [
+        "reflex camera", 
+        "0.02291"
+      ]
+    ], 
+    [
+      [
+        "washer", 
+        "1.43746"
+      ], 
+      [
+        "white goods", 
+        "1.26524"
+      ], 
+      [
+        "home appliance", 
+        "1.12834"
+      ], 
+      [
+        "appliance", 
+        "1.08123"
+      ], 
+      [
+        "durables", 
+        "1.05309"
+      ]
+    ], 
+    "9.957"
+  ]
+}

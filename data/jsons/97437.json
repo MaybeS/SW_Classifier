@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital watch", 
+        "0.57312"
+      ], 
+      [
+        "combination lock", 
+        "0.07537"
+      ], 
+      [
+        "spotlight", 
+        "0.05494"
+      ], 
+      [
+        "gasmask", 
+        "0.04440"
+      ], 
+      [
+        "waffle iron", 
+        "0.04044"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "1.22938"
+      ], 
+      [
+        "measuring instrument", 
+        "1.13837"
+      ], 
+      [
+        "digital watch", 
+        "1.03230"
+      ], 
+      [
+        "watch", 
+        "1.01714"
+      ], 
+      [
+        "instrument", 
+        "0.84459"
+      ]
+    ], 
+    "6.861"
+  ]
+}

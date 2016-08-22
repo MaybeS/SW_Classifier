@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cloak", 
+        "0.36582"
+      ], 
+      [
+        "backpack", 
+        "0.23330"
+      ], 
+      [
+        "mountain tent", 
+        "0.11776"
+      ], 
+      [
+        "sleeping bag", 
+        "0.05325"
+      ], 
+      [
+        "academic gown", 
+        "0.04117"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.68500"
+      ], 
+      [
+        "clothing", 
+        "0.65672"
+      ], 
+      [
+        "consumer goods", 
+        "0.59938"
+      ], 
+      [
+        "commodity", 
+        "0.56933"
+      ], 
+      [
+        "garment", 
+        "0.54635"
+      ]
+    ], 
+    "7.130"
+  ]
+}

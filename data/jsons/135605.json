@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.17516"
+      ], 
+      [
+        "radio", 
+        "0.13897"
+      ], 
+      [
+        "can opener", 
+        "0.05854"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04522"
+      ], 
+      [
+        "projector", 
+        "0.03716"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.49813"
+      ], 
+      [
+        "equipment", 
+        "0.45697"
+      ], 
+      [
+        "device", 
+        "0.34830"
+      ], 
+      [
+        "machine", 
+        "0.23796"
+      ], 
+      [
+        "container", 
+        "0.22395"
+      ]
+    ], 
+    "5.667"
+  ]
+}

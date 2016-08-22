@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.43495"
+      ], 
+      [
+        "binder", 
+        "0.21899"
+      ], 
+      [
+        "digital watch", 
+        "0.06642"
+      ], 
+      [
+        "modem", 
+        "0.04500"
+      ], 
+      [
+        "ballpoint", 
+        "0.03328"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "0.75982"
+      ], 
+      [
+        "measuring instrument", 
+        "0.75360"
+      ], 
+      [
+        "digital clock", 
+        "0.67618"
+      ], 
+      [
+        "clock", 
+        "0.61814"
+      ], 
+      [
+        "instrument", 
+        "0.56209"
+      ]
+    ], 
+    "5.211"
+  ]
+}

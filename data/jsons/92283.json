@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.68408"
+      ], 
+      [
+        "scale", 
+        "0.07595"
+      ], 
+      [
+        "cassette", 
+        "0.06839"
+      ], 
+      [
+        "switch", 
+        "0.05055"
+      ], 
+      [
+        "modem", 
+        "0.03170"
+      ]
+    ], 
+    [
+      [
+        "digital clock", 
+        "1.00623"
+      ], 
+      [
+        "measuring instrument", 
+        "0.97006"
+      ], 
+      [
+        "timepiece", 
+        "0.95098"
+      ], 
+      [
+        "clock", 
+        "0.90634"
+      ], 
+      [
+        "instrument", 
+        "0.70585"
+      ]
+    ], 
+    "15.732"
+  ]
+}

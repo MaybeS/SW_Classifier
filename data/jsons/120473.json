@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.38207"
+      ], 
+      [
+        "printer", 
+        "0.15123"
+      ], 
+      [
+        "photocopier", 
+        "0.07009"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.06904"
+      ], 
+      [
+        "ballpoint", 
+        "0.04835"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.54844"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.48229"
+      ], 
+      [
+        "kit", 
+        "0.47520"
+      ], 
+      [
+        "gear", 
+        "0.41353"
+      ], 
+      [
+        "implement", 
+        "0.35980"
+      ]
+    ], 
+    "8.611"
+  ]
+}

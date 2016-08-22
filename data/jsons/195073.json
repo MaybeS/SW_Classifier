@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.99553"
+      ], 
+      [
+        "switch", 
+        "0.00129"
+      ], 
+      [
+        "tape player", 
+        "0.00101"
+      ], 
+      [
+        "cassette player", 
+        "0.00097"
+      ], 
+      [
+        "radio", 
+        "0.00043"
+      ]
+    ], 
+    [
+      [
+        "toaster", 
+        "1.29071"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.09199"
+      ], 
+      [
+        "home appliance", 
+        "1.06204"
+      ], 
+      [
+        "appliance", 
+        "1.02729"
+      ], 
+      [
+        "durables", 
+        "1.00056"
+      ]
+    ], 
+    "6.659"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.88288"
+      ], 
+      [
+        "radiator", 
+        "0.06698"
+      ], 
+      [
+        "electric fan", 
+        "0.01920"
+      ], 
+      [
+        "window screen", 
+        "0.00637"
+      ], 
+      [
+        "oscilloscope", 
+        "0.00501"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "1.01663"
+      ], 
+      [
+        "heater", 
+        "0.91807"
+      ], 
+      [
+        "device", 
+        "0.41632"
+      ], 
+      [
+        "covering", 
+        "0.22013"
+      ], 
+      [
+        "protective covering", 
+        "0.20823"
+      ]
+    ], 
+    "7.896"
+  ]
+}

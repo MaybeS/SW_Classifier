@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.24364"
+      ], 
+      [
+        "chain mail", 
+        "0.19998"
+      ], 
+      [
+        "cuirass", 
+        "0.15023"
+      ], 
+      [
+        "cardigan", 
+        "0.05954"
+      ], 
+      [
+        "velvet", 
+        "0.04717"
+      ]
+    ], 
+    [
+      [
+        "body armor", 
+        "1.15019"
+      ], 
+      [
+        "armor", 
+        "1.08721"
+      ], 
+      [
+        "covering", 
+        "0.95967"
+      ], 
+      [
+        "protective covering", 
+        "0.83584"
+      ], 
+      [
+        "clothing", 
+        "0.80906"
+      ]
+    ], 
+    "10.464"
+  ]
+}

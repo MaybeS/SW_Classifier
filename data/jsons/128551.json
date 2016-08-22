@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.43851"
+      ], 
+      [
+        "space heater", 
+        "0.37499"
+      ], 
+      [
+        "switch", 
+        "0.05109"
+      ], 
+      [
+        "digital clock", 
+        "0.03732"
+      ], 
+      [
+        "microwave", 
+        "0.01274"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52499"
+      ], 
+      [
+        "space heater", 
+        "0.46877"
+      ], 
+      [
+        "modem", 
+        "0.45061"
+      ], 
+      [
+        "equipment", 
+        "0.44504"
+      ], 
+      [
+        "heater", 
+        "0.43221"
+      ]
+    ], 
+    "12.867"
+  ]
+}

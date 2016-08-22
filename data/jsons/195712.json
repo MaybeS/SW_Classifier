@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mousetrap", 
+        "0.20185"
+      ], 
+      [
+        "stretcher", 
+        "0.15284"
+      ], 
+      [
+        "plate rack", 
+        "0.07662"
+      ], 
+      [
+        "shopping basket", 
+        "0.06454"
+      ], 
+      [
+        "bassinet", 
+        "0.05891"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.39031"
+      ], 
+      [
+        "furnishing", 
+        "0.37436"
+      ], 
+      [
+        "container", 
+        "0.29142"
+      ], 
+      [
+        "baby bed", 
+        "0.27312"
+      ], 
+      [
+        "device", 
+        "0.23411"
+      ]
+    ], 
+    "8.771"
+  ]
+}

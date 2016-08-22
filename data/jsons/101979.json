@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.90405"
+      ], 
+      [
+        "modem", 
+        "0.05724"
+      ], 
+      [
+        "radio", 
+        "0.01223"
+      ], 
+      [
+        "cellular telephone", 
+        "0.00663"
+      ], 
+      [
+        "desktop computer", 
+        "0.00463"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.73695"
+      ], 
+      [
+        "device", 
+        "0.55712"
+      ], 
+      [
+        "electronic equipment", 
+        "0.51835"
+      ], 
+      [
+        "equipment", 
+        "0.44338"
+      ], 
+      [
+        "cellular telephone", 
+        "0.32352"
+      ]
+    ], 
+    "11.698"
+  ]
+}

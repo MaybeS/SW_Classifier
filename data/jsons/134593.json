@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mousetrap", 
+        "0.52062"
+      ], 
+      [
+        "cassette", 
+        "0.10707"
+      ], 
+      [
+        "book jacket", 
+        "0.06291"
+      ], 
+      [
+        "cassette player", 
+        "0.04752"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.01656"
+      ]
+    ], 
+    [
+      [
+        "mousetrap", 
+        "0.57201"
+      ], 
+      [
+        "trap", 
+        "0.49809"
+      ], 
+      [
+        "device", 
+        "0.31952"
+      ], 
+      [
+        "container", 
+        "0.27128"
+      ], 
+      [
+        "equipment", 
+        "0.25963"
+      ]
+    ], 
+    "5.608"
+  ]
+}

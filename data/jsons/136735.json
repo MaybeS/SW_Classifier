@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.32719"
+      ], 
+      [
+        "soccer ball", 
+        "0.24467"
+      ], 
+      [
+        "dial telephone", 
+        "0.06058"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04313"
+      ], 
+      [
+        "crash helmet", 
+        "0.02580"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.74807"
+      ], 
+      [
+        "soccer ball", 
+        "0.64805"
+      ], 
+      [
+        "ball", 
+        "0.54046"
+      ], 
+      [
+        "electronic equipment", 
+        "0.51399"
+      ], 
+      [
+        "game equipment", 
+        "0.49304"
+      ]
+    ], 
+    "4.861"
+  ]
+}

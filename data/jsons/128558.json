@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.44478"
+      ], 
+      [
+        "whistle", 
+        "0.10143"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06710"
+      ], 
+      [
+        "dumbbell", 
+        "0.05870"
+      ], 
+      [
+        "thresher", 
+        "0.03477"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.35464"
+      ], 
+      [
+        "device", 
+        "0.29030"
+      ], 
+      [
+        "container", 
+        "0.25329"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.24585"
+      ], 
+      [
+        "sharpener", 
+        "0.24223"
+      ]
+    ], 
+    "4.947"
+  ]
+}

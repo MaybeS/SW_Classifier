@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.21557"
+      ], 
+      [
+        "oil filter", 
+        "0.18259"
+      ], 
+      [
+        "hard disc", 
+        "0.08899"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.08635"
+      ], 
+      [
+        "face powder", 
+        "0.06259"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.35188"
+      ], 
+      [
+        "equipment", 
+        "0.34650"
+      ], 
+      [
+        "device", 
+        "0.30964"
+      ], 
+      [
+        "container", 
+        "0.29970"
+      ], 
+      [
+        "oil filter", 
+        "0.25488"
+      ]
+    ], 
+    "6.906"
+  ]
+}

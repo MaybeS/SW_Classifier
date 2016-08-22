@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.13750"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07239"
+      ], 
+      [
+        "screwdriver", 
+        "0.06777"
+      ], 
+      [
+        "digital clock", 
+        "0.03974"
+      ], 
+      [
+        "remote control", 
+        "0.03213"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37112"
+      ], 
+      [
+        "computer", 
+        "0.33051"
+      ], 
+      [
+        "machine", 
+        "0.32667"
+      ], 
+      [
+        "implement", 
+        "0.28371"
+      ], 
+      [
+        "measuring instrument", 
+        "0.28281"
+      ]
+    ], 
+    "6.925"
+  ]
+}

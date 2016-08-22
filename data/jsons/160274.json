@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.25443"
+      ], 
+      [
+        "binder", 
+        "0.14514"
+      ], 
+      [
+        "modem", 
+        "0.07789"
+      ], 
+      [
+        "switch", 
+        "0.06303"
+      ], 
+      [
+        "safe", 
+        "0.05474"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.39972"
+      ], 
+      [
+        "electronic equipment", 
+        "0.36669"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.36153"
+      ], 
+      [
+        "equipment", 
+        "0.36053"
+      ], 
+      [
+        "transducer", 
+        "0.35551"
+      ]
+    ], 
+    "5.969"
+  ]
+}

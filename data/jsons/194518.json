@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.19169"
+      ], 
+      [
+        "binder", 
+        "0.14424"
+      ], 
+      [
+        "loudspeaker", 
+        "0.09641"
+      ], 
+      [
+        "desktop computer", 
+        "0.07870"
+      ], 
+      [
+        "washbasin", 
+        "0.04486"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.40159"
+      ], 
+      [
+        "machine", 
+        "0.37154"
+      ], 
+      [
+        "electronic equipment", 
+        "0.36655"
+      ], 
+      [
+        "device", 
+        "0.32446"
+      ], 
+      [
+        "personal computer", 
+        "0.27597"
+      ]
+    ], 
+    "11.506"
+  ]
+}

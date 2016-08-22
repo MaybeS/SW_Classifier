@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.34644"
+      ], 
+      [
+        "modem", 
+        "0.15406"
+      ], 
+      [
+        "lighter", 
+        "0.14480"
+      ], 
+      [
+        "perfume", 
+        "0.10002"
+      ], 
+      [
+        "hair spray", 
+        "0.09436"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.64568"
+      ], 
+      [
+        "cellular telephone", 
+        "0.63485"
+      ], 
+      [
+        "radiotelephone", 
+        "0.62552"
+      ], 
+      [
+        "telephone", 
+        "0.54650"
+      ], 
+      [
+        "equipment", 
+        "0.52219"
+      ]
+    ], 
+    "13.077"
+  ]
+}

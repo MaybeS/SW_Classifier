@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.19678"
+      ], 
+      [
+        "modem", 
+        "0.11957"
+      ], 
+      [
+        "cassette", 
+        "0.04720"
+      ], 
+      [
+        "combination lock", 
+        "0.03958"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.03631"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.35257"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33882"
+      ], 
+      [
+        "device", 
+        "0.28549"
+      ], 
+      [
+        "container", 
+        "0.26864"
+      ], 
+      [
+        "conveyance", 
+        "0.25922"
+      ]
+    ], 
+    "8.132"
+  ]
+}

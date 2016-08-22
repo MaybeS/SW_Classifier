@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.84004"
+      ], 
+      [
+        "face powder", 
+        "0.05860"
+      ], 
+      [
+        "puck", 
+        "0.02941"
+      ], 
+      [
+        "magnetic compass", 
+        "0.01496"
+      ], 
+      [
+        "reel", 
+        "0.00966"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.96508"
+      ], 
+      [
+        "equipment", 
+        "0.79483"
+      ], 
+      [
+        "CD player", 
+        "0.64803"
+      ], 
+      [
+        "cassette player", 
+        "0.40791"
+      ], 
+      [
+        "motor vehicle", 
+        "0.31476"
+      ]
+    ], 
+    "5.522"
+  ]
+}

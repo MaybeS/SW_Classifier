@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.62256"
+      ], 
+      [
+        "modem", 
+        "0.18760"
+      ], 
+      [
+        "book jacket", 
+        "0.06062"
+      ], 
+      [
+        "envelope", 
+        "0.04384"
+      ], 
+      [
+        "oil filter", 
+        "0.01610"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.62834"
+      ], 
+      [
+        "protective covering", 
+        "0.36668"
+      ], 
+      [
+        "covering", 
+        "0.34673"
+      ], 
+      [
+        "container", 
+        "0.27918"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26029"
+      ]
+    ], 
+    "6.580"
+  ]
+}

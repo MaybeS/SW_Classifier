@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.25463"
+      ], 
+      [
+        "radio", 
+        "0.14718"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.08265"
+      ], 
+      [
+        "modem", 
+        "0.06473"
+      ], 
+      [
+        "cassette player", 
+        "0.06415"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.47050"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46900"
+      ], 
+      [
+        "cassette", 
+        "0.37167"
+      ], 
+      [
+        "container", 
+        "0.33711"
+      ], 
+      [
+        "device", 
+        "0.27311"
+      ]
+    ], 
+    "8.615"
+  ]
+}

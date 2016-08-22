@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.41107"
+      ], 
+      [
+        "oil filter", 
+        "0.12414"
+      ], 
+      [
+        "whistle", 
+        "0.09436"
+      ], 
+      [
+        "thimble", 
+        "0.05909"
+      ], 
+      [
+        "microphone", 
+        "0.05761"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.51416"
+      ], 
+      [
+        "combination lock", 
+        "0.50049"
+      ], 
+      [
+        "fastener", 
+        "0.46937"
+      ], 
+      [
+        "restraint", 
+        "0.44273"
+      ], 
+      [
+        "device", 
+        "0.41683"
+      ]
+    ], 
+    "8.638"
+  ]
+}

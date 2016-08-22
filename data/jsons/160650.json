@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.28328"
+      ], 
+      [
+        "joystick", 
+        "0.27152"
+      ], 
+      [
+        "ocarina", 
+        "0.09715"
+      ], 
+      [
+        "mouse", 
+        "0.04737"
+      ], 
+      [
+        "modem", 
+        "0.03694"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.58270"
+      ], 
+      [
+        "remote control", 
+        "0.56289"
+      ], 
+      [
+        "equipment", 
+        "0.50653"
+      ], 
+      [
+        "device", 
+        "0.45831"
+      ], 
+      [
+        "control", 
+        "0.36519"
+      ]
+    ], 
+    "9.175"
+  ]
+}

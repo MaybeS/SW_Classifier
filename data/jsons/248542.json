@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.21494"
+      ], 
+      [
+        "cellular telephone", 
+        "0.15295"
+      ], 
+      [
+        "hand-held computer", 
+        "0.13561"
+      ], 
+      [
+        "modem", 
+        "0.05817"
+      ], 
+      [
+        "scoreboard", 
+        "0.04295"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.48695"
+      ], 
+      [
+        "personal computer", 
+        "0.45406"
+      ], 
+      [
+        "machine", 
+        "0.45095"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44945"
+      ], 
+      [
+        "portable computer", 
+        "0.44795"
+      ]
+    ], 
+    "5.135"
+  ]
+}

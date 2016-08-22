@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "violin", 
+        "0.19639"
+      ], 
+      [
+        "cello", 
+        "0.05672"
+      ], 
+      [
+        "ocarina", 
+        "0.04663"
+      ], 
+      [
+        "flute", 
+        "0.04035"
+      ], 
+      [
+        "power drill", 
+        "0.03274"
+      ]
+    ], 
+    [
+      [
+        "musical instrument", 
+        "0.68387"
+      ], 
+      [
+        "stringed instrument", 
+        "0.53880"
+      ], 
+      [
+        "bowed stringed instrument", 
+        "0.50817"
+      ], 
+      [
+        "device", 
+        "0.40429"
+      ], 
+      [
+        "wind instrument", 
+        "0.34355"
+      ]
+    ], 
+    "11.475"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.42823"
+      ], 
+      [
+        "washer", 
+        "0.09265"
+      ], 
+      [
+        "photocopier", 
+        "0.08549"
+      ], 
+      [
+        "television", 
+        "0.04288"
+      ], 
+      [
+        "monitor", 
+        "0.03458"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.64601"
+      ], 
+      [
+        "electronic equipment", 
+        "0.57839"
+      ], 
+      [
+        "machine", 
+        "0.53371"
+      ], 
+      [
+        "printer", 
+        "0.49409"
+      ], 
+      [
+        "printer", 
+        "0.48683"
+      ]
+    ], 
+    "5.674"
+  ]
+}

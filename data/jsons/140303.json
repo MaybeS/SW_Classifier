@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.08345"
+      ], 
+      [
+        "switch", 
+        "0.07834"
+      ], 
+      [
+        "joystick", 
+        "0.06776"
+      ], 
+      [
+        "combination lock", 
+        "0.05281"
+      ], 
+      [
+        "mousetrap", 
+        "0.03303"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38901"
+      ], 
+      [
+        "equipment", 
+        "0.36834"
+      ], 
+      [
+        "electronic equipment", 
+        "0.36244"
+      ], 
+      [
+        "machine", 
+        "0.23705"
+      ], 
+      [
+        "implement", 
+        "0.22010"
+      ]
+    ], 
+    "5.285"
+  ]
+}

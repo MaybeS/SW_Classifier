@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "can opener", 
+        "0.07653"
+      ], 
+      [
+        "screwdriver", 
+        "0.07020"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05076"
+      ], 
+      [
+        "maraca", 
+        "0.04437"
+      ], 
+      [
+        "stopwatch", 
+        "0.03943"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.30424"
+      ], 
+      [
+        "device", 
+        "0.29340"
+      ], 
+      [
+        "covering", 
+        "0.27596"
+      ], 
+      [
+        "consumer goods", 
+        "0.25221"
+      ], 
+      [
+        "commodity", 
+        "0.24097"
+      ]
+    ], 
+    "8.530"
+  ]
+}

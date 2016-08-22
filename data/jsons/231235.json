@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.17029"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.16699"
+      ], 
+      [
+        "switch", 
+        "0.14614"
+      ], 
+      [
+        "oil filter", 
+        "0.10620"
+      ], 
+      [
+        "space heater", 
+        "0.07134"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.52598"
+      ], 
+      [
+        "equipment", 
+        "0.51915"
+      ], 
+      [
+        "photographic equipment", 
+        "0.51723"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.47758"
+      ], 
+      [
+        "device", 
+        "0.35470"
+      ]
+    ], 
+    "5.852"
+  ]
+}

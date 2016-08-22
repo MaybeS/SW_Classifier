@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.14658"
+      ], 
+      [
+        "radio", 
+        "0.08499"
+      ], 
+      [
+        "assault rifle", 
+        "0.04299"
+      ], 
+      [
+        "spotlight", 
+        "0.03968"
+      ], 
+      [
+        "home theater", 
+        "0.03491"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32340"
+      ], 
+      [
+        "equipment", 
+        "0.29241"
+      ], 
+      [
+        "conveyance", 
+        "0.28477"
+      ], 
+      [
+        "vehicle", 
+        "0.28356"
+      ], 
+      [
+        "electronic equipment", 
+        "0.22416"
+      ]
+    ], 
+    "8.006"
+  ]
+}

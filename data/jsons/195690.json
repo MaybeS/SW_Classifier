@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.50278"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.16549"
+      ], 
+      [
+        "switch", 
+        "0.09438"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04852"
+      ], 
+      [
+        "cassette player", 
+        "0.03960"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.49317"
+      ], 
+      [
+        "photographic equipment", 
+        "0.48497"
+      ], 
+      [
+        "equipment", 
+        "0.47554"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.44162"
+      ], 
+      [
+        "device", 
+        "0.29715"
+      ]
+    ], 
+    "6.505"
+  ]
+}

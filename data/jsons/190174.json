@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.18281"
+      ], 
+      [
+        "hand-held computer", 
+        "0.15133"
+      ], 
+      [
+        "packet", 
+        "0.09063"
+      ], 
+      [
+        "street sign", 
+        "0.04701"
+      ], 
+      [
+        "hard disc", 
+        "0.04433"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.86311"
+      ], 
+      [
+        "machine", 
+        "0.75190"
+      ], 
+      [
+        "web site", 
+        "0.73267"
+      ], 
+      [
+        "device", 
+        "0.39702"
+      ], 
+      [
+        "personal computer", 
+        "0.39087"
+      ]
+    ], 
+    "8.282"
+  ]
+}

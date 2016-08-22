@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.41815"
+      ], 
+      [
+        "space heater", 
+        "0.12804"
+      ], 
+      [
+        "safe", 
+        "0.12050"
+      ], 
+      [
+        "analog clock", 
+        "0.05534"
+      ], 
+      [
+        "microwave", 
+        "0.02851"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.73288"
+      ], 
+      [
+        "timepiece", 
+        "0.71895"
+      ], 
+      [
+        "clock", 
+        "0.65528"
+      ], 
+      [
+        "digital clock", 
+        "0.63111"
+      ], 
+      [
+        "instrument", 
+        "0.55201"
+      ]
+    ], 
+    "6.944"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.15025"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.14909"
+      ], 
+      [
+        "hair spray", 
+        "0.10869"
+      ], 
+      [
+        "lotion", 
+        "0.06612"
+      ], 
+      [
+        "laptop", 
+        "0.06209"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.47291"
+      ], 
+      [
+        "personal computer", 
+        "0.43245"
+      ], 
+      [
+        "digital computer", 
+        "0.42417"
+      ], 
+      [
+        "computer", 
+        "0.41315"
+      ], 
+      [
+        "machine", 
+        "0.37735"
+      ]
+    ], 
+    "5.940"
+  ]
+}

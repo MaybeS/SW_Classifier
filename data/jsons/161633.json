@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cleaver", 
+        "0.29897"
+      ], 
+      [
+        "hard disc", 
+        "0.16938"
+      ], 
+      [
+        "switch", 
+        "0.14527"
+      ], 
+      [
+        "modem", 
+        "0.06675"
+      ], 
+      [
+        "washbasin", 
+        "0.04614"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32849"
+      ], 
+      [
+        "hard disc", 
+        "0.30878"
+      ], 
+      [
+        "magnetic disk", 
+        "0.30425"
+      ], 
+      [
+        "memory device", 
+        "0.29971"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29409"
+      ]
+    ], 
+    "6.711"
+  ]
+}

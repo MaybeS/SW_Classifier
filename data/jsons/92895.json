@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.51712"
+      ], 
+      [
+        "abacus", 
+        "0.07820"
+      ], 
+      [
+        "combination lock", 
+        "0.06841"
+      ], 
+      [
+        "buckle", 
+        "0.05317"
+      ], 
+      [
+        "Windsor tie", 
+        "0.03926"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.99706"
+      ], 
+      [
+        "device", 
+        "0.45325"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30341"
+      ], 
+      [
+        "equipment", 
+        "0.29257"
+      ], 
+      [
+        "machine", 
+        "0.27243"
+      ]
+    ], 
+    "11.126"
+  ]
+}

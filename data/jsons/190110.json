@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.11369"
+      ], 
+      [
+        "binder", 
+        "0.10833"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06851"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06346"
+      ], 
+      [
+        "hard disc", 
+        "0.06017"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32454"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29251"
+      ], 
+      [
+        "equipment", 
+        "0.29163"
+      ], 
+      [
+        "measuring instrument", 
+        "0.26387"
+      ], 
+      [
+        "container", 
+        "0.24477"
+      ]
+    ], 
+    "6.135"
+  ]
+}

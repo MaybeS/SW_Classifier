@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "letter opener", 
+        "0.19162"
+      ], 
+      [
+        "studio couch", 
+        "0.13937"
+      ], 
+      [
+        "rubber eraser", 
+        "0.10978"
+      ], 
+      [
+        "pencil box", 
+        "0.06164"
+      ], 
+      [
+        "wallet", 
+        "0.04434"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.37627"
+      ], 
+      [
+        "studio couch", 
+        "0.31523"
+      ], 
+      [
+        "furniture", 
+        "0.31160"
+      ], 
+      [
+        "convertible", 
+        "0.31060"
+      ], 
+      [
+        "sofa", 
+        "0.30597"
+      ]
+    ], 
+    "8.058"
+  ]
+}

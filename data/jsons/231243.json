@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.18435"
+      ], 
+      [
+        "switch", 
+        "0.08903"
+      ], 
+      [
+        "scoreboard", 
+        "0.06550"
+      ], 
+      [
+        "book jacket", 
+        "0.04735"
+      ], 
+      [
+        "oil filter", 
+        "0.03942"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.32723"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30468"
+      ], 
+      [
+        "container", 
+        "0.29605"
+      ], 
+      [
+        "device", 
+        "0.28997"
+      ], 
+      [
+        "cassette", 
+        "0.26420"
+      ]
+    ], 
+    "7.815"
+  ]
+}

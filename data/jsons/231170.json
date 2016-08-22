@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.36157"
+      ], 
+      [
+        "monitor", 
+        "0.14785"
+      ], 
+      [
+        "joystick", 
+        "0.07246"
+      ], 
+      [
+        "television", 
+        "0.06472"
+      ], 
+      [
+        "sewing machine", 
+        "0.04555"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.53924"
+      ], 
+      [
+        "coffee maker", 
+        "0.53132"
+      ], 
+      [
+        "home appliance", 
+        "0.47844"
+      ], 
+      [
+        "appliance", 
+        "0.46765"
+      ], 
+      [
+        "durables", 
+        "0.45548"
+      ]
+    ], 
+    "12.516"
+  ]
+}

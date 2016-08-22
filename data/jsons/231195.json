@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.10741"
+      ], 
+      [
+        "magnetic compass", 
+        "0.10290"
+      ], 
+      [
+        "switch", 
+        "0.09437"
+      ], 
+      [
+        "oil filter", 
+        "0.07389"
+      ], 
+      [
+        "digital watch", 
+        "0.07236"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.50810"
+      ], 
+      [
+        "measuring instrument", 
+        "0.47293"
+      ], 
+      [
+        "timepiece", 
+        "0.45812"
+      ], 
+      [
+        "device", 
+        "0.43418"
+      ], 
+      [
+        "equipment", 
+        "0.37381"
+      ]
+    ], 
+    "5.753"
+  ]
+}

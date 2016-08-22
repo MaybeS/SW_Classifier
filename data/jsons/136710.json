@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "gasmask", 
+        "0.76523"
+      ], 
+      [
+        "oxygen mask", 
+        "0.08931"
+      ], 
+      [
+        "spotlight", 
+        "0.04278"
+      ], 
+      [
+        "muzzle", 
+        "0.02576"
+      ], 
+      [
+        "combination lock", 
+        "0.01429"
+      ]
+    ], 
+    [
+      [
+        "gasmask", 
+        "1.05601"
+      ], 
+      [
+        "mask", 
+        "0.98788"
+      ], 
+      [
+        "protective covering", 
+        "0.62515"
+      ], 
+      [
+        "covering", 
+        "0.55699"
+      ], 
+      [
+        "oxygen mask", 
+        "0.41268"
+      ]
+    ], 
+    "7.877"
+  ]
+}

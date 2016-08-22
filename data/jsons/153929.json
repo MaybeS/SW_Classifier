@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soccer ball", 
+        "0.07756"
+      ], 
+      [
+        "cauliflower", 
+        "0.06600"
+      ], 
+      [
+        "golf ball", 
+        "0.05982"
+      ], 
+      [
+        "toilet tissue", 
+        "0.04000"
+      ], 
+      [
+        "paper towel", 
+        "0.03735"
+      ]
+    ], 
+    [
+      [
+        "ball", 
+        "0.37929"
+      ], 
+      [
+        "game equipment", 
+        "0.35467"
+      ], 
+      [
+        "equipment", 
+        "0.29270"
+      ], 
+      [
+        "cauliflower", 
+        "0.26069"
+      ], 
+      [
+        "container", 
+        "0.24855"
+      ]
+    ], 
+    "6.112"
+  ]
+}

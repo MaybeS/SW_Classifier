@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.19377"
+      ], 
+      [
+        "backpack", 
+        "0.09301"
+      ], 
+      [
+        "mouse", 
+        "0.06526"
+      ], 
+      [
+        "seat belt", 
+        "0.06107"
+      ], 
+      [
+        "microphone", 
+        "0.05412"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.34741"
+      ], 
+      [
+        "consumer goods", 
+        "0.33773"
+      ], 
+      [
+        "device", 
+        "0.33326"
+      ], 
+      [
+        "commodity", 
+        "0.32119"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.31993"
+      ]
+    ], 
+    "5.729"
+  ]
+}

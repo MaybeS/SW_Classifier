@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.99932"
+      ], 
+      [
+        "rubber eraser", 
+        "0.00023"
+      ], 
+      [
+        "thimble", 
+        "0.00007"
+      ], 
+      [
+        "spotlight", 
+        "0.00005"
+      ], 
+      [
+        "ballpoint", 
+        "0.00005"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.74437"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.67214"
+      ], 
+      [
+        "transducer", 
+        "0.66097"
+      ], 
+      [
+        "electrical device", 
+        "0.64979"
+      ], 
+      [
+        "device", 
+        "0.44548"
+      ]
+    ], 
+    "5.752"
+  ]
+}

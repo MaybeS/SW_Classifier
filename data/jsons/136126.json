@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.27977"
+      ], 
+      [
+        "switch", 
+        "0.21586"
+      ], 
+      [
+        "modem", 
+        "0.07934"
+      ], 
+      [
+        "combination lock", 
+        "0.07508"
+      ], 
+      [
+        "radio", 
+        "0.05957"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39792"
+      ], 
+      [
+        "projector", 
+        "0.38316"
+      ], 
+      [
+        "equipment", 
+        "0.36166"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33340"
+      ], 
+      [
+        "optical instrument", 
+        "0.33307"
+      ]
+    ], 
+    "5.241"
+  ]
+}

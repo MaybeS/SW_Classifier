@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.31193"
+      ], 
+      [
+        "desktop computer", 
+        "0.27445"
+      ], 
+      [
+        "home theater", 
+        "0.18384"
+      ], 
+      [
+        "television", 
+        "0.06902"
+      ], 
+      [
+        "monitor", 
+        "0.03256"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.49983"
+      ], 
+      [
+        "home theater", 
+        "0.49685"
+      ], 
+      [
+        "personal computer", 
+        "0.48906"
+      ], 
+      [
+        "theater", 
+        "0.48168"
+      ], 
+      [
+        "digital computer", 
+        "0.47970"
+      ]
+    ], 
+    "5.650"
+  ]
+}

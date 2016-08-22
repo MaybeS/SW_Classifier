@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.40045"
+      ], 
+      [
+        "cassette", 
+        "0.10418"
+      ], 
+      [
+        "cassette player", 
+        "0.10173"
+      ], 
+      [
+        "tape player", 
+        "0.10127"
+      ], 
+      [
+        "ballpoint", 
+        "0.05067"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.47780"
+      ], 
+      [
+        "equipment", 
+        "0.41321"
+      ], 
+      [
+        "harmonica", 
+        "0.38500"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.35608"
+      ], 
+      [
+        "musical instrument", 
+        "0.34593"
+      ]
+    ], 
+    "9.508"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.62269"
+      ], 
+      [
+        "wallet", 
+        "0.06448"
+      ], 
+      [
+        "purse", 
+        "0.04569"
+      ], 
+      [
+        "solar dish", 
+        "0.03347"
+      ], 
+      [
+        "shopping cart", 
+        "0.03106"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.45655"
+      ], 
+      [
+        "vehicle", 
+        "0.41827"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.38102"
+      ], 
+      [
+        "container", 
+        "0.37602"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.29146"
+      ]
+    ], 
+    "4.381"
+  ]
+}

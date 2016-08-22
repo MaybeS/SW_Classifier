@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.61256"
+      ], 
+      [
+        "spatula", 
+        "0.10498"
+      ], 
+      [
+        "hook", 
+        "0.04575"
+      ], 
+      [
+        "microphone", 
+        "0.02768"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.01983"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.65993"
+      ], 
+      [
+        "signaling device", 
+        "0.65023"
+      ], 
+      [
+        "acoustic device", 
+        "0.65023"
+      ], 
+      [
+        "device", 
+        "0.36563"
+      ], 
+      [
+        "implement", 
+        "0.34706"
+      ]
+    ], 
+    "10.679"
+  ]
+}

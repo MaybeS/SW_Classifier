@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.14572"
+      ], 
+      [
+        "stopwatch", 
+        "0.12188"
+      ], 
+      [
+        "can opener", 
+        "0.09405"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.08236"
+      ], 
+      [
+        "ballpoint", 
+        "0.04136"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.37992"
+      ], 
+      [
+        "measuring instrument", 
+        "0.37574"
+      ], 
+      [
+        "timepiece", 
+        "0.35606"
+      ], 
+      [
+        "instrument", 
+        "0.35520"
+      ], 
+      [
+        "device", 
+        "0.35340"
+      ]
+    ], 
+    "6.395"
+  ]
+}

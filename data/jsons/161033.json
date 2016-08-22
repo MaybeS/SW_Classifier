@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.89586"
+      ], 
+      [
+        "Model T", 
+        "0.03309"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.00783"
+      ], 
+      [
+        "digital watch", 
+        "0.00668"
+      ], 
+      [
+        "radio", 
+        "0.00556"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.06101"
+      ], 
+      [
+        "photographic equipment", 
+        "2.02674"
+      ], 
+      [
+        "reflex camera", 
+        "2.00081"
+      ], 
+      [
+        "equipment", 
+        "1.01950"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.33198"
+      ]
+    ], 
+    "6.524"
+  ]
+}

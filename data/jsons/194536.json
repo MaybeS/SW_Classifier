@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.11399"
+      ], 
+      [
+        "book jacket", 
+        "0.09690"
+      ], 
+      [
+        "harmonica", 
+        "0.06436"
+      ], 
+      [
+        "can opener", 
+        "0.06011"
+      ], 
+      [
+        "loupe", 
+        "0.05413"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.32479"
+      ], 
+      [
+        "device", 
+        "0.30804"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24876"
+      ], 
+      [
+        "machine", 
+        "0.22196"
+      ], 
+      [
+        "container", 
+        "0.21230"
+      ]
+    ], 
+    "5.110"
+  ]
+}

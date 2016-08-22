@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.51613"
+      ], 
+      [
+        "photocopier", 
+        "0.47013"
+      ], 
+      [
+        "ashcan", 
+        "0.00206"
+      ], 
+      [
+        "desktop computer", 
+        "0.00155"
+      ], 
+      [
+        "washer", 
+        "0.00099"
+      ]
+    ], 
+    [
+      [
+        "photocopier", 
+        "1.46357"
+      ], 
+      [
+        "duplicator", 
+        "1.44207"
+      ], 
+      [
+        "apparatus", 
+        "1.42057"
+      ], 
+      [
+        "equipment", 
+        "1.12903"
+      ], 
+      [
+        "printer", 
+        "0.80446"
+      ]
+    ], 
+    "9.424"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sleeping bag", 
+        "0.43899"
+      ], 
+      [
+        "jersey", 
+        "0.12110"
+      ], 
+      [
+        "Windsor tie", 
+        "0.10132"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.08963"
+      ], 
+      [
+        "knee pad", 
+        "0.05788"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.78118"
+      ], 
+      [
+        "covering", 
+        "0.70911"
+      ], 
+      [
+        "garment", 
+        "0.69658"
+      ], 
+      [
+        "consumer goods", 
+        "0.69229"
+      ], 
+      [
+        "commodity", 
+        "0.66699"
+      ]
+    ], 
+    "5.317"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "honeycomb", 
+        "0.51460"
+      ], 
+      [
+        "jigsaw puzzle", 
+        "0.17536"
+      ], 
+      [
+        "brassiere", 
+        "0.05429"
+      ], 
+      [
+        "quilt", 
+        "0.03335"
+      ], 
+      [
+        "bow tie", 
+        "0.02494"
+      ]
+    ], 
+    [
+      [
+        "honeycomb", 
+        "0.91964"
+      ], 
+      [
+        "framework", 
+        "0.80160"
+      ], 
+      [
+        "supporting structure", 
+        "0.73528"
+      ], 
+      [
+        "structure", 
+        "0.46464"
+      ], 
+      [
+        "jigsaw puzzle", 
+        "0.38837"
+      ]
+    ], 
+    "5.089"
+  ]
+}

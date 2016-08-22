@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rotisserie", 
+        "0.41711"
+      ], 
+      [
+        "frying pan", 
+        "0.22954"
+      ], 
+      [
+        "plate rack", 
+        "0.12362"
+      ], 
+      [
+        "stove", 
+        "0.10106"
+      ], 
+      [
+        "waffle iron", 
+        "0.02692"
+      ]
+    ], 
+    [
+      [
+        "rotisserie", 
+        "1.22259"
+      ], 
+      [
+        "oven", 
+        "1.20691"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.09961"
+      ], 
+      [
+        "home appliance", 
+        "0.96221"
+      ], 
+      [
+        "appliance", 
+        "0.92322"
+      ]
+    ], 
+    "7.200"
+  ]
+}

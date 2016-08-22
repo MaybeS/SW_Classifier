@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rotisserie", 
+        "0.21792"
+      ], 
+      [
+        "assault rifle", 
+        "0.13063"
+      ], 
+      [
+        "rifle", 
+        "0.10259"
+      ], 
+      [
+        "trailer truck", 
+        "0.06189"
+      ], 
+      [
+        "moving van", 
+        "0.05496"
+      ]
+    ], 
+    [
+      [
+        "rotisserie", 
+        "0.63061"
+      ], 
+      [
+        "oven", 
+        "0.56774"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.50322"
+      ], 
+      [
+        "home appliance", 
+        "0.45499"
+      ], 
+      [
+        "appliance", 
+        "0.44124"
+      ]
+    ], 
+    "6.120"
+  ]
+}

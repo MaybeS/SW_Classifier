@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.14738"
+      ], 
+      [
+        "printer", 
+        "0.13455"
+      ], 
+      [
+        "hand-held computer", 
+        "0.09330"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05417"
+      ], 
+      [
+        "scale", 
+        "0.04822"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.77247"
+      ], 
+      [
+        "computer", 
+        "0.74749"
+      ], 
+      [
+        "web site", 
+        "0.59150"
+      ], 
+      [
+        "electronic equipment", 
+        "0.52819"
+      ], 
+      [
+        "equipment", 
+        "0.48403"
+      ]
+    ], 
+    "6.233"
+  ]
+}

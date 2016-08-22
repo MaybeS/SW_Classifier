@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.44415"
+      ], 
+      [
+        "web site", 
+        "0.11830"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06694"
+      ], 
+      [
+        "cassette", 
+        "0.04515"
+      ], 
+      [
+        "hand-held computer", 
+        "0.02666"
+      ]
+    ], 
+    [
+      [
+        "book jacket", 
+        "0.59589"
+      ], 
+      [
+        "jacket", 
+        "0.58714"
+      ], 
+      [
+        "wrapping", 
+        "0.57838"
+      ], 
+      [
+        "web site", 
+        "0.48896"
+      ], 
+      [
+        "computer", 
+        "0.48039"
+      ]
+    ], 
+    "6.920"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.45152"
+      ], 
+      [
+        "ballpoint", 
+        "0.20153"
+      ], 
+      [
+        "torch", 
+        "0.08152"
+      ], 
+      [
+        "spotlight", 
+        "0.03922"
+      ], 
+      [
+        "lighter", 
+        "0.03161"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.40267"
+      ], 
+      [
+        "device", 
+        "0.38239"
+      ], 
+      [
+        "microphone", 
+        "0.35366"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.32605"
+      ], 
+      [
+        "transducer", 
+        "0.32063"
+      ]
+    ], 
+    "5.682"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ping-pong ball", 
+        "0.40135"
+      ], 
+      [
+        "jersey", 
+        "0.09730"
+      ], 
+      [
+        "dumbbell", 
+        "0.07782"
+      ], 
+      [
+        "racket", 
+        "0.07452"
+      ], 
+      [
+        "basketball", 
+        "0.05567"
+      ]
+    ], 
+    [
+      [
+        "ball", 
+        "0.92611"
+      ], 
+      [
+        "game equipment", 
+        "0.85050"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.84129"
+      ], 
+      [
+        "equipment", 
+        "0.77867"
+      ], 
+      [
+        "sports equipment", 
+        "0.45484"
+      ]
+    ], 
+    "5.052"
+  ]
+}

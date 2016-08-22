@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.41365"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.06714"
+      ], 
+      [
+        "frying pan", 
+        "0.05953"
+      ], 
+      [
+        "spotlight", 
+        "0.05887"
+      ], 
+      [
+        "Dutch oven", 
+        "0.04984"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.63469"
+      ], 
+      [
+        "coffee maker", 
+        "0.62537"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.59773"
+      ], 
+      [
+        "home appliance", 
+        "0.56132"
+      ], 
+      [
+        "appliance", 
+        "0.54375"
+      ]
+    ], 
+    "5.319"
+  ]
+}

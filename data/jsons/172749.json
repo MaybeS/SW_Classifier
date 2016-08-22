@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.87673"
+      ], 
+      [
+        "hair slide", 
+        "0.01792"
+      ], 
+      [
+        "hand-held computer", 
+        "0.01703"
+      ], 
+      [
+        "can opener", 
+        "0.01360"
+      ], 
+      [
+        "ocarina", 
+        "0.01146"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.68448"
+      ], 
+      [
+        "device", 
+        "0.55285"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45556"
+      ], 
+      [
+        "equipment", 
+        "0.39755"
+      ], 
+      [
+        "cellular telephone", 
+        "0.31265"
+      ]
+    ], 
+    "4.372"
+  ]
+}

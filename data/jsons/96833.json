@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.53906"
+      ], 
+      [
+        "CD player", 
+        "0.13970"
+      ], 
+      [
+        "disk brake", 
+        "0.12790"
+      ], 
+      [
+        "spotlight", 
+        "0.04938"
+      ], 
+      [
+        "oil filter", 
+        "0.02808"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.93629"
+      ], 
+      [
+        "magnetic disk", 
+        "0.92254"
+      ], 
+      [
+        "memory device", 
+        "0.90879"
+      ], 
+      [
+        "device", 
+        "0.46610"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43117"
+      ]
+    ], 
+    "5.906"
+  ]
+}

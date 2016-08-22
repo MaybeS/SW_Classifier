@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.13883"
+      ], 
+      [
+        "desktop computer", 
+        "0.11409"
+      ], 
+      [
+        "web site", 
+        "0.08090"
+      ], 
+      [
+        "refrigerator", 
+        "0.08069"
+      ], 
+      [
+        "remote control", 
+        "0.04787"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.53798"
+      ], 
+      [
+        "computer", 
+        "0.53336"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46912"
+      ], 
+      [
+        "equipment", 
+        "0.42296"
+      ], 
+      [
+        "device", 
+        "0.37489"
+      ]
+    ], 
+    "6.075"
+  ]
+}

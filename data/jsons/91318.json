@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.73205"
+      ], 
+      [
+        "combination lock", 
+        "0.17870"
+      ], 
+      [
+        "buckle", 
+        "0.03985"
+      ], 
+      [
+        "can opener", 
+        "0.01887"
+      ], 
+      [
+        "magnetic compass", 
+        "0.00573"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40858"
+      ], 
+      [
+        "loupe", 
+        "0.34143"
+      ], 
+      [
+        "hand glass", 
+        "0.33642"
+      ], 
+      [
+        "instrument", 
+        "0.33520"
+      ], 
+      [
+        "light microscope", 
+        "0.33140"
+      ]
+    ], 
+    "10.808"
+  ]
+}

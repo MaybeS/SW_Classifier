@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mortarboard", 
+        "0.47395"
+      ], 
+      [
+        "academic gown", 
+        "0.16359"
+      ], 
+      [
+        "bow tie", 
+        "0.14613"
+      ], 
+      [
+        "suit", 
+        "0.09207"
+      ], 
+      [
+        "Windsor tie", 
+        "0.02472"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.06767"
+      ], 
+      [
+        "consumer goods", 
+        "0.94982"
+      ], 
+      [
+        "commodity", 
+        "0.89891"
+      ], 
+      [
+        "covering", 
+        "0.84806"
+      ], 
+      [
+        "academic gown", 
+        "0.65337"
+      ]
+    ], 
+    "8.068"
+  ]
+}

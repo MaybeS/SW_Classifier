@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.18098"
+      ], 
+      [
+        "spotlight", 
+        "0.17964"
+      ], 
+      [
+        "digital clock", 
+        "0.08009"
+      ], 
+      [
+        "digital watch", 
+        "0.07201"
+      ], 
+      [
+        "joystick", 
+        "0.06123"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.41374"
+      ], 
+      [
+        "device", 
+        "0.38319"
+      ], 
+      [
+        "measuring instrument", 
+        "0.35186"
+      ], 
+      [
+        "timepiece", 
+        "0.34642"
+      ], 
+      [
+        "instrument", 
+        "0.34232"
+      ]
+    ], 
+    "6.922"
+  ]
+}

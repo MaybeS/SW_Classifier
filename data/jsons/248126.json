@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.36065"
+      ], 
+      [
+        "loudspeaker", 
+        "0.13306"
+      ], 
+      [
+        "space heater", 
+        "0.09432"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07580"
+      ], 
+      [
+        "modem", 
+        "0.07488"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.37163"
+      ], 
+      [
+        "equipment", 
+        "0.34439"
+      ], 
+      [
+        "device", 
+        "0.31218"
+      ], 
+      [
+        "container", 
+        "0.30208"
+      ], 
+      [
+        "soap dispenser", 
+        "0.25854"
+      ]
+    ], 
+    "8.412"
+  ]
+}

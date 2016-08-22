@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.77099"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04920"
+      ], 
+      [
+        "traffic light", 
+        "0.03406"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.03267"
+      ], 
+      [
+        "lipstick", 
+        "0.01333"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "0.87760"
+      ], 
+      [
+        "control", 
+        "0.82934"
+      ], 
+      [
+        "data input device", 
+        "0.81393"
+      ], 
+      [
+        "peripheral", 
+        "0.76352"
+      ], 
+      [
+        "equipment", 
+        "0.68390"
+      ]
+    ], 
+    "5.795"
+  ]
+}

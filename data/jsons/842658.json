@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "military uniform", 
+        "0.48722"
+      ], 
+      [
+        "chain mail", 
+        "0.06269"
+      ], 
+      [
+        "kimono", 
+        "0.02641"
+      ], 
+      [
+        "ballplayer", 
+        "0.02447"
+      ], 
+      [
+        "wool", 
+        "0.02199"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.71886"
+      ], 
+      [
+        "clothing", 
+        "0.70721"
+      ], 
+      [
+        "consumer goods", 
+        "0.62404"
+      ], 
+      [
+        "military uniform", 
+        "0.62163"
+      ], 
+      [
+        "uniform", 
+        "0.61249"
+      ]
+    ], 
+    "7.392"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "window shade", 
+        "0.39069"
+      ], 
+      [
+        "handkerchief", 
+        "0.11094"
+      ], 
+      [
+        "window screen", 
+        "0.06658"
+      ], 
+      [
+        "envelope", 
+        "0.06078"
+      ], 
+      [
+        "binder", 
+        "0.05158"
+      ]
+    ], 
+    [
+      [
+        "protective covering", 
+        "0.49031"
+      ], 
+      [
+        "covering", 
+        "0.48560"
+      ], 
+      [
+        "window shade", 
+        "0.44286"
+      ], 
+      [
+        "window blind", 
+        "0.43636"
+      ], 
+      [
+        "blind", 
+        "0.43081"
+      ]
+    ], 
+    "7.889"
+  ]
+}

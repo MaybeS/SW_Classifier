@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.17227"
+      ], 
+      [
+        "combination lock", 
+        "0.14874"
+      ], 
+      [
+        "loudspeaker", 
+        "0.10922"
+      ], 
+      [
+        "reflex camera", 
+        "0.08375"
+      ], 
+      [
+        "modem", 
+        "0.04887"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.41619"
+      ], 
+      [
+        "equipment", 
+        "0.37630"
+      ], 
+      [
+        "camera", 
+        "0.30689"
+      ], 
+      [
+        "photographic equipment", 
+        "0.30179"
+      ], 
+      [
+        "instrument", 
+        "0.29369"
+      ]
+    ], 
+    "7.771"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.93973"
+      ], 
+      [
+        "binoculars", 
+        "0.04566"
+      ], 
+      [
+        "reflex camera", 
+        "0.00681"
+      ], 
+      [
+        "dial telephone", 
+        "0.00226"
+      ], 
+      [
+        "dumbbell", 
+        "0.00120"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.06640"
+      ], 
+      [
+        "control", 
+        "0.99071"
+      ], 
+      [
+        "data input device", 
+        "0.98686"
+      ], 
+      [
+        "peripheral", 
+        "0.92203"
+      ], 
+      [
+        "electronic equipment", 
+        "0.77481"
+      ]
+    ], 
+    "7.415"
+  ]
+}

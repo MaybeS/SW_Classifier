@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cocktail shaker", 
+        "0.19757"
+      ], 
+      [
+        "space heater", 
+        "0.11893"
+      ], 
+      [
+        "microphone", 
+        "0.10851"
+      ], 
+      [
+        "vacuum", 
+        "0.09960"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.08734"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.39823"
+      ], 
+      [
+        "shaker", 
+        "0.39481"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.36119"
+      ], 
+      [
+        "vessel", 
+        "0.29675"
+      ], 
+      [
+        "device", 
+        "0.27427"
+      ]
+    ], 
+    "10.786"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.26745"
+      ], 
+      [
+        "knee pad", 
+        "0.17034"
+      ], 
+      [
+        "whistle", 
+        "0.06717"
+      ], 
+      [
+        "buckle", 
+        "0.06000"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.05921"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "0.33350"
+      ], 
+      [
+        "covering", 
+        "0.32729"
+      ], 
+      [
+        "device", 
+        "0.32142"
+      ], 
+      [
+        "protective garment", 
+        "0.29867"
+      ], 
+      [
+        "consumer goods", 
+        "0.29807"
+      ]
+    ], 
+    "11.196"
+  ]
+}

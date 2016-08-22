@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.41390"
+      ], 
+      [
+        "gas pump", 
+        "0.17869"
+      ], 
+      [
+        "pay-phone", 
+        "0.13239"
+      ], 
+      [
+        "digital watch", 
+        "0.07535"
+      ], 
+      [
+        "parking meter", 
+        "0.04568"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.72026"
+      ], 
+      [
+        "magnetic disk", 
+        "0.70968"
+      ], 
+      [
+        "memory device", 
+        "0.69910"
+      ], 
+      [
+        "electronic equipment", 
+        "0.47553"
+      ], 
+      [
+        "device", 
+        "0.45566"
+      ]
+    ], 
+    "7.757"
+  ]
+}

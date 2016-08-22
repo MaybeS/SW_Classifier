@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "moving van", 
+        "0.17241"
+      ], 
+      [
+        "web site", 
+        "0.14944"
+      ], 
+      [
+        "packet", 
+        "0.13028"
+      ], 
+      [
+        "street sign", 
+        "0.09678"
+      ], 
+      [
+        "scoreboard", 
+        "0.06129"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.60294"
+      ], 
+      [
+        "machine", 
+        "0.49970"
+      ], 
+      [
+        "computer", 
+        "0.47877"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.40402"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.39789"
+      ]
+    ], 
+    "5.040"
+  ]
+}

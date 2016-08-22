@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.25195"
+      ], 
+      [
+        "radio", 
+        "0.17776"
+      ], 
+      [
+        "cassette player", 
+        "0.12412"
+      ], 
+      [
+        "odometer", 
+        "0.12411"
+      ], 
+      [
+        "tape player", 
+        "0.08351"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.74230"
+      ], 
+      [
+        "measuring instrument", 
+        "0.68077"
+      ], 
+      [
+        "equipment", 
+        "0.61692"
+      ], 
+      [
+        "instrument", 
+        "0.56705"
+      ], 
+      [
+        "odometer", 
+        "0.56320"
+      ]
+    ], 
+    "6.986"
+  ]
+}

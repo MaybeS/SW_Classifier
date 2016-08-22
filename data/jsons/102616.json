@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.50699"
+      ], 
+      [
+        "modem", 
+        "0.18150"
+      ], 
+      [
+        "ocarina", 
+        "0.11121"
+      ], 
+      [
+        "cassette", 
+        "0.04204"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03914"
+      ]
+    ], 
+    [
+      [
+        "wind instrument", 
+        "0.56900"
+      ], 
+      [
+        "musical instrument", 
+        "0.56136"
+      ], 
+      [
+        "harmonica", 
+        "0.47924"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.44128"
+      ], 
+      [
+        "device", 
+        "0.42988"
+      ]
+    ], 
+    "5.486"
+  ]
+}

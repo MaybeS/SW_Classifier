@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.33032"
+      ], 
+      [
+        "wall clock", 
+        "0.13692"
+      ], 
+      [
+        "menu", 
+        "0.08914"
+      ], 
+      [
+        "jigsaw puzzle", 
+        "0.06999"
+      ], 
+      [
+        "shower curtain", 
+        "0.06831"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.58984"
+      ], 
+      [
+        "instrument", 
+        "0.45722"
+      ], 
+      [
+        "rule", 
+        "0.42914"
+      ], 
+      [
+        "measuring stick", 
+        "0.42283"
+      ], 
+      [
+        "clock", 
+        "0.35701"
+      ]
+    ], 
+    "5.449"
+  ]
+}

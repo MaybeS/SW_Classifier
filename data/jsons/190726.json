@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.28635"
+      ], 
+      [
+        "sewing machine", 
+        "0.21912"
+      ], 
+      [
+        "carton", 
+        "0.12056"
+      ], 
+      [
+        "printer", 
+        "0.05156"
+      ], 
+      [
+        "mousetrap", 
+        "0.04709"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.36341"
+      ], 
+      [
+        "device", 
+        "0.34144"
+      ], 
+      [
+        "home appliance", 
+        "0.33026"
+      ], 
+      [
+        "appliance", 
+        "0.32699"
+      ], 
+      [
+        "equipment", 
+        "0.32522"
+      ]
+    ], 
+    "6.492"
+  ]
+}

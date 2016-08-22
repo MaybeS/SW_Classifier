@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.24139"
+      ], 
+      [
+        "toaster", 
+        "0.19866"
+      ], 
+      [
+        "soap dispenser", 
+        "0.15317"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09095"
+      ], 
+      [
+        "Crock Pot", 
+        "0.05964"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.58387"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.57174"
+      ], 
+      [
+        "appliance", 
+        "0.57104"
+      ], 
+      [
+        "durables", 
+        "0.55618"
+      ], 
+      [
+        "espresso maker", 
+        "0.39958"
+      ]
+    ], 
+    "6.146"
+  ]
+}

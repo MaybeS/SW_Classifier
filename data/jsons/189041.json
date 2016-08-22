@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.17952"
+      ], 
+      [
+        "microwave", 
+        "0.13050"
+      ], 
+      [
+        "binder", 
+        "0.09463"
+      ], 
+      [
+        "desktop computer", 
+        "0.09169"
+      ], 
+      [
+        "space heater", 
+        "0.06916"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.42402"
+      ], 
+      [
+        "equipment", 
+        "0.36215"
+      ], 
+      [
+        "furniture", 
+        "0.35047"
+      ], 
+      [
+        "furnishing", 
+        "0.34065"
+      ], 
+      [
+        "machine", 
+        "0.30379"
+      ]
+    ], 
+    "6.762"
+  ]
+}

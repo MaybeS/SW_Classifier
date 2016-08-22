@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.66335"
+      ], 
+      [
+        "sunscreen", 
+        "0.15723"
+      ], 
+      [
+        "face powder", 
+        "0.06634"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.01810"
+      ], 
+      [
+        "pill bottle", 
+        "0.01128"
+      ]
+    ], 
+    [
+      [
+        "oil filter", 
+        "0.87010"
+      ], 
+      [
+        "filter", 
+        "0.77965"
+      ], 
+      [
+        "toiletry", 
+        "0.51251"
+      ], 
+      [
+        "device", 
+        "0.32627"
+      ], 
+      [
+        "container", 
+        "0.31666"
+      ]
+    ], 
+    "7.599"
+  ]
+}

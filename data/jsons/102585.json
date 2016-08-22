@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.94270"
+      ], 
+      [
+        "binoculars", 
+        "0.03335"
+      ], 
+      [
+        "sunglass", 
+        "0.00616"
+      ], 
+      [
+        "sunglasses", 
+        "0.00240"
+      ], 
+      [
+        "snorkel", 
+        "0.00136"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.06894"
+      ], 
+      [
+        "control", 
+        "0.99300"
+      ], 
+      [
+        "data input device", 
+        "0.98919"
+      ], 
+      [
+        "peripheral", 
+        "0.92414"
+      ], 
+      [
+        "electronic equipment", 
+        "0.77205"
+      ]
+    ], 
+    "8.181"
+  ]
+}

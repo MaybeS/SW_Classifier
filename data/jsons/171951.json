@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "chime", 
+        "0.37787"
+      ], 
+      [
+        "ballpoint", 
+        "0.13653"
+      ], 
+      [
+        "screwdriver", 
+        "0.06914"
+      ], 
+      [
+        "lipstick", 
+        "0.05870"
+      ], 
+      [
+        "wall clock", 
+        "0.03440"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.42371"
+      ], 
+      [
+        "percussion instrument", 
+        "0.33917"
+      ], 
+      [
+        "musical instrument", 
+        "0.33645"
+      ], 
+      [
+        "device", 
+        "0.33371"
+      ], 
+      [
+        "gong", 
+        "0.28458"
+      ]
+    ], 
+    "9.142"
+  ]
+}

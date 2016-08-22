@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.21439"
+      ], 
+      [
+        "hand-held computer", 
+        "0.11826"
+      ], 
+      [
+        "web site", 
+        "0.09482"
+      ], 
+      [
+        "packet", 
+        "0.08331"
+      ], 
+      [
+        "cassette", 
+        "0.07881"
+      ]
+    ], 
+    [
+      [
+        "oscilloscope", 
+        "0.69351"
+      ], 
+      [
+        "machine", 
+        "0.67889"
+      ], 
+      [
+        "electronic equipment", 
+        "0.63677"
+      ], 
+      [
+        "computer", 
+        "0.60807"
+      ], 
+      [
+        "equipment", 
+        "0.50489"
+      ]
+    ], 
+    "8.348"
+  ]
+}

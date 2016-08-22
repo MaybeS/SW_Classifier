@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.15576"
+      ], 
+      [
+        "Band Aid", 
+        "0.13701"
+      ], 
+      [
+        "baseball", 
+        "0.13563"
+      ], 
+      [
+        "pill bottle", 
+        "0.03006"
+      ], 
+      [
+        "web site", 
+        "0.02870"
+      ]
+    ], 
+    [
+      [
+        "baseball", 
+        "0.46498"
+      ], 
+      [
+        "baseball equipment", 
+        "0.45815"
+      ], 
+      [
+        "ball", 
+        "0.42155"
+      ], 
+      [
+        "game equipment", 
+        "0.39531"
+      ], 
+      [
+        "sports equipment", 
+        "0.35664"
+      ]
+    ], 
+    "12.526"
+  ]
+}

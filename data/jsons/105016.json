@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.99354"
+      ], 
+      [
+        "electric fan", 
+        "0.00509"
+      ], 
+      [
+        "radio", 
+        "0.00034"
+      ], 
+      [
+        "waffle iron", 
+        "0.00026"
+      ], 
+      [
+        "vacuum", 
+        "0.00021"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "1.12497"
+      ], 
+      [
+        "heater", 
+        "1.01430"
+      ], 
+      [
+        "device", 
+        "0.41740"
+      ], 
+      [
+        "covering", 
+        "0.21752"
+      ], 
+      [
+        "protective covering", 
+        "0.19856"
+      ]
+    ], 
+    "8.587"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Polaroid camera", 
+        "0.25698"
+      ], 
+      [
+        "switch", 
+        "0.14135"
+      ], 
+      [
+        "binoculars", 
+        "0.06550"
+      ], 
+      [
+        "desk", 
+        "0.06531"
+      ], 
+      [
+        "reflex camera", 
+        "0.03573"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.73077"
+      ], 
+      [
+        "photographic equipment", 
+        "0.71862"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.64422"
+      ], 
+      [
+        "equipment", 
+        "0.56230"
+      ], 
+      [
+        "device", 
+        "0.29916"
+      ]
+    ], 
+    "12.581"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "computer keyboard", 
+        "0.56941"
+      ], 
+      [
+        "space bar", 
+        "0.10535"
+      ], 
+      [
+        "iPod", 
+        "0.08477"
+      ], 
+      [
+        "rubber eraser", 
+        "0.07020"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.02388"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "1.12063"
+      ], 
+      [
+        "computer keyboard", 
+        "0.94607"
+      ], 
+      [
+        "data input device", 
+        "0.86264"
+      ], 
+      [
+        "electronic equipment", 
+        "0.81691"
+      ], 
+      [
+        "peripheral", 
+        "0.81227"
+      ]
+    ], 
+    "5.313"
+  ]
+}

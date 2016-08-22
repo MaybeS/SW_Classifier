@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.84735"
+      ], 
+      [
+        "digital clock", 
+        "0.11420"
+      ], 
+      [
+        "modem", 
+        "0.00783"
+      ], 
+      [
+        "oscilloscope", 
+        "0.00305"
+      ], 
+      [
+        "container ship", 
+        "0.00303"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "2.61589"
+      ], 
+      [
+        "board", 
+        "2.57747"
+      ], 
+      [
+        "signboard", 
+        "2.57747"
+      ], 
+      [
+        "sheet", 
+        "2.23595"
+      ], 
+      [
+        "structure", 
+        "1.10988"
+      ]
+    ], 
+    "7.284"
+  ]
+}

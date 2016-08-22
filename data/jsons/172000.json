@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "accordion", 
+        "0.52564"
+      ], 
+      [
+        "hair spray", 
+        "0.17614"
+      ], 
+      [
+        "microphone", 
+        "0.06109"
+      ], 
+      [
+        "vacuum", 
+        "0.03883"
+      ], 
+      [
+        "hand blower", 
+        "0.02130"
+      ]
+    ], 
+    [
+      [
+        "accordion", 
+        "1.02546"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.97464"
+      ], 
+      [
+        "keyboard instrument", 
+        "0.87566"
+      ], 
+      [
+        "wind instrument", 
+        "0.79296"
+      ], 
+      [
+        "musical instrument", 
+        "0.78872"
+      ]
+    ], 
+    "5.500"
+  ]
+}

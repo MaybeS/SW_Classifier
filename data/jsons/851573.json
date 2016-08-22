@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "theater curtain", 
+        "0.36128"
+      ], 
+      [
+        "swimming trunks", 
+        "0.20007"
+      ], 
+      [
+        "lampshade", 
+        "0.11656"
+      ], 
+      [
+        "miniskirt", 
+        "0.07161"
+      ], 
+      [
+        "sarong", 
+        "0.04750"
+      ]
+    ], 
+    [
+      [
+        "theater curtain", 
+        "1.15518"
+      ], 
+      [
+        "curtain", 
+        "1.04701"
+      ], 
+      [
+        "blind", 
+        "0.97412"
+      ], 
+      [
+        "covering", 
+        "0.83478"
+      ], 
+      [
+        "furnishing", 
+        "0.69870"
+      ]
+    ], 
+    "7.111"
+  ]
+}

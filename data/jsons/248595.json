@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.11417"
+      ], 
+      [
+        "envelope", 
+        "0.07815"
+      ], 
+      [
+        "perfume", 
+        "0.06987"
+      ], 
+      [
+        "packet", 
+        "0.06272"
+      ], 
+      [
+        "analog clock", 
+        "0.05900"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.32767"
+      ], 
+      [
+        "device", 
+        "0.30985"
+      ], 
+      [
+        "timepiece", 
+        "0.28795"
+      ], 
+      [
+        "instrument", 
+        "0.28494"
+      ], 
+      [
+        "toiletry", 
+        "0.26459"
+      ]
+    ], 
+    "8.670"
+  ]
+}

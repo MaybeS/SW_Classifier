@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.12472"
+      ], 
+      [
+        "street sign", 
+        "0.10935"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09145"
+      ], 
+      [
+        "scoreboard", 
+        "0.07037"
+      ], 
+      [
+        "analog clock", 
+        "0.05978"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.50442"
+      ], 
+      [
+        "computer", 
+        "0.45545"
+      ], 
+      [
+        "machine", 
+        "0.41397"
+      ], 
+      [
+        "measuring instrument", 
+        "0.36118"
+      ], 
+      [
+        "device", 
+        "0.35981"
+      ]
+    ], 
+    "7.564"
+  ]
+}

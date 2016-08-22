@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cloak", 
+        "0.20376"
+      ], 
+      [
+        "cuirass", 
+        "0.19538"
+      ], 
+      [
+        "breastplate", 
+        "0.09530"
+      ], 
+      [
+        "shield", 
+        "0.05336"
+      ], 
+      [
+        "vestment", 
+        "0.03771"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.73601"
+      ], 
+      [
+        "protective covering", 
+        "0.54311"
+      ], 
+      [
+        "clothing", 
+        "0.48349"
+      ], 
+      [
+        "consumer goods", 
+        "0.45115"
+      ], 
+      [
+        "commodity", 
+        "0.42794"
+      ]
+    ], 
+    "9.057"
+  ]
+}

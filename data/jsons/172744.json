@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hair slide", 
+        "0.17863"
+      ], 
+      [
+        "hook", 
+        "0.17578"
+      ], 
+      [
+        "remote control", 
+        "0.15072"
+      ], 
+      [
+        "safety pin", 
+        "0.14277"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.05508"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37087"
+      ], 
+      [
+        "fastener", 
+        "0.36805"
+      ], 
+      [
+        "restraint", 
+        "0.34496"
+      ], 
+      [
+        "remote control", 
+        "0.29435"
+      ], 
+      [
+        "implement", 
+        "0.24645"
+      ]
+    ], 
+    "5.615"
+  ]
+}

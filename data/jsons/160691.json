@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.64984"
+      ], 
+      [
+        "hard disc", 
+        "0.13130"
+      ], 
+      [
+        "stopwatch", 
+        "0.04179"
+      ], 
+      [
+        "magnetic compass", 
+        "0.03502"
+      ], 
+      [
+        "stethoscope", 
+        "0.02630"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.42572"
+      ], 
+      [
+        "instrument", 
+        "0.41555"
+      ], 
+      [
+        "loupe", 
+        "0.30561"
+      ], 
+      [
+        "hand glass", 
+        "0.30112"
+      ], 
+      [
+        "light microscope", 
+        "0.29663"
+      ]
+    ], 
+    "5.114"
+  ]
+}

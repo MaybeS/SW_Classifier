@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "drum", 
+        "0.12705"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.09926"
+      ], 
+      [
+        "oil filter", 
+        "0.06655"
+      ], 
+      [
+        "screwdriver", 
+        "0.05005"
+      ], 
+      [
+        "mousetrap", 
+        "0.04604"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30528"
+      ], 
+      [
+        "container", 
+        "0.26961"
+      ], 
+      [
+        "equipment", 
+        "0.25105"
+      ], 
+      [
+        "implement", 
+        "0.24197"
+      ], 
+      [
+        "musical instrument", 
+        "0.19205"
+      ]
+    ], 
+    "5.945"
+  ]
+}

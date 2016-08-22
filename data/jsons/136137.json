@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lens cap", 
+        "0.39230"
+      ], 
+      [
+        "loudspeaker", 
+        "0.21914"
+      ], 
+      [
+        "loupe", 
+        "0.05271"
+      ], 
+      [
+        "projector", 
+        "0.04645"
+      ], 
+      [
+        "espresso maker", 
+        "0.04107"
+      ]
+    ], 
+    [
+      [
+        "lens cap", 
+        "0.64273"
+      ], 
+      [
+        "cap", 
+        "0.57966"
+      ], 
+      [
+        "device", 
+        "0.38250"
+      ], 
+      [
+        "protective covering", 
+        "0.37548"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.35141"
+      ]
+    ], 
+    "10.402"
+  ]
+}

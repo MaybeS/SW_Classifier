@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.43616"
+      ], 
+      [
+        "loupe", 
+        "0.22029"
+      ], 
+      [
+        "combination lock", 
+        "0.12685"
+      ], 
+      [
+        "whistle", 
+        "0.08234"
+      ], 
+      [
+        "vacuum", 
+        "0.02595"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.41732"
+      ], 
+      [
+        "stethoscope", 
+        "0.37319"
+      ], 
+      [
+        "instrument", 
+        "0.36636"
+      ], 
+      [
+        "medical instrument", 
+        "0.34874"
+      ], 
+      [
+        "restraint", 
+        "0.23926"
+      ]
+    ], 
+    "7.238"
+  ]
+}

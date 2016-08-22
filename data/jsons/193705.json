@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.16405"
+      ], 
+      [
+        "wall clock", 
+        "0.09899"
+      ], 
+      [
+        "buckle", 
+        "0.09362"
+      ], 
+      [
+        "face powder", 
+        "0.06316"
+      ], 
+      [
+        "envelope", 
+        "0.06265"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.54346"
+      ], 
+      [
+        "clock", 
+        "0.53393"
+      ], 
+      [
+        "timepiece", 
+        "0.52316"
+      ], 
+      [
+        "instrument", 
+        "0.44292"
+      ], 
+      [
+        "analog clock", 
+        "0.37814"
+      ]
+    ], 
+    "8.528"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.40258"
+      ], 
+      [
+        "Crock Pot", 
+        "0.18091"
+      ], 
+      [
+        "oil filter", 
+        "0.09820"
+      ], 
+      [
+        "face powder", 
+        "0.02708"
+      ], 
+      [
+        "stethoscope", 
+        "0.02628"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.50525"
+      ], 
+      [
+        "equipment", 
+        "0.45116"
+      ], 
+      [
+        "Crock Pot", 
+        "0.44553"
+      ], 
+      [
+        "cooker", 
+        "0.43899"
+      ], 
+      [
+        "cooking utensil", 
+        "0.37733"
+      ]
+    ], 
+    "7.162"
+  ]
+}

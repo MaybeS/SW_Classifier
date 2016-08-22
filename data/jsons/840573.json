@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.50713"
+      ], 
+      [
+        "apron", 
+        "0.40367"
+      ], 
+      [
+        "miniskirt", 
+        "0.02734"
+      ], 
+      [
+        "hoopskirt", 
+        "0.01363"
+      ], 
+      [
+        "overskirt", 
+        "0.00604"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.21874"
+      ], 
+      [
+        "consumer goods", 
+        "1.06871"
+      ], 
+      [
+        "commodity", 
+        "1.01199"
+      ], 
+      [
+        "garment", 
+        "0.99572"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.98941"
+      ]
+    ], 
+    "6.436"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.98854"
+      ], 
+      [
+        "digital clock", 
+        "0.00305"
+      ], 
+      [
+        "digital watch", 
+        "0.00102"
+      ], 
+      [
+        "stopwatch", 
+        "0.00079"
+      ], 
+      [
+        "oil filter", 
+        "0.00047"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "3.04669"
+      ], 
+      [
+        "board", 
+        "3.00194"
+      ], 
+      [
+        "signboard", 
+        "3.00194"
+      ], 
+      [
+        "sheet", 
+        "2.60273"
+      ], 
+      [
+        "structure", 
+        "1.27363"
+      ]
+    ], 
+    "5.548"
+  ]
+}

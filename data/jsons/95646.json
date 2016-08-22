@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "studio couch", 
+        "0.11992"
+      ], 
+      [
+        "stretcher", 
+        "0.09443"
+      ], 
+      [
+        "printer", 
+        "0.09005"
+      ], 
+      [
+        "guillotine", 
+        "0.05956"
+      ], 
+      [
+        "radio", 
+        "0.05915"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.40143"
+      ], 
+      [
+        "furnishing", 
+        "0.38144"
+      ], 
+      [
+        "equipment", 
+        "0.36040"
+      ], 
+      [
+        "device", 
+        "0.29894"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28602"
+      ]
+    ], 
+    "9.403"
+  ]
+}

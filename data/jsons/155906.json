@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.85420"
+      ], 
+      [
+        "digital clock", 
+        "0.06419"
+      ], 
+      [
+        "cash machine", 
+        "0.01354"
+      ], 
+      [
+        "gas pump", 
+        "0.01271"
+      ], 
+      [
+        "scoreboard", 
+        "0.00518"
+      ]
+    ], 
+    [
+      [
+        "street sign", 
+        "1.67987"
+      ], 
+      [
+        "sign", 
+        "1.65520"
+      ], 
+      [
+        "communication", 
+        "1.47890"
+      ], 
+      [
+        "abstraction", 
+        "0.97576"
+      ], 
+      [
+        "structure", 
+        "0.38010"
+      ]
+    ], 
+    "6.553"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "upright", 
+        "0.25302"
+      ], 
+      [
+        "accordion", 
+        "0.24235"
+      ], 
+      [
+        "harmonica", 
+        "0.20378"
+      ], 
+      [
+        "space heater", 
+        "0.06667"
+      ], 
+      [
+        "rule", 
+        "0.03894"
+      ]
+    ], 
+    [
+      [
+        "keyboard instrument", 
+        "1.07797"
+      ], 
+      [
+        "musical instrument", 
+        "0.92880"
+      ], 
+      [
+        "piano", 
+        "0.76333"
+      ], 
+      [
+        "upright", 
+        "0.67295"
+      ], 
+      [
+        "stringed instrument", 
+        "0.66979"
+      ]
+    ], 
+    "11.403"
+  ]
+}

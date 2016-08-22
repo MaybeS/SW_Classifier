@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screen", 
+        "0.23532"
+      ], 
+      [
+        "desktop computer", 
+        "0.22908"
+      ], 
+      [
+        "switch", 
+        "0.10177"
+      ], 
+      [
+        "soap dispenser", 
+        "0.09996"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08388"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.58559"
+      ], 
+      [
+        "digital computer", 
+        "0.57437"
+      ], 
+      [
+        "computer", 
+        "0.53874"
+      ], 
+      [
+        "machine", 
+        "0.51437"
+      ], 
+      [
+        "desktop computer", 
+        "0.47728"
+      ]
+    ], 
+    "7.213"
+  ]
+}

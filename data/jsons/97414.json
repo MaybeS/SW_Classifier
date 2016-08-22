@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.72184"
+      ], 
+      [
+        "CD player", 
+        "0.03259"
+      ], 
+      [
+        "racket", 
+        "0.02599"
+      ], 
+      [
+        "remote control", 
+        "0.02181"
+      ], 
+      [
+        "crash helmet", 
+        "0.01644"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.37844"
+      ], 
+      [
+        "equipment", 
+        "0.37684"
+      ], 
+      [
+        "device", 
+        "0.36718"
+      ], 
+      [
+        "electronic device", 
+        "0.32815"
+      ], 
+      [
+        "mouse", 
+        "0.32502"
+      ]
+    ], 
+    "5.796"
+  ]
+}

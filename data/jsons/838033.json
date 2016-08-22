@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "backpack", 
+        "0.62276"
+      ], 
+      [
+        "mailbag", 
+        "0.13907"
+      ], 
+      [
+        "folding chair", 
+        "0.07154"
+      ], 
+      [
+        "barber chair", 
+        "0.03945"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.01836"
+      ]
+    ], 
+    [
+      [
+        "bag", 
+        "0.80824"
+      ], 
+      [
+        "backpack", 
+        "0.70039"
+      ], 
+      [
+        "container", 
+        "0.42484"
+      ], 
+      [
+        "consumer goods", 
+        "0.42443"
+      ], 
+      [
+        "covering", 
+        "0.41464"
+      ]
+    ], 
+    "5.650"
+  ]
+}

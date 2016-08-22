@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.65131"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04004"
+      ], 
+      [
+        "remote control", 
+        "0.03238"
+      ], 
+      [
+        "ski", 
+        "0.03176"
+      ], 
+      [
+        "modem", 
+        "0.03176"
+      ]
+    ], 
+    [
+      [
+        "rule", 
+        "0.81830"
+      ], 
+      [
+        "measuring stick", 
+        "0.80628"
+      ], 
+      [
+        "measuring instrument", 
+        "0.55311"
+      ], 
+      [
+        "instrument", 
+        "0.44589"
+      ], 
+      [
+        "device", 
+        "0.39269"
+      ]
+    ], 
+    "9.007"
+  ]
+}

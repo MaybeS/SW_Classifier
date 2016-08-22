@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.39774"
+      ], 
+      [
+        "radio", 
+        "0.13600"
+      ], 
+      [
+        "loudspeaker", 
+        "0.11069"
+      ], 
+      [
+        "modem", 
+        "0.05108"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05008"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.56550"
+      ], 
+      [
+        "equipment", 
+        "0.55178"
+      ], 
+      [
+        "control", 
+        "0.48190"
+      ], 
+      [
+        "joystick", 
+        "0.47570"
+      ], 
+      [
+        "data input device", 
+        "0.44659"
+      ]
+    ], 
+    "10.521"
+  ]
+}

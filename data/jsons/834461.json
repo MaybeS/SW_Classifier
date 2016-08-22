@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sweatshirt", 
+        "0.08523"
+      ], 
+      [
+        "hair spray", 
+        "0.05382"
+      ], 
+      [
+        "sleeping bag", 
+        "0.04862"
+      ], 
+      [
+        "academic gown", 
+        "0.04787"
+      ], 
+      [
+        "dumbbell", 
+        "0.04367"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.53431"
+      ], 
+      [
+        "consumer goods", 
+        "0.50057"
+      ], 
+      [
+        "commodity", 
+        "0.47721"
+      ], 
+      [
+        "covering", 
+        "0.47702"
+      ], 
+      [
+        "garment", 
+        "0.39464"
+      ]
+    ], 
+    "4.790"
+  ]
+}

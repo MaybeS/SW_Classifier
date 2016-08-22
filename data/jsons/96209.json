@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.05516"
+      ], 
+      [
+        "paper towel", 
+        "0.04974"
+      ], 
+      [
+        "plunger", 
+        "0.04969"
+      ], 
+      [
+        "screen", 
+        "0.04303"
+      ], 
+      [
+        "hammer", 
+        "0.04182"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.28355"
+      ], 
+      [
+        "equipment", 
+        "0.23366"
+      ], 
+      [
+        "container", 
+        "0.22834"
+      ], 
+      [
+        "implement", 
+        "0.21853"
+      ], 
+      [
+        "electronic equipment", 
+        "0.19880"
+      ]
+    ], 
+    "7.089"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wallet", 
+        "0.08306"
+      ], 
+      [
+        "modem", 
+        "0.08293"
+      ], 
+      [
+        "digital clock", 
+        "0.06490"
+      ], 
+      [
+        "scale", 
+        "0.05049"
+      ], 
+      [
+        "rule", 
+        "0.04517"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.28068"
+      ], 
+      [
+        "equipment", 
+        "0.27663"
+      ], 
+      [
+        "container", 
+        "0.26921"
+      ], 
+      [
+        "electronic equipment", 
+        "0.25126"
+      ], 
+      [
+        "measuring instrument", 
+        "0.24251"
+      ]
+    ], 
+    "11.665"
+  ]
+}

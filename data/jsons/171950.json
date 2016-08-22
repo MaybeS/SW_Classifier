@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.07834"
+      ], 
+      [
+        "spotlight", 
+        "0.06962"
+      ], 
+      [
+        "perfume", 
+        "0.06350"
+      ], 
+      [
+        "loupe", 
+        "0.06207"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05606"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33678"
+      ], 
+      [
+        "equipment", 
+        "0.29337"
+      ], 
+      [
+        "musical instrument", 
+        "0.24081"
+      ], 
+      [
+        "camera", 
+        "0.22718"
+      ], 
+      [
+        "photographic equipment", 
+        "0.22340"
+      ]
+    ], 
+    "5.411"
+  ]
+}

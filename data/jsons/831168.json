@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "jersey", 
+        "0.17007"
+      ], 
+      [
+        "coffee mug", 
+        "0.06249"
+      ], 
+      [
+        "punching bag", 
+        "0.04428"
+      ], 
+      [
+        "oil filter", 
+        "0.03293"
+      ], 
+      [
+        "sweatshirt", 
+        "0.03248"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.43265"
+      ], 
+      [
+        "covering", 
+        "0.42769"
+      ], 
+      [
+        "consumer goods", 
+        "0.41713"
+      ], 
+      [
+        "commodity", 
+        "0.39647"
+      ], 
+      [
+        "garment", 
+        "0.36621"
+      ]
+    ], 
+    "6.686"
+  ]
+}

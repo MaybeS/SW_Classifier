@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.28868"
+      ], 
+      [
+        "cardigan", 
+        "0.14703"
+      ], 
+      [
+        "trench coat", 
+        "0.11644"
+      ], 
+      [
+        "sweatshirt", 
+        "0.09664"
+      ], 
+      [
+        "bolo tie", 
+        "0.06655"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "0.99110"
+      ], 
+      [
+        "clothing", 
+        "0.94607"
+      ], 
+      [
+        "consumer goods", 
+        "0.84570"
+      ], 
+      [
+        "commodity", 
+        "0.80545"
+      ], 
+      [
+        "covering", 
+        "0.77060"
+      ]
+    ], 
+    "5.106"
+  ]
+}

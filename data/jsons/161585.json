@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.18710"
+      ], 
+      [
+        "hand blower", 
+        "0.14301"
+      ], 
+      [
+        "can opener", 
+        "0.12175"
+      ], 
+      [
+        "whistle", 
+        "0.08151"
+      ], 
+      [
+        "microphone", 
+        "0.04563"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.36786"
+      ], 
+      [
+        "device", 
+        "0.35393"
+      ], 
+      [
+        "equipment", 
+        "0.34914"
+      ], 
+      [
+        "machine", 
+        "0.25169"
+      ], 
+      [
+        "implement", 
+        "0.24841"
+      ]
+    ], 
+    "5.856"
+  ]
+}

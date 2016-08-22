@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.19026"
+      ], 
+      [
+        "rain barrel", 
+        "0.15041"
+      ], 
+      [
+        "paper towel", 
+        "0.13866"
+      ], 
+      [
+        "toilet tissue", 
+        "0.09321"
+      ], 
+      [
+        "toilet seat", 
+        "0.07847"
+      ]
+    ], 
+    [
+      [
+        "vessel", 
+        "0.47178"
+      ], 
+      [
+        "washer", 
+        "0.42254"
+      ], 
+      [
+        "container", 
+        "0.38863"
+      ], 
+      [
+        "white goods", 
+        "0.38339"
+      ], 
+      [
+        "home appliance", 
+        "0.37942"
+      ]
+    ], 
+    "5.743"
+  ]
+}

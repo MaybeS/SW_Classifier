@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.64048"
+      ], 
+      [
+        "knee pad", 
+        "0.10007"
+      ], 
+      [
+        "cash machine", 
+        "0.08409"
+      ], 
+      [
+        "photocopier", 
+        "0.03719"
+      ], 
+      [
+        "digital watch", 
+        "0.02606"
+      ]
+    ], 
+    [
+      [
+        "bulletproof vest", 
+        "1.25649"
+      ], 
+      [
+        "vest", 
+        "1.23803"
+      ], 
+      [
+        "body armor", 
+        "1.08719"
+      ], 
+      [
+        "armor", 
+        "1.02157"
+      ], 
+      [
+        "clothing", 
+        "0.93745"
+      ]
+    ], 
+    "5.782"
+  ]
+}

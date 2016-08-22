@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "backpack", 
+        "0.36367"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.16946"
+      ], 
+      [
+        "jean", 
+        "0.07874"
+      ], 
+      [
+        "sleeping bag", 
+        "0.07646"
+      ], 
+      [
+        "breastplate", 
+        "0.04504"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.65796"
+      ], 
+      [
+        "clothing", 
+        "0.63499"
+      ], 
+      [
+        "consumer goods", 
+        "0.59715"
+      ], 
+      [
+        "garment", 
+        "0.57662"
+      ], 
+      [
+        "commodity", 
+        "0.56914"
+      ]
+    ], 
+    "4.885"
+  ]
+}

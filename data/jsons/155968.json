@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.67896"
+      ], 
+      [
+        "screen", 
+        "0.09094"
+      ], 
+      [
+        "monitor", 
+        "0.08949"
+      ], 
+      [
+        "home theater", 
+        "0.05936"
+      ], 
+      [
+        "notebook", 
+        "0.03321"
+      ]
+    ], 
+    [
+      [
+        "television", 
+        "1.02777"
+      ], 
+      [
+        "telecommunication system", 
+        "1.01267"
+      ], 
+      [
+        "communication system", 
+        "0.90467"
+      ], 
+      [
+        "system", 
+        "0.78281"
+      ], 
+      [
+        "screen", 
+        "0.60000"
+      ]
+    ], 
+    "6.172"
+  ]
+}

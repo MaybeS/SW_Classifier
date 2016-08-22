@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.35994"
+      ], 
+      [
+        "washer", 
+        "0.21663"
+      ], 
+      [
+        "lens cap", 
+        "0.20726"
+      ], 
+      [
+        "reflex camera", 
+        "0.12749"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.02490"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.53731"
+      ], 
+      [
+        "photographic equipment", 
+        "0.52837"
+      ], 
+      [
+        "projector", 
+        "0.49806"
+      ], 
+      [
+        "washer", 
+        "0.49137"
+      ], 
+      [
+        "white goods", 
+        "0.43309"
+      ]
+    ], 
+    "9.152"
+  ]
+}

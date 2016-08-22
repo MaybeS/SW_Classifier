@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "syringe", 
+        "0.21093"
+      ], 
+      [
+        "slide rule", 
+        "0.17305"
+      ], 
+      [
+        "fountain pen", 
+        "0.13694"
+      ], 
+      [
+        "ballpoint", 
+        "0.07127"
+      ], 
+      [
+        "rule", 
+        "0.06312"
+      ]
+    ], 
+    [
+      [
+        "slide rule", 
+        "0.51609"
+      ], 
+      [
+        "analog computer", 
+        "0.50851"
+      ], 
+      [
+        "implement", 
+        "0.46770"
+      ], 
+      [
+        "pen", 
+        "0.42461"
+      ], 
+      [
+        "writing implement", 
+        "0.41704"
+      ]
+    ], 
+    "12.711"
+  ]
+}

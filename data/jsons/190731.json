@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.38148"
+      ], 
+      [
+        "modem", 
+        "0.15648"
+      ], 
+      [
+        "radio", 
+        "0.09401"
+      ], 
+      [
+        "combination lock", 
+        "0.05647"
+      ], 
+      [
+        "lighter", 
+        "0.05392"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.76126"
+      ], 
+      [
+        "electronic equipment", 
+        "0.50777"
+      ], 
+      [
+        "device", 
+        "0.44785"
+      ], 
+      [
+        "equipment", 
+        "0.44516"
+      ], 
+      [
+        "machine", 
+        "0.25501"
+      ]
+    ], 
+    "6.599"
+  ]
+}

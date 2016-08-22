@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.23441"
+      ], 
+      [
+        "cash machine", 
+        "0.08121"
+      ], 
+      [
+        "gas pump", 
+        "0.04274"
+      ], 
+      [
+        "scoreboard", 
+        "0.03918"
+      ], 
+      [
+        "digital clock", 
+        "0.03225"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.93186"
+      ], 
+      [
+        "computer", 
+        "0.79517"
+      ], 
+      [
+        "machine", 
+        "0.77771"
+      ], 
+      [
+        "device", 
+        "0.41879"
+      ], 
+      [
+        "electronic equipment", 
+        "0.25932"
+      ]
+    ], 
+    "6.788"
+  ]
+}

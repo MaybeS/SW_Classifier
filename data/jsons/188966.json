@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.09836"
+      ], 
+      [
+        "toaster", 
+        "0.07909"
+      ], 
+      [
+        "digital clock", 
+        "0.06602"
+      ], 
+      [
+        "lighter", 
+        "0.04927"
+      ], 
+      [
+        "binder", 
+        "0.04485"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.33320"
+      ], 
+      [
+        "appliance", 
+        "0.32744"
+      ], 
+      [
+        "device", 
+        "0.32201"
+      ], 
+      [
+        "durables", 
+        "0.31891"
+      ], 
+      [
+        "measuring instrument", 
+        "0.27203"
+      ]
+    ], 
+    "7.715"
+  ]
+}

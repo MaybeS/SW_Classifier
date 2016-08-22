@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.16661"
+      ], 
+      [
+        "modem", 
+        "0.16466"
+      ], 
+      [
+        "hand-held computer", 
+        "0.15067"
+      ], 
+      [
+        "book jacket", 
+        "0.08431"
+      ], 
+      [
+        "screen", 
+        "0.04425"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.53221"
+      ], 
+      [
+        "machine", 
+        "0.49553"
+      ], 
+      [
+        "personal computer", 
+        "0.49408"
+      ], 
+      [
+        "digital computer", 
+        "0.48462"
+      ], 
+      [
+        "portable computer", 
+        "0.45455"
+      ]
+    ], 
+    "8.314"
+  ]
+}

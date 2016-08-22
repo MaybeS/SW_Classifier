@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "saltshaker", 
+        "0.23299"
+      ], 
+      [
+        "beaker", 
+        "0.14429"
+      ], 
+      [
+        "soap dispenser", 
+        "0.06937"
+      ], 
+      [
+        "screwdriver", 
+        "0.06878"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06054"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.43432"
+      ], 
+      [
+        "shaker", 
+        "0.37923"
+      ], 
+      [
+        "vessel", 
+        "0.34762"
+      ], 
+      [
+        "saltshaker", 
+        "0.34735"
+      ], 
+      [
+        "implement", 
+        "0.32280"
+      ]
+    ], 
+    "7.344"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.23136"
+      ], 
+      [
+        "soap dispenser", 
+        "0.19757"
+      ], 
+      [
+        "space heater", 
+        "0.13665"
+      ], 
+      [
+        "switch", 
+        "0.10775"
+      ], 
+      [
+        "combination lock", 
+        "0.04527"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.36491"
+      ], 
+      [
+        "device", 
+        "0.36114"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.33900"
+      ], 
+      [
+        "transducer", 
+        "0.33336"
+      ], 
+      [
+        "electrical device", 
+        "0.32773"
+      ]
+    ], 
+    "13.464"
+  ]
+}

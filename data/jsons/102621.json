@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.34495"
+      ], 
+      [
+        "web site", 
+        "0.14804"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06827"
+      ], 
+      [
+        "washer", 
+        "0.06204"
+      ], 
+      [
+        "monitor", 
+        "0.04685"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.90769"
+      ], 
+      [
+        "photographic equipment", 
+        "0.89260"
+      ], 
+      [
+        "reflex camera", 
+        "0.80894"
+      ], 
+      [
+        "equipment", 
+        "0.64524"
+      ], 
+      [
+        "web site", 
+        "0.58559"
+      ]
+    ], 
+    "5.224"
+  ]
+}

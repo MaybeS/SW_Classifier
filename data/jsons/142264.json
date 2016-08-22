@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.77319"
+      ], 
+      [
+        "solar dish", 
+        "0.06255"
+      ], 
+      [
+        "folding chair", 
+        "0.02623"
+      ], 
+      [
+        "bathtub", 
+        "0.02565"
+      ], 
+      [
+        "pool table", 
+        "0.02005"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.51410"
+      ], 
+      [
+        "vehicle", 
+        "0.46333"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.42295"
+      ], 
+      [
+        "container", 
+        "0.34393"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.33882"
+      ]
+    ], 
+    "7.634"
+  ]
+}

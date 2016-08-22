@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.10363"
+      ], 
+      [
+        "desktop computer", 
+        "0.10348"
+      ], 
+      [
+        "space heater", 
+        "0.07741"
+      ], 
+      [
+        "screen", 
+        "0.07720"
+      ], 
+      [
+        "dishwasher", 
+        "0.06736"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.42730"
+      ], 
+      [
+        "computer", 
+        "0.41998"
+      ], 
+      [
+        "digital computer", 
+        "0.41912"
+      ], 
+      [
+        "machine", 
+        "0.41339"
+      ], 
+      [
+        "electronic equipment", 
+        "0.38412"
+      ]
+    ], 
+    "10.852"
+  ]
+}

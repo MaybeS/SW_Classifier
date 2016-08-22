@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dishwasher", 
+        "0.22934"
+      ], 
+      [
+        "entertainment center", 
+        "0.09270"
+      ], 
+      [
+        "turnstile", 
+        "0.06314"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05934"
+      ], 
+      [
+        "file", 
+        "0.05374"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.56068"
+      ], 
+      [
+        "furnishing", 
+        "0.53240"
+      ], 
+      [
+        "entertainment center", 
+        "0.40137"
+      ], 
+      [
+        "wall unit", 
+        "0.39548"
+      ], 
+      [
+        "home appliance", 
+        "0.36355"
+      ]
+    ], 
+    "5.989"
+  ]
+}

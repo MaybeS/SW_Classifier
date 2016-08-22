@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.23156"
+      ], 
+      [
+        "switch", 
+        "0.11153"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04872"
+      ], 
+      [
+        "toaster", 
+        "0.04276"
+      ], 
+      [
+        "microwave", 
+        "0.03696"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.65197"
+      ], 
+      [
+        "equipment", 
+        "0.54649"
+      ], 
+      [
+        "iPod", 
+        "0.43178"
+      ], 
+      [
+        "stereo", 
+        "0.42544"
+      ], 
+      [
+        "reproducer", 
+        "0.41909"
+      ]
+    ], 
+    "6.738"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.46128"
+      ], 
+      [
+        "switch", 
+        "0.24882"
+      ], 
+      [
+        "CD player", 
+        "0.07314"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05787"
+      ], 
+      [
+        "dial telephone", 
+        "0.03985"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.48392"
+      ], 
+      [
+        "equipment", 
+        "0.42602"
+      ], 
+      [
+        "device", 
+        "0.39234"
+      ], 
+      [
+        "control", 
+        "0.34271"
+      ], 
+      [
+        "switch", 
+        "0.30929"
+      ]
+    ], 
+    "4.753"
+  ]
+}

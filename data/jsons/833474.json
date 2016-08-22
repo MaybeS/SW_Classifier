@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sweatshirt", 
+        "0.26350"
+      ], 
+      [
+        "stethoscope", 
+        "0.11558"
+      ], 
+      [
+        "jersey", 
+        "0.03694"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.03090"
+      ], 
+      [
+        "whistle", 
+        "0.02692"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.65377"
+      ], 
+      [
+        "garment", 
+        "0.61985"
+      ], 
+      [
+        "consumer goods", 
+        "0.59510"
+      ], 
+      [
+        "covering", 
+        "0.57112"
+      ], 
+      [
+        "commodity", 
+        "0.56836"
+      ]
+    ], 
+    "5.476"
+  ]
+}

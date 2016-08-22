@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.21939"
+      ], 
+      [
+        "loudspeaker", 
+        "0.17626"
+      ], 
+      [
+        "binoculars", 
+        "0.11236"
+      ], 
+      [
+        "microphone", 
+        "0.06941"
+      ], 
+      [
+        "power drill", 
+        "0.06258"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37896"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.32402"
+      ], 
+      [
+        "transducer", 
+        "0.31863"
+      ], 
+      [
+        "electrical device", 
+        "0.31325"
+      ], 
+      [
+        "loudspeaker", 
+        "0.28787"
+      ]
+    ], 
+    "12.085"
+  ]
+}

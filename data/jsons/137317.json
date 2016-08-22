@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.86917"
+      ], 
+      [
+        "Windsor tie", 
+        "0.03753"
+      ], 
+      [
+        "Band Aid", 
+        "0.03018"
+      ], 
+      [
+        "switch", 
+        "0.02059"
+      ], 
+      [
+        "pick", 
+        "0.01622"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.66763"
+      ], 
+      [
+        "device", 
+        "0.53894"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43872"
+      ], 
+      [
+        "equipment", 
+        "0.38526"
+      ], 
+      [
+        "cellular telephone", 
+        "0.29874"
+      ]
+    ], 
+    "5.099"
+  ]
+}

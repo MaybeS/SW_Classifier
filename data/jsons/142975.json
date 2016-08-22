@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.80700"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04409"
+      ], 
+      [
+        "bookcase", 
+        "0.03150"
+      ], 
+      [
+        "vending machine", 
+        "0.02765"
+      ], 
+      [
+        "medicine chest", 
+        "0.00934"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "1.37179"
+      ], 
+      [
+        "rack", 
+        "1.35164"
+      ], 
+      [
+        "framework", 
+        "1.19257"
+      ], 
+      [
+        "supporting structure", 
+        "1.09440"
+      ], 
+      [
+        "structure", 
+        "0.63484"
+      ]
+    ], 
+    "4.815"
+  ]
+}

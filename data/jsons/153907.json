@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.29064"
+      ], 
+      [
+        "loudspeaker", 
+        "0.17335"
+      ], 
+      [
+        "combination lock", 
+        "0.06905"
+      ], 
+      [
+        "CD player", 
+        "0.05755"
+      ], 
+      [
+        "book jacket", 
+        "0.04887"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.57746"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43768"
+      ], 
+      [
+        "device", 
+        "0.43655"
+      ], 
+      [
+        "equipment", 
+        "0.42184"
+      ], 
+      [
+        "loudspeaker", 
+        "0.27777"
+      ]
+    ], 
+    "6.926"
+  ]
+}

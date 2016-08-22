@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.28113"
+      ], 
+      [
+        "remote control", 
+        "0.11595"
+      ], 
+      [
+        "radio", 
+        "0.10687"
+      ], 
+      [
+        "rule", 
+        "0.05623"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04665"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52561"
+      ], 
+      [
+        "equipment", 
+        "0.46177"
+      ], 
+      [
+        "device", 
+        "0.37378"
+      ], 
+      [
+        "modem", 
+        "0.29150"
+      ], 
+      [
+        "remote control", 
+        "0.24920"
+      ]
+    ], 
+    "5.848"
+  ]
+}

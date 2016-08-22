@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cardigan", 
+        "0.18915"
+      ], 
+      [
+        "stole", 
+        "0.17506"
+      ], 
+      [
+        "Christmas stocking", 
+        "0.11954"
+      ], 
+      [
+        "kimono", 
+        "0.06753"
+      ], 
+      [
+        "chain mail", 
+        "0.05063"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.06214"
+      ], 
+      [
+        "consumer goods", 
+        "0.93823"
+      ], 
+      [
+        "covering", 
+        "0.90567"
+      ], 
+      [
+        "garment", 
+        "0.90291"
+      ], 
+      [
+        "commodity", 
+        "0.89785"
+      ]
+    ], 
+    "5.524"
+  ]
+}

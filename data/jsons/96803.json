@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.20963"
+      ], 
+      [
+        "tape player", 
+        "0.17583"
+      ], 
+      [
+        "remote control", 
+        "0.15751"
+      ], 
+      [
+        "radio", 
+        "0.14989"
+      ], 
+      [
+        "switch", 
+        "0.13776"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.60214"
+      ], 
+      [
+        "equipment", 
+        "0.51285"
+      ], 
+      [
+        "device", 
+        "0.38376"
+      ], 
+      [
+        "remote control", 
+        "0.32705"
+      ], 
+      [
+        "lock", 
+        "0.28810"
+      ]
+    ], 
+    "5.200"
+  ]
+}

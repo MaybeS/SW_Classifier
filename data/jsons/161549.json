@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.64775"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07508"
+      ], 
+      [
+        "iPod", 
+        "0.04068"
+      ], 
+      [
+        "cassette", 
+        "0.02254"
+      ], 
+      [
+        "hourglass", 
+        "0.01947"
+      ]
+    ], 
+    [
+      [
+        "cellular telephone", 
+        "1.15659"
+      ], 
+      [
+        "radiotelephone", 
+        "1.13960"
+      ], 
+      [
+        "telephone", 
+        "0.99082"
+      ], 
+      [
+        "electronic equipment", 
+        "0.96906"
+      ], 
+      [
+        "equipment", 
+        "0.74559"
+      ]
+    ], 
+    "5.909"
+  ]
+}

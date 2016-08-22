@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.52696"
+      ], 
+      [
+        "cassette", 
+        "0.08537"
+      ], 
+      [
+        "book jacket", 
+        "0.05710"
+      ], 
+      [
+        "bookcase", 
+        "0.04692"
+      ], 
+      [
+        "desktop computer", 
+        "0.03855"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.52015"
+      ], 
+      [
+        "protective covering", 
+        "0.31432"
+      ], 
+      [
+        "covering", 
+        "0.29529"
+      ], 
+      [
+        "container", 
+        "0.28938"
+      ], 
+      [
+        "furnishing", 
+        "0.27222"
+      ]
+    ], 
+    "7.085"
+  ]
+}

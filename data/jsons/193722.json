@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fire screen", 
+        "0.58976"
+      ], 
+      [
+        "stove", 
+        "0.12676"
+      ], 
+      [
+        "plate rack", 
+        "0.11921"
+      ], 
+      [
+        "rotisserie", 
+        "0.04570"
+      ], 
+      [
+        "loudspeaker", 
+        "0.02130"
+      ]
+    ], 
+    [
+      [
+        "fire screen", 
+        "1.28393"
+      ], 
+      [
+        "screen", 
+        "1.09928"
+      ], 
+      [
+        "protective covering", 
+        "0.75408"
+      ], 
+      [
+        "covering", 
+        "0.51194"
+      ], 
+      [
+        "furnishing", 
+        "0.29186"
+      ]
+    ], 
+    "5.507"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bookcase", 
+        "0.39720"
+      ], 
+      [
+        "file", 
+        "0.15506"
+      ], 
+      [
+        "plate rack", 
+        "0.11567"
+      ], 
+      [
+        "china cabinet", 
+        "0.09520"
+      ], 
+      [
+        "entertainment center", 
+        "0.03707"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "1.37663"
+      ], 
+      [
+        "furnishing", 
+        "1.30206"
+      ], 
+      [
+        "bookcase", 
+        "0.95029"
+      ], 
+      [
+        "cabinet", 
+        "0.50412"
+      ], 
+      [
+        "china cabinet", 
+        "0.45235"
+      ]
+    ], 
+    "5.658"
+  ]
+}

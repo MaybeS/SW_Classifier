@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.43570"
+      ], 
+      [
+        "espresso maker", 
+        "0.20237"
+      ], 
+      [
+        "disk brake", 
+        "0.13231"
+      ], 
+      [
+        "dial telephone", 
+        "0.06536"
+      ], 
+      [
+        "spotlight", 
+        "0.04997"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.35259"
+      ], 
+      [
+        "coffee maker", 
+        "0.34741"
+      ], 
+      [
+        "disk brake", 
+        "0.33302"
+      ], 
+      [
+        "appliance", 
+        "0.33127"
+      ], 
+      [
+        "home appliance", 
+        "0.33031"
+      ]
+    ], 
+    "6.698"
+  ]
+}

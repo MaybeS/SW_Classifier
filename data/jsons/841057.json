@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "breastplate", 
+        "0.44346"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.16481"
+      ], 
+      [
+        "cuirass", 
+        "0.11500"
+      ], 
+      [
+        "backpack", 
+        "0.04653"
+      ], 
+      [
+        "stole", 
+        "0.04338"
+      ]
+    ], 
+    [
+      [
+        "protective covering", 
+        "0.89014"
+      ], 
+      [
+        "body armor", 
+        "0.82691"
+      ], 
+      [
+        "covering", 
+        "0.82506"
+      ], 
+      [
+        "armor", 
+        "0.79174"
+      ], 
+      [
+        "armor plate", 
+        "0.67441"
+      ]
+    ], 
+    "7.732"
+  ]
+}

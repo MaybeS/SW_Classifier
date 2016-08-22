@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.43591"
+      ], 
+      [
+        "reflex camera", 
+        "0.08304"
+      ], 
+      [
+        "knee pad", 
+        "0.07898"
+      ], 
+      [
+        "microphone", 
+        "0.04848"
+      ], 
+      [
+        "gasmask", 
+        "0.04528"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31397"
+      ], 
+      [
+        "covering", 
+        "0.30926"
+      ], 
+      [
+        "equipment", 
+        "0.26689"
+      ], 
+      [
+        "consumer goods", 
+        "0.26044"
+      ], 
+      [
+        "commodity", 
+        "0.24709"
+      ]
+    ], 
+    "5.433"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.30829"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.10394"
+      ], 
+      [
+        "bobsled", 
+        "0.10180"
+      ], 
+      [
+        "tape player", 
+        "0.05644"
+      ], 
+      [
+        "snowmobile", 
+        "0.02997"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.54852"
+      ], 
+      [
+        "magnetic disk", 
+        "0.54046"
+      ], 
+      [
+        "memory device", 
+        "0.53240"
+      ], 
+      [
+        "vehicle", 
+        "0.40760"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.39608"
+      ]
+    ], 
+    "11.383"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital watch", 
+        "0.19517"
+      ], 
+      [
+        "puck", 
+        "0.13995"
+      ], 
+      [
+        "magnetic compass", 
+        "0.12263"
+      ], 
+      [
+        "stopwatch", 
+        "0.12090"
+      ], 
+      [
+        "digital clock", 
+        "0.10400"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.99547"
+      ], 
+      [
+        "timepiece", 
+        "0.93917"
+      ], 
+      [
+        "instrument", 
+        "0.84491"
+      ], 
+      [
+        "device", 
+        "0.55351"
+      ], 
+      [
+        "stopwatch", 
+        "0.50450"
+      ]
+    ], 
+    "6.280"
+  ]
+}

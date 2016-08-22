@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.26015"
+      ], 
+      [
+        "loudspeaker", 
+        "0.11849"
+      ], 
+      [
+        "switch", 
+        "0.11252"
+      ], 
+      [
+        "radio", 
+        "0.05929"
+      ], 
+      [
+        "home theater", 
+        "0.05384"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34842"
+      ], 
+      [
+        "equipment", 
+        "0.33964"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26182"
+      ], 
+      [
+        "camera", 
+        "0.23376"
+      ], 
+      [
+        "photographic equipment", 
+        "0.22987"
+      ]
+    ], 
+    "8.057"
+  ]
+}

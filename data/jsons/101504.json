@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.27824"
+      ], 
+      [
+        "wallet", 
+        "0.19630"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.06233"
+      ], 
+      [
+        "binder", 
+        "0.06189"
+      ], 
+      [
+        "book jacket", 
+        "0.04253"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.41817"
+      ], 
+      [
+        "cassette", 
+        "0.38342"
+      ], 
+      [
+        "equipment", 
+        "0.28633"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26415"
+      ], 
+      [
+        "covering", 
+        "0.21654"
+      ]
+    ], 
+    "9.394"
+  ]
+}

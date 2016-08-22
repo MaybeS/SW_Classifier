@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "golf ball", 
+        "0.98413"
+      ], 
+      [
+        "strainer", 
+        "0.00613"
+      ], 
+      [
+        "spotlight", 
+        "0.00326"
+      ], 
+      [
+        "microphone", 
+        "0.00143"
+      ], 
+      [
+        "sea urchin", 
+        "0.00083"
+      ]
+    ], 
+    [
+      [
+        "golf ball", 
+        "3.16008"
+      ], 
+      [
+        "golf equipment", 
+        "2.80246"
+      ], 
+      [
+        "ball", 
+        "2.31593"
+      ], 
+      [
+        "sports equipment", 
+        "2.14502"
+      ], 
+      [
+        "game equipment", 
+        "2.07686"
+      ]
+    ], 
+    "7.675"
+  ]
+}

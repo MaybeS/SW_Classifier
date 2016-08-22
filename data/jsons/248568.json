@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.25721"
+      ], 
+      [
+        "scoreboard", 
+        "0.12880"
+      ], 
+      [
+        "digital clock", 
+        "0.09186"
+      ], 
+      [
+        "street sign", 
+        "0.07321"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06976"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "1.03099"
+      ], 
+      [
+        "computer", 
+        "0.96039"
+      ], 
+      [
+        "machine", 
+        "0.83934"
+      ], 
+      [
+        "device", 
+        "0.44030"
+      ], 
+      [
+        "scoreboard", 
+        "0.42398"
+      ]
+    ], 
+    "5.723"
+  ]
+}

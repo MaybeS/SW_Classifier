@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.14207"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.13038"
+      ], 
+      [
+        "can opener", 
+        "0.09405"
+      ], 
+      [
+        "measuring cup", 
+        "0.06303"
+      ], 
+      [
+        "strainer", 
+        "0.06069"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.41412"
+      ], 
+      [
+        "vessel", 
+        "0.37737"
+      ], 
+      [
+        "implement", 
+        "0.29881"
+      ], 
+      [
+        "appliance", 
+        "0.29600"
+      ], 
+      [
+        "durables", 
+        "0.28830"
+      ]
+    ], 
+    "5.605"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.22494"
+      ], 
+      [
+        "rubber eraser", 
+        "0.12461"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06469"
+      ], 
+      [
+        "lighter", 
+        "0.04457"
+      ], 
+      [
+        "knee pad", 
+        "0.03288"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.45554"
+      ], 
+      [
+        "iPod", 
+        "0.40834"
+      ], 
+      [
+        "equipment", 
+        "0.40308"
+      ], 
+      [
+        "stereo", 
+        "0.40234"
+      ], 
+      [
+        "reproducer", 
+        "0.39634"
+      ]
+    ], 
+    "6.572"
+  ]
+}

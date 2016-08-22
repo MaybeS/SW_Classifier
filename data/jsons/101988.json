@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric guitar", 
+        "0.92907"
+      ], 
+      [
+        "violin", 
+        "0.02905"
+      ], 
+      [
+        "acoustic guitar", 
+        "0.02653"
+      ], 
+      [
+        "hook", 
+        "0.00422"
+      ], 
+      [
+        "banjo", 
+        "0.00399"
+      ]
+    ], 
+    [
+      [
+        "guitar", 
+        "1.64630"
+      ], 
+      [
+        "stringed instrument", 
+        "1.50059"
+      ], 
+      [
+        "electric guitar", 
+        "1.37584"
+      ], 
+      [
+        "musical instrument", 
+        "1.27726"
+      ], 
+      [
+        "device", 
+        "0.57124"
+      ]
+    ], 
+    "13.141"
+  ]
+}

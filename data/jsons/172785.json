@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.23943"
+      ], 
+      [
+        "analog clock", 
+        "0.09157"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07984"
+      ], 
+      [
+        "envelope", 
+        "0.07335"
+      ], 
+      [
+        "web site", 
+        "0.04923"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "0.67111"
+      ], 
+      [
+        "wind instrument", 
+        "0.42878"
+      ], 
+      [
+        "device", 
+        "0.38509"
+      ], 
+      [
+        "musical instrument", 
+        "0.37853"
+      ], 
+      [
+        "measuring instrument", 
+        "0.27532"
+      ]
+    ], 
+    "5.832"
+  ]
+}

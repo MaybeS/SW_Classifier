@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.94931"
+      ], 
+      [
+        "stethoscope", 
+        "0.01127"
+      ], 
+      [
+        "magnetic compass", 
+        "0.01102"
+      ], 
+      [
+        "reel", 
+        "0.00654"
+      ], 
+      [
+        "gasmask", 
+        "0.00329"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "2.02009"
+      ], 
+      [
+        "fan", 
+        "1.99042"
+      ], 
+      [
+        "device", 
+        "0.51298"
+      ], 
+      [
+        "container", 
+        "0.21298"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.19811"
+      ]
+    ], 
+    "6.186"
+  ]
+}

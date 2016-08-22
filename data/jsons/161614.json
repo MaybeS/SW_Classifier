@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.62483"
+      ], 
+      [
+        "hand-held computer", 
+        "0.26819"
+      ], 
+      [
+        "cellular telephone", 
+        "0.08414"
+      ], 
+      [
+        "combination lock", 
+        "0.00402"
+      ], 
+      [
+        "radio", 
+        "0.00397"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.26321"
+      ], 
+      [
+        "hand-held computer", 
+        "0.76796"
+      ], 
+      [
+        "portable computer", 
+        "0.76481"
+      ], 
+      [
+        "personal computer", 
+        "0.73391"
+      ], 
+      [
+        "digital computer", 
+        "0.71985"
+      ]
+    ], 
+    "10.586"
+  ]
+}

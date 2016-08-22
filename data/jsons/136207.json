@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.67390"
+      ], 
+      [
+        "lens cap", 
+        "0.20251"
+      ], 
+      [
+        "microphone", 
+        "0.05280"
+      ], 
+      [
+        "radio", 
+        "0.01377"
+      ], 
+      [
+        "spotlight", 
+        "0.01261"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.60028"
+      ], 
+      [
+        "photographic equipment", 
+        "1.57367"
+      ], 
+      [
+        "reflex camera", 
+        "1.56254"
+      ], 
+      [
+        "equipment", 
+        "0.83758"
+      ], 
+      [
+        "lens cap", 
+        "0.55232"
+      ]
+    ], 
+    "5.785"
+  ]
+}

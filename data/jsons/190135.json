@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.87575"
+      ], 
+      [
+        "syringe", 
+        "0.04698"
+      ], 
+      [
+        "can opener", 
+        "0.01631"
+      ], 
+      [
+        "lighter", 
+        "0.00629"
+      ], 
+      [
+        "microphone", 
+        "0.00523"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.93698"
+      ], 
+      [
+        "acoustic device", 
+        "0.92321"
+      ], 
+      [
+        "signaling device", 
+        "0.92321"
+      ], 
+      [
+        "device", 
+        "0.40443"
+      ], 
+      [
+        "implement", 
+        "0.36637"
+      ]
+    ], 
+    "12.843"
+  ]
+}

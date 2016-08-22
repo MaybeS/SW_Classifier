@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.50287"
+      ], 
+      [
+        "microphone", 
+        "0.23606"
+      ], 
+      [
+        "table lamp", 
+        "0.02945"
+      ], 
+      [
+        "radio", 
+        "0.02638"
+      ], 
+      [
+        "hook", 
+        "0.02560"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "0.58712"
+      ], 
+      [
+        "control", 
+        "0.55433"
+      ], 
+      [
+        "data input device", 
+        "0.54656"
+      ], 
+      [
+        "peripheral", 
+        "0.51445"
+      ], 
+      [
+        "electronic equipment", 
+        "0.47500"
+      ]
+    ], 
+    "13.085"
+  ]
+}

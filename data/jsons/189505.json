@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.39751"
+      ], 
+      [
+        "modem", 
+        "0.15230"
+      ], 
+      [
+        "hard disc", 
+        "0.10233"
+      ], 
+      [
+        "scale", 
+        "0.07050"
+      ], 
+      [
+        "notebook", 
+        "0.03732"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.41022"
+      ], 
+      [
+        "device", 
+        "0.30825"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30200"
+      ], 
+      [
+        "equipment", 
+        "0.28729"
+      ], 
+      [
+        "protective covering", 
+        "0.26297"
+      ]
+    ], 
+    "9.938"
+  ]
+}

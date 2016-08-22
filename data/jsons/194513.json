@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.45752"
+      ], 
+      [
+        "modem", 
+        "0.34776"
+      ], 
+      [
+        "remote control", 
+        "0.01998"
+      ], 
+      [
+        "radio", 
+        "0.01057"
+      ], 
+      [
+        "envelope", 
+        "0.01025"
+      ]
+    ], 
+    [
+      [
+        "rule", 
+        "0.58233"
+      ], 
+      [
+        "measuring stick", 
+        "0.57378"
+      ], 
+      [
+        "measuring instrument", 
+        "0.43803"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41462"
+      ], 
+      [
+        "instrument", 
+        "0.38507"
+      ]
+    ], 
+    "6.871"
+  ]
+}

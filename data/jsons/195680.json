@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.29092"
+      ], 
+      [
+        "lighter", 
+        "0.23261"
+      ], 
+      [
+        "binder", 
+        "0.11753"
+      ], 
+      [
+        "space heater", 
+        "0.04332"
+      ], 
+      [
+        "refrigerator", 
+        "0.03492"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.44224"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.40394"
+      ], 
+      [
+        "transducer", 
+        "0.39722"
+      ], 
+      [
+        "electrical device", 
+        "0.39050"
+      ], 
+      [
+        "device", 
+        "0.35648"
+      ]
+    ], 
+    "11.724"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.57879"
+      ], 
+      [
+        "loudspeaker", 
+        "0.31279"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.02359"
+      ], 
+      [
+        "radio", 
+        "0.02257"
+      ], 
+      [
+        "loupe", 
+        "0.01385"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.47029"
+      ], 
+      [
+        "photographic equipment", 
+        "1.44584"
+      ], 
+      [
+        "reflex camera", 
+        "1.37364"
+      ], 
+      [
+        "equipment", 
+        "0.81805"
+      ], 
+      [
+        "loudspeaker", 
+        "0.53021"
+      ]
+    ], 
+    "5.367"
+  ]
+}

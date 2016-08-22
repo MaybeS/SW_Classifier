@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Chihuahua", 
+        "0.56555"
+      ], 
+      [
+        "Boston bull", 
+        "0.17333"
+      ], 
+      [
+        "French bulldog", 
+        "0.09426"
+      ], 
+      [
+        "carton", 
+        "0.01792"
+      ], 
+      [
+        "toy terrier", 
+        "0.01778"
+      ]
+    ], 
+    [
+      [
+        "dog", 
+        "1.05329"
+      ], 
+      [
+        "domestic animal", 
+        "0.97579"
+      ], 
+      [
+        "canine", 
+        "0.93862"
+      ], 
+      [
+        "carnivore", 
+        "0.76204"
+      ], 
+      [
+        "hunting dog", 
+        "0.71751"
+      ]
+    ], 
+    "4.883"
+  ]
+}

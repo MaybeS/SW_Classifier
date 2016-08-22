@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desk", 
+        "0.10517"
+      ], 
+      [
+        "microwave", 
+        "0.08221"
+      ], 
+      [
+        "medicine chest", 
+        "0.04542"
+      ], 
+      [
+        "plate rack", 
+        "0.04475"
+      ], 
+      [
+        "soap dispenser", 
+        "0.03902"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.35638"
+      ], 
+      [
+        "furnishing", 
+        "0.34114"
+      ], 
+      [
+        "home appliance", 
+        "0.33382"
+      ], 
+      [
+        "appliance", 
+        "0.32451"
+      ], 
+      [
+        "durables", 
+        "0.31606"
+      ]
+    ], 
+    "6.567"
+  ]
+}

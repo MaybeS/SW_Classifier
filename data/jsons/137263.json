@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.16076"
+      ], 
+      [
+        "harmonica", 
+        "0.13031"
+      ], 
+      [
+        "modem", 
+        "0.12753"
+      ], 
+      [
+        "cassette", 
+        "0.08658"
+      ], 
+      [
+        "whistle", 
+        "0.07985"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.34513"
+      ], 
+      [
+        "device", 
+        "0.34371"
+      ], 
+      [
+        "equipment", 
+        "0.33491"
+      ], 
+      [
+        "implement", 
+        "0.27399"
+      ], 
+      [
+        "container", 
+        "0.23421"
+      ]
+    ], 
+    "5.717"
+  ]
+}

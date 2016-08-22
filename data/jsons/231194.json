@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.76017"
+      ], 
+      [
+        "oil filter", 
+        "0.07741"
+      ], 
+      [
+        "binoculars", 
+        "0.03270"
+      ], 
+      [
+        "vacuum", 
+        "0.01374"
+      ], 
+      [
+        "switch", 
+        "0.01348"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.74692"
+      ], 
+      [
+        "photographic equipment", 
+        "1.71788"
+      ], 
+      [
+        "reflex camera", 
+        "1.70279"
+      ], 
+      [
+        "equipment", 
+        "0.89314"
+      ], 
+      [
+        "device", 
+        "0.31157"
+      ]
+    ], 
+    "5.056"
+  ]
+}

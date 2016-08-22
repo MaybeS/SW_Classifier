@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bottlecap", 
+        "0.20997"
+      ], 
+      [
+        "rugby ball", 
+        "0.20919"
+      ], 
+      [
+        "tennis ball", 
+        "0.07400"
+      ], 
+      [
+        "soccer ball", 
+        "0.03827"
+      ], 
+      [
+        "street sign", 
+        "0.03802"
+      ]
+    ], 
+    [
+      [
+        "ball", 
+        "0.91987"
+      ], 
+      [
+        "game equipment", 
+        "0.83307"
+      ], 
+      [
+        "rugby ball", 
+        "0.64291"
+      ], 
+      [
+        "equipment", 
+        "0.61550"
+      ], 
+      [
+        "bottlecap", 
+        "0.36727"
+      ]
+    ], 
+    "4.892"
+  ]
+}

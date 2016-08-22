@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.20949"
+      ], 
+      [
+        "microphone", 
+        "0.20811"
+      ], 
+      [
+        "fountain pen", 
+        "0.18127"
+      ], 
+      [
+        "tripod", 
+        "0.07092"
+      ], 
+      [
+        "ballpoint", 
+        "0.04770"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.58166"
+      ], 
+      [
+        "pen", 
+        "0.48958"
+      ], 
+      [
+        "writing implement", 
+        "0.48085"
+      ], 
+      [
+        "fountain pen", 
+        "0.41152"
+      ], 
+      [
+        "device", 
+        "0.33936"
+      ]
+    ], 
+    "5.451"
+  ]
+}

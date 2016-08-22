@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.28407"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.12265"
+      ], 
+      [
+        "screwdriver", 
+        "0.10368"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07019"
+      ], 
+      [
+        "paintbrush", 
+        "0.05974"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "1.11276"
+      ], 
+      [
+        "computer", 
+        "0.82541"
+      ], 
+      [
+        "machine", 
+        "0.72566"
+      ], 
+      [
+        "device", 
+        "0.40522"
+      ], 
+      [
+        "implement", 
+        "0.35047"
+      ]
+    ], 
+    "5.111"
+  ]
+}

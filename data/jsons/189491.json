@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "monitor", 
+        "0.14345"
+      ], 
+      [
+        "cleaver", 
+        "0.11202"
+      ], 
+      [
+        "hard disc", 
+        "0.06190"
+      ], 
+      [
+        "loupe", 
+        "0.05463"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04734"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32430"
+      ], 
+      [
+        "equipment", 
+        "0.29539"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29240"
+      ], 
+      [
+        "machine", 
+        "0.25015"
+      ], 
+      [
+        "personal computer", 
+        "0.23695"
+      ]
+    ], 
+    "6.013"
+  ]
+}

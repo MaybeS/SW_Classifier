@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dogsled", 
+        "0.06301"
+      ], 
+      [
+        "desk", 
+        "0.04700"
+      ], 
+      [
+        "web site", 
+        "0.04037"
+      ], 
+      [
+        "solar dish", 
+        "0.03696"
+      ], 
+      [
+        "desktop computer", 
+        "0.03115"
+      ]
+    ], 
+    [
+      [
+        "vehicle", 
+        "0.39049"
+      ], 
+      [
+        "conveyance", 
+        "0.37171"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.35662"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.34791"
+      ], 
+      [
+        "container", 
+        "0.33019"
+      ]
+    ], 
+    "9.704"
+  ]
+}

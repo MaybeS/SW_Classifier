@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.16676"
+      ], 
+      [
+        "street sign", 
+        "0.13101"
+      ], 
+      [
+        "carton", 
+        "0.09868"
+      ], 
+      [
+        "envelope", 
+        "0.09728"
+      ], 
+      [
+        "packet", 
+        "0.07593"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.34044"
+      ], 
+      [
+        "timepiece", 
+        "0.32140"
+      ], 
+      [
+        "street sign", 
+        "0.27910"
+      ], 
+      [
+        "sign", 
+        "0.27500"
+      ], 
+      [
+        "instrument", 
+        "0.27274"
+      ]
+    ], 
+    "6.535"
+  ]
+}

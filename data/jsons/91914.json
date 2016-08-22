@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.33022"
+      ], 
+      [
+        "space heater", 
+        "0.25542"
+      ], 
+      [
+        "modem", 
+        "0.13473"
+      ], 
+      [
+        "projector", 
+        "0.05659"
+      ], 
+      [
+        "printer", 
+        "0.05657"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.53909"
+      ], 
+      [
+        "digital computer", 
+        "0.52877"
+      ], 
+      [
+        "electronic equipment", 
+        "0.52822"
+      ], 
+      [
+        "machine", 
+        "0.49849"
+      ], 
+      [
+        "computer", 
+        "0.49277"
+      ]
+    ], 
+    "6.788"
+  ]
+}

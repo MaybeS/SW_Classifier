@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "photocopier", 
+        "0.28612"
+      ], 
+      [
+        "washer", 
+        "0.17932"
+      ], 
+      [
+        "window shade", 
+        "0.13497"
+      ], 
+      [
+        "washbasin", 
+        "0.07810"
+      ], 
+      [
+        "medicine chest", 
+        "0.05526"
+      ]
+    ], 
+    [
+      [
+        "photocopier", 
+        "0.73154"
+      ], 
+      [
+        "duplicator", 
+        "0.72080"
+      ], 
+      [
+        "apparatus", 
+        "0.71005"
+      ], 
+      [
+        "equipment", 
+        "0.47752"
+      ], 
+      [
+        "white goods", 
+        "0.47115"
+      ]
+    ], 
+    "5.951"
+  ]
+}

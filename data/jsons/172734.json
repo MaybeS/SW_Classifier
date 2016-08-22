@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.52755"
+      ], 
+      [
+        "window screen", 
+        "0.10158"
+      ], 
+      [
+        "screen", 
+        "0.04879"
+      ], 
+      [
+        "monitor", 
+        "0.04234"
+      ], 
+      [
+        "window shade", 
+        "0.02091"
+      ]
+    ], 
+    [
+      [
+        "oscilloscope", 
+        "1.64801"
+      ], 
+      [
+        "electronic equipment", 
+        "1.11241"
+      ], 
+      [
+        "equipment", 
+        "0.81051"
+      ], 
+      [
+        "machine", 
+        "0.29142"
+      ], 
+      [
+        "computer", 
+        "0.28293"
+      ]
+    ], 
+    "6.723"
+  ]
+}

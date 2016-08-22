@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.49989"
+      ], 
+      [
+        "lighter", 
+        "0.25534"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05936"
+      ], 
+      [
+        "cellular telephone", 
+        "0.02291"
+      ], 
+      [
+        "whistle", 
+        "0.02287"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.55838"
+      ], 
+      [
+        "equipment", 
+        "0.47616"
+      ], 
+      [
+        "modem", 
+        "0.46486"
+      ], 
+      [
+        "device", 
+        "0.34966"
+      ], 
+      [
+        "implement", 
+        "0.24989"
+      ]
+    ], 
+    "9.950"
+  ]
+}

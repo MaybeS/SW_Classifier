@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.24101"
+      ], 
+      [
+        "analog clock", 
+        "0.06567"
+      ], 
+      [
+        "switch", 
+        "0.04969"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04505"
+      ], 
+      [
+        "odometer", 
+        "0.04338"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.65317"
+      ], 
+      [
+        "timepiece", 
+        "0.52662"
+      ], 
+      [
+        "instrument", 
+        "0.50793"
+      ], 
+      [
+        "clock", 
+        "0.47861"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44846"
+      ]
+    ], 
+    "7.914"
+  ]
+}

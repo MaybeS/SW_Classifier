@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.32412"
+      ], 
+      [
+        "spotlight", 
+        "0.32172"
+      ], 
+      [
+        "microphone", 
+        "0.15662"
+      ], 
+      [
+        "loudspeaker", 
+        "0.07401"
+      ], 
+      [
+        "electric fan", 
+        "0.04208"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.42219"
+      ], 
+      [
+        "device", 
+        "0.40267"
+      ], 
+      [
+        "optical instrument", 
+        "0.38092"
+      ], 
+      [
+        "instrument", 
+        "0.30218"
+      ], 
+      [
+        "container", 
+        "0.28290"
+      ]
+    ], 
+    "6.408"
+  ]
+}

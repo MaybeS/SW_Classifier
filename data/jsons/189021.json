@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.32825"
+      ], 
+      [
+        "hard disc", 
+        "0.15789"
+      ], 
+      [
+        "loudspeaker", 
+        "0.10947"
+      ], 
+      [
+        "perfume", 
+        "0.03071"
+      ], 
+      [
+        "desktop computer", 
+        "0.02802"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.35299"
+      ], 
+      [
+        "device", 
+        "0.33455"
+      ], 
+      [
+        "hard disc", 
+        "0.29396"
+      ], 
+      [
+        "magnetic disk", 
+        "0.28965"
+      ], 
+      [
+        "memory device", 
+        "0.28533"
+      ]
+    ], 
+    "6.431"
+  ]
+}

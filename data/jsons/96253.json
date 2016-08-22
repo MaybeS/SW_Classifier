@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.31360"
+      ], 
+      [
+        "space heater", 
+        "0.17686"
+      ], 
+      [
+        "barometer", 
+        "0.08902"
+      ], 
+      [
+        "combination lock", 
+        "0.07605"
+      ], 
+      [
+        "radio", 
+        "0.07255"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.69156"
+      ], 
+      [
+        "fan", 
+        "0.68140"
+      ], 
+      [
+        "device", 
+        "0.48318"
+      ], 
+      [
+        "measuring instrument", 
+        "0.41651"
+      ], 
+      [
+        "instrument", 
+        "0.39164"
+      ]
+    ], 
+    "6.626"
+  ]
+}

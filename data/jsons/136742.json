@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crash helmet", 
+        "0.82100"
+      ], 
+      [
+        "spotlight", 
+        "0.04397"
+      ], 
+      [
+        "neck brace", 
+        "0.01758"
+      ], 
+      [
+        "backpack", 
+        "0.01482"
+      ], 
+      [
+        "buckle", 
+        "0.01341"
+      ]
+    ], 
+    [
+      [
+        "crash helmet", 
+        "1.88260"
+      ], 
+      [
+        "helmet", 
+        "1.70726"
+      ], 
+      [
+        "headdress", 
+        "1.30341"
+      ], 
+      [
+        "clothing", 
+        "0.81803"
+      ], 
+      [
+        "consumer goods", 
+        "0.74519"
+      ]
+    ], 
+    "5.921"
+  ]
+}

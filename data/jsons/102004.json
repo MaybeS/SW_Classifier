@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.26309"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.17523"
+      ], 
+      [
+        "web site", 
+        "0.11760"
+      ], 
+      [
+        "projector", 
+        "0.05986"
+      ], 
+      [
+        "printer", 
+        "0.04294"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.49824"
+      ], 
+      [
+        "photographic equipment", 
+        "0.48996"
+      ], 
+      [
+        "web site", 
+        "0.46561"
+      ], 
+      [
+        "equipment", 
+        "0.46394"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.45020"
+      ]
+    ], 
+    "6.961"
+  ]
+}

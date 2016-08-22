@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.41866"
+      ], 
+      [
+        "binder", 
+        "0.12771"
+      ], 
+      [
+        "fire screen", 
+        "0.08273"
+      ], 
+      [
+        "television", 
+        "0.05059"
+      ], 
+      [
+        "perfume", 
+        "0.04420"
+      ]
+    ], 
+    [
+      [
+        "book jacket", 
+        "0.55697"
+      ], 
+      [
+        "jacket", 
+        "0.54879"
+      ], 
+      [
+        "wrapping", 
+        "0.54061"
+      ], 
+      [
+        "covering", 
+        "0.40897"
+      ], 
+      [
+        "protective covering", 
+        "0.25909"
+      ]
+    ], 
+    "6.833"
+  ]
+}

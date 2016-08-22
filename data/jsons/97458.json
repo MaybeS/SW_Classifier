@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.46988"
+      ], 
+      [
+        "iron", 
+        "0.15406"
+      ], 
+      [
+        "cassette player", 
+        "0.14643"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04766"
+      ], 
+      [
+        "CD player", 
+        "0.02327"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.47754"
+      ], 
+      [
+        "equipment", 
+        "0.43051"
+      ], 
+      [
+        "appliance", 
+        "0.33504"
+      ], 
+      [
+        "durables", 
+        "0.32632"
+      ], 
+      [
+        "device", 
+        "0.31575"
+      ]
+    ], 
+    "6.783"
+  ]
+}

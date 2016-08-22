@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.36053"
+      ], 
+      [
+        "monitor", 
+        "0.19684"
+      ], 
+      [
+        "screen", 
+        "0.13088"
+      ], 
+      [
+        "joystick", 
+        "0.07583"
+      ], 
+      [
+        "oscilloscope", 
+        "0.04053"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.79029"
+      ], 
+      [
+        "digital computer", 
+        "0.77516"
+      ], 
+      [
+        "computer", 
+        "0.73288"
+      ], 
+      [
+        "machine", 
+        "0.67092"
+      ], 
+      [
+        "desktop computer", 
+        "0.63946"
+      ]
+    ], 
+    "9.609"
+  ]
+}

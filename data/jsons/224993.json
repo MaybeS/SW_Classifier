@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Band Aid", 
+        "0.18297"
+      ], 
+      [
+        "switch", 
+        "0.14660"
+      ], 
+      [
+        "remote control", 
+        "0.07457"
+      ], 
+      [
+        "nipple", 
+        "0.06795"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06423"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33733"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27807"
+      ], 
+      [
+        "equipment", 
+        "0.26548"
+      ], 
+      [
+        "covering", 
+        "0.26160"
+      ], 
+      [
+        "machine", 
+        "0.23926"
+      ]
+    ], 
+    "5.530"
+  ]
+}

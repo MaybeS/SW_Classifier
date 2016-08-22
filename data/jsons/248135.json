@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.26551"
+      ], 
+      [
+        "scoreboard", 
+        "0.12895"
+      ], 
+      [
+        "web site", 
+        "0.08849"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07008"
+      ], 
+      [
+        "remote control", 
+        "0.04035"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.82476"
+      ], 
+      [
+        "machine", 
+        "0.73054"
+      ], 
+      [
+        "portable computer", 
+        "0.63426"
+      ], 
+      [
+        "personal computer", 
+        "0.62611"
+      ], 
+      [
+        "digital computer", 
+        "0.61412"
+      ]
+    ], 
+    "5.433"
+  ]
+}

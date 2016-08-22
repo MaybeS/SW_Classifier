@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.43741"
+      ], 
+      [
+        "knee pad", 
+        "0.16607"
+      ], 
+      [
+        "power drill", 
+        "0.08705"
+      ], 
+      [
+        "binoculars", 
+        "0.05946"
+      ], 
+      [
+        "microphone", 
+        "0.05865"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "0.32884"
+      ], 
+      [
+        "device", 
+        "0.32737"
+      ], 
+      [
+        "covering", 
+        "0.31397"
+      ], 
+      [
+        "protective garment", 
+        "0.29300"
+      ], 
+      [
+        "consumer goods", 
+        "0.29218"
+      ]
+    ], 
+    "7.060"
+  ]
+}

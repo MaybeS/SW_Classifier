@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wallet", 
+        "0.10655"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.10436"
+      ], 
+      [
+        "doormat", 
+        "0.09276"
+      ], 
+      [
+        "notebook", 
+        "0.08756"
+      ], 
+      [
+        "laptop", 
+        "0.06205"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.29094"
+      ], 
+      [
+        "digital computer", 
+        "0.28537"
+      ], 
+      [
+        "machine", 
+        "0.27877"
+      ], 
+      [
+        "portable computer", 
+        "0.27795"
+      ], 
+      [
+        "computer", 
+        "0.27690"
+      ]
+    ], 
+    "12.568"
+  ]
+}

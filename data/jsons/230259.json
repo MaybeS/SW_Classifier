@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.15652"
+      ], 
+      [
+        "digital clock", 
+        "0.14660"
+      ], 
+      [
+        "Band Aid", 
+        "0.07864"
+      ], 
+      [
+        "street sign", 
+        "0.06855"
+      ], 
+      [
+        "analog clock", 
+        "0.06031"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "0.50349"
+      ], 
+      [
+        "signboard", 
+        "0.49610"
+      ], 
+      [
+        "board", 
+        "0.49610"
+      ], 
+      [
+        "measuring instrument", 
+        "0.45950"
+      ], 
+      [
+        "sheet", 
+        "0.43920"
+      ]
+    ], 
+    "5.441"
+  ]
+}

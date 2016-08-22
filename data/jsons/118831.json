@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.44151"
+      ], 
+      [
+        "combination lock", 
+        "0.10571"
+      ], 
+      [
+        "waffle iron", 
+        "0.09046"
+      ], 
+      [
+        "can opener", 
+        "0.07086"
+      ], 
+      [
+        "frying pan", 
+        "0.05368"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37102"
+      ], 
+      [
+        "instrument", 
+        "0.33108"
+      ], 
+      [
+        "implement", 
+        "0.24221"
+      ], 
+      [
+        "consumer goods", 
+        "0.23917"
+      ], 
+      [
+        "appliance", 
+        "0.23896"
+      ]
+    ], 
+    "6.421"
+  ]
+}

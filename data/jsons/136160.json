@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.35712"
+      ], 
+      [
+        "loudspeaker", 
+        "0.34966"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.06215"
+      ], 
+      [
+        "mouse", 
+        "0.04986"
+      ], 
+      [
+        "waffle iron", 
+        "0.04781"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.54424"
+      ], 
+      [
+        "projector", 
+        "0.50665"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.49943"
+      ], 
+      [
+        "transducer", 
+        "0.49113"
+      ], 
+      [
+        "electrical device", 
+        "0.48282"
+      ]
+    ], 
+    "5.358"
+  ]
+}

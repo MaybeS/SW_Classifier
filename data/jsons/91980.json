@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.32545"
+      ], 
+      [
+        "loudspeaker", 
+        "0.19786"
+      ], 
+      [
+        "desktop computer", 
+        "0.11337"
+      ], 
+      [
+        "radio", 
+        "0.03222"
+      ], 
+      [
+        "wallet", 
+        "0.02702"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.53514"
+      ], 
+      [
+        "equipment", 
+        "0.47132"
+      ], 
+      [
+        "device", 
+        "0.38501"
+      ], 
+      [
+        "loudspeaker", 
+        "0.33094"
+      ], 
+      [
+        "modem", 
+        "0.32316"
+      ]
+    ], 
+    "7.290"
+  ]
+}

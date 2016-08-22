@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.31511"
+      ], 
+      [
+        "espresso maker", 
+        "0.15949"
+      ], 
+      [
+        "mouse", 
+        "0.10788"
+      ], 
+      [
+        "projector", 
+        "0.04058"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.03105"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.39492"
+      ], 
+      [
+        "joystick", 
+        "0.37953"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37329"
+      ], 
+      [
+        "control", 
+        "0.36709"
+      ], 
+      [
+        "data input device", 
+        "0.36019"
+      ]
+    ], 
+    "5.764"
+  ]
+}

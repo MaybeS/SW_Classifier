@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.37009"
+      ], 
+      [
+        "radio", 
+        "0.28639"
+      ], 
+      [
+        "modem", 
+        "0.26184"
+      ], 
+      [
+        "cassette player", 
+        "0.01438"
+      ], 
+      [
+        "CD player", 
+        "0.01110"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.53228"
+      ], 
+      [
+        "equipment", 
+        "0.48003"
+      ], 
+      [
+        "device", 
+        "0.36362"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.29123"
+      ], 
+      [
+        "transducer", 
+        "0.28639"
+      ]
+    ], 
+    "8.774"
+  ]
+}

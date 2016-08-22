@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dishwasher", 
+        "0.63803"
+      ], 
+      [
+        "washer", 
+        "0.25143"
+      ], 
+      [
+        "refrigerator", 
+        "0.02095"
+      ], 
+      [
+        "safe", 
+        "0.01570"
+      ], 
+      [
+        "microwave", 
+        "0.01568"
+      ]
+    ], 
+    [
+      [
+        "white goods", 
+        "1.12876"
+      ], 
+      [
+        "home appliance", 
+        "0.94807"
+      ], 
+      [
+        "appliance", 
+        "0.90881"
+      ], 
+      [
+        "durables", 
+        "0.88516"
+      ], 
+      [
+        "dishwasher", 
+        "0.70724"
+      ]
+    ], 
+    "6.768"
+  ]
+}

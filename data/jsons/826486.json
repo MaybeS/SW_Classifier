@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bathing cap", 
+        "0.50570"
+      ], 
+      [
+        "swimming trunks", 
+        "0.10761"
+      ], 
+      [
+        "knee pad", 
+        "0.03423"
+      ], 
+      [
+        "diaper", 
+        "0.03370"
+      ], 
+      [
+        "neck brace", 
+        "0.03322"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.98326"
+      ], 
+      [
+        "consumer goods", 
+        "0.86447"
+      ], 
+      [
+        "commodity", 
+        "0.82068"
+      ], 
+      [
+        "covering", 
+        "0.77265"
+      ], 
+      [
+        "bathing cap", 
+        "0.70455"
+      ]
+    ], 
+    "6.477"
+  ]
+}

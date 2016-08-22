@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.30519"
+      ], 
+      [
+        "paper towel", 
+        "0.12789"
+      ], 
+      [
+        "oil filter", 
+        "0.07915"
+      ], 
+      [
+        "can opener", 
+        "0.07524"
+      ], 
+      [
+        "space heater", 
+        "0.05119"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.32188"
+      ], 
+      [
+        "vessel", 
+        "0.26280"
+      ], 
+      [
+        "device", 
+        "0.23908"
+      ], 
+      [
+        "soap dispenser", 
+        "0.22013"
+      ], 
+      [
+        "dispenser", 
+        "0.21689"
+      ]
+    ], 
+    "13.846"
+  ]
+}

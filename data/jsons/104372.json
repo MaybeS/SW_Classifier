@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.27851"
+      ], 
+      [
+        "iron", 
+        "0.07318"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06545"
+      ], 
+      [
+        "crash helmet", 
+        "0.05957"
+      ], 
+      [
+        "face powder", 
+        "0.04804"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.50031"
+      ], 
+      [
+        "appliance", 
+        "0.49366"
+      ], 
+      [
+        "durables", 
+        "0.48081"
+      ], 
+      [
+        "consumer goods", 
+        "0.44107"
+      ], 
+      [
+        "commodity", 
+        "0.41841"
+      ]
+    ], 
+    "7.506"
+  ]
+}

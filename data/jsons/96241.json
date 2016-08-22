@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fire screen", 
+        "0.11945"
+      ], 
+      [
+        "coffeepot", 
+        "0.11046"
+      ], 
+      [
+        "vase", 
+        "0.08121"
+      ], 
+      [
+        "soap dispenser", 
+        "0.07064"
+      ], 
+      [
+        "altar", 
+        "0.06086"
+      ]
+    ], 
+    [
+      [
+        "vessel", 
+        "0.39746"
+      ], 
+      [
+        "container", 
+        "0.37546"
+      ], 
+      [
+        "protective covering", 
+        "0.30036"
+      ], 
+      [
+        "covering", 
+        "0.28672"
+      ], 
+      [
+        "fire screen", 
+        "0.26829"
+      ]
+    ], 
+    "5.600"
+  ]
+}

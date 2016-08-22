@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.15177"
+      ], 
+      [
+        "iPod", 
+        "0.09313"
+      ], 
+      [
+        "vacuum", 
+        "0.07711"
+      ], 
+      [
+        "mouse", 
+        "0.06743"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06041"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.33692"
+      ], 
+      [
+        "equipment", 
+        "0.33300"
+      ], 
+      [
+        "device", 
+        "0.33169"
+      ], 
+      [
+        "consumer goods", 
+        "0.22083"
+      ], 
+      [
+        "implement", 
+        "0.21535"
+      ]
+    ], 
+    "6.084"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.11381"
+      ], 
+      [
+        "binoculars", 
+        "0.09442"
+      ], 
+      [
+        "whistle", 
+        "0.08828"
+      ], 
+      [
+        "knee pad", 
+        "0.08570"
+      ], 
+      [
+        "switch", 
+        "0.07916"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.33485"
+      ], 
+      [
+        "camera", 
+        "0.32317"
+      ], 
+      [
+        "photographic equipment", 
+        "0.31779"
+      ], 
+      [
+        "device", 
+        "0.31652"
+      ], 
+      [
+        "covering", 
+        "0.28772"
+      ]
+    ], 
+    "7.331"
+  ]
+}

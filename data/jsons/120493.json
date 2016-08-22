@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "paper towel", 
+        "0.46869"
+      ], 
+      [
+        "soap dispenser", 
+        "0.20017"
+      ], 
+      [
+        "toilet tissue", 
+        "0.08842"
+      ], 
+      [
+        "space heater", 
+        "0.05993"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02549"
+      ]
+    ], 
+    [
+      [
+        "paper towel", 
+        "0.47991"
+      ], 
+      [
+        "towel", 
+        "0.44427"
+      ], 
+      [
+        "piece of cloth", 
+        "0.41432"
+      ], 
+      [
+        "piece", 
+        "0.40603"
+      ], 
+      [
+        "part", 
+        "0.39774"
+      ]
+    ], 
+    "8.956"
+  ]
+}

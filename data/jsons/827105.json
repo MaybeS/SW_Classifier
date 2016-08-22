@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.82152"
+      ], 
+      [
+        "golf ball", 
+        "0.04833"
+      ], 
+      [
+        "soccer ball", 
+        "0.02967"
+      ], 
+      [
+        "volleyball", 
+        "0.02499"
+      ], 
+      [
+        "rugby ball", 
+        "0.00969"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "1.50092"
+      ], 
+      [
+        "protective garment", 
+        "1.33551"
+      ], 
+      [
+        "clothing", 
+        "0.91189"
+      ], 
+      [
+        "covering", 
+        "0.80926"
+      ], 
+      [
+        "consumer goods", 
+        "0.80714"
+      ]
+    ], 
+    "5.874"
+  ]
+}

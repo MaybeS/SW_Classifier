@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "punching bag", 
+        "0.32212"
+      ], 
+      [
+        "swimming trunks", 
+        "0.06823"
+      ], 
+      [
+        "water tower", 
+        "0.06046"
+      ], 
+      [
+        "lampshade", 
+        "0.04325"
+      ], 
+      [
+        "goblet", 
+        "0.03564"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.37483"
+      ], 
+      [
+        "ball", 
+        "0.36743"
+      ], 
+      [
+        "covering", 
+        "0.36075"
+      ], 
+      [
+        "consumer goods", 
+        "0.35328"
+      ], 
+      [
+        "game equipment", 
+        "0.33880"
+      ]
+    ], 
+    "7.266"
+  ]
+}

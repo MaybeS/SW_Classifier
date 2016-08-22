@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.22205"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.17268"
+      ], 
+      [
+        "oil filter", 
+        "0.07647"
+      ], 
+      [
+        "perfume", 
+        "0.06982"
+      ], 
+      [
+        "printer", 
+        "0.06582"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.43758"
+      ], 
+      [
+        "equipment", 
+        "0.41179"
+      ], 
+      [
+        "device", 
+        "0.33627"
+      ], 
+      [
+        "machine", 
+        "0.26967"
+      ], 
+      [
+        "container", 
+        "0.24185"
+      ]
+    ], 
+    "9.480"
+  ]
+}

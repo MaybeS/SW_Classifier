@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crutch", 
+        "0.34180"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.19268"
+      ], 
+      [
+        "sweatshirt", 
+        "0.13735"
+      ], 
+      [
+        "jersey", 
+        "0.07930"
+      ], 
+      [
+        "bathing cap", 
+        "0.03444"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.78280"
+      ], 
+      [
+        "garment", 
+        "0.75670"
+      ], 
+      [
+        "covering", 
+        "0.70178"
+      ], 
+      [
+        "consumer goods", 
+        "0.69648"
+      ], 
+      [
+        "commodity", 
+        "0.66110"
+      ]
+    ], 
+    "6.343"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.27339"
+      ], 
+      [
+        "microphone", 
+        "0.22132"
+      ], 
+      [
+        "hair slide", 
+        "0.18108"
+      ], 
+      [
+        "hand blower", 
+        "0.12380"
+      ], 
+      [
+        "waffle iron", 
+        "0.02920"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38832"
+      ], 
+      [
+        "whistle", 
+        "0.31150"
+      ], 
+      [
+        "acoustic device", 
+        "0.30692"
+      ], 
+      [
+        "signaling device", 
+        "0.30692"
+      ], 
+      [
+        "fastener", 
+        "0.26437"
+      ]
+    ], 
+    "5.996"
+  ]
+}

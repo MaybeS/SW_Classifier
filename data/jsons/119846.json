@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.27485"
+      ], 
+      [
+        "padlock", 
+        "0.06959"
+      ], 
+      [
+        "combination lock", 
+        "0.06723"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06190"
+      ], 
+      [
+        "switch", 
+        "0.06054"
+      ]
+    ], 
+    [
+      [
+        "control", 
+        "0.38680"
+      ], 
+      [
+        "device", 
+        "0.37924"
+      ], 
+      [
+        "equipment", 
+        "0.36109"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35358"
+      ], 
+      [
+        "joystick", 
+        "0.33975"
+      ]
+    ], 
+    "9.651"
+  ]
+}

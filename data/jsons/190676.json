@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.24854"
+      ], 
+      [
+        "hard disc", 
+        "0.15003"
+      ], 
+      [
+        "remote control", 
+        "0.14752"
+      ], 
+      [
+        "rubber eraser", 
+        "0.08812"
+      ], 
+      [
+        "modem", 
+        "0.06900"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.65378"
+      ], 
+      [
+        "equipment", 
+        "0.53452"
+      ], 
+      [
+        "iPod", 
+        "0.47024"
+      ], 
+      [
+        "stereo", 
+        "0.46334"
+      ], 
+      [
+        "reproducer", 
+        "0.45643"
+      ]
+    ], 
+    "9.098"
+  ]
+}

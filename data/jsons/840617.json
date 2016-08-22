@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fur coat", 
+        "0.40676"
+      ], 
+      [
+        "trench coat", 
+        "0.37963"
+      ], 
+      [
+        "military uniform", 
+        "0.05771"
+      ], 
+      [
+        "sunglass", 
+        "0.03367"
+      ], 
+      [
+        "sweatshirt", 
+        "0.01768"
+      ]
+    ], 
+    [
+      [
+        "coat", 
+        "1.45096"
+      ], 
+      [
+        "overgarment", 
+        "1.38384"
+      ], 
+      [
+        "garment", 
+        "1.27157"
+      ], 
+      [
+        "clothing", 
+        "1.17253"
+      ], 
+      [
+        "consumer goods", 
+        "1.02469"
+      ]
+    ], 
+    "6.783"
+  ]
+}

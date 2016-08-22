@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oxygen mask", 
+        "0.39242"
+      ], 
+      [
+        "spotlight", 
+        "0.17230"
+      ], 
+      [
+        "gasmask", 
+        "0.12430"
+      ], 
+      [
+        "neck brace", 
+        "0.10063"
+      ], 
+      [
+        "loupe", 
+        "0.06318"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.35130"
+      ], 
+      [
+        "breathing device", 
+        "0.34499"
+      ], 
+      [
+        "oxygen mask", 
+        "0.33771"
+      ], 
+      [
+        "device", 
+        "0.31898"
+      ], 
+      [
+        "consumer goods", 
+        "0.27143"
+      ]
+    ], 
+    "9.611"
+  ]
+}

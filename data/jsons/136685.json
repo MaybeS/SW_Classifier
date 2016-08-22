@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.43141"
+      ], 
+      [
+        "vacuum", 
+        "0.07951"
+      ], 
+      [
+        "hair slide", 
+        "0.07805"
+      ], 
+      [
+        "spatula", 
+        "0.03413"
+      ], 
+      [
+        "microphone", 
+        "0.03293"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36930"
+      ], 
+      [
+        "stethoscope", 
+        "0.35691"
+      ], 
+      [
+        "medical instrument", 
+        "0.33372"
+      ], 
+      [
+        "instrument", 
+        "0.31671"
+      ], 
+      [
+        "consumer goods", 
+        "0.27779"
+      ]
+    ], 
+    "8.906"
+  ]
+}

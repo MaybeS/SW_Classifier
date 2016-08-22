@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.13101"
+      ], 
+      [
+        "mouse", 
+        "0.10924"
+      ], 
+      [
+        "mortarboard", 
+        "0.08455"
+      ], 
+      [
+        "mousetrap", 
+        "0.06510"
+      ], 
+      [
+        "switch", 
+        "0.04680"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43202"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41842"
+      ], 
+      [
+        "device", 
+        "0.32844"
+      ], 
+      [
+        "consumer goods", 
+        "0.24555"
+      ], 
+      [
+        "commodity", 
+        "0.23299"
+      ]
+    ], 
+    "8.440"
+  ]
+}

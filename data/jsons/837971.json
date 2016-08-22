@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.98881"
+      ], 
+      [
+        "sweatshirt", 
+        "0.00682"
+      ], 
+      [
+        "military uniform", 
+        "0.00131"
+      ], 
+      [
+        "abaya", 
+        "0.00085"
+      ], 
+      [
+        "cuirass", 
+        "0.00026"
+      ]
+    ], 
+    [
+      [
+        "bulletproof vest", 
+        "1.91196"
+      ], 
+      [
+        "vest", 
+        "1.88388"
+      ], 
+      [
+        "body armor", 
+        "1.64866"
+      ], 
+      [
+        "armor", 
+        "1.54580"
+      ], 
+      [
+        "garment", 
+        "1.32104"
+      ]
+    ], 
+    "10.278"
+  ]
+}

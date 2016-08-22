@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.83624"
+      ], 
+      [
+        "hand-held computer", 
+        "0.03880"
+      ], 
+      [
+        "digital clock", 
+        "0.03627"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03003"
+      ], 
+      [
+        "stopwatch", 
+        "0.01294"
+      ]
+    ], 
+    [
+      [
+        "radio", 
+        "0.75465"
+      ], 
+      [
+        "electronic equipment", 
+        "0.71073"
+      ], 
+      [
+        "communication system", 
+        "0.68128"
+      ], 
+      [
+        "system", 
+        "0.61849"
+      ], 
+      [
+        "equipment", 
+        "0.61215"
+      ]
+    ], 
+    "11.226"
+  ]
+}

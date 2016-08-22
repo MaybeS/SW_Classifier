@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.27821"
+      ], 
+      [
+        "projectile", 
+        "0.21532"
+      ], 
+      [
+        "torch", 
+        "0.11029"
+      ], 
+      [
+        "spotlight", 
+        "0.09331"
+      ], 
+      [
+        "ballpoint", 
+        "0.08197"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36882"
+      ], 
+      [
+        "whistle", 
+        "0.31649"
+      ], 
+      [
+        "implement", 
+        "0.31212"
+      ], 
+      [
+        "acoustic device", 
+        "0.31184"
+      ], 
+      [
+        "signaling device", 
+        "0.31184"
+      ]
+    ], 
+    "10.764"
+  ]
+}

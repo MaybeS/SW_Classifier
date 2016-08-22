@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.39002"
+      ], 
+      [
+        "loudspeaker", 
+        "0.09433"
+      ], 
+      [
+        "knee pad", 
+        "0.07446"
+      ], 
+      [
+        "cassette player", 
+        "0.05093"
+      ], 
+      [
+        "combination lock", 
+        "0.04836"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.94992"
+      ], 
+      [
+        "photographic equipment", 
+        "0.93412"
+      ], 
+      [
+        "reflex camera", 
+        "0.90816"
+      ], 
+      [
+        "equipment", 
+        "0.64369"
+      ], 
+      [
+        "device", 
+        "0.34182"
+      ]
+    ], 
+    "6.332"
+  ]
+}

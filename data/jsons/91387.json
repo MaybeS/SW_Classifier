@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.31552"
+      ], 
+      [
+        "space bar", 
+        "0.20210"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.14444"
+      ], 
+      [
+        "switch", 
+        "0.06189"
+      ], 
+      [
+        "printer", 
+        "0.05514"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "0.68072"
+      ], 
+      [
+        "electronic equipment", 
+        "0.61139"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.54038"
+      ], 
+      [
+        "space bar", 
+        "0.53231"
+      ], 
+      [
+        "equipment", 
+        "0.53203"
+      ]
+    ], 
+    "6.694"
+  ]
+}

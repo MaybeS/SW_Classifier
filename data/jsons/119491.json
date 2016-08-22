@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.45481"
+      ], 
+      [
+        "stethoscope", 
+        "0.15090"
+      ], 
+      [
+        "loupe", 
+        "0.12435"
+      ], 
+      [
+        "radio", 
+        "0.10088"
+      ], 
+      [
+        "vacuum", 
+        "0.04716"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39727"
+      ], 
+      [
+        "microphone", 
+        "0.35225"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.33436"
+      ], 
+      [
+        "transducer", 
+        "0.32880"
+      ], 
+      [
+        "electrical device", 
+        "0.32324"
+      ]
+    ], 
+    "12.368"
+  ]
+}

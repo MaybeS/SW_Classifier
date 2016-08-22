@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sweatshirt", 
+        "0.56723"
+      ], 
+      [
+        "jersey", 
+        "0.30464"
+      ], 
+      [
+        "poncho", 
+        "0.04762"
+      ], 
+      [
+        "sleeping bag", 
+        "0.02041"
+      ], 
+      [
+        "bathing cap", 
+        "0.01215"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "1.19702"
+      ], 
+      [
+        "clothing", 
+        "1.16616"
+      ], 
+      [
+        "consumer goods", 
+        "1.02064"
+      ], 
+      [
+        "commodity", 
+        "0.97090"
+      ], 
+      [
+        "sweatshirt", 
+        "0.96093"
+      ]
+    ], 
+    "5.859"
+  ]
+}

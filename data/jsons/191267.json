@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.67675"
+      ], 
+      [
+        "modem", 
+        "0.10405"
+      ], 
+      [
+        "CD player", 
+        "0.06866"
+      ], 
+      [
+        "waffle iron", 
+        "0.05747"
+      ], 
+      [
+        "tray", 
+        "0.00923"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.64660"
+      ], 
+      [
+        "instrument", 
+        "0.56194"
+      ], 
+      [
+        "scale", 
+        "0.56042"
+      ], 
+      [
+        "device", 
+        "0.39809"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31818"
+      ]
+    ], 
+    "8.615"
+  ]
+}

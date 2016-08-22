@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Crock Pot", 
+        "0.26655"
+      ], 
+      [
+        "oil filter", 
+        "0.16593"
+      ], 
+      [
+        "sunscreen", 
+        "0.11869"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07589"
+      ], 
+      [
+        "pill bottle", 
+        "0.03842"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "0.64939"
+      ], 
+      [
+        "cooker", 
+        "0.63985"
+      ], 
+      [
+        "cooking utensil", 
+        "0.54185"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.53023"
+      ], 
+      [
+        "utensil", 
+        "0.51860"
+      ]
+    ], 
+    "5.496"
+  ]
+}

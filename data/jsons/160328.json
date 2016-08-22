@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.28696"
+      ], 
+      [
+        "switch", 
+        "0.15716"
+      ], 
+      [
+        "combination lock", 
+        "0.12460"
+      ], 
+      [
+        "cassette player", 
+        "0.10578"
+      ], 
+      [
+        "radio", 
+        "0.10343"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.45856"
+      ], 
+      [
+        "loudspeaker", 
+        "0.45511"
+      ], 
+      [
+        "equipment", 
+        "0.44818"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.41522"
+      ], 
+      [
+        "transducer", 
+        "0.40832"
+      ]
+    ], 
+    "5.880"
+  ]
+}

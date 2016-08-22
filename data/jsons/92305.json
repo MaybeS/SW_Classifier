@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.31907"
+      ], 
+      [
+        "slide rule", 
+        "0.11916"
+      ], 
+      [
+        "screwdriver", 
+        "0.11790"
+      ], 
+      [
+        "harmonica", 
+        "0.08477"
+      ], 
+      [
+        "cassette", 
+        "0.04128"
+      ]
+    ], 
+    [
+      [
+        "carpenter's kit", 
+        "0.41563"
+      ], 
+      [
+        "kit", 
+        "0.40952"
+      ], 
+      [
+        "gear", 
+        "0.35797"
+      ], 
+      [
+        "slide rule", 
+        "0.35254"
+      ], 
+      [
+        "analog computer", 
+        "0.34737"
+      ]
+    ], 
+    "7.744"
+  ]
+}

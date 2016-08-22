@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.20196"
+      ], 
+      [
+        "panpipe", 
+        "0.14437"
+      ], 
+      [
+        "switch", 
+        "0.09950"
+      ], 
+      [
+        "combination lock", 
+        "0.03704"
+      ], 
+      [
+        "mousetrap", 
+        "0.03568"
+      ]
+    ], 
+    [
+      [
+        "panpipe", 
+        "0.37696"
+      ], 
+      [
+        "pipe", 
+        "0.37142"
+      ], 
+      [
+        "device", 
+        "0.32127"
+      ], 
+      [
+        "wind instrument", 
+        "0.28812"
+      ], 
+      [
+        "musical instrument", 
+        "0.28655"
+      ]
+    ], 
+    "5.996"
+  ]
+}

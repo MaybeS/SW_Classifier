@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.42104"
+      ], 
+      [
+        "vacuum", 
+        "0.15841"
+      ], 
+      [
+        "waffle iron", 
+        "0.12336"
+      ], 
+      [
+        "espresso maker", 
+        "0.05713"
+      ], 
+      [
+        "crash helmet", 
+        "0.03244"
+      ]
+    ], 
+    [
+      [
+        "appliance", 
+        "0.47366"
+      ], 
+      [
+        "durables", 
+        "0.46134"
+      ], 
+      [
+        "home appliance", 
+        "0.45275"
+      ], 
+      [
+        "consumer goods", 
+        "0.39243"
+      ], 
+      [
+        "commodity", 
+        "0.37155"
+      ]
+    ], 
+    "5.748"
+  ]
+}

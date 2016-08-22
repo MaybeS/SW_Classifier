@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.17124"
+      ], 
+      [
+        "digital clock", 
+        "0.07853"
+      ], 
+      [
+        "cash machine", 
+        "0.05601"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04850"
+      ], 
+      [
+        "modem", 
+        "0.03963"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.35572"
+      ], 
+      [
+        "device", 
+        "0.33619"
+      ], 
+      [
+        "equipment", 
+        "0.32686"
+      ], 
+      [
+        "machine", 
+        "0.31148"
+      ], 
+      [
+        "measuring instrument", 
+        "0.29110"
+      ]
+    ], 
+    "9.829"
+  ]
+}

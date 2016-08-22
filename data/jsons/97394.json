@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "computer keyboard", 
+        "0.62623"
+      ], 
+      [
+        "space bar", 
+        "0.13898"
+      ], 
+      [
+        "mouse", 
+        "0.06212"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.05728"
+      ], 
+      [
+        "notebook", 
+        "0.02282"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "1.32927"
+      ], 
+      [
+        "computer keyboard", 
+        "1.05873"
+      ], 
+      [
+        "data input device", 
+        "0.96848"
+      ], 
+      [
+        "peripheral", 
+        "0.90345"
+      ], 
+      [
+        "electronic equipment", 
+        "0.78845"
+      ]
+    ], 
+    "5.342"
+  ]
+}

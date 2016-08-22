@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.50627"
+      ], 
+      [
+        "hook", 
+        "0.08349"
+      ], 
+      [
+        "tripod", 
+        "0.05882"
+      ], 
+      [
+        "hammer", 
+        "0.05072"
+      ], 
+      [
+        "reel", 
+        "0.04839"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39995"
+      ], 
+      [
+        "microphone", 
+        "0.39107"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.36367"
+      ], 
+      [
+        "transducer", 
+        "0.35762"
+      ], 
+      [
+        "electrical device", 
+        "0.35158"
+      ]
+    ], 
+    "6.774"
+  ]
+}

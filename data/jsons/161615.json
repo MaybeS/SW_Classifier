@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.60737"
+      ], 
+      [
+        "wallet", 
+        "0.06561"
+      ], 
+      [
+        "bath towel", 
+        "0.04513"
+      ], 
+      [
+        "handkerchief", 
+        "0.03608"
+      ], 
+      [
+        "velvet", 
+        "0.02459"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.60707"
+      ], 
+      [
+        "covering", 
+        "0.41512"
+      ], 
+      [
+        "protective covering", 
+        "0.40453"
+      ], 
+      [
+        "container", 
+        "0.30139"
+      ], 
+      [
+        "furnishing", 
+        "0.21717"
+      ]
+    ], 
+    "6.872"
+  ]
+}

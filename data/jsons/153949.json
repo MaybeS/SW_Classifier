@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.05904"
+      ], 
+      [
+        "ballpoint", 
+        "0.04513"
+      ], 
+      [
+        "web site", 
+        "0.04418"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04285"
+      ], 
+      [
+        "can opener", 
+        "0.04072"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34046"
+      ], 
+      [
+        "implement", 
+        "0.30215"
+      ], 
+      [
+        "equipment", 
+        "0.26047"
+      ], 
+      [
+        "machine", 
+        "0.25925"
+      ], 
+      [
+        "computer", 
+        "0.22153"
+      ]
+    ], 
+    "5.129"
+  ]
+}

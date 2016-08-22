@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.25207"
+      ], 
+      [
+        "modem", 
+        "0.19944"
+      ], 
+      [
+        "rule", 
+        "0.09206"
+      ], 
+      [
+        "broom", 
+        "0.05819"
+      ], 
+      [
+        "swab", 
+        "0.05722"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.52085"
+      ], 
+      [
+        "device", 
+        "0.30385"
+      ], 
+      [
+        "equipment", 
+        "0.25615"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24759"
+      ], 
+      [
+        "cleaning implement", 
+        "0.20239"
+      ]
+    ], 
+    "8.603"
+  ]
+}

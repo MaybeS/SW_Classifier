@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "alp", 
+        "0.35611"
+      ], 
+      [
+        "volcano", 
+        "0.16934"
+      ], 
+      [
+        "jigsaw puzzle", 
+        "0.03124"
+      ], 
+      [
+        "web site", 
+        "0.02029"
+      ], 
+      [
+        "lakeside", 
+        "0.01873"
+      ]
+    ], 
+    [
+      [
+        "mountain", 
+        "1.36689"
+      ], 
+      [
+        "geological formation", 
+        "1.35571"
+      ], 
+      [
+        "natural elevation", 
+        "1.20477"
+      ], 
+      [
+        "alp", 
+        "0.88522"
+      ], 
+      [
+        "volcano", 
+        "0.66193"
+      ]
+    ], 
+    "5.437"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.39896"
+      ], 
+      [
+        "loudspeaker", 
+        "0.25546"
+      ], 
+      [
+        "binoculars", 
+        "0.08194"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05242"
+      ], 
+      [
+        "loupe", 
+        "0.04265"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.54250"
+      ], 
+      [
+        "optical instrument", 
+        "0.52825"
+      ], 
+      [
+        "camera", 
+        "0.42694"
+      ], 
+      [
+        "photographic equipment", 
+        "0.41984"
+      ], 
+      [
+        "device", 
+        "0.40828"
+      ]
+    ], 
+    "6.029"
+  ]
+}

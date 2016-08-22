@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.14775"
+      ], 
+      [
+        "binder", 
+        "0.08316"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07392"
+      ], 
+      [
+        "book jacket", 
+        "0.07243"
+      ], 
+      [
+        "iPod", 
+        "0.06555"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.44828"
+      ], 
+      [
+        "equipment", 
+        "0.39505"
+      ], 
+      [
+        "device", 
+        "0.30345"
+      ], 
+      [
+        "machine", 
+        "0.24379"
+      ], 
+      [
+        "toiletry", 
+        "0.23219"
+      ]
+    ], 
+    "7.674"
+  ]
+}

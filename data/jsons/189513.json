@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.91142"
+      ], 
+      [
+        "waffle iron", 
+        "0.01973"
+      ], 
+      [
+        "scale", 
+        "0.01526"
+      ], 
+      [
+        "puck", 
+        "0.01502"
+      ], 
+      [
+        "face powder", 
+        "0.00804"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "1.04222"
+      ], 
+      [
+        "equipment", 
+        "0.85093"
+      ], 
+      [
+        "CD player", 
+        "0.70134"
+      ], 
+      [
+        "cassette player", 
+        "0.43936"
+      ], 
+      [
+        "motor vehicle", 
+        "0.33742"
+      ]
+    ], 
+    "5.112"
+  ]
+}

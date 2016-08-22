@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.30845"
+      ], 
+      [
+        "space heater", 
+        "0.15352"
+      ], 
+      [
+        "screen", 
+        "0.04522"
+      ], 
+      [
+        "photocopier", 
+        "0.04297"
+      ], 
+      [
+        "sleeping bag", 
+        "0.04001"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.51277"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46860"
+      ], 
+      [
+        "machine", 
+        "0.42116"
+      ], 
+      [
+        "printer", 
+        "0.35471"
+      ], 
+      [
+        "printer", 
+        "0.34950"
+      ]
+    ], 
+    "5.512"
+  ]
+}

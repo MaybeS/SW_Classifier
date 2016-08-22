@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.18091"
+      ], 
+      [
+        "modem", 
+        "0.16597"
+      ], 
+      [
+        "mouse", 
+        "0.13521"
+      ], 
+      [
+        "CD player", 
+        "0.10807"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.03983"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.46060"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39987"
+      ], 
+      [
+        "waffle iron", 
+        "0.35612"
+      ], 
+      [
+        "appliance", 
+        "0.34606"
+      ], 
+      [
+        "home appliance", 
+        "0.33988"
+      ]
+    ], 
+    "10.075"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.71809"
+      ], 
+      [
+        "lens cap", 
+        "0.08242"
+      ], 
+      [
+        "gasmask", 
+        "0.03901"
+      ], 
+      [
+        "loupe", 
+        "0.03522"
+      ], 
+      [
+        "radio", 
+        "0.02142"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.68202"
+      ], 
+      [
+        "photographic equipment", 
+        "1.65406"
+      ], 
+      [
+        "reflex camera", 
+        "1.63672"
+      ], 
+      [
+        "equipment", 
+        "0.87575"
+      ], 
+      [
+        "lens cap", 
+        "0.39431"
+      ]
+    ], 
+    "5.994"
+  ]
+}

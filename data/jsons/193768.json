@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stove", 
+        "0.34221"
+      ], 
+      [
+        "tape player", 
+        "0.15826"
+      ], 
+      [
+        "cassette player", 
+        "0.09760"
+      ], 
+      [
+        "mousetrap", 
+        "0.05690"
+      ], 
+      [
+        "radio", 
+        "0.05621"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51848"
+      ], 
+      [
+        "equipment", 
+        "0.46012"
+      ], 
+      [
+        "stove", 
+        "0.38136"
+      ], 
+      [
+        "heater", 
+        "0.36111"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.33488"
+      ]
+    ], 
+    "10.216"
+  ]
+}

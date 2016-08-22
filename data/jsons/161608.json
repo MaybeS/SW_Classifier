@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.22866"
+      ], 
+      [
+        "combination lock", 
+        "0.13172"
+      ], 
+      [
+        "digital clock", 
+        "0.09240"
+      ], 
+      [
+        "screwdriver", 
+        "0.06832"
+      ], 
+      [
+        "digital watch", 
+        "0.04454"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.40557"
+      ], 
+      [
+        "device", 
+        "0.40245"
+      ], 
+      [
+        "equipment", 
+        "0.39894"
+      ], 
+      [
+        "measuring instrument", 
+        "0.33059"
+      ], 
+      [
+        "timepiece", 
+        "0.31969"
+      ]
+    ], 
+    "5.702"
+  ]
+}

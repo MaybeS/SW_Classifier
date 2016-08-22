@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.45352"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.24969"
+      ], 
+      [
+        "switch", 
+        "0.12014"
+      ], 
+      [
+        "toilet tissue", 
+        "0.05253"
+      ], 
+      [
+        "toilet seat", 
+        "0.03166"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32424"
+      ], 
+      [
+        "container", 
+        "0.25878"
+      ], 
+      [
+        "implement", 
+        "0.23626"
+      ], 
+      [
+        "source of illumination", 
+        "0.23433"
+      ], 
+      [
+        "spotlight", 
+        "0.22824"
+      ]
+    ], 
+    "6.365"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.52193"
+      ], 
+      [
+        "space heater", 
+        "0.06396"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.06122"
+      ], 
+      [
+        "toaster", 
+        "0.04316"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03507"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.65963"
+      ], 
+      [
+        "optical instrument", 
+        "0.56574"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.43532"
+      ], 
+      [
+        "motor vehicle", 
+        "0.41938"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.40918"
+      ]
+    ], 
+    "6.189"
+  ]
+}

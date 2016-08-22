@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dial telephone", 
+        "0.13398"
+      ], 
+      [
+        "dumbbell", 
+        "0.06425"
+      ], 
+      [
+        "stethoscope", 
+        "0.06279"
+      ], 
+      [
+        "hair slide", 
+        "0.05787"
+      ], 
+      [
+        "whistle", 
+        "0.05739"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.36297"
+      ], 
+      [
+        "dial telephone", 
+        "0.31270"
+      ], 
+      [
+        "telephone", 
+        "0.28021"
+      ], 
+      [
+        "device", 
+        "0.27845"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27665"
+      ]
+    ], 
+    "5.392"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.78978"
+      ], 
+      [
+        "modem", 
+        "0.08809"
+      ], 
+      [
+        "scoreboard", 
+        "0.02566"
+      ], 
+      [
+        "rule", 
+        "0.02440"
+      ], 
+      [
+        "container ship", 
+        "0.02043"
+      ]
+    ], 
+    [
+      [
+        "digital clock", 
+        "1.15936"
+      ], 
+      [
+        "timepiece", 
+        "1.02624"
+      ], 
+      [
+        "measuring instrument", 
+        "1.00639"
+      ], 
+      [
+        "clock", 
+        "0.98718"
+      ], 
+      [
+        "instrument", 
+        "0.72044"
+      ]
+    ], 
+    "13.948"
+  ]
+}

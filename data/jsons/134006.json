@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.21151"
+      ], 
+      [
+        "switch", 
+        "0.19398"
+      ], 
+      [
+        "abacus", 
+        "0.14344"
+      ], 
+      [
+        "web site", 
+        "0.05440"
+      ], 
+      [
+        "scoreboard", 
+        "0.05278"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.43019"
+      ], 
+      [
+        "device", 
+        "0.40439"
+      ], 
+      [
+        "abacus", 
+        "0.32664"
+      ], 
+      [
+        "calculator", 
+        "0.32184"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29551"
+      ]
+    ], 
+    "6.980"
+  ]
+}

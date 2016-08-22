@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.54950"
+      ], 
+      [
+        "microphone", 
+        "0.18455"
+      ], 
+      [
+        "joystick", 
+        "0.13838"
+      ], 
+      [
+        "sunglasses", 
+        "0.02054"
+      ], 
+      [
+        "sunglass", 
+        "0.01819"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39720"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34039"
+      ], 
+      [
+        "equipment", 
+        "0.33519"
+      ], 
+      [
+        "electronic device", 
+        "0.25534"
+      ], 
+      [
+        "mouse", 
+        "0.25165"
+      ]
+    ], 
+    "5.897"
+  ]
+}

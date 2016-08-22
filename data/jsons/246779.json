@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "perfume", 
+        "0.08154"
+      ], 
+      [
+        "book jacket", 
+        "0.07863"
+      ], 
+      [
+        "television", 
+        "0.07064"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06386"
+      ], 
+      [
+        "hair spray", 
+        "0.05163"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.31664"
+      ], 
+      [
+        "computer", 
+        "0.31051"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29910"
+      ], 
+      [
+        "device", 
+        "0.29620"
+      ], 
+      [
+        "toiletry", 
+        "0.29134"
+      ]
+    ], 
+    "7.086"
+  ]
+}

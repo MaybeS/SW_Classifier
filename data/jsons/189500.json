@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.79564"
+      ], 
+      [
+        "whistle", 
+        "0.11571"
+      ], 
+      [
+        "switch", 
+        "0.02422"
+      ], 
+      [
+        "lighter", 
+        "0.01231"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.00777"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.42293"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.40339"
+      ], 
+      [
+        "sharpener", 
+        "0.39746"
+      ], 
+      [
+        "device", 
+        "0.29474"
+      ], 
+      [
+        "whistle", 
+        "0.25633"
+      ]
+    ], 
+    "8.524"
+  ]
+}

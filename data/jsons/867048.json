@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "quilt", 
+        "0.59179"
+      ], 
+      [
+        "paper towel", 
+        "0.05722"
+      ], 
+      [
+        "studio couch", 
+        "0.04716"
+      ], 
+      [
+        "pillow", 
+        "0.04341"
+      ], 
+      [
+        "shower curtain", 
+        "0.02990"
+      ]
+    ], 
+    [
+      [
+        "quilt", 
+        "0.88803"
+      ], 
+      [
+        "bedclothes", 
+        "0.87499"
+      ], 
+      [
+        "cloth covering", 
+        "0.75589"
+      ], 
+      [
+        "covering", 
+        "0.54373"
+      ], 
+      [
+        "furnishing", 
+        "0.43059"
+      ]
+    ], 
+    "5.158"
+  ]
+}

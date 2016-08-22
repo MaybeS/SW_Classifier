@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Windsor tie", 
+        "0.13204"
+      ], 
+      [
+        "pencil box", 
+        "0.10621"
+      ], 
+      [
+        "swimming trunks", 
+        "0.10323"
+      ], 
+      [
+        "bow tie", 
+        "0.08677"
+      ], 
+      [
+        "panpipe", 
+        "0.06273"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.64166"
+      ], 
+      [
+        "covering", 
+        "0.60310"
+      ], 
+      [
+        "consumer goods", 
+        "0.57812"
+      ], 
+      [
+        "commodity", 
+        "0.55437"
+      ], 
+      [
+        "garment", 
+        "0.54929"
+      ]
+    ], 
+    "10.146"
+  ]
+}

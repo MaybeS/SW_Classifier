@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.41436"
+      ], 
+      [
+        "electric fan", 
+        "0.09465"
+      ], 
+      [
+        "solar dish", 
+        "0.06369"
+      ], 
+      [
+        "desktop computer", 
+        "0.05846"
+      ], 
+      [
+        "window screen", 
+        "0.04196"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.62838"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.57063"
+      ], 
+      [
+        "transducer", 
+        "0.56115"
+      ], 
+      [
+        "electrical device", 
+        "0.55166"
+      ], 
+      [
+        "device", 
+        "0.41233"
+      ]
+    ], 
+    "11.280"
+  ]
+}

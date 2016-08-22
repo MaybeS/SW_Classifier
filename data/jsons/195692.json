@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.48258"
+      ], 
+      [
+        "waffle iron", 
+        "0.24095"
+      ], 
+      [
+        "CD player", 
+        "0.13932"
+      ], 
+      [
+        "joystick", 
+        "0.06721"
+      ], 
+      [
+        "cassette player", 
+        "0.01757"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "0.47199"
+      ], 
+      [
+        "appliance", 
+        "0.46219"
+      ], 
+      [
+        "durables", 
+        "0.45016"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44906"
+      ], 
+      [
+        "home appliance", 
+        "0.44469"
+      ]
+    ], 
+    "8.585"
+  ]
+}

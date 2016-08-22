@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.31627"
+      ], 
+      [
+        "vacuum", 
+        "0.22652"
+      ], 
+      [
+        "gasmask", 
+        "0.08371"
+      ], 
+      [
+        "spotlight", 
+        "0.08064"
+      ], 
+      [
+        "radio", 
+        "0.02936"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36103"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.27793"
+      ], 
+      [
+        "transducer", 
+        "0.27331"
+      ], 
+      [
+        "electrical device", 
+        "0.26869"
+      ], 
+      [
+        "covering", 
+        "0.25583"
+      ]
+    ], 
+    "7.698"
+  ]
+}

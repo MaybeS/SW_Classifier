@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "apron", 
+        "0.21315"
+      ], 
+      [
+        "bath towel", 
+        "0.19448"
+      ], 
+      [
+        "toilet tissue", 
+        "0.14022"
+      ], 
+      [
+        "shower curtain", 
+        "0.08845"
+      ], 
+      [
+        "paper towel", 
+        "0.05602"
+      ]
+    ], 
+    [
+      [
+        "commodity", 
+        "0.56349"
+      ], 
+      [
+        "clothing", 
+        "0.56216"
+      ], 
+      [
+        "covering", 
+        "0.55285"
+      ], 
+      [
+        "consumer goods", 
+        "0.51834"
+      ], 
+      [
+        "piece of cloth", 
+        "0.43638"
+      ]
+    ], 
+    "5.369"
+  ]
+}

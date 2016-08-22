@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.39312"
+      ], 
+      [
+        "stove", 
+        "0.09115"
+      ], 
+      [
+        "corkscrew", 
+        "0.05507"
+      ], 
+      [
+        "soap dispenser", 
+        "0.05454"
+      ], 
+      [
+        "scale", 
+        "0.05236"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.59571"
+      ], 
+      [
+        "coffee maker", 
+        "0.58696"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.48559"
+      ], 
+      [
+        "home appliance", 
+        "0.48315"
+      ], 
+      [
+        "appliance", 
+        "0.47372"
+      ]
+    ], 
+    "6.883"
+  ]
+}

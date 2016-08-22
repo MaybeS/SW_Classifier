@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.10887"
+      ], 
+      [
+        "digital clock", 
+        "0.06688"
+      ], 
+      [
+        "laptop", 
+        "0.04717"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04259"
+      ], 
+      [
+        "combination lock", 
+        "0.03917"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.51547"
+      ], 
+      [
+        "machine", 
+        "0.47083"
+      ], 
+      [
+        "web site", 
+        "0.43831"
+      ], 
+      [
+        "device", 
+        "0.40040"
+      ], 
+      [
+        "measuring instrument", 
+        "0.27536"
+      ]
+    ], 
+    "7.054"
+  ]
+}

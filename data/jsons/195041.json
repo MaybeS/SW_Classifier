@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.36454"
+      ], 
+      [
+        "toaster", 
+        "0.35275"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06439"
+      ], 
+      [
+        "mailbag", 
+        "0.03335"
+      ], 
+      [
+        "soap dispenser", 
+        "0.03099"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.52851"
+      ], 
+      [
+        "appliance", 
+        "0.51602"
+      ], 
+      [
+        "durables", 
+        "0.50259"
+      ], 
+      [
+        "toaster", 
+        "0.49497"
+      ], 
+      [
+        "equipment", 
+        "0.47356"
+      ]
+    ], 
+    "7.680"
+  ]
+}

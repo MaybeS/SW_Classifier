@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.36654"
+      ], 
+      [
+        "hard disc", 
+        "0.32217"
+      ], 
+      [
+        "scoreboard", 
+        "0.05549"
+      ], 
+      [
+        "binder", 
+        "0.04532"
+      ], 
+      [
+        "wallet", 
+        "0.02941"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.59378"
+      ], 
+      [
+        "magnetic disk", 
+        "0.58506"
+      ], 
+      [
+        "memory device", 
+        "0.57634"
+      ], 
+      [
+        "electronic equipment", 
+        "0.55556"
+      ], 
+      [
+        "equipment", 
+        "0.46842"
+      ]
+    ], 
+    "8.301"
+  ]
+}

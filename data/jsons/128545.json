@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.19219"
+      ], 
+      [
+        "whistle", 
+        "0.17944"
+      ], 
+      [
+        "syringe", 
+        "0.08969"
+      ], 
+      [
+        "combination lock", 
+        "0.04796"
+      ], 
+      [
+        "water bottle", 
+        "0.04389"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34504"
+      ], 
+      [
+        "equipment", 
+        "0.28459"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27097"
+      ], 
+      [
+        "implement", 
+        "0.25183"
+      ], 
+      [
+        "container", 
+        "0.22872"
+      ]
+    ], 
+    "13.967"
+  ]
+}

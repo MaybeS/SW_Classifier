@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric guitar", 
+        "0.52955"
+      ], 
+      [
+        "chain saw", 
+        "0.12446"
+      ], 
+      [
+        "can opener", 
+        "0.11421"
+      ], 
+      [
+        "hatchet", 
+        "0.10158"
+      ], 
+      [
+        "revolver", 
+        "0.04605"
+      ]
+    ], 
+    [
+      [
+        "guitar", 
+        "0.92366"
+      ], 
+      [
+        "stringed instrument", 
+        "0.83095"
+      ], 
+      [
+        "electric guitar", 
+        "0.78761"
+      ], 
+      [
+        "musical instrument", 
+        "0.74052"
+      ], 
+      [
+        "device", 
+        "0.45948"
+      ]
+    ], 
+    "6.478"
+  ]
+}

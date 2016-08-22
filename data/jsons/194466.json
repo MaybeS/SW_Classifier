@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "guillotine", 
+        "0.16948"
+      ], 
+      [
+        "carton", 
+        "0.11283"
+      ], 
+      [
+        "printer", 
+        "0.06956"
+      ], 
+      [
+        "table lamp", 
+        "0.06251"
+      ], 
+      [
+        "analog clock", 
+        "0.04671"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.30561"
+      ], 
+      [
+        "guillotine", 
+        "0.30274"
+      ], 
+      [
+        "instrument of execution", 
+        "0.29829"
+      ], 
+      [
+        "device", 
+        "0.29138"
+      ], 
+      [
+        "furniture", 
+        "0.27991"
+      ]
+    ], 
+    "10.386"
+  ]
+}

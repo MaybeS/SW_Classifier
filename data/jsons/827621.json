@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "swimming trunks", 
+        "0.71187"
+      ], 
+      [
+        "bow tie", 
+        "0.07861"
+      ], 
+      [
+        "knee pad", 
+        "0.07087"
+      ], 
+      [
+        "miniskirt", 
+        "0.05418"
+      ], 
+      [
+        "neck brace", 
+        "0.02839"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.20385"
+      ], 
+      [
+        "swimsuit", 
+        "1.15820"
+      ], 
+      [
+        "garment", 
+        "1.15428"
+      ], 
+      [
+        "consumer goods", 
+        "1.05095"
+      ], 
+      [
+        "commodity", 
+        "0.99504"
+      ]
+    ], 
+    "6.189"
+  ]
+}

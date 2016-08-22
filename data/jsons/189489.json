@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.45603"
+      ], 
+      [
+        "notebook", 
+        "0.30815"
+      ], 
+      [
+        "binder", 
+        "0.07379"
+      ], 
+      [
+        "modem", 
+        "0.05433"
+      ], 
+      [
+        "laptop", 
+        "0.04006"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.80721"
+      ], 
+      [
+        "magnetic disk", 
+        "0.79535"
+      ], 
+      [
+        "memory device", 
+        "0.78349"
+      ], 
+      [
+        "personal computer", 
+        "0.63885"
+      ], 
+      [
+        "digital computer", 
+        "0.62661"
+      ]
+    ], 
+    "7.075"
+  ]
+}

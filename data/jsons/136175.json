@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.37249"
+      ], 
+      [
+        "loudspeaker", 
+        "0.14585"
+      ], 
+      [
+        "digital watch", 
+        "0.08886"
+      ], 
+      [
+        "microphone", 
+        "0.07528"
+      ], 
+      [
+        "space heater", 
+        "0.06542"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.41012"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.29236"
+      ], 
+      [
+        "transducer", 
+        "0.28750"
+      ], 
+      [
+        "electrical device", 
+        "0.28264"
+      ], 
+      [
+        "instrument", 
+        "0.27648"
+      ]
+    ], 
+    "7.366"
+  ]
+}

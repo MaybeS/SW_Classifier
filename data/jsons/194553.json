@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toilet tissue", 
+        "0.27318"
+      ], 
+      [
+        "printer", 
+        "0.23184"
+      ], 
+      [
+        "paper towel", 
+        "0.06276"
+      ], 
+      [
+        "refrigerator", 
+        "0.05274"
+      ], 
+      [
+        "seat belt", 
+        "0.04424"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.36859"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29226"
+      ], 
+      [
+        "machine", 
+        "0.27380"
+      ], 
+      [
+        "printer", 
+        "0.26421"
+      ], 
+      [
+        "printer", 
+        "0.26033"
+      ]
+    ], 
+    "5.864"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.71324"
+      ], 
+      [
+        "electric fan", 
+        "0.07363"
+      ], 
+      [
+        "spotlight", 
+        "0.06501"
+      ], 
+      [
+        "microphone", 
+        "0.06194"
+      ], 
+      [
+        "space heater", 
+        "0.05075"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.06262"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.99667"
+      ], 
+      [
+        "transducer", 
+        "0.98010"
+      ], 
+      [
+        "electrical device", 
+        "0.96353"
+      ], 
+      [
+        "device", 
+        "0.47320"
+      ]
+    ], 
+    "9.549"
+  ]
+}

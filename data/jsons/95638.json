@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.94906"
+      ], 
+      [
+        "photocopier", 
+        "0.03037"
+      ], 
+      [
+        "modem", 
+        "0.00282"
+      ], 
+      [
+        "screwdriver", 
+        "0.00247"
+      ], 
+      [
+        "tape player", 
+        "0.00203"
+      ]
+    ], 
+    [
+      [
+        "printer", 
+        "0.95379"
+      ], 
+      [
+        "equipment", 
+        "0.95228"
+      ], 
+      [
+        "printer", 
+        "0.93978"
+      ], 
+      [
+        "electronic equipment", 
+        "0.92532"
+      ], 
+      [
+        "peripheral", 
+        "0.82448"
+      ]
+    ], 
+    "5.865"
+  ]
+}

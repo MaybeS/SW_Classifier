@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "magnetic compass", 
+        "0.15530"
+      ], 
+      [
+        "corkscrew", 
+        "0.10643"
+      ], 
+      [
+        "hook", 
+        "0.09473"
+      ], 
+      [
+        "wall clock", 
+        "0.08380"
+      ], 
+      [
+        "nematode", 
+        "0.05547"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.48624"
+      ], 
+      [
+        "measuring instrument", 
+        "0.40480"
+      ], 
+      [
+        "magnetic compass", 
+        "0.38502"
+      ], 
+      [
+        "compass", 
+        "0.37937"
+      ], 
+      [
+        "navigational instrument", 
+        "0.37371"
+      ]
+    ], 
+    "12.654"
+  ]
+}

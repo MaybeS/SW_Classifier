@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "kimono", 
+        "0.22733"
+      ], 
+      [
+        "vestment", 
+        "0.14453"
+      ], 
+      [
+        "diaper", 
+        "0.11712"
+      ], 
+      [
+        "handkerchief", 
+        "0.05352"
+      ], 
+      [
+        "military uniform", 
+        "0.03542"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.84629"
+      ], 
+      [
+        "consumer goods", 
+        "0.74736"
+      ], 
+      [
+        "commodity", 
+        "0.71276"
+      ], 
+      [
+        "covering", 
+        "0.70294"
+      ], 
+      [
+        "garment", 
+        "0.63914"
+      ]
+    ], 
+    "5.301"
+  ]
+}

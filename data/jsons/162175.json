@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.13640"
+      ], 
+      [
+        "web site", 
+        "0.12612"
+      ], 
+      [
+        "lotion", 
+        "0.06392"
+      ], 
+      [
+        "sunscreen", 
+        "0.06384"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06340"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.70636"
+      ], 
+      [
+        "machine", 
+        "0.62269"
+      ], 
+      [
+        "web site", 
+        "0.50832"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41878"
+      ], 
+      [
+        "personal computer", 
+        "0.39297"
+      ]
+    ], 
+    "8.981"
+  ]
+}

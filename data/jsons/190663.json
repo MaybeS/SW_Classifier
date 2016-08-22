@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.45050"
+      ], 
+      [
+        "modem", 
+        "0.15912"
+      ], 
+      [
+        "whistle", 
+        "0.14555"
+      ], 
+      [
+        "harmonica", 
+        "0.05307"
+      ], 
+      [
+        "remote control", 
+        "0.02799"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38079"
+      ], 
+      [
+        "lighter", 
+        "0.31975"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28015"
+      ], 
+      [
+        "implement", 
+        "0.27988"
+      ], 
+      [
+        "equipment", 
+        "0.27973"
+      ]
+    ], 
+    "13.928"
+  ]
+}

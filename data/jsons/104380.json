@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.25897"
+      ], 
+      [
+        "Crock Pot", 
+        "0.15225"
+      ], 
+      [
+        "mouse", 
+        "0.09712"
+      ], 
+      [
+        "soap dispenser", 
+        "0.07647"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06423"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.44756"
+      ], 
+      [
+        "appliance", 
+        "0.44382"
+      ], 
+      [
+        "durables", 
+        "0.43227"
+      ], 
+      [
+        "Crock Pot", 
+        "0.38735"
+      ], 
+      [
+        "cooker", 
+        "0.38166"
+      ]
+    ], 
+    "11.805"
+  ]
+}

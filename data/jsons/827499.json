@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "buckle", 
+        "0.20355"
+      ], 
+      [
+        "digital clock", 
+        "0.13486"
+      ], 
+      [
+        "whistle", 
+        "0.13258"
+      ], 
+      [
+        "pajama", 
+        "0.12354"
+      ], 
+      [
+        "digital watch", 
+        "0.07020"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.38648"
+      ], 
+      [
+        "consumer goods", 
+        "0.36397"
+      ], 
+      [
+        "timepiece", 
+        "0.36294"
+      ], 
+      [
+        "clothing", 
+        "0.35880"
+      ], 
+      [
+        "measuring instrument", 
+        "0.34976"
+      ]
+    ], 
+    "4.907"
+  ]
+}

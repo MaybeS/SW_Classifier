@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.18943"
+      ], 
+      [
+        "backpack", 
+        "0.16098"
+      ], 
+      [
+        "gasmask", 
+        "0.09889"
+      ], 
+      [
+        "oxygen mask", 
+        "0.09107"
+      ], 
+      [
+        "assault rifle", 
+        "0.04990"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.54910"
+      ], 
+      [
+        "clothing", 
+        "0.52961"
+      ], 
+      [
+        "consumer goods", 
+        "0.49586"
+      ], 
+      [
+        "commodity", 
+        "0.47022"
+      ], 
+      [
+        "garment", 
+        "0.46221"
+      ]
+    ], 
+    "7.246"
+  ]
+}

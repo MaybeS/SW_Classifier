@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "croquet ball", 
+        "0.55060"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.10712"
+      ], 
+      [
+        "balloon", 
+        "0.07849"
+      ], 
+      [
+        "puck", 
+        "0.04735"
+      ], 
+      [
+        "punching bag", 
+        "0.03848"
+      ]
+    ], 
+    [
+      [
+        "croquet ball", 
+        "1.38463"
+      ], 
+      [
+        "croquet equipment", 
+        "1.36429"
+      ], 
+      [
+        "ball", 
+        "1.27655"
+      ], 
+      [
+        "game equipment", 
+        "1.15415"
+      ], 
+      [
+        "sports equipment", 
+        "1.03859"
+      ]
+    ], 
+    "6.554"
+  ]
+}

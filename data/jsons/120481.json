@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.53960"
+      ], 
+      [
+        "hook", 
+        "0.13074"
+      ], 
+      [
+        "muzzle", 
+        "0.03674"
+      ], 
+      [
+        "combination lock", 
+        "0.02861"
+      ], 
+      [
+        "padlock", 
+        "0.02095"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.41185"
+      ], 
+      [
+        "device", 
+        "0.39339"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.38099"
+      ], 
+      [
+        "transducer", 
+        "0.37466"
+      ], 
+      [
+        "electrical device", 
+        "0.36833"
+      ]
+    ], 
+    "5.368"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.50204"
+      ], 
+      [
+        "soap dispenser", 
+        "0.48319"
+      ], 
+      [
+        "paper towel", 
+        "0.00759"
+      ], 
+      [
+        "toilet tissue", 
+        "0.00127"
+      ], 
+      [
+        "toilet seat", 
+        "0.00097"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.56978"
+      ], 
+      [
+        "control", 
+        "0.54691"
+      ], 
+      [
+        "mechanism", 
+        "0.39524"
+      ], 
+      [
+        "container", 
+        "0.36001"
+      ], 
+      [
+        "soap dispenser", 
+        "0.35285"
+      ]
+    ], 
+    "6.107"
+  ]
+}

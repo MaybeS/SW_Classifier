@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pinwheel", 
+        "0.73201"
+      ], 
+      [
+        "table lamp", 
+        "0.13388"
+      ], 
+      [
+        "electric fan", 
+        "0.08575"
+      ], 
+      [
+        "paper towel", 
+        "0.01234"
+      ], 
+      [
+        "lampshade", 
+        "0.00635"
+      ]
+    ], 
+    [
+      [
+        "pinwheel", 
+        "1.39494"
+      ], 
+      [
+        "wheel", 
+        "1.10686"
+      ], 
+      [
+        "machine", 
+        "1.08606"
+      ], 
+      [
+        "mechanical device", 
+        "0.92671"
+      ], 
+      [
+        "mechanism", 
+        "0.83626"
+      ]
+    ], 
+    "5.848"
+  ]
+}

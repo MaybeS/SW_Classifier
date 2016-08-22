@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.53267"
+      ], 
+      [
+        "envelope", 
+        "0.08450"
+      ], 
+      [
+        "wallet", 
+        "0.08366"
+      ], 
+      [
+        "doormat", 
+        "0.05898"
+      ], 
+      [
+        "mortarboard", 
+        "0.05187"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.55608"
+      ], 
+      [
+        "covering", 
+        "0.44337"
+      ], 
+      [
+        "protective covering", 
+        "0.36205"
+      ], 
+      [
+        "container", 
+        "0.29482"
+      ], 
+      [
+        "consumer goods", 
+        "0.23326"
+      ]
+    ], 
+    "8.478"
+  ]
+}

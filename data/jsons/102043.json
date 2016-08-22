@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.99453"
+      ], 
+      [
+        "mouse", 
+        "0.00076"
+      ], 
+      [
+        "waffle iron", 
+        "0.00040"
+      ], 
+      [
+        "radio", 
+        "0.00035"
+      ], 
+      [
+        "hand-held computer", 
+        "0.00032"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.90537"
+      ], 
+      [
+        "device", 
+        "0.57645"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48609"
+      ], 
+      [
+        "equipment", 
+        "0.41962"
+      ], 
+      [
+        "cellular telephone", 
+        "0.33846"
+      ]
+    ], 
+    "11.239"
+  ]
+}

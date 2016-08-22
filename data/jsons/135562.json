@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.50911"
+      ], 
+      [
+        "projector", 
+        "0.22505"
+      ], 
+      [
+        "CD player", 
+        "0.04148"
+      ], 
+      [
+        "modem", 
+        "0.03616"
+      ], 
+      [
+        "radio", 
+        "0.02996"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.77486"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.70346"
+      ], 
+      [
+        "transducer", 
+        "0.69176"
+      ], 
+      [
+        "electrical device", 
+        "0.68007"
+      ], 
+      [
+        "equipment", 
+        "0.44066"
+      ]
+    ], 
+    "7.078"
+  ]
+}

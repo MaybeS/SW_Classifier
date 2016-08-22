@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.21650"
+      ], 
+      [
+        "hand blower", 
+        "0.17579"
+      ], 
+      [
+        "cleaver", 
+        "0.08287"
+      ], 
+      [
+        "can opener", 
+        "0.05333"
+      ], 
+      [
+        "switch", 
+        "0.05057"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.36974"
+      ], 
+      [
+        "equipment", 
+        "0.35804"
+      ], 
+      [
+        "device", 
+        "0.33354"
+      ], 
+      [
+        "implement", 
+        "0.25298"
+      ], 
+      [
+        "consumer goods", 
+        "0.24266"
+      ]
+    ], 
+    "6.613"
+  ]
+}

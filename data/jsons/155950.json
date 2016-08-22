@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fire screen", 
+        "0.48662"
+      ], 
+      [
+        "parallel bars", 
+        "0.11043"
+      ], 
+      [
+        "bannister", 
+        "0.04473"
+      ], 
+      [
+        "medicine chest", 
+        "0.04227"
+      ], 
+      [
+        "horizontal bar", 
+        "0.03545"
+      ]
+    ], 
+    [
+      [
+        "fire screen", 
+        "1.05285"
+      ], 
+      [
+        "screen", 
+        "0.94711"
+      ], 
+      [
+        "protective covering", 
+        "0.66666"
+      ], 
+      [
+        "covering", 
+        "0.48538"
+      ], 
+      [
+        "furnishing", 
+        "0.31220"
+      ]
+    ], 
+    "9.968"
+  ]
+}

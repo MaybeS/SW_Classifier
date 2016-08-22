@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.25044"
+      ], 
+      [
+        "dumbbell", 
+        "0.08475"
+      ], 
+      [
+        "mouse", 
+        "0.08237"
+      ], 
+      [
+        "joystick", 
+        "0.06959"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04114"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "0.47626"
+      ], 
+      [
+        "consumer goods", 
+        "0.42545"
+      ], 
+      [
+        "protective garment", 
+        "0.42483"
+      ], 
+      [
+        "clothing", 
+        "0.42248"
+      ], 
+      [
+        "covering", 
+        "0.41944"
+      ]
+    ], 
+    "11.161"
+  ]
+}

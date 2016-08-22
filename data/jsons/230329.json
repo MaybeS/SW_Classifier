@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.35071"
+      ], 
+      [
+        "reflex camera", 
+        "0.23001"
+      ], 
+      [
+        "book jacket", 
+        "0.03291"
+      ], 
+      [
+        "digital clock", 
+        "0.03197"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.03142"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "1.08711"
+      ], 
+      [
+        "board", 
+        "1.07115"
+      ], 
+      [
+        "signboard", 
+        "1.07115"
+      ], 
+      [
+        "sheet", 
+        "0.94136"
+      ], 
+      [
+        "camera", 
+        "0.63296"
+      ]
+    ], 
+    "5.312"
+  ]
+}

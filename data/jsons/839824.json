@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.59994"
+      ], 
+      [
+        "cardigan", 
+        "0.12537"
+      ], 
+      [
+        "breastplate", 
+        "0.09981"
+      ], 
+      [
+        "cuirass", 
+        "0.07878"
+      ], 
+      [
+        "sweatshirt", 
+        "0.02156"
+      ]
+    ], 
+    [
+      [
+        "body armor", 
+        "1.21684"
+      ], 
+      [
+        "bulletproof vest", 
+        "1.17213"
+      ], 
+      [
+        "vest", 
+        "1.15491"
+      ], 
+      [
+        "armor", 
+        "1.14667"
+      ], 
+      [
+        "garment", 
+        "1.11918"
+      ]
+    ], 
+    "8.829"
+  ]
+}

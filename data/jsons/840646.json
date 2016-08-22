@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sunglasses", 
+        "0.62080"
+      ], 
+      [
+        "sunglass", 
+        "0.37911"
+      ], 
+      [
+        "binoculars", 
+        "0.00006"
+      ], 
+      [
+        "bow tie", 
+        "0.00001"
+      ], 
+      [
+        "bathing cap", 
+        "0.00001"
+      ]
+    ], 
+    [
+      [
+        "sunglass", 
+        "0.49452"
+      ], 
+      [
+        "converging lens", 
+        "0.48726"
+      ], 
+      [
+        "lens", 
+        "0.48000"
+      ], 
+      [
+        "optical device", 
+        "0.47273"
+      ], 
+      [
+        "clothing", 
+        "0.37653"
+      ]
+    ], 
+    "9.973"
+  ]
+}

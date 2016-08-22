@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stopwatch", 
+        "0.13316"
+      ], 
+      [
+        "loupe", 
+        "0.09599"
+      ], 
+      [
+        "cellular telephone", 
+        "0.08387"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07946"
+      ], 
+      [
+        "radio", 
+        "0.07833"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.49947"
+      ], 
+      [
+        "instrument", 
+        "0.46572"
+      ], 
+      [
+        "timepiece", 
+        "0.46238"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45465"
+      ], 
+      [
+        "device", 
+        "0.43065"
+      ]
+    ], 
+    "11.760"
+  ]
+}

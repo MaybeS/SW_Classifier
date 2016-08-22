@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.35446"
+      ], 
+      [
+        "soap dispenser", 
+        "0.14876"
+      ], 
+      [
+        "water jug", 
+        "0.09697"
+      ], 
+      [
+        "teapot", 
+        "0.04635"
+      ], 
+      [
+        "coffeepot", 
+        "0.02360"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.51425"
+      ], 
+      [
+        "appliance", 
+        "0.50319"
+      ], 
+      [
+        "durables", 
+        "0.49009"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.47706"
+      ], 
+      [
+        "toaster", 
+        "0.47606"
+      ]
+    ], 
+    "5.326"
+  ]
+}

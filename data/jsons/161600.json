@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.34970"
+      ], 
+      [
+        "hand blower", 
+        "0.30955"
+      ], 
+      [
+        "power drill", 
+        "0.05856"
+      ], 
+      [
+        "switch", 
+        "0.05627"
+      ], 
+      [
+        "hook", 
+        "0.03716"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38704"
+      ], 
+      [
+        "consumer goods", 
+        "0.27951"
+      ], 
+      [
+        "microphone", 
+        "0.27820"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.27140"
+      ], 
+      [
+        "commodity", 
+        "0.26712"
+      ]
+    ], 
+    "6.342"
+  ]
+}

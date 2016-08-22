@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.16815"
+      ], 
+      [
+        "perfume", 
+        "0.16571"
+      ], 
+      [
+        "binder", 
+        "0.15998"
+      ], 
+      [
+        "notebook", 
+        "0.10838"
+      ], 
+      [
+        "spotlight", 
+        "0.03170"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.31967"
+      ], 
+      [
+        "personal computer", 
+        "0.31310"
+      ], 
+      [
+        "machine", 
+        "0.30838"
+      ], 
+      [
+        "digital computer", 
+        "0.30710"
+      ], 
+      [
+        "device", 
+        "0.30542"
+      ]
+    ], 
+    "10.346"
+  ]
+}

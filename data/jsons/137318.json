@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.67488"
+      ], 
+      [
+        "hand-held computer", 
+        "0.13386"
+      ], 
+      [
+        "combination lock", 
+        "0.09634"
+      ], 
+      [
+        "modem", 
+        "0.02211"
+      ], 
+      [
+        "oil filter", 
+        "0.01169"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.32239"
+      ], 
+      [
+        "device", 
+        "0.55356"
+      ], 
+      [
+        "portable computer", 
+        "0.48179"
+      ], 
+      [
+        "hand-held computer", 
+        "0.47446"
+      ], 
+      [
+        "personal computer", 
+        "0.46407"
+      ]
+    ], 
+    "7.151"
+  ]
+}

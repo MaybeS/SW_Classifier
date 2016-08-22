@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.24957"
+      ], 
+      [
+        "microphone", 
+        "0.11729"
+      ], 
+      [
+        "gasmask", 
+        "0.10925"
+      ], 
+      [
+        "loupe", 
+        "0.09605"
+      ], 
+      [
+        "binoculars", 
+        "0.05788"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "0.49107"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.41359"
+      ], 
+      [
+        "appliance", 
+        "0.39999"
+      ], 
+      [
+        "home appliance", 
+        "0.39008"
+      ], 
+      [
+        "durables", 
+        "0.38958"
+      ]
+    ], 
+    "9.327"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.14139"
+      ], 
+      [
+        "wallet", 
+        "0.13547"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.12708"
+      ], 
+      [
+        "cassette", 
+        "0.12477"
+      ], 
+      [
+        "cassette player", 
+        "0.05265"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.39158"
+      ], 
+      [
+        "container", 
+        "0.36085"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34303"
+      ], 
+      [
+        "device", 
+        "0.26593"
+      ], 
+      [
+        "cassette", 
+        "0.20269"
+      ]
+    ], 
+    "7.327"
+  ]
+}

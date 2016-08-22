@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "puck", 
+        "0.11760"
+      ], 
+      [
+        "stethoscope", 
+        "0.10820"
+      ], 
+      [
+        "bottlecap", 
+        "0.10491"
+      ], 
+      [
+        "stopwatch", 
+        "0.09379"
+      ], 
+      [
+        "magnetic compass", 
+        "0.09150"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.46527"
+      ], 
+      [
+        "device", 
+        "0.44088"
+      ], 
+      [
+        "measuring instrument", 
+        "0.40353"
+      ], 
+      [
+        "puck", 
+        "0.38498"
+      ], 
+      [
+        "disk", 
+        "0.37932"
+      ]
+    ], 
+    "11.935"
+  ]
+}

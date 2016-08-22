@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.35304"
+      ], 
+      [
+        "electric fan", 
+        "0.17629"
+      ], 
+      [
+        "coil", 
+        "0.07822"
+      ], 
+      [
+        "magnetic compass", 
+        "0.07667"
+      ], 
+      [
+        "maze", 
+        "0.07513"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "0.61193"
+      ], 
+      [
+        "rack", 
+        "0.60294"
+      ], 
+      [
+        "framework", 
+        "0.53337"
+      ], 
+      [
+        "supporting structure", 
+        "0.49258"
+      ], 
+      [
+        "electric fan", 
+        "0.39403"
+      ]
+    ], 
+    "5.734"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.89553"
+      ], 
+      [
+        "CD player", 
+        "0.02164"
+      ], 
+      [
+        "cassette player", 
+        "0.02006"
+      ], 
+      [
+        "tape player", 
+        "0.01863"
+      ], 
+      [
+        "loudspeaker", 
+        "0.01513"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.01661"
+      ], 
+      [
+        "control", 
+        "0.94746"
+      ], 
+      [
+        "data input device", 
+        "0.94155"
+      ], 
+      [
+        "peripheral", 
+        "0.88367"
+      ], 
+      [
+        "electronic equipment", 
+        "0.81647"
+      ]
+    ], 
+    "7.947"
+  ]
+}

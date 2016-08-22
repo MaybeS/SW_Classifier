@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.09220"
+      ], 
+      [
+        "cassette player", 
+        "0.09151"
+      ], 
+      [
+        "binder", 
+        "0.06192"
+      ], 
+      [
+        "cassette", 
+        "0.06102"
+      ], 
+      [
+        "switch", 
+        "0.04727"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.44821"
+      ], 
+      [
+        "web site", 
+        "0.37466"
+      ], 
+      [
+        "computer", 
+        "0.36273"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33773"
+      ], 
+      [
+        "equipment", 
+        "0.32306"
+      ]
+    ], 
+    "7.112"
+  ]
+}

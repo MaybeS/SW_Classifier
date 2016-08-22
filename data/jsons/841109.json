@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stopwatch", 
+        "0.36327"
+      ], 
+      [
+        "puck", 
+        "0.22622"
+      ], 
+      [
+        "digital watch", 
+        "0.14430"
+      ], 
+      [
+        "sleeping bag", 
+        "0.05186"
+      ], 
+      [
+        "knee pad", 
+        "0.03542"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "1.09459"
+      ], 
+      [
+        "measuring instrument", 
+        "1.08631"
+      ], 
+      [
+        "stopwatch", 
+        "0.86570"
+      ], 
+      [
+        "instrument", 
+        "0.81606"
+      ], 
+      [
+        "timer", 
+        "0.77620"
+      ]
+    ], 
+    "5.138"
+  ]
+}

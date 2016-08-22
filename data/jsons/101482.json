@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.15575"
+      ], 
+      [
+        "comic book", 
+        "0.12797"
+      ], 
+      [
+        "trailer truck", 
+        "0.07010"
+      ], 
+      [
+        "street sign", 
+        "0.06644"
+      ], 
+      [
+        "tobacco shop", 
+        "0.03934"
+      ]
+    ], 
+    [
+      [
+        "wheeled vehicle", 
+        "0.40700"
+      ], 
+      [
+        "vehicle", 
+        "0.38035"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.37624"
+      ], 
+      [
+        "container", 
+        "0.37587"
+      ], 
+      [
+        "conveyance", 
+        "0.36783"
+      ]
+    ], 
+    "5.271"
+  ]
+}

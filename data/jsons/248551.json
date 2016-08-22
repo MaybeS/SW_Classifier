@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.29592"
+      ], 
+      [
+        "hand-held computer", 
+        "0.19045"
+      ], 
+      [
+        "book jacket", 
+        "0.08657"
+      ], 
+      [
+        "packet", 
+        "0.03121"
+      ], 
+      [
+        "laptop", 
+        "0.02893"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "1.26814"
+      ], 
+      [
+        "web site", 
+        "1.17844"
+      ], 
+      [
+        "machine", 
+        "1.07674"
+      ], 
+      [
+        "personal computer", 
+        "0.51335"
+      ], 
+      [
+        "digital computer", 
+        "0.50352"
+      ]
+    ], 
+    "5.101"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.16388"
+      ], 
+      [
+        "packet", 
+        "0.13139"
+      ], 
+      [
+        "Band Aid", 
+        "0.10395"
+      ], 
+      [
+        "web site", 
+        "0.06741"
+      ], 
+      [
+        "lighter", 
+        "0.05558"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.34047"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33919"
+      ], 
+      [
+        "machine", 
+        "0.33109"
+      ], 
+      [
+        "device", 
+        "0.31172"
+      ], 
+      [
+        "cellular telephone", 
+        "0.31097"
+      ]
+    ], 
+    "5.384"
+  ]
+}

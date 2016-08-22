@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.21248"
+      ], 
+      [
+        "safe", 
+        "0.12907"
+      ], 
+      [
+        "combination lock", 
+        "0.12802"
+      ], 
+      [
+        "cassette player", 
+        "0.11561"
+      ], 
+      [
+        "tape player", 
+        "0.10571"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.44343"
+      ], 
+      [
+        "equipment", 
+        "0.42091"
+      ], 
+      [
+        "safe", 
+        "0.36738"
+      ], 
+      [
+        "strongbox", 
+        "0.36199"
+      ], 
+      [
+        "container", 
+        "0.35656"
+      ]
+    ], 
+    "9.493"
+  ]
+}

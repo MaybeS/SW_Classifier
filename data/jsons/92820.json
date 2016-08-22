@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.31657"
+      ], 
+      [
+        "cassette", 
+        "0.29526"
+      ], 
+      [
+        "mousetrap", 
+        "0.07229"
+      ], 
+      [
+        "screwdriver", 
+        "0.06075"
+      ], 
+      [
+        "cassette player", 
+        "0.03581"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.54752"
+      ], 
+      [
+        "equipment", 
+        "0.51322"
+      ], 
+      [
+        "cassette", 
+        "0.40417"
+      ], 
+      [
+        "control", 
+        "0.37239"
+      ], 
+      [
+        "joystick", 
+        "0.36937"
+      ]
+    ], 
+    "9.261"
+  ]
+}

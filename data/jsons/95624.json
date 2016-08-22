@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "china cabinet", 
+        "0.45037"
+      ], 
+      [
+        "sliding door", 
+        "0.10340"
+      ], 
+      [
+        "plate rack", 
+        "0.07816"
+      ], 
+      [
+        "window screen", 
+        "0.07078"
+      ], 
+      [
+        "wardrobe", 
+        "0.05583"
+      ]
+    ], 
+    [
+      [
+        "china cabinet", 
+        "1.54947"
+      ], 
+      [
+        "cabinet", 
+        "1.51213"
+      ], 
+      [
+        "furniture", 
+        "1.33395"
+      ], 
+      [
+        "furnishing", 
+        "1.26660"
+      ], 
+      [
+        "structure", 
+        "0.35330"
+      ]
+    ], 
+    "5.122"
+  ]
+}

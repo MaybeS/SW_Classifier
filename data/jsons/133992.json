@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.34856"
+      ], 
+      [
+        "cash machine", 
+        "0.13458"
+      ], 
+      [
+        "CD player", 
+        "0.08343"
+      ], 
+      [
+        "photocopier", 
+        "0.06366"
+      ], 
+      [
+        "safe", 
+        "0.05045"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.70085"
+      ], 
+      [
+        "electronic equipment", 
+        "0.65800"
+      ], 
+      [
+        "machine", 
+        "0.61840"
+      ], 
+      [
+        "printer", 
+        "0.42679"
+      ], 
+      [
+        "printer", 
+        "0.42052"
+      ]
+    ], 
+    "5.846"
+  ]
+}

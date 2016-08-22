@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "monitor", 
+        "0.24999"
+      ], 
+      [
+        "microphone", 
+        "0.13319"
+      ], 
+      [
+        "hook", 
+        "0.08382"
+      ], 
+      [
+        "desktop computer", 
+        "0.06386"
+      ], 
+      [
+        "modem", 
+        "0.06162"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.40346"
+      ], 
+      [
+        "personal computer", 
+        "0.37696"
+      ], 
+      [
+        "device", 
+        "0.37501"
+      ], 
+      [
+        "digital computer", 
+        "0.36974"
+      ], 
+      [
+        "computer", 
+        "0.35791"
+      ]
+    ], 
+    "10.556"
+  ]
+}

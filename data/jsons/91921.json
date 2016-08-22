@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.19559"
+      ], 
+      [
+        "guillotine", 
+        "0.17780"
+      ], 
+      [
+        "mousetrap", 
+        "0.13028"
+      ], 
+      [
+        "radio", 
+        "0.05886"
+      ], 
+      [
+        "cassette", 
+        "0.05278"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43465"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42130"
+      ], 
+      [
+        "device", 
+        "0.34827"
+      ], 
+      [
+        "guillotine", 
+        "0.31463"
+      ], 
+      [
+        "instrument of execution", 
+        "0.31001"
+      ]
+    ], 
+    "6.774"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "computer keyboard", 
+        "0.17851"
+      ], 
+      [
+        "cellular telephone", 
+        "0.16094"
+      ], 
+      [
+        "space bar", 
+        "0.10903"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.07638"
+      ], 
+      [
+        "cash machine", 
+        "0.05966"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.63235"
+      ], 
+      [
+        "keyboard", 
+        "0.62864"
+      ], 
+      [
+        "equipment", 
+        "0.50485"
+      ], 
+      [
+        "device", 
+        "0.46042"
+      ], 
+      [
+        "machine", 
+        "0.41713"
+      ]
+    ], 
+    "5.577"
+  ]
+}

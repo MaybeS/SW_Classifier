@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.89644"
+      ], 
+      [
+        "gasmask", 
+        "0.02144"
+      ], 
+      [
+        "magnetic compass", 
+        "0.01412"
+      ], 
+      [
+        "lens cap", 
+        "0.01003"
+      ], 
+      [
+        "barometer", 
+        "0.00835"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.05292"
+      ], 
+      [
+        "photographic equipment", 
+        "2.01879"
+      ], 
+      [
+        "reflex camera", 
+        "2.00468"
+      ], 
+      [
+        "equipment", 
+        "1.01306"
+      ], 
+      [
+        "lens cap", 
+        "0.34215"
+      ]
+    ], 
+    "12.197"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.21181"
+      ], 
+      [
+        "screen", 
+        "0.05894"
+      ], 
+      [
+        "hair spray", 
+        "0.05817"
+      ], 
+      [
+        "slot", 
+        "0.05437"
+      ], 
+      [
+        "web site", 
+        "0.05251"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.46963"
+      ], 
+      [
+        "computer", 
+        "0.34893"
+      ], 
+      [
+        "television", 
+        "0.34369"
+      ], 
+      [
+        "telecommunication system", 
+        "0.33864"
+      ], 
+      [
+        "device", 
+        "0.33272"
+      ]
+    ], 
+    "5.493"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tape player", 
+        "0.17706"
+      ], 
+      [
+        "radio", 
+        "0.12157"
+      ], 
+      [
+        "scoreboard", 
+        "0.11196"
+      ], 
+      [
+        "modem", 
+        "0.08668"
+      ], 
+      [
+        "oscilloscope", 
+        "0.07884"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.77440"
+      ], 
+      [
+        "equipment", 
+        "0.62153"
+      ], 
+      [
+        "scoreboard", 
+        "0.36470"
+      ], 
+      [
+        "board", 
+        "0.35934"
+      ], 
+      [
+        "signboard", 
+        "0.35934"
+      ]
+    ], 
+    "5.364"
+  ]
+}

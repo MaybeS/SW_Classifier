@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.12950"
+      ], 
+      [
+        "desktop computer", 
+        "0.11837"
+      ], 
+      [
+        "radio", 
+        "0.11736"
+      ], 
+      [
+        "digital clock", 
+        "0.10045"
+      ], 
+      [
+        "screen", 
+        "0.06907"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51547"
+      ], 
+      [
+        "measuring instrument", 
+        "0.46309"
+      ], 
+      [
+        "equipment", 
+        "0.45926"
+      ], 
+      [
+        "timepiece", 
+        "0.44925"
+      ], 
+      [
+        "device", 
+        "0.42211"
+      ]
+    ], 
+    "7.313"
+  ]
+}

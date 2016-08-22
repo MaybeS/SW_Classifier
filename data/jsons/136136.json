@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.81735"
+      ], 
+      [
+        "projector", 
+        "0.01980"
+      ], 
+      [
+        "puck", 
+        "0.01435"
+      ], 
+      [
+        "espresso maker", 
+        "0.01210"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.01031"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.21195"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.08794"
+      ], 
+      [
+        "transducer", 
+        "1.06985"
+      ], 
+      [
+        "electrical device", 
+        "1.05176"
+      ], 
+      [
+        "device", 
+        "0.46561"
+      ]
+    ], 
+    "6.196"
+  ]
+}

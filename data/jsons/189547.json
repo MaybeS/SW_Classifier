@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.30935"
+      ], 
+      [
+        "mouse", 
+        "0.18150"
+      ], 
+      [
+        "desktop computer", 
+        "0.09180"
+      ], 
+      [
+        "remote control", 
+        "0.07800"
+      ], 
+      [
+        "analog clock", 
+        "0.06176"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.61779"
+      ], 
+      [
+        "equipment", 
+        "0.52315"
+      ], 
+      [
+        "device", 
+        "0.39342"
+      ], 
+      [
+        "instrument", 
+        "0.27897"
+      ], 
+      [
+        "machine", 
+        "0.26751"
+      ]
+    ], 
+    "10.414"
+  ]
+}

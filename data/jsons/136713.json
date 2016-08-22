@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sunglasses", 
+        "0.48947"
+      ], 
+      [
+        "sunglass", 
+        "0.31755"
+      ], 
+      [
+        "buckle", 
+        "0.04282"
+      ], 
+      [
+        "neck brace", 
+        "0.03874"
+      ], 
+      [
+        "crash helmet", 
+        "0.02153"
+      ]
+    ], 
+    [
+      [
+        "sunglass", 
+        "0.40509"
+      ], 
+      [
+        "converging lens", 
+        "0.39914"
+      ], 
+      [
+        "lens", 
+        "0.39319"
+      ], 
+      [
+        "optical device", 
+        "0.38724"
+      ], 
+      [
+        "clothing", 
+        "0.37887"
+      ]
+    ], 
+    "7.624"
+  ]
+}

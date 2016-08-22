@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microwave", 
+        "0.23909"
+      ], 
+      [
+        "cassette player", 
+        "0.12673"
+      ], 
+      [
+        "desktop computer", 
+        "0.09302"
+      ], 
+      [
+        "stove", 
+        "0.07284"
+      ], 
+      [
+        "printer", 
+        "0.06233"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51622"
+      ], 
+      [
+        "equipment", 
+        "0.47313"
+      ], 
+      [
+        "home appliance", 
+        "0.43513"
+      ], 
+      [
+        "appliance", 
+        "0.41955"
+      ], 
+      [
+        "durables", 
+        "0.40863"
+      ]
+    ], 
+    "9.172"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.33233"
+      ], 
+      [
+        "cassette", 
+        "0.14487"
+      ], 
+      [
+        "remote control", 
+        "0.08411"
+      ], 
+      [
+        "switch", 
+        "0.06108"
+      ], 
+      [
+        "cassette player", 
+        "0.05039"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.58968"
+      ], 
+      [
+        "equipment", 
+        "0.57010"
+      ], 
+      [
+        "radio", 
+        "0.36858"
+      ], 
+      [
+        "communication system", 
+        "0.33889"
+      ], 
+      [
+        "system", 
+        "0.33578"
+      ]
+    ], 
+    "6.663"
+  ]
+}

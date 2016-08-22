@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.20680"
+      ], 
+      [
+        "envelope", 
+        "0.13782"
+      ], 
+      [
+        "window shade", 
+        "0.12997"
+      ], 
+      [
+        "shower curtain", 
+        "0.10636"
+      ], 
+      [
+        "hook", 
+        "0.05639"
+      ]
+    ], 
+    [
+      [
+        "protective covering", 
+        "0.38764"
+      ], 
+      [
+        "covering", 
+        "0.36916"
+      ], 
+      [
+        "furnishing", 
+        "0.30646"
+      ], 
+      [
+        "blind", 
+        "0.25987"
+      ], 
+      [
+        "container", 
+        "0.25468"
+      ]
+    ], 
+    "6.693"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.34237"
+      ], 
+      [
+        "dishwasher", 
+        "0.19779"
+      ], 
+      [
+        "space heater", 
+        "0.10240"
+      ], 
+      [
+        "hamper", 
+        "0.05334"
+      ], 
+      [
+        "refrigerator", 
+        "0.04885"
+      ]
+    ], 
+    [
+      [
+        "white goods", 
+        "0.91966"
+      ], 
+      [
+        "home appliance", 
+        "0.79338"
+      ], 
+      [
+        "washer", 
+        "0.76237"
+      ], 
+      [
+        "appliance", 
+        "0.76222"
+      ], 
+      [
+        "durables", 
+        "0.74238"
+      ]
+    ], 
+    "7.548"
+  ]
+}

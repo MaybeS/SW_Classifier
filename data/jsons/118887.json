@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.17120"
+      ], 
+      [
+        "scale", 
+        "0.10728"
+      ], 
+      [
+        "cleaver", 
+        "0.09487"
+      ], 
+      [
+        "hard disc", 
+        "0.09019"
+      ], 
+      [
+        "letter opener", 
+        "0.04875"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33989"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33089"
+      ], 
+      [
+        "equipment", 
+        "0.32535"
+      ], 
+      [
+        "implement", 
+        "0.27335"
+      ], 
+      [
+        "instrument", 
+        "0.25207"
+      ]
+    ], 
+    "6.715"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.15017"
+      ], 
+      [
+        "harmonica", 
+        "0.14541"
+      ], 
+      [
+        "letter opener", 
+        "0.08322"
+      ], 
+      [
+        "digital clock", 
+        "0.06728"
+      ], 
+      [
+        "can opener", 
+        "0.03968"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34920"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31742"
+      ], 
+      [
+        "equipment", 
+        "0.30871"
+      ], 
+      [
+        "implement", 
+        "0.28193"
+      ], 
+      [
+        "instrument", 
+        "0.22731"
+      ]
+    ], 
+    "5.542"
+  ]
+}

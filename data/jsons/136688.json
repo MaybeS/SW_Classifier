@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vacuum", 
+        "0.26069"
+      ], 
+      [
+        "microphone", 
+        "0.08283"
+      ], 
+      [
+        "radio", 
+        "0.05316"
+      ], 
+      [
+        "stethoscope", 
+        "0.05187"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05031"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34776"
+      ], 
+      [
+        "equipment", 
+        "0.30315"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28336"
+      ], 
+      [
+        "appliance", 
+        "0.26794"
+      ], 
+      [
+        "consumer goods", 
+        "0.26163"
+      ]
+    ], 
+    "9.426"
+  ]
+}

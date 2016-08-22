@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.14348"
+      ], 
+      [
+        "harmonica", 
+        "0.14226"
+      ], 
+      [
+        "ballpoint", 
+        "0.09997"
+      ], 
+      [
+        "fountain pen", 
+        "0.08903"
+      ], 
+      [
+        "rubber eraser", 
+        "0.07832"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.42051"
+      ], 
+      [
+        "pen", 
+        "0.36160"
+      ], 
+      [
+        "writing implement", 
+        "0.35515"
+      ], 
+      [
+        "device", 
+        "0.29992"
+      ], 
+      [
+        "fountain pen", 
+        "0.23924"
+      ]
+    ], 
+    "7.331"
+  ]
+}

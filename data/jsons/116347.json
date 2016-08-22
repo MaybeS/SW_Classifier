@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.64878"
+      ], 
+      [
+        "hand blower", 
+        "0.10371"
+      ], 
+      [
+        "hook", 
+        "0.03236"
+      ], 
+      [
+        "power drill", 
+        "0.02789"
+      ], 
+      [
+        "can opener", 
+        "0.02500"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.70067"
+      ], 
+      [
+        "acoustic device", 
+        "0.69037"
+      ], 
+      [
+        "signaling device", 
+        "0.69037"
+      ], 
+      [
+        "device", 
+        "0.39552"
+      ], 
+      [
+        "implement", 
+        "0.34152"
+      ]
+    ], 
+    "13.018"
+  ]
+}

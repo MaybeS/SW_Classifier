@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.77976"
+      ], 
+      [
+        "washer", 
+        "0.10810"
+      ], 
+      [
+        "microwave", 
+        "0.04418"
+      ], 
+      [
+        "switch", 
+        "0.03490"
+      ], 
+      [
+        "television", 
+        "0.00505"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.15970"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.03880"
+      ], 
+      [
+        "transducer", 
+        "1.02153"
+      ], 
+      [
+        "electrical device", 
+        "1.00426"
+      ], 
+      [
+        "device", 
+        "0.44008"
+      ]
+    ], 
+    "7.599"
+  ]
+}

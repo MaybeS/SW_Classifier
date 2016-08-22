@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.41225"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.16390"
+      ], 
+      [
+        "puck", 
+        "0.08581"
+      ], 
+      [
+        "joystick", 
+        "0.08540"
+      ], 
+      [
+        "remote control", 
+        "0.04299"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39358"
+      ], 
+      [
+        "equipment", 
+        "0.34159"
+      ], 
+      [
+        "mechanism", 
+        "0.32864"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28844"
+      ], 
+      [
+        "puck", 
+        "0.27513"
+      ]
+    ], 
+    "10.444"
+  ]
+}

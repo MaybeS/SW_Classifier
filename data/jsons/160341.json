@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.73754"
+      ], 
+      [
+        "radio", 
+        "0.05738"
+      ], 
+      [
+        "soap dispenser", 
+        "0.04702"
+      ], 
+      [
+        "toilet seat", 
+        "0.01800"
+      ], 
+      [
+        "cassette player", 
+        "0.01417"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.79505"
+      ], 
+      [
+        "control", 
+        "0.75839"
+      ], 
+      [
+        "mechanism", 
+        "0.53956"
+      ], 
+      [
+        "device", 
+        "0.37584"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31275"
+      ]
+    ], 
+    "5.766"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crossword puzzle", 
+        "0.37382"
+      ], 
+      [
+        "book jacket", 
+        "0.17943"
+      ], 
+      [
+        "scoreboard", 
+        "0.11101"
+      ], 
+      [
+        "web site", 
+        "0.08159"
+      ], 
+      [
+        "menu", 
+        "0.05853"
+      ]
+    ], 
+    [
+      [
+        "crossword puzzle", 
+        "1.21740"
+      ], 
+      [
+        "puzzle", 
+        "1.11826"
+      ], 
+      [
+        "game", 
+        "1.09967"
+      ], 
+      [
+        "game equipment", 
+        "0.75631"
+      ], 
+      [
+        "equipment", 
+        "0.60427"
+      ]
+    ], 
+    "4.626"
+  ]
+}

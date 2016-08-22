@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.86327"
+      ], 
+      [
+        "digital clock", 
+        "0.02608"
+      ], 
+      [
+        "combination lock", 
+        "0.02108"
+      ], 
+      [
+        "cassette", 
+        "0.01805"
+      ], 
+      [
+        "switch", 
+        "0.01458"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.65691"
+      ], 
+      [
+        "device", 
+        "0.55259"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46366"
+      ], 
+      [
+        "equipment", 
+        "0.40474"
+      ], 
+      [
+        "cellular telephone", 
+        "0.29702"
+      ]
+    ], 
+    "6.020"
+  ]
+}

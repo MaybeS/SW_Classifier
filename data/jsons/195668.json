@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.72388"
+      ], 
+      [
+        "safe", 
+        "0.05097"
+      ], 
+      [
+        "sliding door", 
+        "0.04455"
+      ], 
+      [
+        "binder", 
+        "0.02102"
+      ], 
+      [
+        "combination lock", 
+        "0.02057"
+      ]
+    ], 
+    [
+      [
+        "refrigerator", 
+        "1.12030"
+      ], 
+      [
+        "white goods", 
+        "1.02140"
+      ], 
+      [
+        "home appliance", 
+        "0.84625"
+      ], 
+      [
+        "appliance", 
+        "0.81189"
+      ], 
+      [
+        "durables", 
+        "0.79077"
+      ]
+    ], 
+    "7.277"
+  ]
+}

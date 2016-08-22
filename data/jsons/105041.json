@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.54390"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.18307"
+      ], 
+      [
+        "paper towel", 
+        "0.03172"
+      ], 
+      [
+        "screwdriver", 
+        "0.02908"
+      ], 
+      [
+        "Band Aid", 
+        "0.02415"
+      ]
+    ], 
+    [
+      [
+        "oil filter", 
+        "0.71784"
+      ], 
+      [
+        "filter", 
+        "0.64342"
+      ], 
+      [
+        "device", 
+        "0.33744"
+      ], 
+      [
+        "container", 
+        "0.29642"
+      ], 
+      [
+        "implement", 
+        "0.22911"
+      ]
+    ], 
+    "7.835"
+  ]
+}

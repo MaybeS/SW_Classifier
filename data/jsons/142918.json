@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.24667"
+      ], 
+      [
+        "printer", 
+        "0.13638"
+      ], 
+      [
+        "photocopier", 
+        "0.05514"
+      ], 
+      [
+        "oscilloscope", 
+        "0.04935"
+      ], 
+      [
+        "modem", 
+        "0.04696"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.46345"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39485"
+      ], 
+      [
+        "implement", 
+        "0.35299"
+      ], 
+      [
+        "device", 
+        "0.32459"
+      ], 
+      [
+        "machine", 
+        "0.32354"
+      ]
+    ], 
+    "5.340"
+  ]
+}

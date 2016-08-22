@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.19315"
+      ], 
+      [
+        "modem", 
+        "0.08986"
+      ], 
+      [
+        "screwdriver", 
+        "0.06392"
+      ], 
+      [
+        "cassette", 
+        "0.06032"
+      ], 
+      [
+        "harmonica", 
+        "0.04952"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.41309"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33330"
+      ], 
+      [
+        "implement", 
+        "0.30872"
+      ], 
+      [
+        "device", 
+        "0.29915"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.26893"
+      ]
+    ], 
+    "7.148"
+  ]
+}

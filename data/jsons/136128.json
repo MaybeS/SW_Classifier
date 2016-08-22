@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.39969"
+      ], 
+      [
+        "spotlight", 
+        "0.15719"
+      ], 
+      [
+        "espresso maker", 
+        "0.11491"
+      ], 
+      [
+        "joystick", 
+        "0.05638"
+      ], 
+      [
+        "dial telephone", 
+        "0.03349"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.30113"
+      ], 
+      [
+        "appliance", 
+        "0.28975"
+      ], 
+      [
+        "device", 
+        "0.28780"
+      ], 
+      [
+        "home appliance", 
+        "0.28349"
+      ], 
+      [
+        "durables", 
+        "0.28221"
+      ]
+    ], 
+    "8.770"
+  ]
+}

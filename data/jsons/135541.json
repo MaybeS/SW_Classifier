@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.99027"
+      ], 
+      [
+        "iPod", 
+        "0.00254"
+      ], 
+      [
+        "radio", 
+        "0.00115"
+      ], 
+      [
+        "CD player", 
+        "0.00087"
+      ], 
+      [
+        "computer keyboard", 
+        "0.00053"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.46226"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.30893"
+      ], 
+      [
+        "transducer", 
+        "1.28716"
+      ], 
+      [
+        "electrical device", 
+        "1.26540"
+      ], 
+      [
+        "device", 
+        "0.49205"
+      ]
+    ], 
+    "5.715"
+  ]
+}

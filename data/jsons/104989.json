@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.48344"
+      ], 
+      [
+        "book jacket", 
+        "0.08756"
+      ], 
+      [
+        "washer", 
+        "0.08666"
+      ], 
+      [
+        "web site", 
+        "0.06727"
+      ], 
+      [
+        "envelope", 
+        "0.04379"
+      ]
+    ], 
+    [
+      [
+        "white goods", 
+        "0.85709"
+      ], 
+      [
+        "refrigerator", 
+        "0.74801"
+      ], 
+      [
+        "home appliance", 
+        "0.72221"
+      ], 
+      [
+        "appliance", 
+        "0.69402"
+      ], 
+      [
+        "durables", 
+        "0.67596"
+      ]
+    ], 
+    "7.258"
+  ]
+}

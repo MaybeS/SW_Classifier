@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "American alligator", 
+        "0.14609"
+      ], 
+      [
+        "breastplate", 
+        "0.04589"
+      ], 
+      [
+        "fountain", 
+        "0.04335"
+      ], 
+      [
+        "shield", 
+        "0.03851"
+      ], 
+      [
+        "terrapin", 
+        "0.03431"
+      ]
+    ], 
+    [
+      [
+        "reptile", 
+        "0.39333"
+      ], 
+      [
+        "diapsid", 
+        "0.32694"
+      ], 
+      [
+        "crocodilian reptile", 
+        "0.28679"
+      ], 
+      [
+        "American alligator", 
+        "0.22683"
+      ], 
+      [
+        "covering", 
+        "0.22650"
+      ]
+    ], 
+    "4.832"
+  ]
+}

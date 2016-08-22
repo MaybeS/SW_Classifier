@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.45961"
+      ], 
+      [
+        "modem", 
+        "0.45448"
+      ], 
+      [
+        "microphone", 
+        "0.02063"
+      ], 
+      [
+        "vacuum", 
+        "0.01379"
+      ], 
+      [
+        "notebook", 
+        "0.01323"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.77236"
+      ], 
+      [
+        "equipment", 
+        "0.64818"
+      ], 
+      [
+        "modem", 
+        "0.45645"
+      ], 
+      [
+        "radio", 
+        "0.43173"
+      ], 
+      [
+        "communication system", 
+        "0.39508"
+      ]
+    ], 
+    "12.064"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.35884"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.12257"
+      ], 
+      [
+        "fountain pen", 
+        "0.09329"
+      ], 
+      [
+        "waffle iron", 
+        "0.08730"
+      ], 
+      [
+        "microphone", 
+        "0.07887"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.53866"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46778"
+      ], 
+      [
+        "camera", 
+        "0.34888"
+      ], 
+      [
+        "photographic equipment", 
+        "0.34308"
+      ], 
+      [
+        "modem", 
+        "0.34251"
+      ]
+    ], 
+    "5.456"
+  ]
+}

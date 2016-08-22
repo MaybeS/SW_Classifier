@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.34576"
+      ], 
+      [
+        "projector", 
+        "0.08392"
+      ], 
+      [
+        "hard disc", 
+        "0.06778"
+      ], 
+      [
+        "joystick", 
+        "0.05100"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04940"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.59998"
+      ], 
+      [
+        "electronic equipment", 
+        "0.59699"
+      ], 
+      [
+        "device", 
+        "0.35481"
+      ], 
+      [
+        "modem", 
+        "0.34897"
+      ], 
+      [
+        "machine", 
+        "0.29820"
+      ]
+    ], 
+    "6.134"
+  ]
+}

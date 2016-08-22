@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.81092"
+      ], 
+      [
+        "digital watch", 
+        "0.05017"
+      ], 
+      [
+        "stopwatch", 
+        "0.01571"
+      ], 
+      [
+        "switch", 
+        "0.01411"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.01207"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.87724"
+      ], 
+      [
+        "photographic equipment", 
+        "1.84603"
+      ], 
+      [
+        "reflex camera", 
+        "1.81585"
+      ], 
+      [
+        "equipment", 
+        "0.95309"
+      ], 
+      [
+        "device", 
+        "0.32989"
+      ]
+    ], 
+    "5.637"
+  ]
+}

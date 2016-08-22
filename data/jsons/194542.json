@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "notebook", 
+        "0.28497"
+      ], 
+      [
+        "bathtub", 
+        "0.15083"
+      ], 
+      [
+        "envelope", 
+        "0.09068"
+      ], 
+      [
+        "washbasin", 
+        "0.04612"
+      ], 
+      [
+        "tub", 
+        "0.04185"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.56281"
+      ], 
+      [
+        "digital computer", 
+        "0.55203"
+      ], 
+      [
+        "computer", 
+        "0.53027"
+      ], 
+      [
+        "portable computer", 
+        "0.51837"
+      ], 
+      [
+        "machine", 
+        "0.48122"
+      ]
+    ], 
+    "10.214"
+  ]
+}

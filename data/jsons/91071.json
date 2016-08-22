@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.27542"
+      ], 
+      [
+        "cassette", 
+        "0.11006"
+      ], 
+      [
+        "tape player", 
+        "0.07254"
+      ], 
+      [
+        "cassette player", 
+        "0.07158"
+      ], 
+      [
+        "radio", 
+        "0.05347"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.59707"
+      ], 
+      [
+        "fan", 
+        "0.58830"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39088"
+      ], 
+      [
+        "device", 
+        "0.38526"
+      ], 
+      [
+        "equipment", 
+        "0.36204"
+      ]
+    ], 
+    "7.154"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.30054"
+      ], 
+      [
+        "spotlight", 
+        "0.13933"
+      ], 
+      [
+        "projector", 
+        "0.10789"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.10080"
+      ], 
+      [
+        "scale", 
+        "0.09110"
+      ]
+    ], 
+    [
+      [
+        "optical instrument", 
+        "0.39343"
+      ], 
+      [
+        "device", 
+        "0.38517"
+      ], 
+      [
+        "instrument", 
+        "0.37266"
+      ], 
+      [
+        "binoculars", 
+        "0.30384"
+      ], 
+      [
+        "container", 
+        "0.24100"
+      ]
+    ], 
+    "11.344"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.32723"
+      ], 
+      [
+        "digital clock", 
+        "0.10027"
+      ], 
+      [
+        "street sign", 
+        "0.05835"
+      ], 
+      [
+        "laptop", 
+        "0.04247"
+      ], 
+      [
+        "modem", 
+        "0.04156"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.75388"
+      ], 
+      [
+        "computer", 
+        "0.74281"
+      ], 
+      [
+        "personal computer", 
+        "0.73476"
+      ], 
+      [
+        "digital computer", 
+        "0.72069"
+      ], 
+      [
+        "hand-held computer", 
+        "0.68585"
+      ]
+    ], 
+    "5.060"
+  ]
+}

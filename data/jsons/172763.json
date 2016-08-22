@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.18980"
+      ], 
+      [
+        "whistle", 
+        "0.16398"
+      ], 
+      [
+        "combination lock", 
+        "0.04397"
+      ], 
+      [
+        "spotlight", 
+        "0.04145"
+      ], 
+      [
+        "croquet ball", 
+        "0.03529"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33042"
+      ], 
+      [
+        "implement", 
+        "0.30428"
+      ], 
+      [
+        "equipment", 
+        "0.26148"
+      ], 
+      [
+        "ball", 
+        "0.25578"
+      ], 
+      [
+        "game equipment", 
+        "0.23936"
+      ]
+    ], 
+    "11.986"
+  ]
+}

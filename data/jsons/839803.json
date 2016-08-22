@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sweatshirt", 
+        "0.52511"
+      ], 
+      [
+        "ski mask", 
+        "0.19950"
+      ], 
+      [
+        "gasmask", 
+        "0.05575"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.01823"
+      ], 
+      [
+        "velvet", 
+        "0.01762"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.92427"
+      ], 
+      [
+        "garment", 
+        "0.90674"
+      ], 
+      [
+        "covering", 
+        "0.89889"
+      ], 
+      [
+        "consumer goods", 
+        "0.81448"
+      ], 
+      [
+        "sweatshirt", 
+        "0.78455"
+      ]
+    ], 
+    "8.480"
+  ]
+}

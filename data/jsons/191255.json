@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "face powder", 
+        "0.11122"
+      ], 
+      [
+        "Crock Pot", 
+        "0.09820"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09421"
+      ], 
+      [
+        "oil filter", 
+        "0.08681"
+      ], 
+      [
+        "Band Aid", 
+        "0.07756"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.46480"
+      ], 
+      [
+        "makeup", 
+        "0.29872"
+      ], 
+      [
+        "cosmetic", 
+        "0.29376"
+      ], 
+      [
+        "container", 
+        "0.29269"
+      ], 
+      [
+        "face powder", 
+        "0.28808"
+      ]
+    ], 
+    "6.215"
+  ]
+}

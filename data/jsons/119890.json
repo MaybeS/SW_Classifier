@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.30293"
+      ], 
+      [
+        "radio", 
+        "0.25176"
+      ], 
+      [
+        "modem", 
+        "0.21231"
+      ], 
+      [
+        "microphone", 
+        "0.03665"
+      ], 
+      [
+        "CD player", 
+        "0.02672"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52862"
+      ], 
+      [
+        "equipment", 
+        "0.47166"
+      ], 
+      [
+        "measuring instrument", 
+        "0.38989"
+      ], 
+      [
+        "instrument", 
+        "0.37936"
+      ], 
+      [
+        "device", 
+        "0.37550"
+      ]
+    ], 
+    "12.316"
+  ]
+}

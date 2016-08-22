@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.27868"
+      ], 
+      [
+        "screen", 
+        "0.08419"
+      ], 
+      [
+        "bell pepper", 
+        "0.07170"
+      ], 
+      [
+        "monitor", 
+        "0.06835"
+      ], 
+      [
+        "switch", 
+        "0.04624"
+      ]
+    ], 
+    [
+      [
+        "television", 
+        "0.44256"
+      ], 
+      [
+        "telecommunication system", 
+        "0.43606"
+      ], 
+      [
+        "communication system", 
+        "0.39637"
+      ], 
+      [
+        "system", 
+        "0.36923"
+      ], 
+      [
+        "machine", 
+        "0.31886"
+      ]
+    ], 
+    "10.546"
+  ]
+}

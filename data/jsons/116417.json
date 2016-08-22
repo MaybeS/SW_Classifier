@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.12227"
+      ], 
+      [
+        "gasmask", 
+        "0.09570"
+      ], 
+      [
+        "oil filter", 
+        "0.07928"
+      ], 
+      [
+        "mouse", 
+        "0.07488"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05081"
+      ]
+    ], 
+    [
+      [
+        "appliance", 
+        "0.31802"
+      ], 
+      [
+        "home appliance", 
+        "0.31562"
+      ], 
+      [
+        "device", 
+        "0.31228"
+      ], 
+      [
+        "durables", 
+        "0.30974"
+      ], 
+      [
+        "consumer goods", 
+        "0.30521"
+      ]
+    ], 
+    "8.944"
+  ]
+}

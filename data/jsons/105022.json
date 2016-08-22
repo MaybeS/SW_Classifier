@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.99709"
+      ], 
+      [
+        "solar dish", 
+        "0.00113"
+      ], 
+      [
+        "scale", 
+        "0.00067"
+      ], 
+      [
+        "radio telescope", 
+        "0.00027"
+      ], 
+      [
+        "golf ball", 
+        "0.00015"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "2.12064"
+      ], 
+      [
+        "fan", 
+        "2.08949"
+      ], 
+      [
+        "device", 
+        "0.51534"
+      ], 
+      [
+        "container", 
+        "0.21337"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.20054"
+      ]
+    ], 
+    "6.724"
+  ]
+}

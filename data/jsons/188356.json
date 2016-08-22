@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.12780"
+      ], 
+      [
+        "digital watch", 
+        "0.10851"
+      ], 
+      [
+        "pay-phone", 
+        "0.09194"
+      ], 
+      [
+        "combination lock", 
+        "0.07136"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06990"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.60558"
+      ], 
+      [
+        "equipment", 
+        "0.50932"
+      ], 
+      [
+        "device", 
+        "0.39531"
+      ], 
+      [
+        "measuring instrument", 
+        "0.34688"
+      ], 
+      [
+        "timepiece", 
+        "0.34518"
+      ]
+    ], 
+    "8.389"
+  ]
+}

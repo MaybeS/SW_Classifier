@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.21025"
+      ], 
+      [
+        "scale", 
+        "0.19144"
+      ], 
+      [
+        "hook", 
+        "0.16280"
+      ], 
+      [
+        "stopwatch", 
+        "0.08805"
+      ], 
+      [
+        "can opener", 
+        "0.05166"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.47312"
+      ], 
+      [
+        "instrument", 
+        "0.43476"
+      ], 
+      [
+        "device", 
+        "0.42100"
+      ], 
+      [
+        "timepiece", 
+        "0.33422"
+      ], 
+      [
+        "fastener", 
+        "0.30937"
+      ]
+    ], 
+    "9.911"
+  ]
+}

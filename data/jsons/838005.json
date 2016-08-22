@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.23531"
+      ], 
+      [
+        "bathing cap", 
+        "0.17567"
+      ], 
+      [
+        "sleeping bag", 
+        "0.10204"
+      ], 
+      [
+        "head cabbage", 
+        "0.07712"
+      ], 
+      [
+        "stretcher", 
+        "0.04387"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.77177"
+      ], 
+      [
+        "consumer goods", 
+        "0.68428"
+      ], 
+      [
+        "covering", 
+        "0.66805"
+      ], 
+      [
+        "commodity", 
+        "0.65129"
+      ], 
+      [
+        "garment", 
+        "0.63694"
+      ]
+    ], 
+    "4.985"
+  ]
+}

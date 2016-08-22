@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.24683"
+      ], 
+      [
+        "joystick", 
+        "0.21459"
+      ], 
+      [
+        "reflex camera", 
+        "0.07801"
+      ], 
+      [
+        "gasmask", 
+        "0.05966"
+      ], 
+      [
+        "neck brace", 
+        "0.04436"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.45438"
+      ], 
+      [
+        "loudspeaker", 
+        "0.38461"
+      ], 
+      [
+        "device", 
+        "0.38313"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.36301"
+      ], 
+      [
+        "transducer", 
+        "0.35697"
+      ]
+    ], 
+    "4.829"
+  ]
+}

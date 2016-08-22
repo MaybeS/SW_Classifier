@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.44539"
+      ], 
+      [
+        "police van", 
+        "0.07598"
+      ], 
+      [
+        "gas pump", 
+        "0.05791"
+      ], 
+      [
+        "ashcan", 
+        "0.05326"
+      ], 
+      [
+        "cab", 
+        "0.04968"
+      ]
+    ], 
+    [
+      [
+        "motor vehicle", 
+        "0.52207"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.50477"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.45965"
+      ], 
+      [
+        "conveyance", 
+        "0.45094"
+      ], 
+      [
+        "container", 
+        "0.43333"
+      ]
+    ], 
+    "5.609"
+  ]
+}

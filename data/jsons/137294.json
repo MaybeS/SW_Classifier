@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.39663"
+      ], 
+      [
+        "magnetic compass", 
+        "0.08091"
+      ], 
+      [
+        "can opener", 
+        "0.06154"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05535"
+      ], 
+      [
+        "spotlight", 
+        "0.05497"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40952"
+      ], 
+      [
+        "instrument", 
+        "0.39745"
+      ], 
+      [
+        "implement", 
+        "0.21173"
+      ], 
+      [
+        "magnetic compass", 
+        "0.20870"
+      ], 
+      [
+        "compass", 
+        "0.20564"
+      ]
+    ], 
+    "9.804"
+  ]
+}

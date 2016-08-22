@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stage", 
+        "0.41877"
+      ], 
+      [
+        "microphone", 
+        "0.11019"
+      ], 
+      [
+        "electric guitar", 
+        "0.06528"
+      ], 
+      [
+        "accordion", 
+        "0.04078"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.02519"
+      ]
+    ], 
+    [
+      [
+        "stage", 
+        "0.81947"
+      ], 
+      [
+        "platform", 
+        "0.80743"
+      ], 
+      [
+        "horizontal surface", 
+        "0.79539"
+      ], 
+      [
+        "surface", 
+        "0.78336"
+      ], 
+      [
+        "musical instrument", 
+        "0.61075"
+      ]
+    ], 
+    "4.900"
+  ]
+}

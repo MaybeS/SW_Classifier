@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tobacco shop", 
+        "0.22811"
+      ], 
+      [
+        "cassette", 
+        "0.14020"
+      ], 
+      [
+        "comic book", 
+        "0.09528"
+      ], 
+      [
+        "web site", 
+        "0.06919"
+      ], 
+      [
+        "hand-held computer", 
+        "0.05544"
+      ]
+    ], 
+    [
+      [
+        "mercantile establishment", 
+        "0.50212"
+      ], 
+      [
+        "shop", 
+        "0.49140"
+      ], 
+      [
+        "place of business", 
+        "0.49074"
+      ], 
+      [
+        "establishment", 
+        "0.47155"
+      ], 
+      [
+        "machine", 
+        "0.40527"
+      ]
+    ], 
+    "5.256"
+  ]
+}

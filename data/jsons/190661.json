@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.29436"
+      ], 
+      [
+        "modem", 
+        "0.20861"
+      ], 
+      [
+        "microphone", 
+        "0.08810"
+      ], 
+      [
+        "lens cap", 
+        "0.07568"
+      ], 
+      [
+        "lighter", 
+        "0.03482"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40994"
+      ], 
+      [
+        "lock", 
+        "0.38315"
+      ], 
+      [
+        "combination lock", 
+        "0.37359"
+      ], 
+      [
+        "equipment", 
+        "0.36452"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35337"
+      ]
+    ], 
+    "14.516"
+  ]
+}

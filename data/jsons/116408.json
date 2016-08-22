@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.57677"
+      ], 
+      [
+        "oil filter", 
+        "0.14528"
+      ], 
+      [
+        "thimble", 
+        "0.09632"
+      ], 
+      [
+        "puck", 
+        "0.05438"
+      ], 
+      [
+        "loupe", 
+        "0.02590"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.44354"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.40487"
+      ], 
+      [
+        "device", 
+        "0.40016"
+      ], 
+      [
+        "transducer", 
+        "0.39814"
+      ], 
+      [
+        "electrical device", 
+        "0.39141"
+      ]
+    ], 
+    "11.635"
+  ]
+}

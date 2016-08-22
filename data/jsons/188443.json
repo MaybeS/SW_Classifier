@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pay-phone", 
+        "0.28139"
+      ], 
+      [
+        "cellular telephone", 
+        "0.08041"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07214"
+      ], 
+      [
+        "digital watch", 
+        "0.06938"
+      ], 
+      [
+        "stopwatch", 
+        "0.06374"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.72892"
+      ], 
+      [
+        "telephone", 
+        "0.72189"
+      ], 
+      [
+        "pay-phone", 
+        "0.62869"
+      ], 
+      [
+        "equipment", 
+        "0.56988"
+      ], 
+      [
+        "measuring instrument", 
+        "0.42749"
+      ]
+    ], 
+    "7.210"
+  ]
+}

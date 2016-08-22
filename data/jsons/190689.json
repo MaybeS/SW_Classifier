@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette player", 
+        "0.29854"
+      ], 
+      [
+        "tape player", 
+        "0.18257"
+      ], 
+      [
+        "projector", 
+        "0.08787"
+      ], 
+      [
+        "cassette", 
+        "0.06703"
+      ], 
+      [
+        "safe", 
+        "0.03755"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.76511"
+      ], 
+      [
+        "equipment", 
+        "0.67266"
+      ], 
+      [
+        "cassette player", 
+        "0.48307"
+      ], 
+      [
+        "container", 
+        "0.32960"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.29890"
+      ]
+    ], 
+    "10.037"
+  ]
+}

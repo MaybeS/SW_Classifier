@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radiator", 
+        "0.19251"
+      ], 
+      [
+        "binder", 
+        "0.15667"
+      ], 
+      [
+        "sliding door", 
+        "0.08869"
+      ], 
+      [
+        "wardrobe", 
+        "0.07734"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05787"
+      ]
+    ], 
+    [
+      [
+        "furnishing", 
+        "0.41288"
+      ], 
+      [
+        "furniture", 
+        "0.34890"
+      ], 
+      [
+        "radiator", 
+        "0.33834"
+      ], 
+      [
+        "protective covering", 
+        "0.29404"
+      ], 
+      [
+        "device", 
+        "0.28321"
+      ]
+    ], 
+    "7.904"
+  ]
+}

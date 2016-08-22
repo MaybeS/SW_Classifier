@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.33774"
+      ], 
+      [
+        "CD player", 
+        "0.11995"
+      ], 
+      [
+        "toilet seat", 
+        "0.09980"
+      ], 
+      [
+        "scale", 
+        "0.05738"
+      ], 
+      [
+        "face powder", 
+        "0.03351"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "0.65117"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.55772"
+      ], 
+      [
+        "home appliance", 
+        "0.53921"
+      ], 
+      [
+        "appliance", 
+        "0.52270"
+      ], 
+      [
+        "durables", 
+        "0.50910"
+      ]
+    ], 
+    "6.017"
+  ]
+}

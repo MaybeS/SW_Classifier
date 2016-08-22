@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.20334"
+      ], 
+      [
+        "hand-held computer", 
+        "0.14265"
+      ], 
+      [
+        "remote control", 
+        "0.11656"
+      ], 
+      [
+        "space bar", 
+        "0.07980"
+      ], 
+      [
+        "joystick", 
+        "0.07854"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40830"
+      ], 
+      [
+        "portable computer", 
+        "0.40745"
+      ], 
+      [
+        "personal computer", 
+        "0.40376"
+      ], 
+      [
+        "computer", 
+        "0.39639"
+      ], 
+      [
+        "digital computer", 
+        "0.39602"
+      ]
+    ], 
+    "5.058"
+  ]
+}

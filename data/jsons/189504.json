@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.37899"
+      ], 
+      [
+        "remote control", 
+        "0.10265"
+      ], 
+      [
+        "mouse", 
+        "0.06380"
+      ], 
+      [
+        "iPod", 
+        "0.05800"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05393"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.82662"
+      ], 
+      [
+        "equipment", 
+        "0.68328"
+      ], 
+      [
+        "device", 
+        "0.35840"
+      ], 
+      [
+        "CD player", 
+        "0.32863"
+      ], 
+      [
+        "system", 
+        "0.24702"
+      ]
+    ], 
+    "5.238"
+  ]
+}

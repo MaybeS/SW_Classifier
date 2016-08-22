@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.36584"
+      ], 
+      [
+        "modem", 
+        "0.22298"
+      ], 
+      [
+        "projector", 
+        "0.12306"
+      ], 
+      [
+        "radio", 
+        "0.07962"
+      ], 
+      [
+        "remote control", 
+        "0.02223"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.57198"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.52690"
+      ], 
+      [
+        "transducer", 
+        "0.51814"
+      ], 
+      [
+        "electrical device", 
+        "0.50938"
+      ], 
+      [
+        "equipment", 
+        "0.44459"
+      ]
+    ], 
+    "13.307"
+  ]
+}

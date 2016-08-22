@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.21607"
+      ], 
+      [
+        "loudspeaker", 
+        "0.21298"
+      ], 
+      [
+        "modem", 
+        "0.13257"
+      ], 
+      [
+        "radio", 
+        "0.11944"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04496"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.45368"
+      ], 
+      [
+        "equipment", 
+        "0.42789"
+      ], 
+      [
+        "device", 
+        "0.38965"
+      ], 
+      [
+        "loudspeaker", 
+        "0.34837"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.31950"
+      ]
+    ], 
+    "5.863"
+  ]
+}

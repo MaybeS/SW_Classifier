@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dial telephone", 
+        "0.89107"
+      ], 
+      [
+        "pay-phone", 
+        "0.03478"
+      ], 
+      [
+        "hand-held computer", 
+        "0.03409"
+      ], 
+      [
+        "radio", 
+        "0.01776"
+      ], 
+      [
+        "cellular telephone", 
+        "0.00493"
+      ]
+    ], 
+    [
+      [
+        "dial telephone", 
+        "2.00357"
+      ], 
+      [
+        "telephone", 
+        "1.78098"
+      ], 
+      [
+        "electronic equipment", 
+        "1.36699"
+      ], 
+      [
+        "equipment", 
+        "1.01685"
+      ], 
+      [
+        "device", 
+        "0.30202"
+      ]
+    ], 
+    "5.296"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.27462"
+      ], 
+      [
+        "radio", 
+        "0.10822"
+      ], 
+      [
+        "remote control", 
+        "0.09322"
+      ], 
+      [
+        "tape player", 
+        "0.08749"
+      ], 
+      [
+        "switch", 
+        "0.08447"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.72252"
+      ], 
+      [
+        "equipment", 
+        "0.62292"
+      ], 
+      [
+        "control", 
+        "0.41585"
+      ], 
+      [
+        "device", 
+        "0.37893"
+      ], 
+      [
+        "peripheral", 
+        "0.34472"
+      ]
+    ], 
+    "9.769"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.24655"
+      ], 
+      [
+        "photocopier", 
+        "0.16718"
+      ], 
+      [
+        "switch", 
+        "0.07185"
+      ], 
+      [
+        "modem", 
+        "0.04501"
+      ], 
+      [
+        "perfume", 
+        "0.03662"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.62247"
+      ], 
+      [
+        "photocopier", 
+        "0.56372"
+      ], 
+      [
+        "duplicator", 
+        "0.55544"
+      ], 
+      [
+        "apparatus", 
+        "0.54716"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45247"
+      ]
+    ], 
+    "5.656"
+  ]
+}

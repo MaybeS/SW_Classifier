@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "gasmask", 
+        "0.16157"
+      ], 
+      [
+        "cassette", 
+        "0.15824"
+      ], 
+      [
+        "analog clock", 
+        "0.08033"
+      ], 
+      [
+        "cassette player", 
+        "0.06822"
+      ], 
+      [
+        "web site", 
+        "0.04602"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32021"
+      ], 
+      [
+        "instrument", 
+        "0.29709"
+      ], 
+      [
+        "container", 
+        "0.29430"
+      ], 
+      [
+        "measuring instrument", 
+        "0.29010"
+      ], 
+      [
+        "equipment", 
+        "0.27544"
+      ]
+    ], 
+    "6.680"
+  ]
+}

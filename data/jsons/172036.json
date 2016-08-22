@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.69020"
+      ], 
+      [
+        "fountain pen", 
+        "0.08279"
+      ], 
+      [
+        "projectile", 
+        "0.02493"
+      ], 
+      [
+        "ballpoint", 
+        "0.02208"
+      ], 
+      [
+        "missile", 
+        "0.01910"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.52053"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.47265"
+      ], 
+      [
+        "transducer", 
+        "0.46479"
+      ], 
+      [
+        "electrical device", 
+        "0.45693"
+      ], 
+      [
+        "device", 
+        "0.40437"
+      ]
+    ], 
+    "14.258"
+  ]
+}

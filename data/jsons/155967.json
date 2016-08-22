@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.20148"
+      ], 
+      [
+        "fountain pen", 
+        "0.19988"
+      ], 
+      [
+        "notebook", 
+        "0.08652"
+      ], 
+      [
+        "ballpoint", 
+        "0.08501"
+      ], 
+      [
+        "monitor", 
+        "0.05858"
+      ]
+    ], 
+    [
+      [
+        "pen", 
+        "0.50942"
+      ], 
+      [
+        "writing implement", 
+        "0.50034"
+      ], 
+      [
+        "fountain pen", 
+        "0.43143"
+      ], 
+      [
+        "implement", 
+        "0.42282"
+      ], 
+      [
+        "personal computer", 
+        "0.39234"
+      ]
+    ], 
+    "8.417"
+  ]
+}

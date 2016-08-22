@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wall clock", 
+        "0.44084"
+      ], 
+      [
+        "envelope", 
+        "0.09565"
+      ], 
+      [
+        "wardrobe", 
+        "0.07177"
+      ], 
+      [
+        "safety pin", 
+        "0.03246"
+      ], 
+      [
+        "umbrella", 
+        "0.02674"
+      ]
+    ], 
+    [
+      [
+        "clock", 
+        "0.95896"
+      ], 
+      [
+        "timepiece", 
+        "0.83612"
+      ], 
+      [
+        "measuring instrument", 
+        "0.81908"
+      ], 
+      [
+        "instrument", 
+        "0.62967"
+      ], 
+      [
+        "wall clock", 
+        "0.60365"
+      ]
+    ], 
+    "7.210"
+  ]
+}

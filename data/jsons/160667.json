@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tape player", 
+        "0.37296"
+      ], 
+      [
+        "safe", 
+        "0.13483"
+      ], 
+      [
+        "cassette player", 
+        "0.12543"
+      ], 
+      [
+        "combination lock", 
+        "0.06539"
+      ], 
+      [
+        "cassette", 
+        "0.06400"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.72522"
+      ], 
+      [
+        "equipment", 
+        "0.58780"
+      ], 
+      [
+        "cassette player", 
+        "0.43930"
+      ], 
+      [
+        "safe", 
+        "0.39001"
+      ], 
+      [
+        "strongbox", 
+        "0.38429"
+      ]
+    ], 
+    "7.550"
+  ]
+}

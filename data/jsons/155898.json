@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pier", 
+        "0.70623"
+      ], 
+      [
+        "suspension bridge", 
+        "0.23927"
+      ], 
+      [
+        "crane", 
+        "0.03781"
+      ], 
+      [
+        "steel arch bridge", 
+        "0.00628"
+      ], 
+      [
+        "bannister", 
+        "0.00371"
+      ]
+    ], 
+    [
+      [
+        "bridge", 
+        "1.46196"
+      ], 
+      [
+        "pier", 
+        "1.13167"
+      ], 
+      [
+        "structure", 
+        "0.96862"
+      ], 
+      [
+        "suspension bridge", 
+        "0.95549"
+      ], 
+      [
+        "support", 
+        "0.83985"
+      ]
+    ], 
+    "9.126"
+  ]
+}

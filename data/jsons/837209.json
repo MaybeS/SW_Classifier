@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand blower", 
+        "0.14514"
+      ], 
+      [
+        "spatula", 
+        "0.03714"
+      ], 
+      [
+        "shoe shop", 
+        "0.03259"
+      ], 
+      [
+        "ice lolly", 
+        "0.02930"
+      ], 
+      [
+        "wooden spoon", 
+        "0.02633"
+      ]
+    ], 
+    [
+      [
+        "consumer goods", 
+        "0.34727"
+      ], 
+      [
+        "commodity", 
+        "0.33274"
+      ], 
+      [
+        "covering", 
+        "0.31916"
+      ], 
+      [
+        "clothing", 
+        "0.30253"
+      ], 
+      [
+        "container", 
+        "0.23832"
+      ]
+    ], 
+    "4.949"
+  ]
+}

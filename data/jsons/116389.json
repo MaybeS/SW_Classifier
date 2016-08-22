@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.38520"
+      ], 
+      [
+        "carton", 
+        "0.12349"
+      ], 
+      [
+        "mousetrap", 
+        "0.05550"
+      ], 
+      [
+        "space heater", 
+        "0.04272"
+      ], 
+      [
+        "binder", 
+        "0.03050"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "0.65982"
+      ], 
+      [
+        "rack", 
+        "0.65012"
+      ], 
+      [
+        "framework", 
+        "0.57678"
+      ], 
+      [
+        "supporting structure", 
+        "0.53282"
+      ], 
+      [
+        "structure", 
+        "0.36045"
+      ]
+    ], 
+    "6.383"
+  ]
+}

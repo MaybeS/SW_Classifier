@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "notebook", 
+        "0.26080"
+      ], 
+      [
+        "laptop", 
+        "0.11264"
+      ], 
+      [
+        "cellular telephone", 
+        "0.08520"
+      ], 
+      [
+        "modem", 
+        "0.06770"
+      ], 
+      [
+        "ballpoint", 
+        "0.05292"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.65132"
+      ], 
+      [
+        "digital computer", 
+        "0.63885"
+      ], 
+      [
+        "portable computer", 
+        "0.63083"
+      ], 
+      [
+        "computer", 
+        "0.60355"
+      ], 
+      [
+        "machine", 
+        "0.54027"
+      ]
+    ], 
+    "6.810"
+  ]
+}

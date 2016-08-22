@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.47017"
+      ], 
+      [
+        "hand blower", 
+        "0.26619"
+      ], 
+      [
+        "space heater", 
+        "0.14035"
+      ], 
+      [
+        "radio", 
+        "0.02708"
+      ], 
+      [
+        "spotlight", 
+        "0.02704"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40318"
+      ], 
+      [
+        "microphone", 
+        "0.36136"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.34893"
+      ], 
+      [
+        "transducer", 
+        "0.34313"
+      ], 
+      [
+        "electrical device", 
+        "0.33733"
+      ]
+    ], 
+    "10.450"
+  ]
+}

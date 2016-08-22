@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.17522"
+      ], 
+      [
+        "cassette", 
+        "0.15388"
+      ], 
+      [
+        "mousetrap", 
+        "0.14687"
+      ], 
+      [
+        "cassette player", 
+        "0.09339"
+      ], 
+      [
+        "tape player", 
+        "0.05961"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.47673"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42827"
+      ], 
+      [
+        "container", 
+        "0.31813"
+      ], 
+      [
+        "device", 
+        "0.26682"
+      ], 
+      [
+        "cassette", 
+        "0.25718"
+      ]
+    ], 
+    "6.419"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.36003"
+      ], 
+      [
+        "desktop computer", 
+        "0.04702"
+      ], 
+      [
+        "printer", 
+        "0.04059"
+      ], 
+      [
+        "lighter", 
+        "0.03571"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03078"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.48948"
+      ], 
+      [
+        "equipment", 
+        "0.44710"
+      ], 
+      [
+        "machine", 
+        "0.35187"
+      ], 
+      [
+        "modem", 
+        "0.34863"
+      ], 
+      [
+        "device", 
+        "0.33771"
+      ]
+    ], 
+    "7.608"
+  ]
+}

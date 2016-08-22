@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.33902"
+      ], 
+      [
+        "hand-held computer", 
+        "0.26638"
+      ], 
+      [
+        "joystick", 
+        "0.07494"
+      ], 
+      [
+        "scale", 
+        "0.07266"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04158"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.70731"
+      ], 
+      [
+        "portable computer", 
+        "0.66601"
+      ], 
+      [
+        "hand-held computer", 
+        "0.64830"
+      ], 
+      [
+        "personal computer", 
+        "0.64526"
+      ], 
+      [
+        "digital computer", 
+        "0.63290"
+      ]
+    ], 
+    "5.116"
+  ]
+}

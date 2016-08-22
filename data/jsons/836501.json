@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "umbrella", 
+        "0.36317"
+      ], 
+      [
+        "handkerchief", 
+        "0.07753"
+      ], 
+      [
+        "matchstick", 
+        "0.03822"
+      ], 
+      [
+        "hoopskirt", 
+        "0.03743"
+      ], 
+      [
+        "lampshade", 
+        "0.03569"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.56555"
+      ], 
+      [
+        "clothing", 
+        "0.52306"
+      ], 
+      [
+        "consumer goods", 
+        "0.46942"
+      ], 
+      [
+        "commodity", 
+        "0.45167"
+      ], 
+      [
+        "garment", 
+        "0.42466"
+      ]
+    ], 
+    "6.162"
+  ]
+}

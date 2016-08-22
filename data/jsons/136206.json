@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.54197"
+      ], 
+      [
+        "can opener", 
+        "0.18080"
+      ], 
+      [
+        "projector", 
+        "0.04515"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03718"
+      ], 
+      [
+        "remote control", 
+        "0.03680"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.94311"
+      ], 
+      [
+        "magnetic disk", 
+        "0.92926"
+      ], 
+      [
+        "memory device", 
+        "0.91540"
+      ], 
+      [
+        "device", 
+        "0.44419"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42160"
+      ]
+    ], 
+    "11.914"
+  ]
+}

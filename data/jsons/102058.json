@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.15988"
+      ], 
+      [
+        "stage", 
+        "0.12674"
+      ], 
+      [
+        "comic book", 
+        "0.06219"
+      ], 
+      [
+        "oboe", 
+        "0.04870"
+      ], 
+      [
+        "Windsor tie", 
+        "0.04421"
+      ]
+    ], 
+    [
+      [
+        "musical instrument", 
+        "0.40803"
+      ], 
+      [
+        "covering", 
+        "0.39232"
+      ], 
+      [
+        "clothing", 
+        "0.32396"
+      ], 
+      [
+        "device", 
+        "0.31414"
+      ], 
+      [
+        "consumer goods", 
+        "0.30613"
+      ]
+    ], 
+    "4.885"
+  ]
+}

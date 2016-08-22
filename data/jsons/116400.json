@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.22153"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.11563"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06542"
+      ], 
+      [
+        "modem", 
+        "0.05313"
+      ], 
+      [
+        "microphone", 
+        "0.04483"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34537"
+      ], 
+      [
+        "space heater", 
+        "0.28090"
+      ], 
+      [
+        "heater", 
+        "0.26205"
+      ], 
+      [
+        "equipment", 
+        "0.26162"
+      ], 
+      [
+        "implement", 
+        "0.22526"
+      ]
+    ], 
+    "7.606"
+  ]
+}

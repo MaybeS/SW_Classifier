@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.24485"
+      ], 
+      [
+        "loudspeaker", 
+        "0.16797"
+      ], 
+      [
+        "toaster", 
+        "0.16401"
+      ], 
+      [
+        "projector", 
+        "0.13407"
+      ], 
+      [
+        "paper towel", 
+        "0.07593"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.41540"
+      ], 
+      [
+        "appliance", 
+        "0.40757"
+      ], 
+      [
+        "durables", 
+        "0.39696"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.39238"
+      ], 
+      [
+        "device", 
+        "0.33979"
+      ]
+    ], 
+    "4.839"
+  ]
+}

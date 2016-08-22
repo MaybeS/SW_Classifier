@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "notebook", 
+        "0.29571"
+      ], 
+      [
+        "mortarboard", 
+        "0.24162"
+      ], 
+      [
+        "binder", 
+        "0.16134"
+      ], 
+      [
+        "laptop", 
+        "0.12055"
+      ], 
+      [
+        "wallet", 
+        "0.05482"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.64682"
+      ], 
+      [
+        "digital computer", 
+        "0.63443"
+      ], 
+      [
+        "portable computer", 
+        "0.62911"
+      ], 
+      [
+        "computer", 
+        "0.60129"
+      ], 
+      [
+        "machine", 
+        "0.51936"
+      ]
+    ], 
+    "11.358"
+  ]
+}

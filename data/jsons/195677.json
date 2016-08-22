@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.29832"
+      ], 
+      [
+        "modem", 
+        "0.15673"
+      ], 
+      [
+        "tape player", 
+        "0.04530"
+      ], 
+      [
+        "photocopier", 
+        "0.04458"
+      ], 
+      [
+        "printer", 
+        "0.04066"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.44924"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44077"
+      ], 
+      [
+        "measuring instrument", 
+        "0.36580"
+      ], 
+      [
+        "instrument", 
+        "0.35536"
+      ], 
+      [
+        "device", 
+        "0.34785"
+      ]
+    ], 
+    "5.108"
+  ]
+}

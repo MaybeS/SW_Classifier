@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.23235"
+      ], 
+      [
+        "remote control", 
+        "0.17016"
+      ], 
+      [
+        "cellular telephone", 
+        "0.11117"
+      ], 
+      [
+        "digital clock", 
+        "0.09735"
+      ], 
+      [
+        "oil filter", 
+        "0.03632"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "0.72520"
+      ], 
+      [
+        "signboard", 
+        "0.71455"
+      ], 
+      [
+        "board", 
+        "0.71455"
+      ], 
+      [
+        "sheet", 
+        "0.62855"
+      ], 
+      [
+        "structure", 
+        "0.36434"
+      ]
+    ], 
+    "5.773"
+  ]
+}

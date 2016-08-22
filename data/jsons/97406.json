@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.77395"
+      ], 
+      [
+        "hair slide", 
+        "0.05991"
+      ], 
+      [
+        "hook", 
+        "0.04353"
+      ], 
+      [
+        "modem", 
+        "0.01984"
+      ], 
+      [
+        "can opener", 
+        "0.01658"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.48545"
+      ], 
+      [
+        "device", 
+        "0.52475"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41453"
+      ], 
+      [
+        "equipment", 
+        "0.36906"
+      ], 
+      [
+        "cellular telephone", 
+        "0.26624"
+      ]
+    ], 
+    "7.522"
+  ]
+}

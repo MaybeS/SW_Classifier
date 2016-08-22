@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dial telephone", 
+        "0.65704"
+      ], 
+      [
+        "hard disc", 
+        "0.09530"
+      ], 
+      [
+        "combination lock", 
+        "0.03678"
+      ], 
+      [
+        "espresso maker", 
+        "0.03586"
+      ], 
+      [
+        "CD player", 
+        "0.02086"
+      ]
+    ], 
+    [
+      [
+        "dial telephone", 
+        "1.48674"
+      ], 
+      [
+        "telephone", 
+        "1.28829"
+      ], 
+      [
+        "electronic equipment", 
+        "1.06673"
+      ], 
+      [
+        "equipment", 
+        "0.81705"
+      ], 
+      [
+        "device", 
+        "0.32741"
+      ]
+    ], 
+    "7.008"
+  ]
+}

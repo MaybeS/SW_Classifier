@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.56495"
+      ], 
+      [
+        "digital clock", 
+        "0.16787"
+      ], 
+      [
+        "modem", 
+        "0.04177"
+      ], 
+      [
+        "street sign", 
+        "0.02805"
+      ], 
+      [
+        "hair slide", 
+        "0.01996"
+      ]
+    ], 
+    [
+      [
+        "rule", 
+        "0.70511"
+      ], 
+      [
+        "measuring instrument", 
+        "0.69723"
+      ], 
+      [
+        "measuring stick", 
+        "0.69476"
+      ], 
+      [
+        "instrument", 
+        "0.53583"
+      ], 
+      [
+        "device", 
+        "0.41159"
+      ]
+    ], 
+    "16.475"
+  ]
+}

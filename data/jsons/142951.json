@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.28219"
+      ], 
+      [
+        "hamper", 
+        "0.10361"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.08456"
+      ], 
+      [
+        "water jug", 
+        "0.08346"
+      ], 
+      [
+        "face powder", 
+        "0.04782"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.44492"
+      ], 
+      [
+        "coffee maker", 
+        "0.43838"
+      ], 
+      [
+        "home appliance", 
+        "0.41494"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.41255"
+      ], 
+      [
+        "appliance", 
+        "0.40721"
+      ]
+    ], 
+    "5.795"
+  ]
+}

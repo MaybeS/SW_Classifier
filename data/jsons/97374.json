@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.32462"
+      ], 
+      [
+        "microphone", 
+        "0.13290"
+      ], 
+      [
+        "whistle", 
+        "0.06510"
+      ], 
+      [
+        "water bottle", 
+        "0.06094"
+      ], 
+      [
+        "oil filter", 
+        "0.04110"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34759"
+      ], 
+      [
+        "container", 
+        "0.27596"
+      ], 
+      [
+        "vessel", 
+        "0.23563"
+      ], 
+      [
+        "implement", 
+        "0.21958"
+      ], 
+      [
+        "source of illumination", 
+        "0.20415"
+      ]
+    ], 
+    "6.669"
+  ]
+}

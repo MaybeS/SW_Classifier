@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.38979"
+      ], 
+      [
+        "modem", 
+        "0.18155"
+      ], 
+      [
+        "radio", 
+        "0.11560"
+      ], 
+      [
+        "CD player", 
+        "0.06659"
+      ], 
+      [
+        "web site", 
+        "0.02706"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.48458"
+      ], 
+      [
+        "equipment", 
+        "0.42204"
+      ], 
+      [
+        "device", 
+        "0.40021"
+      ], 
+      [
+        "harmonica", 
+        "0.36759"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.34080"
+      ]
+    ], 
+    "8.868"
+  ]
+}

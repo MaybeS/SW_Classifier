@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette player", 
+        "0.18114"
+      ], 
+      [
+        "tape player", 
+        "0.17283"
+      ], 
+      [
+        "snowmobile", 
+        "0.10365"
+      ], 
+      [
+        "cassette", 
+        "0.09337"
+      ], 
+      [
+        "racer", 
+        "0.08458"
+      ]
+    ], 
+    [
+      [
+        "self-propelled vehicle", 
+        "0.64110"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.59043"
+      ], 
+      [
+        "vehicle", 
+        "0.57518"
+      ], 
+      [
+        "electronic equipment", 
+        "0.55273"
+      ], 
+      [
+        "conveyance", 
+        "0.55024"
+      ]
+    ], 
+    "6.630"
+  ]
+}

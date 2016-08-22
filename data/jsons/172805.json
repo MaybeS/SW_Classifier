@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.37172"
+      ], 
+      [
+        "waffle iron", 
+        "0.24177"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.08578"
+      ], 
+      [
+        "screwdriver", 
+        "0.08253"
+      ], 
+      [
+        "radio", 
+        "0.04819"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "0.47442"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.39658"
+      ], 
+      [
+        "appliance", 
+        "0.38558"
+      ], 
+      [
+        "home appliance", 
+        "0.37718"
+      ], 
+      [
+        "durables", 
+        "0.37555"
+      ]
+    ], 
+    "6.788"
+  ]
+}

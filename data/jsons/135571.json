@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wallet", 
+        "0.12003"
+      ], 
+      [
+        "scabbard", 
+        "0.05411"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05192"
+      ], 
+      [
+        "studio couch", 
+        "0.03089"
+      ], 
+      [
+        "rifle", 
+        "0.02732"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.26767"
+      ], 
+      [
+        "container", 
+        "0.25191"
+      ], 
+      [
+        "covering", 
+        "0.24602"
+      ], 
+      [
+        "implement", 
+        "0.23908"
+      ], 
+      [
+        "protective covering", 
+        "0.18853"
+      ]
+    ], 
+    "10.860"
+  ]
+}

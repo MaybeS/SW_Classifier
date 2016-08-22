@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soccer ball", 
+        "0.10495"
+      ], 
+      [
+        "golf ball", 
+        "0.07832"
+      ], 
+      [
+        "pill bottle", 
+        "0.07625"
+      ], 
+      [
+        "toilet tissue", 
+        "0.04717"
+      ], 
+      [
+        "paper towel", 
+        "0.03941"
+      ]
+    ], 
+    [
+      [
+        "ball", 
+        "0.48608"
+      ], 
+      [
+        "game equipment", 
+        "0.45300"
+      ], 
+      [
+        "equipment", 
+        "0.36357"
+      ], 
+      [
+        "soccer ball", 
+        "0.28860"
+      ], 
+      [
+        "golf ball", 
+        "0.27441"
+      ]
+    ], 
+    "5.776"
+  ]
+}

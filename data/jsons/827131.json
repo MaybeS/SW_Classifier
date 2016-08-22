@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.51185"
+      ], 
+      [
+        "Windsor tie", 
+        "0.09083"
+      ], 
+      [
+        "swimming trunks", 
+        "0.08778"
+      ], 
+      [
+        "miniskirt", 
+        "0.05349"
+      ], 
+      [
+        "stole", 
+        "0.04033"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.10693"
+      ], 
+      [
+        "consumer goods", 
+        "0.97460"
+      ], 
+      [
+        "knee pad", 
+        "0.95135"
+      ], 
+      [
+        "covering", 
+        "0.93643"
+      ], 
+      [
+        "commodity", 
+        "0.92363"
+      ]
+    ], 
+    "5.705"
+  ]
+}

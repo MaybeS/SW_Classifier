@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.21063"
+      ], 
+      [
+        "hard disc", 
+        "0.17070"
+      ], 
+      [
+        "cellular telephone", 
+        "0.12009"
+      ], 
+      [
+        "modem", 
+        "0.09205"
+      ], 
+      [
+        "book jacket", 
+        "0.08187"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.74343"
+      ], 
+      [
+        "equipment", 
+        "0.59070"
+      ], 
+      [
+        "iPod", 
+        "0.41130"
+      ], 
+      [
+        "stereo", 
+        "0.40525"
+      ], 
+      [
+        "reproducer", 
+        "0.39921"
+      ]
+    ], 
+    "5.246"
+  ]
+}

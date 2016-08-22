@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.35172"
+      ], 
+      [
+        "safe", 
+        "0.13375"
+      ], 
+      [
+        "microwave", 
+        "0.09589"
+      ], 
+      [
+        "radio", 
+        "0.08016"
+      ], 
+      [
+        "soap dispenser", 
+        "0.04166"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.62513"
+      ], 
+      [
+        "magnetic disk", 
+        "0.61594"
+      ], 
+      [
+        "memory device", 
+        "0.60676"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42529"
+      ], 
+      [
+        "safe", 
+        "0.39653"
+      ]
+    ], 
+    "7.035"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.55297"
+      ], 
+      [
+        "iPod", 
+        "0.09472"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05117"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04015"
+      ], 
+      [
+        "Band Aid", 
+        "0.03660"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.08186"
+      ], 
+      [
+        "electronic equipment", 
+        "0.56845"
+      ], 
+      [
+        "equipment", 
+        "0.48211"
+      ], 
+      [
+        "device", 
+        "0.45721"
+      ], 
+      [
+        "cellular telephone", 
+        "0.28539"
+      ]
+    ], 
+    "5.673"
+  ]
+}

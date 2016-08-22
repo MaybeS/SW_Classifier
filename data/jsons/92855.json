@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.24919"
+      ], 
+      [
+        "tape player", 
+        "0.13594"
+      ], 
+      [
+        "electric fan", 
+        "0.11020"
+      ], 
+      [
+        "hard disc", 
+        "0.08467"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.08244"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.47712"
+      ], 
+      [
+        "equipment", 
+        "0.45764"
+      ], 
+      [
+        "cassette", 
+        "0.38453"
+      ], 
+      [
+        "container", 
+        "0.37062"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.29658"
+      ]
+    ], 
+    "6.993"
+  ]
+}

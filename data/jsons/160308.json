@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.15836"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.15553"
+      ], 
+      [
+        "screwdriver", 
+        "0.03972"
+      ], 
+      [
+        "oscilloscope", 
+        "0.03958"
+      ], 
+      [
+        "wall clock", 
+        "0.02783"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.33849"
+      ], 
+      [
+        "device", 
+        "0.31652"
+      ], 
+      [
+        "container", 
+        "0.24337"
+      ], 
+      [
+        "instrument", 
+        "0.22508"
+      ], 
+      [
+        "electronic equipment", 
+        "0.21702"
+      ]
+    ], 
+    "5.259"
+  ]
+}

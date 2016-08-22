@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Polaroid camera", 
+        "0.26373"
+      ], 
+      [
+        "radio", 
+        "0.23492"
+      ], 
+      [
+        "stove", 
+        "0.10874"
+      ], 
+      [
+        "CD player", 
+        "0.10615"
+      ], 
+      [
+        "projector", 
+        "0.07350"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.76179"
+      ], 
+      [
+        "photographic equipment", 
+        "0.74912"
+      ], 
+      [
+        "equipment", 
+        "0.73488"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.70830"
+      ], 
+      [
+        "electronic equipment", 
+        "0.49018"
+      ]
+    ], 
+    "9.515"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sewing machine", 
+        "0.38410"
+      ], 
+      [
+        "can opener", 
+        "0.37212"
+      ], 
+      [
+        "joystick", 
+        "0.03536"
+      ], 
+      [
+        "soap dispenser", 
+        "0.03357"
+      ], 
+      [
+        "hand blower", 
+        "0.02964"
+      ]
+    ], 
+    [
+      [
+        "sewing machine", 
+        "0.47314"
+      ], 
+      [
+        "textile machine", 
+        "0.46619"
+      ], 
+      [
+        "appliance", 
+        "0.43499"
+      ], 
+      [
+        "home appliance", 
+        "0.42446"
+      ], 
+      [
+        "durables", 
+        "0.42368"
+      ]
+    ], 
+    "5.592"
+  ]
+}

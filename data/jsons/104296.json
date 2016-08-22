@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.77287"
+      ], 
+      [
+        "safe", 
+        "0.09561"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04966"
+      ], 
+      [
+        "combination lock", 
+        "0.01677"
+      ], 
+      [
+        "switch", 
+        "0.01004"
+      ]
+    ], 
+    [
+      [
+        "soap dispenser", 
+        "0.51986"
+      ], 
+      [
+        "dispenser", 
+        "0.51222"
+      ], 
+      [
+        "container", 
+        "0.48580"
+      ], 
+      [
+        "vessel", 
+        "0.34903"
+      ], 
+      [
+        "toiletry", 
+        "0.28790"
+      ]
+    ], 
+    "5.910"
+  ]
+}

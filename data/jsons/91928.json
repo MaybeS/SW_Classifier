@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.27080"
+      ], 
+      [
+        "cellular telephone", 
+        "0.17551"
+      ], 
+      [
+        "switch", 
+        "0.13715"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04857"
+      ], 
+      [
+        "reflex camera", 
+        "0.04164"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.50384"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46315"
+      ], 
+      [
+        "device", 
+        "0.34567"
+      ], 
+      [
+        "cellular telephone", 
+        "0.33349"
+      ], 
+      [
+        "radiotelephone", 
+        "0.32859"
+      ]
+    ], 
+    "16.944"
+  ]
+}

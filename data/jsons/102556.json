@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.13890"
+      ], 
+      [
+        "stopwatch", 
+        "0.11049"
+      ], 
+      [
+        "remote control", 
+        "0.09944"
+      ], 
+      [
+        "CD player", 
+        "0.05338"
+      ], 
+      [
+        "cassette player", 
+        "0.04562"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.46163"
+      ], 
+      [
+        "equipment", 
+        "0.45437"
+      ], 
+      [
+        "device", 
+        "0.45151"
+      ], 
+      [
+        "measuring instrument", 
+        "0.41205"
+      ], 
+      [
+        "timepiece", 
+        "0.38744"
+      ]
+    ], 
+    "4.862"
+  ]
+}

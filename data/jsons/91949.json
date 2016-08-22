@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.39206"
+      ], 
+      [
+        "wardrobe", 
+        "0.06913"
+      ], 
+      [
+        "modem", 
+        "0.06752"
+      ], 
+      [
+        "binder", 
+        "0.06587"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06272"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.58823"
+      ], 
+      [
+        "digital computer", 
+        "0.57697"
+      ], 
+      [
+        "computer", 
+        "0.53705"
+      ], 
+      [
+        "machine", 
+        "0.49878"
+      ], 
+      [
+        "desktop computer", 
+        "0.48995"
+      ]
+    ], 
+    "6.522"
+  ]
+}

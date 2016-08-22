@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "file", 
+        "0.64634"
+      ], 
+      [
+        "desktop computer", 
+        "0.10981"
+      ], 
+      [
+        "chiffonier", 
+        "0.05038"
+      ], 
+      [
+        "remote control", 
+        "0.02467"
+      ], 
+      [
+        "CD player", 
+        "0.01172"
+      ]
+    ], 
+    [
+      [
+        "file", 
+        "1.55179"
+      ], 
+      [
+        "office furniture", 
+        "1.52899"
+      ], 
+      [
+        "furniture", 
+        "1.22294"
+      ], 
+      [
+        "furnishing", 
+        "1.14550"
+      ], 
+      [
+        "chiffonier", 
+        "0.50796"
+      ]
+    ], 
+    "6.064"
+  ]
+}

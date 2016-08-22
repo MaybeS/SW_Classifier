@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.77134"
+      ], 
+      [
+        "wall clock", 
+        "0.04665"
+      ], 
+      [
+        "analog clock", 
+        "0.04390"
+      ], 
+      [
+        "street sign", 
+        "0.02891"
+      ], 
+      [
+        "scale", 
+        "0.02127"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "1.21410"
+      ], 
+      [
+        "timepiece", 
+        "1.20102"
+      ], 
+      [
+        "clock", 
+        "1.14422"
+      ], 
+      [
+        "digital clock", 
+        "1.13167"
+      ], 
+      [
+        "instrument", 
+        "0.86509"
+      ]
+    ], 
+    "9.845"
+  ]
+}

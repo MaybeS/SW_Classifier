@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.26057"
+      ], 
+      [
+        "sunglass", 
+        "0.19727"
+      ], 
+      [
+        "sunglasses", 
+        "0.14122"
+      ], 
+      [
+        "neck brace", 
+        "0.09159"
+      ], 
+      [
+        "loupe", 
+        "0.06607"
+      ]
+    ], 
+    [
+      [
+        "optical instrument", 
+        "0.37187"
+      ], 
+      [
+        "device", 
+        "0.36735"
+      ], 
+      [
+        "covering", 
+        "0.31393"
+      ], 
+      [
+        "instrument", 
+        "0.31237"
+      ], 
+      [
+        "consumer goods", 
+        "0.29389"
+      ]
+    ], 
+    "6.488"
+  ]
+}

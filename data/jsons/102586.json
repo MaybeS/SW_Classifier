@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.98080"
+      ], 
+      [
+        "binoculars", 
+        "0.01153"
+      ], 
+      [
+        "neck brace", 
+        "0.00178"
+      ], 
+      [
+        "puck", 
+        "0.00061"
+      ], 
+      [
+        "gasmask", 
+        "0.00052"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.11070"
+      ], 
+      [
+        "control", 
+        "1.03138"
+      ], 
+      [
+        "data input device", 
+        "1.02769"
+      ], 
+      [
+        "peripheral", 
+        "0.95997"
+      ], 
+      [
+        "electronic equipment", 
+        "0.80097"
+      ]
+    ], 
+    "8.214"
+  ]
+}

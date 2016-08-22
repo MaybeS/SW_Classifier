@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.35715"
+      ], 
+      [
+        "space heater", 
+        "0.29794"
+      ], 
+      [
+        "envelope", 
+        "0.12375"
+      ], 
+      [
+        "binder", 
+        "0.06554"
+      ], 
+      [
+        "loudspeaker", 
+        "0.01833"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.43056"
+      ], 
+      [
+        "space heater", 
+        "0.37655"
+      ], 
+      [
+        "equipment", 
+        "0.37559"
+      ], 
+      [
+        "modem", 
+        "0.36895"
+      ], 
+      [
+        "heater", 
+        "0.34822"
+      ]
+    ], 
+    "8.181"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "gasmask", 
+        "0.28182"
+      ], 
+      [
+        "digital watch", 
+        "0.10672"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09101"
+      ], 
+      [
+        "cassette player", 
+        "0.05344"
+      ], 
+      [
+        "stopwatch", 
+        "0.03353"
+      ]
+    ], 
+    [
+      [
+        "gasmask", 
+        "0.39622"
+      ], 
+      [
+        "mask", 
+        "0.37420"
+      ], 
+      [
+        "measuring instrument", 
+        "0.37295"
+      ], 
+      [
+        "timepiece", 
+        "0.36834"
+      ], 
+      [
+        "instrument", 
+        "0.33595"
+      ]
+    ], 
+    "6.337"
+  ]
+}

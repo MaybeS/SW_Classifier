@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.18412"
+      ], 
+      [
+        "switch", 
+        "0.09791"
+      ], 
+      [
+        "pay-phone", 
+        "0.07644"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07213"
+      ], 
+      [
+        "modem", 
+        "0.05722"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.49755"
+      ], 
+      [
+        "equipment", 
+        "0.43518"
+      ], 
+      [
+        "device", 
+        "0.42198"
+      ], 
+      [
+        "remote control", 
+        "0.39380"
+      ], 
+      [
+        "telephone", 
+        "0.33598"
+      ]
+    ], 
+    "8.923"
+  ]
+}

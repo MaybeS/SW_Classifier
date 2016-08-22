@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.14190"
+      ], 
+      [
+        "modem", 
+        "0.11674"
+      ], 
+      [
+        "loudspeaker", 
+        "0.10046"
+      ], 
+      [
+        "book jacket", 
+        "0.08291"
+      ], 
+      [
+        "digital clock", 
+        "0.07076"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36759"
+      ], 
+      [
+        "equipment", 
+        "0.28640"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28076"
+      ], 
+      [
+        "container", 
+        "0.22202"
+      ], 
+      [
+        "measuring instrument", 
+        "0.21789"
+      ]
+    ], 
+    "11.154"
+  ]
+}

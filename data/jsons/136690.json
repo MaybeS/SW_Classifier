@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "gasmask", 
+        "0.65964"
+      ], 
+      [
+        "spotlight", 
+        "0.15764"
+      ], 
+      [
+        "oxygen mask", 
+        "0.09403"
+      ], 
+      [
+        "backpack", 
+        "0.01437"
+      ], 
+      [
+        "microphone", 
+        "0.01214"
+      ]
+    ], 
+    [
+      [
+        "gasmask", 
+        "0.91936"
+      ], 
+      [
+        "mask", 
+        "0.86287"
+      ], 
+      [
+        "protective covering", 
+        "0.56318"
+      ], 
+      [
+        "covering", 
+        "0.51296"
+      ], 
+      [
+        "oxygen mask", 
+        "0.37151"
+      ]
+    ], 
+    "8.300"
+  ]
+}

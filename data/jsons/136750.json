@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crash helmet", 
+        "0.82158"
+      ], 
+      [
+        "football helmet", 
+        "0.04852"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03178"
+      ], 
+      [
+        "cassette player", 
+        "0.03102"
+      ], 
+      [
+        "tape player", 
+        "0.00952"
+      ]
+    ], 
+    [
+      [
+        "crash helmet", 
+        "1.88566"
+      ], 
+      [
+        "helmet", 
+        "1.81725"
+      ], 
+      [
+        "headdress", 
+        "1.38042"
+      ], 
+      [
+        "clothing", 
+        "0.83942"
+      ], 
+      [
+        "consumer goods", 
+        "0.76118"
+      ]
+    ], 
+    "5.492"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.13934"
+      ], 
+      [
+        "cassette", 
+        "0.09714"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.06686"
+      ], 
+      [
+        "binder", 
+        "0.05820"
+      ], 
+      [
+        "comic book", 
+        "0.04542"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.33824"
+      ], 
+      [
+        "container", 
+        "0.30970"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30939"
+      ], 
+      [
+        "device", 
+        "0.27885"
+      ], 
+      [
+        "hard disc", 
+        "0.26659"
+      ]
+    ], 
+    "5.364"
+  ]
+}

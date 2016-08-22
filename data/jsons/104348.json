@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.81749"
+      ], 
+      [
+        "saltshaker", 
+        "0.07522"
+      ], 
+      [
+        "soap dispenser", 
+        "0.02575"
+      ], 
+      [
+        "piggy bank", 
+        "0.00824"
+      ], 
+      [
+        "candle", 
+        "0.00395"
+      ]
+    ], 
+    [
+      [
+        "pencil sharpener", 
+        "0.40426"
+      ], 
+      [
+        "sharpener", 
+        "0.39832"
+      ], 
+      [
+        "implement", 
+        "0.39089"
+      ], 
+      [
+        "container", 
+        "0.28128"
+      ], 
+      [
+        "device", 
+        "0.25702"
+      ]
+    ], 
+    "11.562"
+  ]
+}

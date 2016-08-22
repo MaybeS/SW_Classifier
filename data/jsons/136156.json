@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.51679"
+      ], 
+      [
+        "CD player", 
+        "0.26892"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06683"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05279"
+      ], 
+      [
+        "mouse", 
+        "0.01189"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.67800"
+      ], 
+      [
+        "optical instrument", 
+        "0.57007"
+      ], 
+      [
+        "equipment", 
+        "0.56451"
+      ], 
+      [
+        "electronic equipment", 
+        "0.47596"
+      ], 
+      [
+        "instrument", 
+        "0.42317"
+      ]
+    ], 
+    "5.706"
+  ]
+}

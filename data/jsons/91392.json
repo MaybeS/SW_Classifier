@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.91559"
+      ], 
+      [
+        "combination lock", 
+        "0.00766"
+      ], 
+      [
+        "spotlight", 
+        "0.00558"
+      ], 
+      [
+        "stethoscope", 
+        "0.00532"
+      ], 
+      [
+        "loudspeaker", 
+        "0.00424"
+      ]
+    ], 
+    [
+      [
+        "loupe", 
+        "0.42211"
+      ], 
+      [
+        "hand glass", 
+        "0.41591"
+      ], 
+      [
+        "light microscope", 
+        "0.40971"
+      ], 
+      [
+        "microscope", 
+        "0.40351"
+      ], 
+      [
+        "device", 
+        "0.39142"
+      ]
+    ], 
+    "10.389"
+  ]
+}

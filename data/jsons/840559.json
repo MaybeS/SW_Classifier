@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pajama", 
+        "0.34889"
+      ], 
+      [
+        "sarong", 
+        "0.33668"
+      ], 
+      [
+        "cowboy boot", 
+        "0.11341"
+      ], 
+      [
+        "swimming trunks", 
+        "0.08027"
+      ], 
+      [
+        "miniskirt", 
+        "0.03548"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.13749"
+      ], 
+      [
+        "consumer goods", 
+        "0.99572"
+      ], 
+      [
+        "covering", 
+        "0.98084"
+      ], 
+      [
+        "commodity", 
+        "0.94667"
+      ], 
+      [
+        "garment", 
+        "0.79362"
+      ]
+    ], 
+    "7.030"
+  ]
+}

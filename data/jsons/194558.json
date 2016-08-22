@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "notebook", 
+        "0.24088"
+      ], 
+      [
+        "binder", 
+        "0.14990"
+      ], 
+      [
+        "printer", 
+        "0.08398"
+      ], 
+      [
+        "ballpoint", 
+        "0.07013"
+      ], 
+      [
+        "letter opener", 
+        "0.05377"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.50736"
+      ], 
+      [
+        "digital computer", 
+        "0.49764"
+      ], 
+      [
+        "computer", 
+        "0.48191"
+      ], 
+      [
+        "machine", 
+        "0.47614"
+      ], 
+      [
+        "portable computer", 
+        "0.46521"
+      ]
+    ], 
+    "6.270"
+  ]
+}

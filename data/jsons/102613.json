@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.28662"
+      ], 
+      [
+        "microphone", 
+        "0.13452"
+      ], 
+      [
+        "hair slide", 
+        "0.09242"
+      ], 
+      [
+        "spotlight", 
+        "0.06998"
+      ], 
+      [
+        "switch", 
+        "0.04760"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37013"
+      ], 
+      [
+        "whistle", 
+        "0.33178"
+      ], 
+      [
+        "signaling device", 
+        "0.32691"
+      ], 
+      [
+        "acoustic device", 
+        "0.32691"
+      ], 
+      [
+        "implement", 
+        "0.29588"
+      ]
+    ], 
+    "10.822"
+  ]
+}

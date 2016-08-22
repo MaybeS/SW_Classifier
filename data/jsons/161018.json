@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.80754"
+      ], 
+      [
+        "rubber eraser", 
+        "0.09430"
+      ], 
+      [
+        "lighter", 
+        "0.02829"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02699"
+      ], 
+      [
+        "ballpoint", 
+        "0.00776"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.77566"
+      ], 
+      [
+        "protective covering", 
+        "0.44005"
+      ], 
+      [
+        "covering", 
+        "0.36898"
+      ], 
+      [
+        "container", 
+        "0.28176"
+      ], 
+      [
+        "implement", 
+        "0.24414"
+      ]
+    ], 
+    "7.608"
+  ]
+}

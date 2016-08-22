@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.20362"
+      ], 
+      [
+        "wall clock", 
+        "0.11031"
+      ], 
+      [
+        "pick", 
+        "0.08383"
+      ], 
+      [
+        "soccer ball", 
+        "0.05422"
+      ], 
+      [
+        "toilet seat", 
+        "0.03174"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "0.57091"
+      ], 
+      [
+        "device", 
+        "0.38204"
+      ], 
+      [
+        "wind instrument", 
+        "0.37931"
+      ], 
+      [
+        "musical instrument", 
+        "0.35824"
+      ], 
+      [
+        "measuring instrument", 
+        "0.29989"
+      ]
+    ], 
+    "6.233"
+  ]
+}

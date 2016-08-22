@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.71549"
+      ], 
+      [
+        "wall clock", 
+        "0.12709"
+      ], 
+      [
+        "iron", 
+        "0.03086"
+      ], 
+      [
+        "scale", 
+        "0.02199"
+      ], 
+      [
+        "sewing machine", 
+        "0.00983"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "1.59583"
+      ], 
+      [
+        "clock", 
+        "1.56751"
+      ], 
+      [
+        "timepiece", 
+        "1.50540"
+      ], 
+      [
+        "analog clock", 
+        "1.26173"
+      ], 
+      [
+        "instrument", 
+        "1.20560"
+      ]
+    ], 
+    "5.135"
+  ]
+}

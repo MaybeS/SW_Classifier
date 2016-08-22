@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.39805"
+      ], 
+      [
+        "binder", 
+        "0.23569"
+      ], 
+      [
+        "wallet", 
+        "0.13725"
+      ], 
+      [
+        "velvet", 
+        "0.02808"
+      ], 
+      [
+        "theater curtain", 
+        "0.02617"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.59382"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.53475"
+      ], 
+      [
+        "transducer", 
+        "0.52586"
+      ], 
+      [
+        "electrical device", 
+        "0.51697"
+      ], 
+      [
+        "covering", 
+        "0.35480"
+      ]
+    ], 
+    "6.229"
+  ]
+}

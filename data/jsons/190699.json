@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.48241"
+      ], 
+      [
+        "lens cap", 
+        "0.10465"
+      ], 
+      [
+        "reflex camera", 
+        "0.10008"
+      ], 
+      [
+        "microphone", 
+        "0.04334"
+      ], 
+      [
+        "modem", 
+        "0.03325"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.59081"
+      ], 
+      [
+        "combination lock", 
+        "0.58877"
+      ], 
+      [
+        "fastener", 
+        "0.50677"
+      ], 
+      [
+        "restraint", 
+        "0.47159"
+      ], 
+      [
+        "device", 
+        "0.43924"
+      ]
+    ], 
+    "11.239"
+  ]
+}

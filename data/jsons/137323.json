@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.56578"
+      ], 
+      [
+        "hand-held computer", 
+        "0.30000"
+      ], 
+      [
+        "combination lock", 
+        "0.02497"
+      ], 
+      [
+        "Windsor tie", 
+        "0.01886"
+      ], 
+      [
+        "switch", 
+        "0.00903"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.14077"
+      ], 
+      [
+        "portable computer", 
+        "0.77424"
+      ], 
+      [
+        "hand-held computer", 
+        "0.76890"
+      ], 
+      [
+        "personal computer", 
+        "0.74452"
+      ], 
+      [
+        "digital computer", 
+        "0.73026"
+      ]
+    ], 
+    "6.518"
+  ]
+}

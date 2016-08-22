@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand blower", 
+        "0.34097"
+      ], 
+      [
+        "spotlight", 
+        "0.29809"
+      ], 
+      [
+        "espresso maker", 
+        "0.06956"
+      ], 
+      [
+        "projector", 
+        "0.05785"
+      ], 
+      [
+        "iron", 
+        "0.02391"
+      ]
+    ], 
+    [
+      [
+        "appliance", 
+        "0.34797"
+      ], 
+      [
+        "durables", 
+        "0.33892"
+      ], 
+      [
+        "device", 
+        "0.32446"
+      ], 
+      [
+        "consumer goods", 
+        "0.30205"
+      ], 
+      [
+        "commodity", 
+        "0.28630"
+      ]
+    ], 
+    "5.925"
+  ]
+}

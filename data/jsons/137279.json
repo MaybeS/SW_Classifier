@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.43236"
+      ], 
+      [
+        "hook", 
+        "0.24221"
+      ], 
+      [
+        "whistle", 
+        "0.06165"
+      ], 
+      [
+        "microphone", 
+        "0.04339"
+      ], 
+      [
+        "iron", 
+        "0.03155"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.37288"
+      ], 
+      [
+        "device", 
+        "0.37097"
+      ], 
+      [
+        "medical instrument", 
+        "0.34854"
+      ], 
+      [
+        "instrument", 
+        "0.30690"
+      ], 
+      [
+        "consumer goods", 
+        "0.24021"
+      ]
+    ], 
+    "10.019"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.38724"
+      ], 
+      [
+        "modem", 
+        "0.10533"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.09793"
+      ], 
+      [
+        "whistle", 
+        "0.09451"
+      ], 
+      [
+        "padlock", 
+        "0.09419"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.58262"
+      ], 
+      [
+        "fastener", 
+        "0.50398"
+      ], 
+      [
+        "combination lock", 
+        "0.48069"
+      ], 
+      [
+        "restraint", 
+        "0.46937"
+      ], 
+      [
+        "device", 
+        "0.40493"
+      ]
+    ], 
+    "5.594"
+  ]
+}

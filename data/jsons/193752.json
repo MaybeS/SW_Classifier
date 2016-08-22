@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microwave", 
+        "0.47531"
+      ], 
+      [
+        "dishwasher", 
+        "0.12310"
+      ], 
+      [
+        "safe", 
+        "0.10652"
+      ], 
+      [
+        "refrigerator", 
+        "0.07812"
+      ], 
+      [
+        "printer", 
+        "0.02986"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.77013"
+      ], 
+      [
+        "appliance", 
+        "0.73801"
+      ], 
+      [
+        "durables", 
+        "0.71881"
+      ], 
+      [
+        "microwave", 
+        "0.61999"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.51011"
+      ]
+    ], 
+    "8.950"
+  ]
+}

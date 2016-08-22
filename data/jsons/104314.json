@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.15100"
+      ], 
+      [
+        "digital clock", 
+        "0.12112"
+      ], 
+      [
+        "safe", 
+        "0.09783"
+      ], 
+      [
+        "soap dispenser", 
+        "0.09049"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06734"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.36353"
+      ], 
+      [
+        "timepiece", 
+        "0.34871"
+      ], 
+      [
+        "device", 
+        "0.33924"
+      ], 
+      [
+        "instrument", 
+        "0.31116"
+      ], 
+      [
+        "safe", 
+        "0.29958"
+      ]
+    ], 
+    "5.719"
+  ]
+}

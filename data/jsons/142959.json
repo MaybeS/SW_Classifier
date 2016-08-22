@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.80250"
+      ], 
+      [
+        "desktop computer", 
+        "0.05376"
+      ], 
+      [
+        "vacuum", 
+        "0.03060"
+      ], 
+      [
+        "printer", 
+        "0.02314"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02271"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "1.17567"
+      ], 
+      [
+        "coffee maker", 
+        "1.15841"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.88003"
+      ], 
+      [
+        "home appliance", 
+        "0.84261"
+      ], 
+      [
+        "appliance", 
+        "0.81716"
+      ]
+    ], 
+    "6.051"
+  ]
+}

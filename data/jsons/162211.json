@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.33936"
+      ], 
+      [
+        "modem", 
+        "0.22056"
+      ], 
+      [
+        "printer", 
+        "0.06223"
+      ], 
+      [
+        "hard disc", 
+        "0.05241"
+      ], 
+      [
+        "remote control", 
+        "0.03197"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.49107"
+      ], 
+      [
+        "equipment", 
+        "0.44819"
+      ], 
+      [
+        "device", 
+        "0.40710"
+      ], 
+      [
+        "measuring instrument", 
+        "0.40235"
+      ], 
+      [
+        "instrument", 
+        "0.38269"
+      ]
+    ], 
+    "5.748"
+  ]
+}

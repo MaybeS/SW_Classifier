@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital watch", 
+        "0.23241"
+      ], 
+      [
+        "stopwatch", 
+        "0.18156"
+      ], 
+      [
+        "magnetic compass", 
+        "0.14509"
+      ], 
+      [
+        "loupe", 
+        "0.05894"
+      ], 
+      [
+        "reflex camera", 
+        "0.05056"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "1.01852"
+      ], 
+      [
+        "measuring instrument", 
+        "1.01496"
+      ], 
+      [
+        "instrument", 
+        "0.90865"
+      ], 
+      [
+        "stopwatch", 
+        "0.64942"
+      ], 
+      [
+        "timer", 
+        "0.58823"
+      ]
+    ], 
+    "7.812"
+  ]
+}

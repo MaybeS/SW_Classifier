@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.68134"
+      ], 
+      [
+        "oil filter", 
+        "0.25713"
+      ], 
+      [
+        "thimble", 
+        "0.03088"
+      ], 
+      [
+        "space heater", 
+        "0.00965"
+      ], 
+      [
+        "bearskin", 
+        "0.00451"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.51596"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.46899"
+      ], 
+      [
+        "transducer", 
+        "0.46119"
+      ], 
+      [
+        "electrical device", 
+        "0.45339"
+      ], 
+      [
+        "filter", 
+        "0.44854"
+      ]
+    ], 
+    "7.014"
+  ]
+}

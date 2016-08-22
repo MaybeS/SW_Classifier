@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.65310"
+      ], 
+      [
+        "projector", 
+        "0.07513"
+      ], 
+      [
+        "oil filter", 
+        "0.04855"
+      ], 
+      [
+        "binoculars", 
+        "0.03841"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.02619"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.59171"
+      ], 
+      [
+        "photographic equipment", 
+        "1.56525"
+      ], 
+      [
+        "reflex camera", 
+        "1.48639"
+      ], 
+      [
+        "equipment", 
+        "0.83684"
+      ], 
+      [
+        "device", 
+        "0.32392"
+      ]
+    ], 
+    "9.225"
+  ]
+}

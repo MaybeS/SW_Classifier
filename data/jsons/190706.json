@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.41863"
+      ], 
+      [
+        "rubber eraser", 
+        "0.11807"
+      ], 
+      [
+        "scale", 
+        "0.05520"
+      ], 
+      [
+        "remote control", 
+        "0.04808"
+      ], 
+      [
+        "combination lock", 
+        "0.04596"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.65897"
+      ], 
+      [
+        "digital clock", 
+        "0.62706"
+      ], 
+      [
+        "timepiece", 
+        "0.62179"
+      ], 
+      [
+        "clock", 
+        "0.56398"
+      ], 
+      [
+        "instrument", 
+        "0.50159"
+      ]
+    ], 
+    "8.275"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "computer keyboard", 
+        "0.35861"
+      ], 
+      [
+        "space bar", 
+        "0.25186"
+      ], 
+      [
+        "mouse", 
+        "0.13044"
+      ], 
+      [
+        "slide rule", 
+        "0.07281"
+      ], 
+      [
+        "remote control", 
+        "0.05110"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "0.95345"
+      ], 
+      [
+        "computer keyboard", 
+        "0.69912"
+      ], 
+      [
+        "space bar", 
+        "0.68557"
+      ], 
+      [
+        "key", 
+        "0.67550"
+      ], 
+      [
+        "lever", 
+        "0.66543"
+      ]
+    ], 
+    "5.185"
+  ]
+}

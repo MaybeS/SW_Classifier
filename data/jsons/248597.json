@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.21117"
+      ], 
+      [
+        "hand-held computer", 
+        "0.20797"
+      ], 
+      [
+        "lighter", 
+        "0.05441"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04408"
+      ], 
+      [
+        "swab", 
+        "0.04249"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.47740"
+      ], 
+      [
+        "personal computer", 
+        "0.46932"
+      ], 
+      [
+        "digital computer", 
+        "0.46034"
+      ], 
+      [
+        "hand-held computer", 
+        "0.45352"
+      ], 
+      [
+        "computer", 
+        "0.43630"
+      ]
+    ], 
+    "5.390"
+  ]
+}

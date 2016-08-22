@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.13571"
+      ], 
+      [
+        "binder", 
+        "0.06460"
+      ], 
+      [
+        "horizontal bar", 
+        "0.06030"
+      ], 
+      [
+        "sliding door", 
+        "0.05782"
+      ], 
+      [
+        "parallel bars", 
+        "0.05131"
+      ]
+    ], 
+    [
+      [
+        "furnishing", 
+        "0.28057"
+      ], 
+      [
+        "covering", 
+        "0.27128"
+      ], 
+      [
+        "furniture", 
+        "0.26165"
+      ], 
+      [
+        "equipment", 
+        "0.25419"
+      ], 
+      [
+        "protective covering", 
+        "0.23216"
+      ]
+    ], 
+    "5.635"
+  ]
+}

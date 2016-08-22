@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.49932"
+      ], 
+      [
+        "vacuum", 
+        "0.07469"
+      ], 
+      [
+        "combination lock", 
+        "0.05230"
+      ], 
+      [
+        "electric fan", 
+        "0.04903"
+      ], 
+      [
+        "hand blower", 
+        "0.02645"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.40982"
+      ], 
+      [
+        "device", 
+        "0.39690"
+      ], 
+      [
+        "medical instrument", 
+        "0.37952"
+      ], 
+      [
+        "instrument", 
+        "0.35774"
+      ], 
+      [
+        "consumer goods", 
+        "0.26265"
+      ]
+    ], 
+    "6.173"
+  ]
+}

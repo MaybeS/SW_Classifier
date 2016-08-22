@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.22162"
+      ], 
+      [
+        "spotlight", 
+        "0.07433"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06737"
+      ], 
+      [
+        "barbell", 
+        "0.06501"
+      ], 
+      [
+        "hand blower", 
+        "0.05726"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36651"
+      ], 
+      [
+        "equipment", 
+        "0.30738"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.26917"
+      ], 
+      [
+        "transducer", 
+        "0.26469"
+      ], 
+      [
+        "electrical device", 
+        "0.26022"
+      ]
+    ], 
+    "10.645"
+  ]
+}

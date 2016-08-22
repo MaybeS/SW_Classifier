@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.27805"
+      ], 
+      [
+        "cassette", 
+        "0.17113"
+      ], 
+      [
+        "cassette player", 
+        "0.15432"
+      ], 
+      [
+        "web site", 
+        "0.08594"
+      ], 
+      [
+        "tape player", 
+        "0.07239"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.68926"
+      ], 
+      [
+        "equipment", 
+        "0.57148"
+      ], 
+      [
+        "machine", 
+        "0.39395"
+      ], 
+      [
+        "computer", 
+        "0.38307"
+      ], 
+      [
+        "web site", 
+        "0.35440"
+      ]
+    ], 
+    "7.206"
+  ]
+}

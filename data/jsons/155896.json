@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "barbershop", 
+        "0.22718"
+      ], 
+      [
+        "comic book", 
+        "0.15862"
+      ], 
+      [
+        "book jacket", 
+        "0.14773"
+      ], 
+      [
+        "tobacco shop", 
+        "0.13813"
+      ], 
+      [
+        "Band Aid", 
+        "0.04740"
+      ]
+    ], 
+    [
+      [
+        "mercantile establishment", 
+        "0.67708"
+      ], 
+      [
+        "place of business", 
+        "0.66173"
+      ], 
+      [
+        "shop", 
+        "0.65999"
+      ], 
+      [
+        "establishment", 
+        "0.63484"
+      ], 
+      [
+        "structure", 
+        "0.49359"
+      ]
+    ], 
+    "5.596"
+  ]
+}

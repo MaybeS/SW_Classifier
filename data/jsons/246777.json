@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.10733"
+      ], 
+      [
+        "lighter", 
+        "0.07893"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07500"
+      ], 
+      [
+        "pay-phone", 
+        "0.06989"
+      ], 
+      [
+        "book jacket", 
+        "0.06451"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.55143"
+      ], 
+      [
+        "computer", 
+        "0.38594"
+      ], 
+      [
+        "device", 
+        "0.37850"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35732"
+      ], 
+      [
+        "equipment", 
+        "0.31955"
+      ]
+    ], 
+    "5.251"
+  ]
+}

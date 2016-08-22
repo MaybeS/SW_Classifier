@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.25213"
+      ], 
+      [
+        "microphone", 
+        "0.20797"
+      ], 
+      [
+        "mouse", 
+        "0.12393"
+      ], 
+      [
+        "spotlight", 
+        "0.11538"
+      ], 
+      [
+        "table lamp", 
+        "0.05211"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "0.69781"
+      ], 
+      [
+        "wind instrument", 
+        "0.49412"
+      ], 
+      [
+        "musical instrument", 
+        "0.46861"
+      ], 
+      [
+        "device", 
+        "0.40420"
+      ], 
+      [
+        "covering", 
+        "0.22225"
+      ]
+    ], 
+    "5.380"
+  ]
+}

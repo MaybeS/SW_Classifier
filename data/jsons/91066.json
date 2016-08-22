@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.68512"
+      ], 
+      [
+        "cash machine", 
+        "0.02726"
+      ], 
+      [
+        "police van", 
+        "0.02574"
+      ], 
+      [
+        "digital clock", 
+        "0.01037"
+      ], 
+      [
+        "bobsled", 
+        "0.00803"
+      ]
+    ], 
+    [
+      [
+        "street sign", 
+        "1.35011"
+      ], 
+      [
+        "sign", 
+        "1.33028"
+      ], 
+      [
+        "communication", 
+        "1.18843"
+      ], 
+      [
+        "abstraction", 
+        "0.78993"
+      ], 
+      [
+        "structure", 
+        "0.34115"
+      ]
+    ], 
+    "6.624"
+  ]
+}

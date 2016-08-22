@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.34415"
+      ], 
+      [
+        "rule", 
+        "0.32651"
+      ], 
+      [
+        "radio", 
+        "0.06603"
+      ], 
+      [
+        "viaduct", 
+        "0.04469"
+      ], 
+      [
+        "digital clock", 
+        "0.03275"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.42729"
+      ], 
+      [
+        "rule", 
+        "0.41727"
+      ], 
+      [
+        "measuring stick", 
+        "0.41114"
+      ], 
+      [
+        "equipment", 
+        "0.37997"
+      ], 
+      [
+        "measuring instrument", 
+        "0.37750"
+      ]
+    ], 
+    "13.482"
+  ]
+}

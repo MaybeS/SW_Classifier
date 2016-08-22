@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.47402"
+      ], 
+      [
+        "waffle iron", 
+        "0.33868"
+      ], 
+      [
+        "spatula", 
+        "0.10145"
+      ], 
+      [
+        "strainer", 
+        "0.05340"
+      ], 
+      [
+        "hand blower", 
+        "0.00899"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "0.66452"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.53881"
+      ], 
+      [
+        "appliance", 
+        "0.50136"
+      ], 
+      [
+        "home appliance", 
+        "0.49187"
+      ], 
+      [
+        "durables", 
+        "0.48832"
+      ]
+    ], 
+    "12.817"
+  ]
+}

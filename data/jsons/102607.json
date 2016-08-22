@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.25063"
+      ], 
+      [
+        "desktop computer", 
+        "0.10222"
+      ], 
+      [
+        "mouse", 
+        "0.09247"
+      ], 
+      [
+        "mailbag", 
+        "0.06350"
+      ], 
+      [
+        "modem", 
+        "0.05745"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.39479"
+      ], 
+      [
+        "device", 
+        "0.36551"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.35899"
+      ], 
+      [
+        "transducer", 
+        "0.35303"
+      ], 
+      [
+        "electrical device", 
+        "0.34706"
+      ]
+    ], 
+    "7.877"
+  ]
+}

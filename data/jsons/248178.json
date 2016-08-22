@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.17226"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07012"
+      ], 
+      [
+        "packet", 
+        "0.05956"
+      ], 
+      [
+        "scoreboard", 
+        "0.05100"
+      ], 
+      [
+        "book jacket", 
+        "0.04460"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.69518"
+      ], 
+      [
+        "computer", 
+        "0.67597"
+      ], 
+      [
+        "machine", 
+        "0.64438"
+      ], 
+      [
+        "device", 
+        "0.39075"
+      ], 
+      [
+        "measuring instrument", 
+        "0.27485"
+      ]
+    ], 
+    "6.254"
+  ]
+}

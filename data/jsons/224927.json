@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.34030"
+      ], 
+      [
+        "cleaver", 
+        "0.15372"
+      ], 
+      [
+        "switch", 
+        "0.06419"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03292"
+      ], 
+      [
+        "cassette", 
+        "0.02859"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51576"
+      ], 
+      [
+        "equipment", 
+        "0.44840"
+      ], 
+      [
+        "modem", 
+        "0.32856"
+      ], 
+      [
+        "device", 
+        "0.32398"
+      ], 
+      [
+        "implement", 
+        "0.22286"
+      ]
+    ], 
+    "5.805"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.45295"
+      ], 
+      [
+        "switch", 
+        "0.16570"
+      ], 
+      [
+        "cassette player", 
+        "0.13285"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07609"
+      ], 
+      [
+        "combination lock", 
+        "0.02635"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.89266"
+      ], 
+      [
+        "electronic equipment", 
+        "0.55920"
+      ], 
+      [
+        "equipment", 
+        "0.47404"
+      ], 
+      [
+        "device", 
+        "0.45656"
+      ], 
+      [
+        "portable computer", 
+        "0.31521"
+      ]
+    ], 
+    "7.928"
+  ]
+}

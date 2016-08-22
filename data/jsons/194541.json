@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sliding door", 
+        "0.14377"
+      ], 
+      [
+        "television", 
+        "0.12292"
+      ], 
+      [
+        "monitor", 
+        "0.10590"
+      ], 
+      [
+        "screen", 
+        "0.09148"
+      ], 
+      [
+        "binder", 
+        "0.07276"
+      ]
+    ], 
+    [
+      [
+        "furnishing", 
+        "0.38392"
+      ], 
+      [
+        "furniture", 
+        "0.37673"
+      ], 
+      [
+        "personal computer", 
+        "0.33612"
+      ], 
+      [
+        "digital computer", 
+        "0.32968"
+      ], 
+      [
+        "machine", 
+        "0.31917"
+      ]
+    ], 
+    "6.990"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.19138"
+      ], 
+      [
+        "remote control", 
+        "0.14271"
+      ], 
+      [
+        "modem", 
+        "0.07045"
+      ], 
+      [
+        "switch", 
+        "0.05485"
+      ], 
+      [
+        "electric guitar", 
+        "0.04764"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.42221"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41756"
+      ], 
+      [
+        "equipment", 
+        "0.38997"
+      ], 
+      [
+        "remote control", 
+        "0.29613"
+      ], 
+      [
+        "lock", 
+        "0.25712"
+      ]
+    ], 
+    "4.626"
+  ]
+}

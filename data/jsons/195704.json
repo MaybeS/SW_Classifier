@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.48277"
+      ], 
+      [
+        "hand-held computer", 
+        "0.16941"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.04237"
+      ], 
+      [
+        "space bar", 
+        "0.04145"
+      ], 
+      [
+        "remote control", 
+        "0.02426"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.47690"
+      ], 
+      [
+        "device", 
+        "0.44482"
+      ], 
+      [
+        "portable computer", 
+        "0.44251"
+      ], 
+      [
+        "personal computer", 
+        "0.43742"
+      ], 
+      [
+        "digital computer", 
+        "0.42904"
+      ]
+    ], 
+    "6.597"
+  ]
+}

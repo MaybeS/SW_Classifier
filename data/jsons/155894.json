@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.71012"
+      ], 
+      [
+        "street sign", 
+        "0.10011"
+      ], 
+      [
+        "scoreboard", 
+        "0.03078"
+      ], 
+      [
+        "comic book", 
+        "0.02585"
+      ], 
+      [
+        "tobacco shop", 
+        "0.01354"
+      ]
+    ], 
+    [
+      [
+        "book jacket", 
+        "0.95553"
+      ], 
+      [
+        "jacket", 
+        "0.94150"
+      ], 
+      [
+        "wrapping", 
+        "0.92746"
+      ], 
+      [
+        "covering", 
+        "0.43660"
+      ], 
+      [
+        "comic book", 
+        "0.26476"
+      ]
+    ], 
+    "5.934"
+  ]
+}

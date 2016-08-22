@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.25337"
+      ], 
+      [
+        "binder", 
+        "0.06036"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04983"
+      ], 
+      [
+        "hand-held computer", 
+        "0.03984"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03382"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33899"
+      ], 
+      [
+        "equipment", 
+        "0.28050"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26727"
+      ], 
+      [
+        "container", 
+        "0.23714"
+      ], 
+      [
+        "machine", 
+        "0.22635"
+      ]
+    ], 
+    "8.094"
+  ]
+}

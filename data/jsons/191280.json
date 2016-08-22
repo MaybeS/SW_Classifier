@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.57694"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.17852"
+      ], 
+      [
+        "Crock Pot", 
+        "0.06211"
+      ], 
+      [
+        "beaker", 
+        "0.02622"
+      ], 
+      [
+        "soap dispenser", 
+        "0.01476"
+      ]
+    ], 
+    [
+      [
+        "oil filter", 
+        "0.75911"
+      ], 
+      [
+        "filter", 
+        "0.68405"
+      ], 
+      [
+        "device", 
+        "0.33477"
+      ], 
+      [
+        "container", 
+        "0.31839"
+      ], 
+      [
+        "implement", 
+        "0.24442"
+      ]
+    ], 
+    "6.823"
+  ]
+}

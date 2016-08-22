@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.49674"
+      ], 
+      [
+        "cassette", 
+        "0.17241"
+      ], 
+      [
+        "binder", 
+        "0.06148"
+      ], 
+      [
+        "combination lock", 
+        "0.03135"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.02939"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.87381"
+      ], 
+      [
+        "magnetic disk", 
+        "0.86098"
+      ], 
+      [
+        "memory device", 
+        "0.84814"
+      ], 
+      [
+        "device", 
+        "0.40138"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39112"
+      ]
+    ], 
+    "6.262"
+  ]
+}

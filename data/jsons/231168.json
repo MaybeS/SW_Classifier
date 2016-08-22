@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.38029"
+      ], 
+      [
+        "switch", 
+        "0.20403"
+      ], 
+      [
+        "combination lock", 
+        "0.03440"
+      ], 
+      [
+        "screen", 
+        "0.03428"
+      ], 
+      [
+        "oil filter", 
+        "0.01908"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.94816"
+      ], 
+      [
+        "photographic equipment", 
+        "0.93240"
+      ], 
+      [
+        "reflex camera", 
+        "0.87427"
+      ], 
+      [
+        "equipment", 
+        "0.63825"
+      ], 
+      [
+        "device", 
+        "0.35084"
+      ]
+    ], 
+    "5.908"
+  ]
+}

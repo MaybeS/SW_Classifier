@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.39583"
+      ], 
+      [
+        "television", 
+        "0.25002"
+      ], 
+      [
+        "monitor", 
+        "0.05993"
+      ], 
+      [
+        "home theater", 
+        "0.03731"
+      ], 
+      [
+        "theater curtain", 
+        "0.03677"
+      ]
+    ], 
+    [
+      [
+        "book jacket", 
+        "0.52541"
+      ], 
+      [
+        "jacket", 
+        "0.51769"
+      ], 
+      [
+        "wrapping", 
+        "0.50998"
+      ], 
+      [
+        "television", 
+        "0.39538"
+      ], 
+      [
+        "telecommunication system", 
+        "0.38957"
+      ]
+    ], 
+    "7.645"
+  ]
+}

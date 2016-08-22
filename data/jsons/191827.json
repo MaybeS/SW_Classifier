@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microwave", 
+        "0.16739"
+      ], 
+      [
+        "modem", 
+        "0.07746"
+      ], 
+      [
+        "vending machine", 
+        "0.07700"
+      ], 
+      [
+        "oscilloscope", 
+        "0.07110"
+      ], 
+      [
+        "desktop computer", 
+        "0.06455"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.53164"
+      ], 
+      [
+        "electronic equipment", 
+        "0.51323"
+      ], 
+      [
+        "equipment", 
+        "0.42174"
+      ], 
+      [
+        "computer", 
+        "0.38907"
+      ], 
+      [
+        "device", 
+        "0.37255"
+      ]
+    ], 
+    "6.587"
+  ]
+}

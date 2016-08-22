@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.48964"
+      ], 
+      [
+        "can opener", 
+        "0.11038"
+      ], 
+      [
+        "ballpoint", 
+        "0.04077"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03815"
+      ], 
+      [
+        "hair slide", 
+        "0.03695"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.55529"
+      ], 
+      [
+        "acoustic device", 
+        "0.54713"
+      ], 
+      [
+        "signaling device", 
+        "0.54713"
+      ], 
+      [
+        "implement", 
+        "0.40737"
+      ], 
+      [
+        "device", 
+        "0.33874"
+      ]
+    ], 
+    "9.132"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ping-pong ball", 
+        "0.59687"
+      ], 
+      [
+        "spotlight", 
+        "0.06460"
+      ], 
+      [
+        "mouse", 
+        "0.05834"
+      ], 
+      [
+        "jellyfish", 
+        "0.04165"
+      ], 
+      [
+        "chambered nautilus", 
+        "0.04011"
+      ]
+    ], 
+    [
+      [
+        "ping-pong ball", 
+        "1.22100"
+      ], 
+      [
+        "ball", 
+        "0.95461"
+      ], 
+      [
+        "game equipment", 
+        "0.88437"
+      ], 
+      [
+        "equipment", 
+        "0.69303"
+      ], 
+      [
+        "device", 
+        "0.18921"
+      ]
+    ], 
+    "7.338"
+  ]
+}

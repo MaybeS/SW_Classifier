@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "forklift", 
+        "0.17896"
+      ], 
+      [
+        "comic book", 
+        "0.13661"
+      ], 
+      [
+        "toyshop", 
+        "0.06580"
+      ], 
+      [
+        "book jacket", 
+        "0.06467"
+      ], 
+      [
+        "tractor", 
+        "0.04956"
+      ]
+    ], 
+    [
+      [
+        "self-propelled vehicle", 
+        "0.61234"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.59429"
+      ], 
+      [
+        "forklift", 
+        "0.52052"
+      ], 
+      [
+        "vehicle", 
+        "0.50289"
+      ], 
+      [
+        "conveyance", 
+        "0.47974"
+      ]
+    ], 
+    "5.041"
+  ]
+}

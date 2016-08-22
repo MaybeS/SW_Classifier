@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.63121"
+      ], 
+      [
+        "Band Aid", 
+        "0.05529"
+      ], 
+      [
+        "digital watch", 
+        "0.02698"
+      ], 
+      [
+        "gas pump", 
+        "0.02143"
+      ], 
+      [
+        "sunscreen", 
+        "0.01974"
+      ]
+    ], 
+    [
+      [
+        "digital clock", 
+        "0.93367"
+      ], 
+      [
+        "timepiece", 
+        "0.90431"
+      ], 
+      [
+        "measuring instrument", 
+        "0.87952"
+      ], 
+      [
+        "clock", 
+        "0.81760"
+      ], 
+      [
+        "instrument", 
+        "0.63503"
+      ]
+    ], 
+    "8.157"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.15697"
+      ], 
+      [
+        "lighter", 
+        "0.07910"
+      ], 
+      [
+        "loudspeaker", 
+        "0.07568"
+      ], 
+      [
+        "reflex camera", 
+        "0.06005"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05685"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43100"
+      ], 
+      [
+        "device", 
+        "0.35050"
+      ], 
+      [
+        "camera", 
+        "0.33733"
+      ], 
+      [
+        "photographic equipment", 
+        "0.33172"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32959"
+      ]
+    ], 
+    "5.707"
+  ]
+}

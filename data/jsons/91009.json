@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wallet", 
+        "0.06576"
+      ], 
+      [
+        "binder", 
+        "0.05367"
+      ], 
+      [
+        "street sign", 
+        "0.05308"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04231"
+      ], 
+      [
+        "traffic light", 
+        "0.03856"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.25237"
+      ], 
+      [
+        "container", 
+        "0.25117"
+      ], 
+      [
+        "equipment", 
+        "0.23530"
+      ], 
+      [
+        "covering", 
+        "0.22521"
+      ], 
+      [
+        "communication", 
+        "0.18973"
+      ]
+    ], 
+    "7.782"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sunglass", 
+        "0.24184"
+      ], 
+      [
+        "cassette player", 
+        "0.15226"
+      ], 
+      [
+        "mouse", 
+        "0.13301"
+      ], 
+      [
+        "crash helmet", 
+        "0.09268"
+      ], 
+      [
+        "space heater", 
+        "0.08750"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.38816"
+      ], 
+      [
+        "equipment", 
+        "0.36127"
+      ], 
+      [
+        "consumer goods", 
+        "0.30431"
+      ], 
+      [
+        "device", 
+        "0.30324"
+      ], 
+      [
+        "commodity", 
+        "0.28899"
+      ]
+    ], 
+    "9.967"
+  ]
+}

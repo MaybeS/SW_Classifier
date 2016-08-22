@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.51147"
+      ], 
+      [
+        "modem", 
+        "0.26525"
+      ], 
+      [
+        "desktop computer", 
+        "0.03441"
+      ], 
+      [
+        "waffle iron", 
+        "0.03209"
+      ], 
+      [
+        "notebook", 
+        "0.01882"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.70208"
+      ], 
+      [
+        "equipment", 
+        "0.60658"
+      ], 
+      [
+        "radio", 
+        "0.47411"
+      ], 
+      [
+        "communication system", 
+        "0.43469"
+      ], 
+      [
+        "system", 
+        "0.40841"
+      ]
+    ], 
+    "10.314"
+  ]
+}

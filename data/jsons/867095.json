@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sock", 
+        "0.15849"
+      ], 
+      [
+        "shoe shop", 
+        "0.06651"
+      ], 
+      [
+        "Kerry blue terrier", 
+        "0.04897"
+      ], 
+      [
+        "dumbbell", 
+        "0.04113"
+      ], 
+      [
+        "feather boa", 
+        "0.03903"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.67854"
+      ], 
+      [
+        "consumer goods", 
+        "0.60850"
+      ], 
+      [
+        "covering", 
+        "0.60613"
+      ], 
+      [
+        "commodity", 
+        "0.58263"
+      ], 
+      [
+        "garment", 
+        "0.43175"
+      ]
+    ], 
+    "5.620"
+  ]
+}

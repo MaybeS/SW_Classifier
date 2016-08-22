@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.39915"
+      ], 
+      [
+        "waffle iron", 
+        "0.08154"
+      ], 
+      [
+        "remote control", 
+        "0.06850"
+      ], 
+      [
+        "switch", 
+        "0.05054"
+      ], 
+      [
+        "toilet seat", 
+        "0.04828"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "1.10783"
+      ], 
+      [
+        "wind instrument", 
+        "0.68613"
+      ], 
+      [
+        "musical instrument", 
+        "0.58357"
+      ], 
+      [
+        "device", 
+        "0.40879"
+      ], 
+      [
+        "consumer goods", 
+        "0.28747"
+      ]
+    ], 
+    "5.421"
+  ]
+}

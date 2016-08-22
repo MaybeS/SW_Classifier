@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.39819"
+      ], 
+      [
+        "can opener", 
+        "0.13084"
+      ], 
+      [
+        "ballpoint", 
+        "0.06792"
+      ], 
+      [
+        "space heater", 
+        "0.05269"
+      ], 
+      [
+        "printer", 
+        "0.04062"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.32558"
+      ], 
+      [
+        "vehicle", 
+        "0.30174"
+      ], 
+      [
+        "implement", 
+        "0.29680"
+      ], 
+      [
+        "container", 
+        "0.27057"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.26781"
+      ]
+    ], 
+    "9.883"
+  ]
+}

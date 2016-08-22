@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.15859"
+      ], 
+      [
+        "combination lock", 
+        "0.15095"
+      ], 
+      [
+        "vacuum", 
+        "0.10202"
+      ], 
+      [
+        "modem", 
+        "0.08007"
+      ], 
+      [
+        "hook", 
+        "0.05184"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39015"
+      ], 
+      [
+        "equipment", 
+        "0.29550"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27788"
+      ], 
+      [
+        "restraint", 
+        "0.22778"
+      ], 
+      [
+        "fastener", 
+        "0.22389"
+      ]
+    ], 
+    "5.417"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.39191"
+      ], 
+      [
+        "spotlight", 
+        "0.17298"
+      ], 
+      [
+        "reflex camera", 
+        "0.16814"
+      ], 
+      [
+        "binoculars", 
+        "0.12680"
+      ], 
+      [
+        "loupe", 
+        "0.02547"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.42558"
+      ], 
+      [
+        "photographic equipment", 
+        "0.41851"
+      ], 
+      [
+        "reflex camera", 
+        "0.40670"
+      ], 
+      [
+        "device", 
+        "0.38663"
+      ], 
+      [
+        "equipment", 
+        "0.32709"
+      ]
+    ], 
+    "8.916"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "chain mail", 
+        "0.81754"
+      ], 
+      [
+        "miniskirt", 
+        "0.03618"
+      ], 
+      [
+        "swimming trunks", 
+        "0.02124"
+      ], 
+      [
+        "apron", 
+        "0.00918"
+      ], 
+      [
+        "hamper", 
+        "0.00850"
+      ]
+    ], 
+    [
+      [
+        "chain mail", 
+        "2.49040"
+      ], 
+      [
+        "body armor", 
+        "2.09075"
+      ], 
+      [
+        "armor", 
+        "1.95263"
+      ], 
+      [
+        "protective covering", 
+        "1.20565"
+      ], 
+      [
+        "covering", 
+        "0.95217"
+      ]
+    ], 
+    "5.679"
+  ]
+}

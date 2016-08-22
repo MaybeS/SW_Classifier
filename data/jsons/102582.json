@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mailbag", 
+        "0.14295"
+      ], 
+      [
+        "laptop", 
+        "0.08102"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06132"
+      ], 
+      [
+        "notebook", 
+        "0.06025"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04945"
+      ]
+    ], 
+    [
+      [
+        "bag", 
+        "0.32473"
+      ], 
+      [
+        "equipment", 
+        "0.31007"
+      ], 
+      [
+        "device", 
+        "0.30131"
+      ], 
+      [
+        "personal computer", 
+        "0.28238"
+      ], 
+      [
+        "digital computer", 
+        "0.27697"
+      ]
+    ], 
+    "5.519"
+  ]
+}

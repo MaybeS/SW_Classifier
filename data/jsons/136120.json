@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.75148"
+      ], 
+      [
+        "power drill", 
+        "0.06221"
+      ], 
+      [
+        "hand blower", 
+        "0.02567"
+      ], 
+      [
+        "comic book", 
+        "0.01844"
+      ], 
+      [
+        "microphone", 
+        "0.01805"
+      ]
+    ], 
+    [
+      [
+        "street sign", 
+        "1.47644"
+      ], 
+      [
+        "sign", 
+        "1.45475"
+      ], 
+      [
+        "communication", 
+        "1.29859"
+      ], 
+      [
+        "abstraction", 
+        "0.86086"
+      ], 
+      [
+        "structure", 
+        "0.35892"
+      ]
+    ], 
+    "4.714"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.24057"
+      ], 
+      [
+        "CD player", 
+        "0.22983"
+      ], 
+      [
+        "loupe", 
+        "0.05827"
+      ], 
+      [
+        "combination lock", 
+        "0.05387"
+      ], 
+      [
+        "hard disc", 
+        "0.03916"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.67746"
+      ], 
+      [
+        "equipment", 
+        "0.58465"
+      ], 
+      [
+        "device", 
+        "0.34868"
+      ], 
+      [
+        "modem", 
+        "0.25690"
+      ], 
+      [
+        "instrument", 
+        "0.25429"
+      ]
+    ], 
+    "5.213"
+  ]
+}

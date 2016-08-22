@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.39490"
+      ], 
+      [
+        "lighter", 
+        "0.15445"
+      ], 
+      [
+        "remote control", 
+        "0.10679"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09639"
+      ], 
+      [
+        "harmonica", 
+        "0.05710"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.63680"
+      ], 
+      [
+        "equipment", 
+        "0.53113"
+      ], 
+      [
+        "device", 
+        "0.39056"
+      ], 
+      [
+        "modem", 
+        "0.38696"
+      ], 
+      [
+        "machine", 
+        "0.26801"
+      ]
+    ], 
+    "8.965"
+  ]
+}

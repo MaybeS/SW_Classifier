@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.32055"
+      ], 
+      [
+        "analog clock", 
+        "0.09136"
+      ], 
+      [
+        "packet", 
+        "0.06920"
+      ], 
+      [
+        "book jacket", 
+        "0.04479"
+      ], 
+      [
+        "mousetrap", 
+        "0.04056"
+      ]
+    ], 
+    [
+      [
+        "street sign", 
+        "0.64452"
+      ], 
+      [
+        "sign", 
+        "0.63506"
+      ], 
+      [
+        "communication", 
+        "0.57000"
+      ], 
+      [
+        "abstraction", 
+        "0.40244"
+      ], 
+      [
+        "measuring instrument", 
+        "0.32884"
+      ]
+    ], 
+    "4.770"
+  ]
+}

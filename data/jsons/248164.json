@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.07160"
+      ], 
+      [
+        "lighter", 
+        "0.06343"
+      ], 
+      [
+        "radio", 
+        "0.06176"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05025"
+      ], 
+      [
+        "television", 
+        "0.03925"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.33095"
+      ], 
+      [
+        "equipment", 
+        "0.32775"
+      ], 
+      [
+        "device", 
+        "0.31670"
+      ], 
+      [
+        "container", 
+        "0.22584"
+      ], 
+      [
+        "machine", 
+        "0.22168"
+      ]
+    ], 
+    "9.395"
+  ]
+}

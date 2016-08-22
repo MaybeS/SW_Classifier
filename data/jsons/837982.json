@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "basketball", 
+        "0.11390"
+      ], 
+      [
+        "oxygen mask", 
+        "0.09628"
+      ], 
+      [
+        "punching bag", 
+        "0.05570"
+      ], 
+      [
+        "comic book", 
+        "0.05451"
+      ], 
+      [
+        "whistle", 
+        "0.05351"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.38660"
+      ], 
+      [
+        "ball", 
+        "0.37796"
+      ], 
+      [
+        "basketball", 
+        "0.35963"
+      ], 
+      [
+        "clothing", 
+        "0.35509"
+      ], 
+      [
+        "basketball equipment", 
+        "0.35435"
+      ]
+    ], 
+    "6.589"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "can opener", 
+        "0.14462"
+      ], 
+      [
+        "stopwatch", 
+        "0.11958"
+      ], 
+      [
+        "scale", 
+        "0.06798"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06124"
+      ], 
+      [
+        "whistle", 
+        "0.05982"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.47255"
+      ], 
+      [
+        "timepiece", 
+        "0.41946"
+      ], 
+      [
+        "instrument", 
+        "0.41380"
+      ], 
+      [
+        "device", 
+        "0.39749"
+      ], 
+      [
+        "stopwatch", 
+        "0.29344"
+      ]
+    ], 
+    "7.404"
+  ]
+}

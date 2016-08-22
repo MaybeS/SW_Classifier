@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.99925"
+      ], 
+      [
+        "hand-held computer", 
+        "0.00051"
+      ], 
+      [
+        "modem", 
+        "0.00005"
+      ], 
+      [
+        "slide rule", 
+        "0.00004"
+      ], 
+      [
+        "binder", 
+        "0.00003"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.70911"
+      ], 
+      [
+        "magnetic disk", 
+        "1.68400"
+      ], 
+      [
+        "memory device", 
+        "1.65890"
+      ], 
+      [
+        "device", 
+        "0.52304"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41668"
+      ]
+    ], 
+    "7.073"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Polaroid camera", 
+        "0.39039"
+      ], 
+      [
+        "loudspeaker", 
+        "0.21240"
+      ], 
+      [
+        "home theater", 
+        "0.08432"
+      ], 
+      [
+        "radio", 
+        "0.04633"
+      ], 
+      [
+        "projector", 
+        "0.04618"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.04392"
+      ], 
+      [
+        "photographic equipment", 
+        "1.02656"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.96608"
+      ], 
+      [
+        "equipment", 
+        "0.71209"
+      ], 
+      [
+        "loudspeaker", 
+        "0.35401"
+      ]
+    ], 
+    "8.774"
+  ]
+}

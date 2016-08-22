@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.38267"
+      ], 
+      [
+        "stove", 
+        "0.18205"
+      ], 
+      [
+        "switch", 
+        "0.10605"
+      ], 
+      [
+        "radio", 
+        "0.07329"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04647"
+      ]
+    ], 
+    [
+      [
+        "control", 
+        "0.53146"
+      ], 
+      [
+        "electronic equipment", 
+        "0.52767"
+      ], 
+      [
+        "equipment", 
+        "0.49125"
+      ], 
+      [
+        "joystick", 
+        "0.45436"
+      ], 
+      [
+        "data input device", 
+        "0.42664"
+      ]
+    ], 
+    "6.150"
+  ]
+}

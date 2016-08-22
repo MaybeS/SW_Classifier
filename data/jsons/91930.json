@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.18053"
+      ], 
+      [
+        "safe", 
+        "0.15268"
+      ], 
+      [
+        "soap dispenser", 
+        "0.11857"
+      ], 
+      [
+        "desktop computer", 
+        "0.11664"
+      ], 
+      [
+        "hard disc", 
+        "0.06063"
+      ]
+    ], 
+    [
+      [
+        "safe", 
+        "0.42457"
+      ], 
+      [
+        "strongbox", 
+        "0.41833"
+      ], 
+      [
+        "equipment", 
+        "0.36670"
+      ], 
+      [
+        "box", 
+        "0.35053"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34362"
+      ]
+    ], 
+    "6.472"
+  ]
+}

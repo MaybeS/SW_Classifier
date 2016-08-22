@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.21784"
+      ], 
+      [
+        "switch", 
+        "0.14488"
+      ], 
+      [
+        "photocopier", 
+        "0.13996"
+      ], 
+      [
+        "printer", 
+        "0.08723"
+      ], 
+      [
+        "digital watch", 
+        "0.07516"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.46668"
+      ], 
+      [
+        "photocopier", 
+        "0.40067"
+      ], 
+      [
+        "duplicator", 
+        "0.39479"
+      ], 
+      [
+        "apparatus", 
+        "0.38890"
+      ], 
+      [
+        "device", 
+        "0.35254"
+      ]
+    ], 
+    "9.815"
+  ]
+}

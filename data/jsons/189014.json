@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.30907"
+      ], 
+      [
+        "CD player", 
+        "0.20758"
+      ], 
+      [
+        "cassette player", 
+        "0.14283"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.09912"
+      ], 
+      [
+        "tape player", 
+        "0.09389"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.75567"
+      ], 
+      [
+        "equipment", 
+        "0.71937"
+      ], 
+      [
+        "machine", 
+        "0.49428"
+      ], 
+      [
+        "cash machine", 
+        "0.44920"
+      ], 
+      [
+        "device", 
+        "0.33428"
+      ]
+    ], 
+    "6.183"
+  ]
+}

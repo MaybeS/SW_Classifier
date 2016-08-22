@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.86142"
+      ], 
+      [
+        "binoculars", 
+        "0.05125"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03660"
+      ], 
+      [
+        "lens cap", 
+        "0.01648"
+      ], 
+      [
+        "reflex camera", 
+        "0.01382"
+      ]
+    ], 
+    [
+      [
+        "loupe", 
+        "0.40480"
+      ], 
+      [
+        "hand glass", 
+        "0.39885"
+      ], 
+      [
+        "device", 
+        "0.39412"
+      ], 
+      [
+        "light microscope", 
+        "0.39291"
+      ], 
+      [
+        "microscope", 
+        "0.38696"
+      ]
+    ], 
+    "5.981"
+  ]
+}

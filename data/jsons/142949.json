@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "syringe", 
+        "0.34496"
+      ], 
+      [
+        "plunger", 
+        "0.06465"
+      ], 
+      [
+        "hair spray", 
+        "0.05252"
+      ], 
+      [
+        "soap dispenser", 
+        "0.03864"
+      ], 
+      [
+        "screwdriver", 
+        "0.03488"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.33148"
+      ], 
+      [
+        "device", 
+        "0.27616"
+      ], 
+      [
+        "toiletry", 
+        "0.23677"
+      ], 
+      [
+        "consumer goods", 
+        "0.21970"
+      ], 
+      [
+        "commodity", 
+        "0.21280"
+      ]
+    ], 
+    "5.010"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.26457"
+      ], 
+      [
+        "street sign", 
+        "0.18335"
+      ], 
+      [
+        "rule", 
+        "0.15837"
+      ], 
+      [
+        "hook", 
+        "0.03715"
+      ], 
+      [
+        "web site", 
+        "0.02416"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.54112"
+      ], 
+      [
+        "instrument", 
+        "0.42607"
+      ], 
+      [
+        "timepiece", 
+        "0.41573"
+      ], 
+      [
+        "digital clock", 
+        "0.39658"
+      ], 
+      [
+        "communication", 
+        "0.38256"
+      ]
+    ], 
+    "12.300"
+  ]
+}

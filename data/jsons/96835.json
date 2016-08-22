@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.99860"
+      ], 
+      [
+        "tennis ball", 
+        "0.00032"
+      ], 
+      [
+        "strainer", 
+        "0.00019"
+      ], 
+      [
+        "spotlight", 
+        "0.00019"
+      ], 
+      [
+        "magnetic compass", 
+        "0.00017"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "2.12387"
+      ], 
+      [
+        "fan", 
+        "2.09267"
+      ], 
+      [
+        "device", 
+        "0.51528"
+      ], 
+      [
+        "container", 
+        "0.21347"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.20063"
+      ]
+    ], 
+    "7.784"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "paper towel", 
+        "0.30730"
+      ], 
+      [
+        "space heater", 
+        "0.10868"
+      ], 
+      [
+        "can opener", 
+        "0.09083"
+      ], 
+      [
+        "refrigerator", 
+        "0.07244"
+      ], 
+      [
+        "dishwasher", 
+        "0.05153"
+      ]
+    ], 
+    [
+      [
+        "paper towel", 
+        "0.30247"
+      ], 
+      [
+        "towel", 
+        "0.28212"
+      ], 
+      [
+        "piece of cloth", 
+        "0.26396"
+      ], 
+      [
+        "piece", 
+        "0.25868"
+      ], 
+      [
+        "consumer goods", 
+        "0.25438"
+      ]
+    ], 
+    "5.920"
+  ]
+}

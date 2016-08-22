@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.18644"
+      ], 
+      [
+        "soap dispenser", 
+        "0.11669"
+      ], 
+      [
+        "barrel", 
+        "0.10365"
+      ], 
+      [
+        "face powder", 
+        "0.09417"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06382"
+      ]
+    ], 
+    [
+      [
+        "vessel", 
+        "0.40064"
+      ], 
+      [
+        "container", 
+        "0.39001"
+      ], 
+      [
+        "toiletry", 
+        "0.36525"
+      ], 
+      [
+        "makeup", 
+        "0.26533"
+      ], 
+      [
+        "oil filter", 
+        "0.26403"
+      ]
+    ], 
+    "8.003"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.41615"
+      ], 
+      [
+        "chain saw", 
+        "0.14441"
+      ], 
+      [
+        "stretcher", 
+        "0.06231"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.05626"
+      ], 
+      [
+        "oscilloscope", 
+        "0.04031"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52529"
+      ], 
+      [
+        "equipment", 
+        "0.48113"
+      ], 
+      [
+        "modem", 
+        "0.38780"
+      ], 
+      [
+        "machine", 
+        "0.37736"
+      ], 
+      [
+        "device", 
+        "0.34126"
+      ]
+    ], 
+    "8.374"
+  ]
+}

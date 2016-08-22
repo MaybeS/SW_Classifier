@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.74231"
+      ], 
+      [
+        "cassette", 
+        "0.17863"
+      ], 
+      [
+        "wallet", 
+        "0.02900"
+      ], 
+      [
+        "hard disc", 
+        "0.02143"
+      ], 
+      [
+        "rule", 
+        "0.00997"
+      ]
+    ], 
+    [
+      [
+        "harmonica", 
+        "0.69531"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.63861"
+      ], 
+      [
+        "musical instrument", 
+        "0.58410"
+      ], 
+      [
+        "wind instrument", 
+        "0.55222"
+      ], 
+      [
+        "device", 
+        "0.41409"
+      ]
+    ], 
+    "6.616"
+  ]
+}

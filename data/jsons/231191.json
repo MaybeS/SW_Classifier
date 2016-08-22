@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.27324"
+      ], 
+      [
+        "can opener", 
+        "0.10018"
+      ], 
+      [
+        "hand-held computer", 
+        "0.09982"
+      ], 
+      [
+        "hand blower", 
+        "0.09131"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06691"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37613"
+      ], 
+      [
+        "whistle", 
+        "0.32944"
+      ], 
+      [
+        "acoustic device", 
+        "0.32460"
+      ], 
+      [
+        "signaling device", 
+        "0.32460"
+      ], 
+      [
+        "implement", 
+        "0.30759"
+      ]
+    ], 
+    "5.982"
+  ]
+}

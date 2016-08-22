@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.16365"
+      ], 
+      [
+        "switch", 
+        "0.06400"
+      ], 
+      [
+        "cassette", 
+        "0.05737"
+      ], 
+      [
+        "tape player", 
+        "0.04661"
+      ], 
+      [
+        "modem", 
+        "0.03132"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.58392"
+      ], 
+      [
+        "oscilloscope", 
+        "0.52928"
+      ], 
+      [
+        "equipment", 
+        "0.50119"
+      ], 
+      [
+        "device", 
+        "0.28479"
+      ], 
+      [
+        "container", 
+        "0.24073"
+      ]
+    ], 
+    "5.208"
+  ]
+}

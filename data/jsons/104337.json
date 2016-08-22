@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.17886"
+      ], 
+      [
+        "joystick", 
+        "0.17618"
+      ], 
+      [
+        "iron", 
+        "0.11964"
+      ], 
+      [
+        "vacuum", 
+        "0.06792"
+      ], 
+      [
+        "waffle iron", 
+        "0.03021"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.44123"
+      ], 
+      [
+        "equipment", 
+        "0.41053"
+      ], 
+      [
+        "appliance", 
+        "0.34316"
+      ], 
+      [
+        "durables", 
+        "0.33423"
+      ], 
+      [
+        "home appliance", 
+        "0.33363"
+      ]
+    ], 
+    "5.920"
+  ]
+}

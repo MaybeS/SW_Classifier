@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.63112"
+      ], 
+      [
+        "hook", 
+        "0.04366"
+      ], 
+      [
+        "swab", 
+        "0.03696"
+      ], 
+      [
+        "snorkel", 
+        "0.02281"
+      ], 
+      [
+        "plunger", 
+        "0.02079"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.51670"
+      ], 
+      [
+        "medical instrument", 
+        "0.47624"
+      ], 
+      [
+        "device", 
+        "0.37929"
+      ], 
+      [
+        "instrument", 
+        "0.37910"
+      ], 
+      [
+        "consumer goods", 
+        "0.25542"
+      ]
+    ], 
+    "5.963"
+  ]
+}

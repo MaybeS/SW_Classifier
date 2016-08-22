@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.18117"
+      ], 
+      [
+        "switch", 
+        "0.14485"
+      ], 
+      [
+        "CD player", 
+        "0.10449"
+      ], 
+      [
+        "mouse", 
+        "0.08444"
+      ], 
+      [
+        "cassette player", 
+        "0.08186"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.61746"
+      ], 
+      [
+        "equipment", 
+        "0.56397"
+      ], 
+      [
+        "control", 
+        "0.38107"
+      ], 
+      [
+        "device", 
+        "0.37919"
+      ], 
+      [
+        "mechanism", 
+        "0.29348"
+      ]
+    ], 
+    "6.456"
+  ]
+}

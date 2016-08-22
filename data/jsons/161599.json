@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.23170"
+      ], 
+      [
+        "iPod", 
+        "0.20999"
+      ], 
+      [
+        "remote control", 
+        "0.04578"
+      ], 
+      [
+        "paper towel", 
+        "0.03627"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03418"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51199"
+      ], 
+      [
+        "equipment", 
+        "0.43621"
+      ], 
+      [
+        "iPod", 
+        "0.39331"
+      ], 
+      [
+        "stereo", 
+        "0.38753"
+      ], 
+      [
+        "reproducer", 
+        "0.38175"
+      ]
+    ], 
+    "8.044"
+  ]
+}

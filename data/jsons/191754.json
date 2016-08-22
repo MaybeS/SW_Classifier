@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.33369"
+      ], 
+      [
+        "modem", 
+        "0.22233"
+      ], 
+      [
+        "rubber eraser", 
+        "0.07153"
+      ], 
+      [
+        "pill bottle", 
+        "0.03561"
+      ], 
+      [
+        "sunscreen", 
+        "0.03529"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33949"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31915"
+      ], 
+      [
+        "equipment", 
+        "0.30705"
+      ], 
+      [
+        "implement", 
+        "0.26859"
+      ], 
+      [
+        "lighter", 
+        "0.24798"
+      ]
+    ], 
+    "7.511"
+  ]
+}

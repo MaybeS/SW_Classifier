@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.46789"
+      ], 
+      [
+        "modem", 
+        "0.44656"
+      ], 
+      [
+        "microphone", 
+        "0.03571"
+      ], 
+      [
+        "cassette player", 
+        "0.00702"
+      ], 
+      [
+        "hard disc", 
+        "0.00648"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.78185"
+      ], 
+      [
+        "equipment", 
+        "0.65604"
+      ], 
+      [
+        "modem", 
+        "0.44802"
+      ], 
+      [
+        "radio", 
+        "0.44385"
+      ], 
+      [
+        "communication system", 
+        "0.40440"
+      ]
+    ], 
+    "8.827"
+  ]
+}

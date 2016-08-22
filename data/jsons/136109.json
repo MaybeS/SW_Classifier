@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.12696"
+      ], 
+      [
+        "modem", 
+        "0.09061"
+      ], 
+      [
+        "joystick", 
+        "0.08501"
+      ], 
+      [
+        "remote control", 
+        "0.07910"
+      ], 
+      [
+        "switch", 
+        "0.07122"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.54310"
+      ], 
+      [
+        "electronic equipment", 
+        "0.52849"
+      ], 
+      [
+        "device", 
+        "0.37060"
+      ], 
+      [
+        "camera", 
+        "0.24032"
+      ], 
+      [
+        "photographic equipment", 
+        "0.23633"
+      ]
+    ], 
+    "5.607"
+  ]
+}

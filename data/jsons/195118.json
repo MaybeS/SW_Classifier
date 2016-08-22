@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.40011"
+      ], 
+      [
+        "washer", 
+        "0.11882"
+      ], 
+      [
+        "loupe", 
+        "0.03567"
+      ], 
+      [
+        "coffeepot", 
+        "0.03365"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.02757"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.67256"
+      ], 
+      [
+        "appliance", 
+        "0.65443"
+      ], 
+      [
+        "durables", 
+        "0.63740"
+      ], 
+      [
+        "espresso maker", 
+        "0.61686"
+      ], 
+      [
+        "coffee maker", 
+        "0.60780"
+      ]
+    ], 
+    "7.259"
+  ]
+}

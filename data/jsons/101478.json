@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "comic book", 
+        "0.36874"
+      ], 
+      [
+        "book jacket", 
+        "0.17050"
+      ], 
+      [
+        "scoreboard", 
+        "0.03434"
+      ], 
+      [
+        "electric guitar", 
+        "0.03000"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.02617"
+      ]
+    ], 
+    [
+      [
+        "comic book", 
+        "0.65418"
+      ], 
+      [
+        "magazine", 
+        "0.64457"
+      ], 
+      [
+        "publication", 
+        "0.63496"
+      ], 
+      [
+        "press", 
+        "0.63496"
+      ], 
+      [
+        "print media", 
+        "0.62535"
+      ]
+    ], 
+    "5.102"
+  ]
+}

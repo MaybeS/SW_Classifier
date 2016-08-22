@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.27871"
+      ], 
+      [
+        "cellular telephone", 
+        "0.14634"
+      ], 
+      [
+        "switch", 
+        "0.09942"
+      ], 
+      [
+        "can opener", 
+        "0.07629"
+      ], 
+      [
+        "iPod", 
+        "0.03842"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.38187"
+      ], 
+      [
+        "device", 
+        "0.35567"
+      ], 
+      [
+        "equipment", 
+        "0.34483"
+      ], 
+      [
+        "cellular telephone", 
+        "0.29702"
+      ], 
+      [
+        "radiotelephone", 
+        "0.29266"
+      ]
+    ], 
+    "8.936"
+  ]
+}

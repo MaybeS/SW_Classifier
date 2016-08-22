@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.68233"
+      ], 
+      [
+        "stethoscope", 
+        "0.09932"
+      ], 
+      [
+        "cassette player", 
+        "0.01621"
+      ], 
+      [
+        "CD player", 
+        "0.01341"
+      ], 
+      [
+        "frying pan", 
+        "0.01318"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38407"
+      ], 
+      [
+        "instrument", 
+        "0.34818"
+      ], 
+      [
+        "loupe", 
+        "0.32484"
+      ], 
+      [
+        "hand glass", 
+        "0.32007"
+      ], 
+      [
+        "light microscope", 
+        "0.31529"
+      ]
+    ], 
+    "5.475"
+  ]
+}

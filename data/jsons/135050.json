@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.60126"
+      ], 
+      [
+        "microphone", 
+        "0.04976"
+      ], 
+      [
+        "whistle", 
+        "0.04608"
+      ], 
+      [
+        "sunglass", 
+        "0.02689"
+      ], 
+      [
+        "stopwatch", 
+        "0.02135"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.49329"
+      ], 
+      [
+        "medical instrument", 
+        "0.45597"
+      ], 
+      [
+        "device", 
+        "0.40558"
+      ], 
+      [
+        "instrument", 
+        "0.38097"
+      ], 
+      [
+        "consumer goods", 
+        "0.26410"
+      ]
+    ], 
+    "6.106"
+  ]
+}

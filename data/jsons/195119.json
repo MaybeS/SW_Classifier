@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.99538"
+      ], 
+      [
+        "coffeepot", 
+        "0.00282"
+      ], 
+      [
+        "stove", 
+        "0.00032"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.00020"
+      ], 
+      [
+        "printer", 
+        "0.00015"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "1.45109"
+      ], 
+      [
+        "coffee maker", 
+        "1.42978"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.06916"
+      ], 
+      [
+        "home appliance", 
+        "0.98375"
+      ], 
+      [
+        "appliance", 
+        "0.95055"
+      ]
+    ], 
+    "7.820"
+  ]
+}

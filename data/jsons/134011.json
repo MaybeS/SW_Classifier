@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mousetrap", 
+        "0.24838"
+      ], 
+      [
+        "modem", 
+        "0.17674"
+      ], 
+      [
+        "radio", 
+        "0.08923"
+      ], 
+      [
+        "hair slide", 
+        "0.06613"
+      ], 
+      [
+        "combination lock", 
+        "0.05392"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.38290"
+      ], 
+      [
+        "equipment", 
+        "0.37380"
+      ], 
+      [
+        "device", 
+        "0.33030"
+      ], 
+      [
+        "mousetrap", 
+        "0.27773"
+      ], 
+      [
+        "container", 
+        "0.24508"
+      ]
+    ], 
+    "9.916"
+  ]
+}

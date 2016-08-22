@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.50659"
+      ], 
+      [
+        "scale", 
+        "0.11813"
+      ], 
+      [
+        "face powder", 
+        "0.07103"
+      ], 
+      [
+        "toilet seat", 
+        "0.03885"
+      ], 
+      [
+        "sunscreen", 
+        "0.03137"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "0.96680"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.77558"
+      ], 
+      [
+        "home appliance", 
+        "0.71687"
+      ], 
+      [
+        "appliance", 
+        "0.69354"
+      ], 
+      [
+        "durables", 
+        "0.67550"
+      ]
+    ], 
+    "5.264"
+  ]
+}

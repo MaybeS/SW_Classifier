@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "comic book", 
+        "0.15344"
+      ], 
+      [
+        "book jacket", 
+        "0.08860"
+      ], 
+      [
+        "tobacco shop", 
+        "0.06720"
+      ], 
+      [
+        "triceratops", 
+        "0.04404"
+      ], 
+      [
+        "assault rifle", 
+        "0.03093"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.31722"
+      ], 
+      [
+        "comic book", 
+        "0.28638"
+      ], 
+      [
+        "musical instrument", 
+        "0.28482"
+      ], 
+      [
+        "magazine", 
+        "0.28217"
+      ], 
+      [
+        "press", 
+        "0.27796"
+      ]
+    ], 
+    "4.874"
+  ]
+}

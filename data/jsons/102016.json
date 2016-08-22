@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.18115"
+      ], 
+      [
+        "desktop computer", 
+        "0.13245"
+      ], 
+      [
+        "loudspeaker", 
+        "0.09008"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04448"
+      ], 
+      [
+        "binoculars", 
+        "0.04425"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.37726"
+      ], 
+      [
+        "device", 
+        "0.34312"
+      ], 
+      [
+        "machine", 
+        "0.30761"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30250"
+      ], 
+      [
+        "computer", 
+        "0.29586"
+      ]
+    ], 
+    "6.902"
+  ]
+}

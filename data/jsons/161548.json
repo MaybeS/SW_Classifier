@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.18723"
+      ], 
+      [
+        "cassette", 
+        "0.11430"
+      ], 
+      [
+        "lighter", 
+        "0.06649"
+      ], 
+      [
+        "iPod", 
+        "0.06286"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05214"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.37837"
+      ], 
+      [
+        "device", 
+        "0.34743"
+      ], 
+      [
+        "equipment", 
+        "0.34480"
+      ], 
+      [
+        "lock", 
+        "0.25885"
+      ], 
+      [
+        "container", 
+        "0.25602"
+      ]
+    ], 
+    "5.135"
+  ]
+}

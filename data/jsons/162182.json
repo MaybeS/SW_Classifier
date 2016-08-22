@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.43902"
+      ], 
+      [
+        "modem", 
+        "0.12081"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06476"
+      ], 
+      [
+        "CD player", 
+        "0.04833"
+      ], 
+      [
+        "radio", 
+        "0.04719"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.74317"
+      ], 
+      [
+        "timepiece", 
+        "0.73041"
+      ], 
+      [
+        "digital clock", 
+        "0.68065"
+      ], 
+      [
+        "clock", 
+        "0.62339"
+      ], 
+      [
+        "instrument", 
+        "0.56748"
+      ]
+    ], 
+    "7.573"
+  ]
+}

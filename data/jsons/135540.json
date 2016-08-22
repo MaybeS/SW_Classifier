@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.39078"
+      ], 
+      [
+        "radio", 
+        "0.22475"
+      ], 
+      [
+        "desktop computer", 
+        "0.13844"
+      ], 
+      [
+        "screen", 
+        "0.07050"
+      ], 
+      [
+        "monitor", 
+        "0.03070"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.61408"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.55335"
+      ], 
+      [
+        "transducer", 
+        "0.54415"
+      ], 
+      [
+        "electrical device", 
+        "0.53495"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48649"
+      ]
+    ], 
+    "6.370"
+  ]
+}

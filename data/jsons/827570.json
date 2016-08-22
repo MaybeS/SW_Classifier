@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "quilt", 
+        "0.93362"
+      ], 
+      [
+        "studio couch", 
+        "0.06097"
+      ], 
+      [
+        "four-poster", 
+        "0.00161"
+      ], 
+      [
+        "pillow", 
+        "0.00077"
+      ], 
+      [
+        "American alligator", 
+        "0.00067"
+      ]
+    ], 
+    [
+      [
+        "quilt", 
+        "1.37640"
+      ], 
+      [
+        "bedclothes", 
+        "1.35618"
+      ], 
+      [
+        "cloth covering", 
+        "1.15924"
+      ], 
+      [
+        "covering", 
+        "0.66682"
+      ], 
+      [
+        "furnishing", 
+        "0.44483"
+      ]
+    ], 
+    "5.649"
+  ]
+}

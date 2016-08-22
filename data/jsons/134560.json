@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.15707"
+      ], 
+      [
+        "printer", 
+        "0.14633"
+      ], 
+      [
+        "modem", 
+        "0.08020"
+      ], 
+      [
+        "tape player", 
+        "0.07656"
+      ], 
+      [
+        "cassette player", 
+        "0.05458"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.58520"
+      ], 
+      [
+        "electronic equipment", 
+        "0.54718"
+      ], 
+      [
+        "device", 
+        "0.30063"
+      ], 
+      [
+        "machine", 
+        "0.28351"
+      ], 
+      [
+        "container", 
+        "0.25747"
+      ]
+    ], 
+    "5.446"
+  ]
+}

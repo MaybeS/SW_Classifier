@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.72743"
+      ], 
+      [
+        "waffle iron", 
+        "0.03409"
+      ], 
+      [
+        "radio", 
+        "0.02301"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.02008"
+      ], 
+      [
+        "screwdriver", 
+        "0.01475"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.54768"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.50187"
+      ], 
+      [
+        "transducer", 
+        "0.49352"
+      ], 
+      [
+        "electrical device", 
+        "0.48518"
+      ], 
+      [
+        "device", 
+        "0.41592"
+      ]
+    ], 
+    "6.335"
+  ]
+}

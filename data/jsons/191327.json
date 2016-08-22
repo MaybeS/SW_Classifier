@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.43839"
+      ], 
+      [
+        "analog clock", 
+        "0.07301"
+      ], 
+      [
+        "web site", 
+        "0.05273"
+      ], 
+      [
+        "packet", 
+        "0.05019"
+      ], 
+      [
+        "comic book", 
+        "0.04737"
+      ]
+    ], 
+    [
+      [
+        "book jacket", 
+        "0.61990"
+      ], 
+      [
+        "jacket", 
+        "0.61080"
+      ], 
+      [
+        "wrapping", 
+        "0.60169"
+      ], 
+      [
+        "covering", 
+        "0.35014"
+      ], 
+      [
+        "measuring instrument", 
+        "0.28118"
+      ]
+    ], 
+    "5.289"
+  ]
+}

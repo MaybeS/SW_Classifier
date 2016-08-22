@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.74801"
+      ], 
+      [
+        "switch", 
+        "0.06749"
+      ], 
+      [
+        "tape player", 
+        "0.05469"
+      ], 
+      [
+        "cassette player", 
+        "0.05430"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03526"
+      ]
+    ], 
+    [
+      [
+        "washer", 
+        "1.61436"
+      ], 
+      [
+        "white goods", 
+        "1.39682"
+      ], 
+      [
+        "home appliance", 
+        "1.14935"
+      ], 
+      [
+        "appliance", 
+        "1.10137"
+      ], 
+      [
+        "durables", 
+        "1.07271"
+      ]
+    ], 
+    "8.351"
+  ]
+}

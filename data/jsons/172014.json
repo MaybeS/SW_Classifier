@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.12303"
+      ], 
+      [
+        "flute", 
+        "0.07574"
+      ], 
+      [
+        "violin", 
+        "0.06770"
+      ], 
+      [
+        "power drill", 
+        "0.05822"
+      ], 
+      [
+        "rifle", 
+        "0.05086"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40623"
+      ], 
+      [
+        "musical instrument", 
+        "0.37308"
+      ], 
+      [
+        "instrument", 
+        "0.24110"
+      ], 
+      [
+        "implement", 
+        "0.24086"
+      ], 
+      [
+        "stringed instrument", 
+        "0.24078"
+      ]
+    ], 
+    "7.513"
+  ]
+}

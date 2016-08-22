@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.68748"
+      ], 
+      [
+        "buckle", 
+        "0.10323"
+      ], 
+      [
+        "hair slide", 
+        "0.05648"
+      ], 
+      [
+        "electric fan", 
+        "0.04882"
+      ], 
+      [
+        "fire screen", 
+        "0.02583"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "1.16868"
+      ], 
+      [
+        "rack", 
+        "1.15151"
+      ], 
+      [
+        "framework", 
+        "1.01724"
+      ], 
+      [
+        "supporting structure", 
+        "0.93435"
+      ], 
+      [
+        "structure", 
+        "0.52846"
+      ]
+    ], 
+    "7.254"
+  ]
+}

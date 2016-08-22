@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "miniskirt", 
+        "0.16706"
+      ], 
+      [
+        "horizontal bar", 
+        "0.13787"
+      ], 
+      [
+        "dumbbell", 
+        "0.12840"
+      ], 
+      [
+        "balance beam", 
+        "0.10003"
+      ], 
+      [
+        "knee pad", 
+        "0.04345"
+      ]
+    ], 
+    [
+      [
+        "sports equipment", 
+        "0.66646"
+      ], 
+      [
+        "equipment", 
+        "0.55139"
+      ], 
+      [
+        "clothing", 
+        "0.52830"
+      ], 
+      [
+        "gymnastic apparatus", 
+        "0.51098"
+      ], 
+      [
+        "consumer goods", 
+        "0.48852"
+      ]
+    ], 
+    "7.585"
+  ]
+}

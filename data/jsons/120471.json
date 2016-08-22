@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.49768"
+      ], 
+      [
+        "modem", 
+        "0.09264"
+      ], 
+      [
+        "web site", 
+        "0.07543"
+      ], 
+      [
+        "digital clock", 
+        "0.06968"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03233"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.62830"
+      ], 
+      [
+        "optical instrument", 
+        "0.53180"
+      ], 
+      [
+        "instrument", 
+        "0.45251"
+      ], 
+      [
+        "device", 
+        "0.42823"
+      ], 
+      [
+        "equipment", 
+        "0.40627"
+      ]
+    ], 
+    "4.551"
+  ]
+}

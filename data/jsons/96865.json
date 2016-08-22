@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.41069"
+      ], 
+      [
+        "perfume", 
+        "0.16905"
+      ], 
+      [
+        "water bottle", 
+        "0.07831"
+      ], 
+      [
+        "nipple", 
+        "0.04930"
+      ], 
+      [
+        "saltshaker", 
+        "0.04465"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.45121"
+      ], 
+      [
+        "toiletry", 
+        "0.44058"
+      ], 
+      [
+        "vessel", 
+        "0.40319"
+      ], 
+      [
+        "soap dispenser", 
+        "0.34425"
+      ], 
+      [
+        "dispenser", 
+        "0.33919"
+      ]
+    ], 
+    "5.884"
+  ]
+}

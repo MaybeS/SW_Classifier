@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.18932"
+      ], 
+      [
+        "iPod", 
+        "0.16118"
+      ], 
+      [
+        "cellular telephone", 
+        "0.14415"
+      ], 
+      [
+        "loudspeaker", 
+        "0.10311"
+      ], 
+      [
+        "seat belt", 
+        "0.04714"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.55046"
+      ], 
+      [
+        "equipment", 
+        "0.47847"
+      ], 
+      [
+        "device", 
+        "0.36152"
+      ], 
+      [
+        "iPod", 
+        "0.31878"
+      ], 
+      [
+        "stereo", 
+        "0.31410"
+      ]
+    ], 
+    "5.238"
+  ]
+}

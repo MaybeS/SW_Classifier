@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "handkerchief", 
+        "0.37970"
+      ], 
+      [
+        "carton", 
+        "0.06002"
+      ], 
+      [
+        "plastic bag", 
+        "0.03907"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.02941"
+      ], 
+      [
+        "envelope", 
+        "0.02303"
+      ]
+    ], 
+    [
+      [
+        "handkerchief", 
+        "0.74009"
+      ], 
+      [
+        "piece of cloth", 
+        "0.66606"
+      ], 
+      [
+        "piece", 
+        "0.65273"
+      ], 
+      [
+        "part", 
+        "0.63940"
+      ], 
+      [
+        "fabric", 
+        "0.62848"
+      ]
+    ], 
+    "5.206"
+  ]
+}

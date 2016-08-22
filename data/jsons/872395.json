@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "chain mail", 
+        "0.43212"
+      ], 
+      [
+        "microphone", 
+        "0.34381"
+      ], 
+      [
+        "miniskirt", 
+        "0.01489"
+      ], 
+      [
+        "maillot", 
+        "0.01343"
+      ], 
+      [
+        "breastplate", 
+        "0.01203"
+      ]
+    ], 
+    [
+      [
+        "chain mail", 
+        "1.32633"
+      ], 
+      [
+        "body armor", 
+        "1.13551"
+      ], 
+      [
+        "armor", 
+        "1.06301"
+      ], 
+      [
+        "protective covering", 
+        "0.76504"
+      ], 
+      [
+        "covering", 
+        "0.66112"
+      ]
+    ], 
+    "6.212"
+  ]
+}

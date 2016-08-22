@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.27164"
+      ], 
+      [
+        "mousetrap", 
+        "0.25335"
+      ], 
+      [
+        "cassette player", 
+        "0.11132"
+      ], 
+      [
+        "tape player", 
+        "0.07087"
+      ], 
+      [
+        "book jacket", 
+        "0.06171"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43973"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43526"
+      ], 
+      [
+        "cassette", 
+        "0.39968"
+      ], 
+      [
+        "container", 
+        "0.33996"
+      ], 
+      [
+        "mousetrap", 
+        "0.29223"
+      ]
+    ], 
+    "5.875"
+  ]
+}

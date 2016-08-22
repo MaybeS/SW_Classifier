@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "trench coat", 
+        "0.95161"
+      ], 
+      [
+        "military uniform", 
+        "0.02132"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.00559"
+      ], 
+      [
+        "cardigan", 
+        "0.00367"
+      ], 
+      [
+        "wool", 
+        "0.00284"
+      ]
+    ], 
+    [
+      [
+        "trench coat", 
+        "1.92485"
+      ], 
+      [
+        "raincoat", 
+        "1.89658"
+      ], 
+      [
+        "coat", 
+        "1.79413"
+      ], 
+      [
+        "overgarment", 
+        "1.71079"
+      ], 
+      [
+        "garment", 
+        "1.63432"
+      ]
+    ], 
+    "16.554"
+  ]
+}

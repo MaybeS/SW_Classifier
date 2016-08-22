@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.77454"
+      ], 
+      [
+        "container ship", 
+        "0.08950"
+      ], 
+      [
+        "switch", 
+        "0.04671"
+      ], 
+      [
+        "combination lock", 
+        "0.01340"
+      ], 
+      [
+        "stretcher", 
+        "0.01194"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "2.39821"
+      ], 
+      [
+        "signboard", 
+        "2.36298"
+      ], 
+      [
+        "board", 
+        "2.36298"
+      ], 
+      [
+        "sheet", 
+        "2.05053"
+      ], 
+      [
+        "structure", 
+        "1.04061"
+      ]
+    ], 
+    "7.933"
+  ]
+}

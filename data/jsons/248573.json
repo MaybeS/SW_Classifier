@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.36852"
+      ], 
+      [
+        "hand-held computer", 
+        "0.18951"
+      ], 
+      [
+        "web site", 
+        "0.10465"
+      ], 
+      [
+        "iPod", 
+        "0.09723"
+      ], 
+      [
+        "scoreboard", 
+        "0.08758"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.84368"
+      ], 
+      [
+        "electronic equipment", 
+        "0.74877"
+      ], 
+      [
+        "machine", 
+        "0.74658"
+      ], 
+      [
+        "cellular telephone", 
+        "0.74299"
+      ], 
+      [
+        "radiotelephone", 
+        "0.73207"
+      ]
+    ], 
+    "6.850"
+  ]
+}

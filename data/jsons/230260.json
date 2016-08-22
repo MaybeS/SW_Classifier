@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.73996"
+      ], 
+      [
+        "lens cap", 
+        "0.09194"
+      ], 
+      [
+        "binoculars", 
+        "0.08749"
+      ], 
+      [
+        "loupe", 
+        "0.04049"
+      ], 
+      [
+        "joystick", 
+        "0.01309"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.72653"
+      ], 
+      [
+        "photographic equipment", 
+        "1.69782"
+      ], 
+      [
+        "reflex camera", 
+        "1.68676"
+      ], 
+      [
+        "equipment", 
+        "0.88597"
+      ], 
+      [
+        "lens cap", 
+        "0.41596"
+      ]
+    ], 
+    "6.300"
+  ]
+}

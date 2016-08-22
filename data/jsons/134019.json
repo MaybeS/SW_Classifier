@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.22559"
+      ], 
+      [
+        "projector", 
+        "0.16258"
+      ], 
+      [
+        "espresso maker", 
+        "0.05315"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05289"
+      ], 
+      [
+        "safe", 
+        "0.04867"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.40248"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39893"
+      ], 
+      [
+        "device", 
+        "0.34592"
+      ], 
+      [
+        "container", 
+        "0.27146"
+      ], 
+      [
+        "projector", 
+        "0.26095"
+      ]
+    ], 
+    "7.881"
+  ]
+}

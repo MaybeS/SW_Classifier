@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toilet seat", 
+        "0.74868"
+      ], 
+      [
+        "soap dispenser", 
+        "0.18921"
+      ], 
+      [
+        "medicine chest", 
+        "0.01024"
+      ], 
+      [
+        "washbasin", 
+        "0.00997"
+      ], 
+      [
+        "washer", 
+        "0.00806"
+      ]
+    ], 
+    [
+      [
+        "toilet seat", 
+        "0.83523"
+      ], 
+      [
+        "seat", 
+        "0.61607"
+      ], 
+      [
+        "furniture", 
+        "0.55583"
+      ], 
+      [
+        "furnishing", 
+        "0.53122"
+      ], 
+      [
+        "vessel", 
+        "0.40724"
+      ]
+    ], 
+    "7.249"
+  ]
+}

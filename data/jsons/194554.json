@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.22292"
+      ], 
+      [
+        "refrigerator", 
+        "0.07890"
+      ], 
+      [
+        "photocopier", 
+        "0.07247"
+      ], 
+      [
+        "face powder", 
+        "0.06800"
+      ], 
+      [
+        "toilet tissue", 
+        "0.05766"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.41280"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32810"
+      ], 
+      [
+        "machine", 
+        "0.32148"
+      ], 
+      [
+        "photocopier", 
+        "0.32068"
+      ], 
+      [
+        "duplicator", 
+        "0.31597"
+      ]
+    ], 
+    "5.753"
+  ]
+}

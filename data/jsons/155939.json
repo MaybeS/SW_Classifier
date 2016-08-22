@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "barn spider", 
+        "0.36364"
+      ], 
+      [
+        "television", 
+        "0.25612"
+      ], 
+      [
+        "hair slide", 
+        "0.04240"
+      ], 
+      [
+        "rock crab", 
+        "0.03825"
+      ], 
+      [
+        "king crab", 
+        "0.03353"
+      ]
+    ], 
+    [
+      [
+        "arachnid", 
+        "1.04617"
+      ], 
+      [
+        "spider", 
+        "1.01136"
+      ], 
+      [
+        "arthropod", 
+        "0.91952"
+      ], 
+      [
+        "invertebrate", 
+        "0.80317"
+      ], 
+      [
+        "barn spider", 
+        "0.58386"
+      ]
+    ], 
+    "6.290"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.37142"
+      ], 
+      [
+        "binoculars", 
+        "0.28348"
+      ], 
+      [
+        "projector", 
+        "0.12926"
+      ], 
+      [
+        "microphone", 
+        "0.10925"
+      ], 
+      [
+        "torch", 
+        "0.06681"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39673"
+      ], 
+      [
+        "optical instrument", 
+        "0.39312"
+      ], 
+      [
+        "instrument", 
+        "0.31729"
+      ], 
+      [
+        "binoculars", 
+        "0.28839"
+      ], 
+      [
+        "source of illumination", 
+        "0.27577"
+      ]
+    ], 
+    "9.441"
+  ]
+}

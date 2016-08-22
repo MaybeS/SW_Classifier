@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.46447"
+      ], 
+      [
+        "spotlight", 
+        "0.17835"
+      ], 
+      [
+        "oxygen mask", 
+        "0.09049"
+      ], 
+      [
+        "combination lock", 
+        "0.06425"
+      ], 
+      [
+        "switch", 
+        "0.04024"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38053"
+      ], 
+      [
+        "instrument", 
+        "0.29401"
+      ], 
+      [
+        "loupe", 
+        "0.22688"
+      ], 
+      [
+        "hand glass", 
+        "0.22355"
+      ], 
+      [
+        "light microscope", 
+        "0.22022"
+      ]
+    ], 
+    "8.077"
+  ]
+}

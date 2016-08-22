@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.55601"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09115"
+      ], 
+      [
+        "television", 
+        "0.06441"
+      ], 
+      [
+        "web site", 
+        "0.06212"
+      ], 
+      [
+        "screen", 
+        "0.03082"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "1.25758"
+      ], 
+      [
+        "portable computer", 
+        "1.21356"
+      ], 
+      [
+        "personal computer", 
+        "1.20789"
+      ], 
+      [
+        "digital computer", 
+        "1.18476"
+      ], 
+      [
+        "hand-held computer", 
+        "1.18055"
+      ]
+    ], 
+    "8.876"
+  ]
+}

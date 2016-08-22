@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.21685"
+      ], 
+      [
+        "comic book", 
+        "0.13781"
+      ], 
+      [
+        "scoreboard", 
+        "0.09881"
+      ], 
+      [
+        "book jacket", 
+        "0.07729"
+      ], 
+      [
+        "packet", 
+        "0.06863"
+      ]
+    ], 
+    [
+      [
+        "street sign", 
+        "0.45991"
+      ], 
+      [
+        "sign", 
+        "0.45316"
+      ], 
+      [
+        "structure", 
+        "0.40727"
+      ], 
+      [
+        "communication", 
+        "0.40630"
+      ], 
+      [
+        "scoreboard", 
+        "0.33319"
+      ]
+    ], 
+    "4.485"
+  ]
+}

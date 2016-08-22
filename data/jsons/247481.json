@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.25677"
+      ], 
+      [
+        "cellular telephone", 
+        "0.18879"
+      ], 
+      [
+        "remote control", 
+        "0.14696"
+      ], 
+      [
+        "can opener", 
+        "0.09065"
+      ], 
+      [
+        "lighter", 
+        "0.07941"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51131"
+      ], 
+      [
+        "equipment", 
+        "0.43957"
+      ], 
+      [
+        "device", 
+        "0.40129"
+      ], 
+      [
+        "cellular telephone", 
+        "0.39673"
+      ], 
+      [
+        "radiotelephone", 
+        "0.39090"
+      ]
+    ], 
+    "9.272"
+  ]
+}

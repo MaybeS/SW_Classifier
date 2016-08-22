@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.84333"
+      ], 
+      [
+        "medicine chest", 
+        "0.08610"
+      ], 
+      [
+        "refrigerator", 
+        "0.02320"
+      ], 
+      [
+        "china cabinet", 
+        "0.00875"
+      ], 
+      [
+        "chiffonier", 
+        "0.00705"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "1.43841"
+      ], 
+      [
+        "rack", 
+        "1.41728"
+      ], 
+      [
+        "framework", 
+        "1.25015"
+      ], 
+      [
+        "supporting structure", 
+        "1.14774"
+      ], 
+      [
+        "structure", 
+        "0.65240"
+      ]
+    ], 
+    "5.195"
+  ]
+}

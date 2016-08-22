@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pick", 
+        "0.11916"
+      ], 
+      [
+        "combination lock", 
+        "0.09295"
+      ], 
+      [
+        "parking meter", 
+        "0.08759"
+      ], 
+      [
+        "knee pad", 
+        "0.08414"
+      ], 
+      [
+        "running shoe", 
+        "0.06802"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.41513"
+      ], 
+      [
+        "clothing", 
+        "0.30969"
+      ], 
+      [
+        "consumer goods", 
+        "0.30590"
+      ], 
+      [
+        "commodity", 
+        "0.29121"
+      ], 
+      [
+        "footwear", 
+        "0.28081"
+      ]
+    ], 
+    "6.604"
+  ]
+}

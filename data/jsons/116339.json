@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.27940"
+      ], 
+      [
+        "pencil box", 
+        "0.16753"
+      ], 
+      [
+        "Band Aid", 
+        "0.13143"
+      ], 
+      [
+        "rule", 
+        "0.10129"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06458"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.54454"
+      ], 
+      [
+        "device", 
+        "0.33606"
+      ], 
+      [
+        "container", 
+        "0.25777"
+      ], 
+      [
+        "pencil box", 
+        "0.25476"
+      ], 
+      [
+        "covering", 
+        "0.24487"
+      ]
+    ], 
+    "8.095"
+  ]
+}

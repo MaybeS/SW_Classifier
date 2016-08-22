@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cowboy hat", 
+        "0.26234"
+      ], 
+      [
+        "cardigan", 
+        "0.10000"
+      ], 
+      [
+        "bathing cap", 
+        "0.08322"
+      ], 
+      [
+        "military uniform", 
+        "0.05024"
+      ], 
+      [
+        "sweatshirt", 
+        "0.04715"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.94951"
+      ], 
+      [
+        "consumer goods", 
+        "0.83602"
+      ], 
+      [
+        "commodity", 
+        "0.79696"
+      ], 
+      [
+        "covering", 
+        "0.78354"
+      ], 
+      [
+        "garment", 
+        "0.66962"
+      ]
+    ], 
+    "5.791"
+  ]
+}

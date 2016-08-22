@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "magnetic compass", 
+        "0.26246"
+      ], 
+      [
+        "loupe", 
+        "0.17416"
+      ], 
+      [
+        "plane", 
+        "0.08406"
+      ], 
+      [
+        "spotlight", 
+        "0.04751"
+      ], 
+      [
+        "combination lock", 
+        "0.03740"
+      ]
+    ], 
+    [
+      [
+        "magnetic compass", 
+        "0.61156"
+      ], 
+      [
+        "compass", 
+        "0.60257"
+      ], 
+      [
+        "navigational instrument", 
+        "0.59359"
+      ], 
+      [
+        "instrument", 
+        "0.55913"
+      ], 
+      [
+        "device", 
+        "0.44172"
+      ]
+    ], 
+    "6.360"
+  ]
+}

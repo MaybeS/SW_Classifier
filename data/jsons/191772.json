@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.58232"
+      ], 
+      [
+        "oil filter", 
+        "0.17937"
+      ], 
+      [
+        "radio", 
+        "0.08060"
+      ], 
+      [
+        "modem", 
+        "0.01505"
+      ], 
+      [
+        "remote control", 
+        "0.01315"
+      ]
+    ], 
+    [
+      [
+        "digital clock", 
+        "0.86610"
+      ], 
+      [
+        "timepiece", 
+        "0.83088"
+      ], 
+      [
+        "measuring instrument", 
+        "0.82882"
+      ], 
+      [
+        "clock", 
+        "0.76613"
+      ], 
+      [
+        "instrument", 
+        "0.61214"
+      ]
+    ], 
+    "5.425"
+  ]
+}

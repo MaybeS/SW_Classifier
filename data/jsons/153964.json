@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.16303"
+      ], 
+      [
+        "cash machine", 
+        "0.08973"
+      ], 
+      [
+        "soap dispenser", 
+        "0.04876"
+      ], 
+      [
+        "street sign", 
+        "0.03918"
+      ], 
+      [
+        "laptop", 
+        "0.03794"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.67340"
+      ], 
+      [
+        "computer", 
+        "0.66199"
+      ], 
+      [
+        "web site", 
+        "0.65170"
+      ], 
+      [
+        "device", 
+        "0.40218"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26450"
+      ]
+    ], 
+    "7.522"
+  ]
+}

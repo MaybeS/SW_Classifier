@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "brassiere", 
+        "0.56633"
+      ], 
+      [
+        "Christmas stocking", 
+        "0.07723"
+      ], 
+      [
+        "bib", 
+        "0.04399"
+      ], 
+      [
+        "paper towel", 
+        "0.03939"
+      ], 
+      [
+        "sock", 
+        "0.03280"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.90643"
+      ], 
+      [
+        "brassiere", 
+        "0.84713"
+      ], 
+      [
+        "undergarment", 
+        "0.83469"
+      ], 
+      [
+        "consumer goods", 
+        "0.80178"
+      ], 
+      [
+        "woman's clothing", 
+        "0.77801"
+      ]
+    ], 
+    "5.784"
+  ]
+}

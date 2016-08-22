@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.56008"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.11133"
+      ], 
+      [
+        "can opener", 
+        "0.04578"
+      ], 
+      [
+        "shovel", 
+        "0.03355"
+      ], 
+      [
+        "screwdriver", 
+        "0.03312"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.61156"
+      ], 
+      [
+        "signaling device", 
+        "0.60257"
+      ], 
+      [
+        "acoustic device", 
+        "0.60257"
+      ], 
+      [
+        "implement", 
+        "0.39788"
+      ], 
+      [
+        "tool", 
+        "0.36361"
+      ]
+    ], 
+    "8.022"
+  ]
+}

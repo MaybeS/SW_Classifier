@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "container ship", 
+        "0.74343"
+      ], 
+      [
+        "scoreboard", 
+        "0.09580"
+      ], 
+      [
+        "oscilloscope", 
+        "0.03345"
+      ], 
+      [
+        "modem", 
+        "0.02500"
+      ], 
+      [
+        "crossword puzzle", 
+        "0.02318"
+      ]
+    ], 
+    [
+      [
+        "container ship", 
+        "2.33095"
+      ], 
+      [
+        "cargo ship", 
+        "2.29671"
+      ], 
+      [
+        "ship", 
+        "1.94891"
+      ], 
+      [
+        "vessel", 
+        "1.70069"
+      ], 
+      [
+        "craft", 
+        "1.55344"
+      ]
+    ], 
+    "8.539"
+  ]
+}

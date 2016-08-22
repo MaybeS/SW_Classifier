@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Band Aid", 
+        "0.19790"
+      ], 
+      [
+        "switch", 
+        "0.10753"
+      ], 
+      [
+        "nipple", 
+        "0.08210"
+      ], 
+      [
+        "lotion", 
+        "0.05971"
+      ], 
+      [
+        "hand-held computer", 
+        "0.05764"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32090"
+      ], 
+      [
+        "covering", 
+        "0.28048"
+      ], 
+      [
+        "toiletry", 
+        "0.25588"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24479"
+      ], 
+      [
+        "equipment", 
+        "0.24124"
+      ]
+    ], 
+    "5.996"
+  ]
+}

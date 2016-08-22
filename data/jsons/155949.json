@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.47324"
+      ], 
+      [
+        "binder", 
+        "0.10842"
+      ], 
+      [
+        "fire screen", 
+        "0.07396"
+      ], 
+      [
+        "dishwasher", 
+        "0.04268"
+      ], 
+      [
+        "refrigerator", 
+        "0.02610"
+      ]
+    ], 
+    [
+      [
+        "envelope", 
+        "0.38005"
+      ], 
+      [
+        "container", 
+        "0.31983"
+      ], 
+      [
+        "covering", 
+        "0.31814"
+      ], 
+      [
+        "protective covering", 
+        "0.29273"
+      ], 
+      [
+        "binder", 
+        "0.23795"
+      ]
+    ], 
+    "9.272"
+  ]
+}

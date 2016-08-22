@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bath towel", 
+        "0.14529"
+      ], 
+      [
+        "Windsor tie", 
+        "0.09675"
+      ], 
+      [
+        "letter opener", 
+        "0.06349"
+      ], 
+      [
+        "quill", 
+        "0.05714"
+      ], 
+      [
+        "paper towel", 
+        "0.05010"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.45021"
+      ], 
+      [
+        "commodity", 
+        "0.43073"
+      ], 
+      [
+        "clothing", 
+        "0.42965"
+      ], 
+      [
+        "consumer goods", 
+        "0.39669"
+      ], 
+      [
+        "garment", 
+        "0.33642"
+      ]
+    ], 
+    "5.976"
+  ]
+}

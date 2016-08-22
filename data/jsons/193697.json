@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.15640"
+      ], 
+      [
+        "radio", 
+        "0.14425"
+      ], 
+      [
+        "CD player", 
+        "0.12575"
+      ], 
+      [
+        "stove", 
+        "0.11079"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.07887"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.52364"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45102"
+      ], 
+      [
+        "home appliance", 
+        "0.39904"
+      ], 
+      [
+        "appliance", 
+        "0.39000"
+      ], 
+      [
+        "durables", 
+        "0.37986"
+      ]
+    ], 
+    "5.338"
+  ]
+}

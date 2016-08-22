@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desk", 
+        "0.10755"
+      ], 
+      [
+        "printer", 
+        "0.10063"
+      ], 
+      [
+        "desktop computer", 
+        "0.07590"
+      ], 
+      [
+        "photocopier", 
+        "0.06086"
+      ], 
+      [
+        "stove", 
+        "0.04420"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.48258"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45557"
+      ], 
+      [
+        "machine", 
+        "0.37146"
+      ], 
+      [
+        "furniture", 
+        "0.36267"
+      ], 
+      [
+        "furnishing", 
+        "0.34318"
+      ]
+    ], 
+    "9.023"
+  ]
+}

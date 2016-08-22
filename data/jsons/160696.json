@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.27205"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.25713"
+      ], 
+      [
+        "switch", 
+        "0.06480"
+      ], 
+      [
+        "holster", 
+        "0.04061"
+      ], 
+      [
+        "spotlight", 
+        "0.03610"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.70932"
+      ], 
+      [
+        "photographic equipment", 
+        "0.69752"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.63207"
+      ], 
+      [
+        "equipment", 
+        "0.50850"
+      ], 
+      [
+        "device", 
+        "0.31177"
+      ]
+    ], 
+    "9.007"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mortarboard", 
+        "0.59610"
+      ], 
+      [
+        "modem", 
+        "0.06406"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05345"
+      ], 
+      [
+        "wallet", 
+        "0.01728"
+      ], 
+      [
+        "loupe", 
+        "0.01247"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.63717"
+      ], 
+      [
+        "mortarboard", 
+        "0.62160"
+      ], 
+      [
+        "consumer goods", 
+        "0.60511"
+      ], 
+      [
+        "commodity", 
+        "0.57306"
+      ], 
+      [
+        "covering", 
+        "0.54315"
+      ]
+    ], 
+    "9.626"
+  ]
+}

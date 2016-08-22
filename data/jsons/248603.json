@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "golf ball", 
+        "0.10625"
+      ], 
+      [
+        "packet", 
+        "0.09660"
+      ], 
+      [
+        "book jacket", 
+        "0.06696"
+      ], 
+      [
+        "barrow", 
+        "0.04548"
+      ], 
+      [
+        "mousetrap", 
+        "0.03699"
+      ]
+    ], 
+    [
+      [
+        "golf ball", 
+        "0.34637"
+      ], 
+      [
+        "golf equipment", 
+        "0.31093"
+      ], 
+      [
+        "ball", 
+        "0.30036"
+      ], 
+      [
+        "game equipment", 
+        "0.28284"
+      ], 
+      [
+        "sports equipment", 
+        "0.26575"
+      ]
+    ], 
+    "6.423"
+  ]
+}

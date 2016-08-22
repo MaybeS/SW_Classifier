@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.29301"
+      ], 
+      [
+        "plate rack", 
+        "0.28392"
+      ], 
+      [
+        "buckle", 
+        "0.07468"
+      ], 
+      [
+        "safety pin", 
+        "0.05120"
+      ], 
+      [
+        "hook", 
+        "0.04049"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "0.48857"
+      ], 
+      [
+        "rack", 
+        "0.48140"
+      ], 
+      [
+        "timepiece", 
+        "0.43509"
+      ], 
+      [
+        "digital clock", 
+        "0.43272"
+      ], 
+      [
+        "measuring instrument", 
+        "0.43029"
+      ]
+    ], 
+    "6.105"
+  ]
+}

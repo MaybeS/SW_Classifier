@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.88243"
+      ], 
+      [
+        "scoreboard", 
+        "0.02092"
+      ], 
+      [
+        "microwave", 
+        "0.01717"
+      ], 
+      [
+        "web site", 
+        "0.01432"
+      ], 
+      [
+        "Band Aid", 
+        "0.00836"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.69302"
+      ], 
+      [
+        "device", 
+        "0.54539"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46164"
+      ], 
+      [
+        "equipment", 
+        "0.40064"
+      ], 
+      [
+        "cellular telephone", 
+        "0.30948"
+      ]
+    ], 
+    "5.344"
+  ]
+}

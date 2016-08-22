@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.27919"
+      ], 
+      [
+        "radio", 
+        "0.12692"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.09002"
+      ], 
+      [
+        "stove", 
+        "0.07025"
+      ], 
+      [
+        "tape player", 
+        "0.05567"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.60581"
+      ], 
+      [
+        "fan", 
+        "0.59691"
+      ], 
+      [
+        "equipment", 
+        "0.38511"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35797"
+      ], 
+      [
+        "device", 
+        "0.35280"
+      ]
+    ], 
+    "7.063"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.95552"
+      ], 
+      [
+        "space heater", 
+        "0.01923"
+      ], 
+      [
+        "magnetic compass", 
+        "0.00590"
+      ], 
+      [
+        "hand blower", 
+        "0.00280"
+      ], 
+      [
+        "solar dish", 
+        "0.00160"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "2.03423"
+      ], 
+      [
+        "fan", 
+        "2.00435"
+      ], 
+      [
+        "device", 
+        "0.51103"
+      ], 
+      [
+        "container", 
+        "0.21187"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.19666"
+      ]
+    ], 
+    "7.177"
+  ]
+}

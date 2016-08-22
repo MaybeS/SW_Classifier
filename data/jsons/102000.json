@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.55270"
+      ], 
+      [
+        "assault rifle", 
+        "0.07182"
+      ], 
+      [
+        "power drill", 
+        "0.05763"
+      ], 
+      [
+        "rifle", 
+        "0.05596"
+      ], 
+      [
+        "revolver", 
+        "0.03654"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "0.64011"
+      ], 
+      [
+        "control", 
+        "0.60961"
+      ], 
+      [
+        "data input device", 
+        "0.59599"
+      ], 
+      [
+        "peripheral", 
+        "0.56466"
+      ], 
+      [
+        "electronic equipment", 
+        "0.53361"
+      ]
+    ], 
+    "4.315"
+  ]
+}

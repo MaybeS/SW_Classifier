@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.32071"
+      ], 
+      [
+        "stove", 
+        "0.17026"
+      ], 
+      [
+        "spotlight", 
+        "0.11901"
+      ], 
+      [
+        "space heater", 
+        "0.11073"
+      ], 
+      [
+        "switch", 
+        "0.06655"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.49194"
+      ], 
+      [
+        "home appliance", 
+        "0.48628"
+      ], 
+      [
+        "coffee maker", 
+        "0.48472"
+      ], 
+      [
+        "appliance", 
+        "0.47552"
+      ], 
+      [
+        "durables", 
+        "0.46314"
+      ]
+    ], 
+    "9.757"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.36433"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.08579"
+      ], 
+      [
+        "sewing machine", 
+        "0.07830"
+      ], 
+      [
+        "hand blower", 
+        "0.07558"
+      ], 
+      [
+        "tape player", 
+        "0.06278"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.46406"
+      ], 
+      [
+        "optical instrument", 
+        "0.42032"
+      ], 
+      [
+        "device", 
+        "0.36664"
+      ], 
+      [
+        "equipment", 
+        "0.31779"
+      ], 
+      [
+        "instrument", 
+        "0.31315"
+      ]
+    ], 
+    "7.160"
+  ]
+}

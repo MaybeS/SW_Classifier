@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "frying pan", 
+        "0.11468"
+      ], 
+      [
+        "spotlight", 
+        "0.10620"
+      ], 
+      [
+        "combination lock", 
+        "0.07003"
+      ], 
+      [
+        "crash helmet", 
+        "0.06875"
+      ], 
+      [
+        "microphone", 
+        "0.06240"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.29014"
+      ], 
+      [
+        "consumer goods", 
+        "0.27118"
+      ], 
+      [
+        "commodity", 
+        "0.25752"
+      ], 
+      [
+        "implement", 
+        "0.25593"
+      ], 
+      [
+        "container", 
+        "0.24524"
+      ]
+    ], 
+    "5.488"
+  ]
+}

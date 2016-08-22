@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "medicine chest", 
+        "0.21077"
+      ], 
+      [
+        "binder", 
+        "0.17359"
+      ], 
+      [
+        "switch", 
+        "0.10866"
+      ], 
+      [
+        "modem", 
+        "0.07408"
+      ], 
+      [
+        "screen", 
+        "0.04482"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.49257"
+      ], 
+      [
+        "furnishing", 
+        "0.47915"
+      ], 
+      [
+        "cabinet", 
+        "0.33392"
+      ], 
+      [
+        "medicine chest", 
+        "0.29290"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27785"
+      ]
+    ], 
+    "5.844"
+  ]
+}

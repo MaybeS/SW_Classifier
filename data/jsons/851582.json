@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.16238"
+      ], 
+      [
+        "spotlight", 
+        "0.13009"
+      ], 
+      [
+        "fountain pen", 
+        "0.08702"
+      ], 
+      [
+        "ballpoint", 
+        "0.07036"
+      ], 
+      [
+        "binoculars", 
+        "0.03722"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.37043"
+      ], 
+      [
+        "device", 
+        "0.34921"
+      ], 
+      [
+        "pen", 
+        "0.29136"
+      ], 
+      [
+        "writing implement", 
+        "0.28617"
+      ], 
+      [
+        "container", 
+        "0.22507"
+      ]
+    ], 
+    "11.410"
+  ]
+}

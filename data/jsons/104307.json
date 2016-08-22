@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screen", 
+        "0.22610"
+      ], 
+      [
+        "envelope", 
+        "0.21812"
+      ], 
+      [
+        "carton", 
+        "0.09847"
+      ], 
+      [
+        "face powder", 
+        "0.05870"
+      ], 
+      [
+        "television", 
+        "0.05454"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.33258"
+      ], 
+      [
+        "computer", 
+        "0.31065"
+      ], 
+      [
+        "electronic device", 
+        "0.28893"
+      ], 
+      [
+        "personal computer", 
+        "0.27957"
+      ], 
+      [
+        "digital computer", 
+        "0.27422"
+      ]
+    ], 
+    "5.850"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "parachute", 
+        "0.32459"
+      ], 
+      [
+        "airship", 
+        "0.31947"
+      ], 
+      [
+        "pick", 
+        "0.12727"
+      ], 
+      [
+        "balloon", 
+        "0.08378"
+      ], 
+      [
+        "spotlight", 
+        "0.01016"
+      ]
+    ], 
+    [
+      [
+        "parachute", 
+        "1.03763"
+      ], 
+      [
+        "rescue equipment", 
+        "1.02239"
+      ], 
+      [
+        "lighter-than-air craft", 
+        "0.88198"
+      ], 
+      [
+        "aircraft", 
+        "0.78189"
+      ], 
+      [
+        "craft", 
+        "0.72808"
+      ]
+    ], 
+    "16.524"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mortarboard", 
+        "0.14324"
+      ], 
+      [
+        "muzzle", 
+        "0.11034"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.10614"
+      ], 
+      [
+        "whistle", 
+        "0.08577"
+      ], 
+      [
+        "loupe", 
+        "0.06302"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.34528"
+      ], 
+      [
+        "consumer goods", 
+        "0.31814"
+      ], 
+      [
+        "camera", 
+        "0.30894"
+      ], 
+      [
+        "photographic equipment", 
+        "0.30380"
+      ], 
+      [
+        "commodity", 
+        "0.30168"
+      ]
+    ], 
+    "6.501"
+  ]
+}

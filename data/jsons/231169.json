@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.44545"
+      ], 
+      [
+        "loudspeaker", 
+        "0.13460"
+      ], 
+      [
+        "switch", 
+        "0.12626"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.09878"
+      ], 
+      [
+        "combination lock", 
+        "0.03732"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.58438"
+      ], 
+      [
+        "optical instrument", 
+        "0.50707"
+      ], 
+      [
+        "camera", 
+        "0.46833"
+      ], 
+      [
+        "photographic equipment", 
+        "0.46055"
+      ], 
+      [
+        "equipment", 
+        "0.43731"
+      ]
+    ], 
+    "6.067"
+  ]
+}

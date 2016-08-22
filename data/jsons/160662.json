@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pole", 
+        "0.09162"
+      ], 
+      [
+        "wine bottle", 
+        "0.07711"
+      ], 
+      [
+        "bassoon", 
+        "0.06204"
+      ], 
+      [
+        "letter opener", 
+        "0.05709"
+      ], 
+      [
+        "cleaver", 
+        "0.05195"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.39503"
+      ], 
+      [
+        "device", 
+        "0.29237"
+      ], 
+      [
+        "musical instrument", 
+        "0.28206"
+      ], 
+      [
+        "tool", 
+        "0.23587"
+      ], 
+      [
+        "wind instrument", 
+        "0.22833"
+      ]
+    ], 
+    "7.745"
+  ]
+}

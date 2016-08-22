@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.34075"
+      ], 
+      [
+        "switch", 
+        "0.09705"
+      ], 
+      [
+        "face powder", 
+        "0.06086"
+      ], 
+      [
+        "oil filter", 
+        "0.06057"
+      ], 
+      [
+        "microphone", 
+        "0.05412"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "0.65966"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.54519"
+      ], 
+      [
+        "home appliance", 
+        "0.50704"
+      ], 
+      [
+        "appliance", 
+        "0.49785"
+      ], 
+      [
+        "durables", 
+        "0.48490"
+      ]
+    ], 
+    "8.155"
+  ]
+}

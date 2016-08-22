@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lipstick", 
+        "0.15120"
+      ], 
+      [
+        "snorkel", 
+        "0.13175"
+      ], 
+      [
+        "rubber eraser", 
+        "0.12636"
+      ], 
+      [
+        "wine bottle", 
+        "0.10433"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09153"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.40263"
+      ], 
+      [
+        "makeup", 
+        "0.38306"
+      ], 
+      [
+        "cosmetic", 
+        "0.37669"
+      ], 
+      [
+        "lipstick", 
+        "0.32714"
+      ], 
+      [
+        "implement", 
+        "0.30998"
+      ]
+    ], 
+    "6.957"
+  ]
+}

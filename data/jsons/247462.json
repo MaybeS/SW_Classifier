@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "packet", 
+        "0.16117"
+      ], 
+      [
+        "lighter", 
+        "0.05799"
+      ], 
+      [
+        "book jacket", 
+        "0.05447"
+      ], 
+      [
+        "television", 
+        "0.05302"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04262"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.24623"
+      ], 
+      [
+        "container", 
+        "0.23506"
+      ], 
+      [
+        "machine", 
+        "0.22467"
+      ], 
+      [
+        "electronic equipment", 
+        "0.21807"
+      ], 
+      [
+        "equipment", 
+        "0.21572"
+      ]
+    ], 
+    "9.263"
+  ]
+}

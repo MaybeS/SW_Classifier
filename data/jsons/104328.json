@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.11834"
+      ], 
+      [
+        "modem", 
+        "0.11288"
+      ], 
+      [
+        "mouse", 
+        "0.09309"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07588"
+      ], 
+      [
+        "printer", 
+        "0.07022"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.50299"
+      ], 
+      [
+        "equipment", 
+        "0.45978"
+      ], 
+      [
+        "device", 
+        "0.34049"
+      ], 
+      [
+        "instrument", 
+        "0.24986"
+      ], 
+      [
+        "appliance", 
+        "0.24586"
+      ]
+    ], 
+    "8.958"
+  ]
+}

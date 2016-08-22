@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.24707"
+      ], 
+      [
+        "web site", 
+        "0.10433"
+      ], 
+      [
+        "joystick", 
+        "0.05974"
+      ], 
+      [
+        "switch", 
+        "0.05108"
+      ], 
+      [
+        "spatula", 
+        "0.04673"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.86277"
+      ], 
+      [
+        "machine", 
+        "0.76082"
+      ], 
+      [
+        "personal computer", 
+        "0.63895"
+      ], 
+      [
+        "digital computer", 
+        "0.62671"
+      ], 
+      [
+        "portable computer", 
+        "0.61125"
+      ]
+    ], 
+    "6.066"
+  ]
+}

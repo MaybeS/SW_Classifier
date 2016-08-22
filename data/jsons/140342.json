@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dining table", 
+        "0.35386"
+      ], 
+      [
+        "rocking chair", 
+        "0.33244"
+      ], 
+      [
+        "pillow", 
+        "0.15711"
+      ], 
+      [
+        "folding chair", 
+        "0.05446"
+      ], 
+      [
+        "studio couch", 
+        "0.04986"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "1.18136"
+      ], 
+      [
+        "furnishing", 
+        "1.12171"
+      ], 
+      [
+        "dining table", 
+        "0.89361"
+      ], 
+      [
+        "table", 
+        "0.88048"
+      ], 
+      [
+        "seat", 
+        "0.76963"
+      ]
+    ], 
+    "5.842"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.21373"
+      ], 
+      [
+        "space heater", 
+        "0.09761"
+      ], 
+      [
+        "refrigerator", 
+        "0.06779"
+      ], 
+      [
+        "envelope", 
+        "0.06023"
+      ], 
+      [
+        "radiator", 
+        "0.04896"
+      ]
+    ], 
+    [
+      [
+        "furnishing", 
+        "0.27938"
+      ], 
+      [
+        "protective covering", 
+        "0.27225"
+      ], 
+      [
+        "covering", 
+        "0.27130"
+      ], 
+      [
+        "furniture", 
+        "0.26619"
+      ], 
+      [
+        "device", 
+        "0.24760"
+      ]
+    ], 
+    "13.756"
+  ]
+}

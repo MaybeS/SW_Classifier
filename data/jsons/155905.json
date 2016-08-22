@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.31684"
+      ], 
+      [
+        "scoreboard", 
+        "0.11436"
+      ], 
+      [
+        "digital clock", 
+        "0.07404"
+      ], 
+      [
+        "crossword puzzle", 
+        "0.03298"
+      ], 
+      [
+        "book jacket", 
+        "0.03010"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "1.26403"
+      ], 
+      [
+        "computer", 
+        "0.95630"
+      ], 
+      [
+        "machine", 
+        "0.80110"
+      ], 
+      [
+        "device", 
+        "0.40599"
+      ], 
+      [
+        "scoreboard", 
+        "0.37831"
+      ]
+    ], 
+    "7.111"
+  ]
+}

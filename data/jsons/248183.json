@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "packet", 
+        "0.06971"
+      ], 
+      [
+        "hand-held computer", 
+        "0.05806"
+      ], 
+      [
+        "web site", 
+        "0.03974"
+      ], 
+      [
+        "remote control", 
+        "0.03776"
+      ], 
+      [
+        "book jacket", 
+        "0.03122"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.30550"
+      ], 
+      [
+        "device", 
+        "0.29326"
+      ], 
+      [
+        "machine", 
+        "0.29235"
+      ], 
+      [
+        "covering", 
+        "0.28568"
+      ], 
+      [
+        "consumer goods", 
+        "0.24283"
+      ]
+    ], 
+    "9.048"
+  ]
+}

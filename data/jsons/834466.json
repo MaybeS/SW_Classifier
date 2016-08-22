@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.08891"
+      ], 
+      [
+        "bathing cap", 
+        "0.07133"
+      ], 
+      [
+        "sweatshirt", 
+        "0.06377"
+      ], 
+      [
+        "miniskirt", 
+        "0.05899"
+      ], 
+      [
+        "shower cap", 
+        "0.03707"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.67162"
+      ], 
+      [
+        "consumer goods", 
+        "0.62197"
+      ], 
+      [
+        "commodity", 
+        "0.59327"
+      ], 
+      [
+        "covering", 
+        "0.57412"
+      ], 
+      [
+        "garment", 
+        "0.55387"
+      ]
+    ], 
+    "4.848"
+  ]
+}

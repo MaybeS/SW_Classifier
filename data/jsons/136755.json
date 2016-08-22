@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.52268"
+      ], 
+      [
+        "microphone", 
+        "0.06755"
+      ], 
+      [
+        "reflex camera", 
+        "0.04253"
+      ], 
+      [
+        "power drill", 
+        "0.04053"
+      ], 
+      [
+        "reel", 
+        "0.04041"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36278"
+      ], 
+      [
+        "spotlight", 
+        "0.26495"
+      ], 
+      [
+        "equipment", 
+        "0.26329"
+      ], 
+      [
+        "container", 
+        "0.25160"
+      ], 
+      [
+        "source of illumination", 
+        "0.24482"
+      ]
+    ], 
+    "5.205"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.30041"
+      ], 
+      [
+        "modem", 
+        "0.23983"
+      ], 
+      [
+        "rule", 
+        "0.14246"
+      ], 
+      [
+        "radio", 
+        "0.10113"
+      ], 
+      [
+        "switch", 
+        "0.08231"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.58285"
+      ], 
+      [
+        "digital clock", 
+        "0.48079"
+      ], 
+      [
+        "timepiece", 
+        "0.47162"
+      ], 
+      [
+        "instrument", 
+        "0.46779"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46302"
+      ]
+    ], 
+    "12.628"
+  ]
+}

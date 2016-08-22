@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.49547"
+      ], 
+      [
+        "slot", 
+        "0.31914"
+      ], 
+      [
+        "web site", 
+        "0.04334"
+      ], 
+      [
+        "vending machine", 
+        "0.03608"
+      ], 
+      [
+        "hand-held computer", 
+        "0.02379"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "1.43417"
+      ], 
+      [
+        "slot machine", 
+        "1.36054"
+      ], 
+      [
+        "slot", 
+        "1.21223"
+      ], 
+      [
+        "cash machine", 
+        "0.71354"
+      ], 
+      [
+        "device", 
+        "0.55289"
+      ]
+    ], 
+    "5.878"
+  ]
+}

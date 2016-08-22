@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "packet", 
+        "0.21972"
+      ], 
+      [
+        "wallet", 
+        "0.12159"
+      ], 
+      [
+        "comic book", 
+        "0.06942"
+      ], 
+      [
+        "magnetic compass", 
+        "0.05095"
+      ], 
+      [
+        "hard disc", 
+        "0.03965"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.34037"
+      ], 
+      [
+        "device", 
+        "0.27481"
+      ], 
+      [
+        "instrument", 
+        "0.24278"
+      ], 
+      [
+        "measuring instrument", 
+        "0.22095"
+      ], 
+      [
+        "covering", 
+        "0.21931"
+      ]
+    ], 
+    "7.203"
+  ]
+}

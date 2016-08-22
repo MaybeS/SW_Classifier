@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.63037"
+      ], 
+      [
+        "switch", 
+        "0.14388"
+      ], 
+      [
+        "reflex camera", 
+        "0.05123"
+      ], 
+      [
+        "joystick", 
+        "0.04953"
+      ], 
+      [
+        "spotlight", 
+        "0.02131"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.94701"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.85398"
+      ], 
+      [
+        "transducer", 
+        "0.83978"
+      ], 
+      [
+        "electrical device", 
+        "0.82558"
+      ], 
+      [
+        "device", 
+        "0.45112"
+      ]
+    ], 
+    "7.004"
+  ]
+}

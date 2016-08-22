@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.36492"
+      ], 
+      [
+        "lighter", 
+        "0.27434"
+      ], 
+      [
+        "ballpoint", 
+        "0.06523"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05444"
+      ], 
+      [
+        "binder", 
+        "0.04540"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.41489"
+      ], 
+      [
+        "device", 
+        "0.30604"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.23912"
+      ], 
+      [
+        "sharpener", 
+        "0.23561"
+      ], 
+      [
+        "lighter", 
+        "0.22996"
+      ]
+    ], 
+    "8.873"
+  ]
+}

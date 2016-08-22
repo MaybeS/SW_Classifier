@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sunglass", 
+        "0.22781"
+      ], 
+      [
+        "sleeping bag", 
+        "0.16677"
+      ], 
+      [
+        "loupe", 
+        "0.04638"
+      ], 
+      [
+        "sunglasses", 
+        "0.04341"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04290"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.32460"
+      ], 
+      [
+        "consumer goods", 
+        "0.28542"
+      ], 
+      [
+        "clothing", 
+        "0.28225"
+      ], 
+      [
+        "device", 
+        "0.27768"
+      ], 
+      [
+        "commodity", 
+        "0.27500"
+      ]
+    ], 
+    "13.310"
+  ]
+}

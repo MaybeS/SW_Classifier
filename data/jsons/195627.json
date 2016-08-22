@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "solar dish", 
+        "0.12567"
+      ], 
+      [
+        "hourglass", 
+        "0.07756"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.07364"
+      ], 
+      [
+        "scale", 
+        "0.04446"
+      ], 
+      [
+        "recreational vehicle", 
+        "0.04332"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.31028"
+      ], 
+      [
+        "device", 
+        "0.28401"
+      ], 
+      [
+        "instrument", 
+        "0.24441"
+      ], 
+      [
+        "hourglass", 
+        "0.24241"
+      ], 
+      [
+        "sandglass", 
+        "0.23885"
+      ]
+    ], 
+    "6.364"
+  ]
+}

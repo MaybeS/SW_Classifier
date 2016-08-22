@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "brassiere", 
+        "0.98725"
+      ], 
+      [
+        "maillot", 
+        "0.00468"
+      ], 
+      [
+        "breastplate", 
+        "0.00459"
+      ], 
+      [
+        "cuirass", 
+        "0.00155"
+      ], 
+      [
+        "maillot", 
+        "0.00077"
+      ]
+    ], 
+    [
+      [
+        "brassiere", 
+        "1.46319"
+      ], 
+      [
+        "undergarment", 
+        "1.44170"
+      ], 
+      [
+        "woman's clothing", 
+        "1.32675"
+      ], 
+      [
+        "garment", 
+        "1.14117"
+      ], 
+      [
+        "clothing", 
+        "1.10715"
+      ]
+    ], 
+    "7.781"
+  ]
+}

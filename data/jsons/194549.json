@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.35788"
+      ], 
+      [
+        "rubber eraser", 
+        "0.16608"
+      ], 
+      [
+        "chain saw", 
+        "0.08579"
+      ], 
+      [
+        "street sign", 
+        "0.06256"
+      ], 
+      [
+        "hook", 
+        "0.06011"
+      ]
+    ], 
+    [
+      [
+        "rule", 
+        "0.46618"
+      ], 
+      [
+        "measuring stick", 
+        "0.45933"
+      ], 
+      [
+        "implement", 
+        "0.42767"
+      ], 
+      [
+        "measuring instrument", 
+        "0.36153"
+      ], 
+      [
+        "device", 
+        "0.34668"
+      ]
+    ], 
+    "5.622"
+  ]
+}

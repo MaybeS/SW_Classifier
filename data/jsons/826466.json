@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mountain bike", 
+        "0.27733"
+      ], 
+      [
+        "unicycle", 
+        "0.13058"
+      ], 
+      [
+        "comic book", 
+        "0.07132"
+      ], 
+      [
+        "bicycle-built-for-two", 
+        "0.04171"
+      ], 
+      [
+        "book jacket", 
+        "0.03644"
+      ]
+    ], 
+    [
+      [
+        "bicycle", 
+        "0.83824"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.71317"
+      ], 
+      [
+        "mountain bike", 
+        "0.66361"
+      ], 
+      [
+        "vehicle", 
+        "0.60344"
+      ], 
+      [
+        "conveyance", 
+        "0.56183"
+      ]
+    ], 
+    "5.769"
+  ]
+}

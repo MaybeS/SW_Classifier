@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.30278"
+      ], 
+      [
+        "book jacket", 
+        "0.15714"
+      ], 
+      [
+        "remote control", 
+        "0.12432"
+      ], 
+      [
+        "harmonica", 
+        "0.08001"
+      ], 
+      [
+        "hard disc", 
+        "0.05791"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.48282"
+      ], 
+      [
+        "equipment", 
+        "0.41634"
+      ], 
+      [
+        "device", 
+        "0.36581"
+      ], 
+      [
+        "modem", 
+        "0.30772"
+      ], 
+      [
+        "remote control", 
+        "0.26544"
+      ]
+    ], 
+    "7.586"
+  ]
+}

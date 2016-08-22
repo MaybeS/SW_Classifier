@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.31507"
+      ], 
+      [
+        "vending machine", 
+        "0.13576"
+      ], 
+      [
+        "packet", 
+        "0.06814"
+      ], 
+      [
+        "hair spray", 
+        "0.03817"
+      ], 
+      [
+        "can opener", 
+        "0.03163"
+      ]
+    ], 
+    [
+      [
+        "cellular telephone", 
+        "0.56577"
+      ], 
+      [
+        "radiotelephone", 
+        "0.55746"
+      ], 
+      [
+        "electronic equipment", 
+        "0.53249"
+      ], 
+      [
+        "telephone", 
+        "0.52554"
+      ], 
+      [
+        "machine", 
+        "0.48953"
+      ]
+    ], 
+    "5.688"
+  ]
+}

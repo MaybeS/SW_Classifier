@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.13719"
+      ], 
+      [
+        "slot", 
+        "0.10481"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08649"
+      ], 
+      [
+        "cassette player", 
+        "0.07851"
+      ], 
+      [
+        "tobacco shop", 
+        "0.06800"
+      ]
+    ], 
+    [
+      [
+        "slot machine", 
+        "0.44155"
+      ], 
+      [
+        "slot", 
+        "0.40245"
+      ], 
+      [
+        "machine", 
+        "0.39936"
+      ], 
+      [
+        "equipment", 
+        "0.35213"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34020"
+      ]
+    ], 
+    "5.204"
+  ]
+}

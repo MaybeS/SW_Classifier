@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.26448"
+      ], 
+      [
+        "can opener", 
+        "0.14098"
+      ], 
+      [
+        "space heater", 
+        "0.12450"
+      ], 
+      [
+        "washer", 
+        "0.09936"
+      ], 
+      [
+        "Crock Pot", 
+        "0.04822"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.54550"
+      ], 
+      [
+        "appliance", 
+        "0.53735"
+      ], 
+      [
+        "durables", 
+        "0.52337"
+      ], 
+      [
+        "toaster", 
+        "0.36859"
+      ], 
+      [
+        "consumer goods", 
+        "0.36710"
+      ]
+    ], 
+    "8.973"
+  ]
+}

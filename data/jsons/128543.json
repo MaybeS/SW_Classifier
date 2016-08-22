@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "computer keyboard", 
+        "0.82874"
+      ], 
+      [
+        "space bar", 
+        "0.11971"
+      ], 
+      [
+        "tile roof", 
+        "0.00892"
+      ], 
+      [
+        "waffle iron", 
+        "0.00841"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.00717"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "1.50814"
+      ], 
+      [
+        "computer keyboard", 
+        "1.33554"
+      ], 
+      [
+        "data input device", 
+        "1.20432"
+      ], 
+      [
+        "peripheral", 
+        "1.11721"
+      ], 
+      [
+        "electronic equipment", 
+        "0.90066"
+      ]
+    ], 
+    "6.461"
+  ]
+}

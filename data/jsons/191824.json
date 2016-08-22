@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.28902"
+      ], 
+      [
+        "switch", 
+        "0.16630"
+      ], 
+      [
+        "oil filter", 
+        "0.04731"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04386"
+      ], 
+      [
+        "combination lock", 
+        "0.03959"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.31621"
+      ], 
+      [
+        "device", 
+        "0.29055"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28629"
+      ], 
+      [
+        "equipment", 
+        "0.28146"
+      ], 
+      [
+        "toiletry", 
+        "0.23133"
+      ]
+    ], 
+    "6.171"
+  ]
+}

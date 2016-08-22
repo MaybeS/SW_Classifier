@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sleeping bag", 
+        "0.47430"
+      ], 
+      [
+        "sweatshirt", 
+        "0.23536"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.10641"
+      ], 
+      [
+        "abaya", 
+        "0.02582"
+      ], 
+      [
+        "cloak", 
+        "0.02411"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.71834"
+      ], 
+      [
+        "garment", 
+        "0.70282"
+      ], 
+      [
+        "sleeping bag", 
+        "0.68090"
+      ], 
+      [
+        "covering", 
+        "0.67031"
+      ], 
+      [
+        "consumer goods", 
+        "0.63817"
+      ]
+    ], 
+    "6.888"
+  ]
+}

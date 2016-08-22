@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.28540"
+      ], 
+      [
+        "microwave", 
+        "0.23039"
+      ], 
+      [
+        "safe", 
+        "0.13741"
+      ], 
+      [
+        "digital clock", 
+        "0.13665"
+      ], 
+      [
+        "monitor", 
+        "0.02700"
+      ]
+    ], 
+    [
+      [
+        "oscilloscope", 
+        "0.91257"
+      ], 
+      [
+        "electronic equipment", 
+        "0.76713"
+      ], 
+      [
+        "equipment", 
+        "0.58434"
+      ], 
+      [
+        "safe", 
+        "0.41697"
+      ], 
+      [
+        "strongbox", 
+        "0.41084"
+      ]
+    ], 
+    "7.442"
+  ]
+}

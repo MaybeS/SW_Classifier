@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.18325"
+      ], 
+      [
+        "refrigerator", 
+        "0.14045"
+      ], 
+      [
+        "carton", 
+        "0.12007"
+      ], 
+      [
+        "packet", 
+        "0.08807"
+      ], 
+      [
+        "lotion", 
+        "0.06215"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.32655"
+      ], 
+      [
+        "container", 
+        "0.32403"
+      ], 
+      [
+        "consumer goods", 
+        "0.24045"
+      ], 
+      [
+        "home appliance", 
+        "0.23693"
+      ], 
+      [
+        "white goods", 
+        "0.23574"
+      ]
+    ], 
+    "9.157"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Polaroid camera", 
+        "0.34408"
+      ], 
+      [
+        "modem", 
+        "0.20516"
+      ], 
+      [
+        "digital watch", 
+        "0.06410"
+      ], 
+      [
+        "switch", 
+        "0.05059"
+      ], 
+      [
+        "radio", 
+        "0.04681"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.89548"
+      ], 
+      [
+        "photographic equipment", 
+        "0.88059"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.85316"
+      ], 
+      [
+        "equipment", 
+        "0.76695"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43245"
+      ]
+    ], 
+    "7.534"
+  ]
+}

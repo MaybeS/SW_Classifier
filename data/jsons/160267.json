@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.47223"
+      ], 
+      [
+        "loudspeaker", 
+        "0.31169"
+      ], 
+      [
+        "loupe", 
+        "0.05331"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02148"
+      ], 
+      [
+        "radio", 
+        "0.01924"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.62692"
+      ], 
+      [
+        "optical instrument", 
+        "0.53411"
+      ], 
+      [
+        "loudspeaker", 
+        "0.48791"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.45033"
+      ], 
+      [
+        "transducer", 
+        "0.44284"
+      ]
+    ], 
+    "6.301"
+  ]
+}

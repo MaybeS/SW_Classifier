@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.28675"
+      ], 
+      [
+        "broccoli", 
+        "0.13418"
+      ], 
+      [
+        "hand blower", 
+        "0.06689"
+      ], 
+      [
+        "mailbox", 
+        "0.06374"
+      ], 
+      [
+        "thresher", 
+        "0.04852"
+      ]
+    ], 
+    [
+      [
+        "broccoli", 
+        "0.49505"
+      ], 
+      [
+        "cruciferous vegetable", 
+        "0.48862"
+      ], 
+      [
+        "vegetable", 
+        "0.42615"
+      ], 
+      [
+        "produce", 
+        "0.40048"
+      ], 
+      [
+        "food", 
+        "0.37713"
+      ]
+    ], 
+    "6.387"
+  ]
+}

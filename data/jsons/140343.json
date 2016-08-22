@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.15288"
+      ], 
+      [
+        "binder", 
+        "0.13073"
+      ], 
+      [
+        "medicine chest", 
+        "0.04247"
+      ], 
+      [
+        "modem", 
+        "0.03501"
+      ], 
+      [
+        "microwave", 
+        "0.03286"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.28120"
+      ], 
+      [
+        "furnishing", 
+        "0.22869"
+      ], 
+      [
+        "covering", 
+        "0.22461"
+      ], 
+      [
+        "device", 
+        "0.22449"
+      ], 
+      [
+        "consumer goods", 
+        "0.21722"
+      ]
+    ], 
+    "5.754"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.79856"
+      ], 
+      [
+        "comic book", 
+        "0.07747"
+      ], 
+      [
+        "assault rifle", 
+        "0.03937"
+      ], 
+      [
+        "rifle", 
+        "0.03368"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.00384"
+      ]
+    ], 
+    [
+      [
+        "book jacket", 
+        "1.09494"
+      ], 
+      [
+        "jacket", 
+        "1.07886"
+      ], 
+      [
+        "wrapping", 
+        "1.06277"
+      ], 
+      [
+        "covering", 
+        "0.49143"
+      ], 
+      [
+        "comic book", 
+        "0.36948"
+      ]
+    ], 
+    "5.533"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.54069"
+      ], 
+      [
+        "radio", 
+        "0.45435"
+      ], 
+      [
+        "digital clock", 
+        "0.00135"
+      ], 
+      [
+        "microphone", 
+        "0.00099"
+      ], 
+      [
+        "CD player", 
+        "0.00076"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.82894"
+      ], 
+      [
+        "equipment", 
+        "0.68766"
+      ], 
+      [
+        "modem", 
+        "0.52884"
+      ], 
+      [
+        "radio", 
+        "0.42871"
+      ], 
+      [
+        "communication system", 
+        "0.39115"
+      ]
+    ], 
+    "10.558"
+  ]
+}

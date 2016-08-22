@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.75120"
+      ], 
+      [
+        "modem", 
+        "0.10834"
+      ], 
+      [
+        "radio", 
+        "0.05416"
+      ], 
+      [
+        "switch", 
+        "0.01433"
+      ], 
+      [
+        "projector", 
+        "0.01249"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.56266"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.52052"
+      ], 
+      [
+        "transducer", 
+        "0.51187"
+      ], 
+      [
+        "electrical device", 
+        "0.50321"
+      ], 
+      [
+        "device", 
+        "0.41860"
+      ]
+    ], 
+    "7.460"
+  ]
+}

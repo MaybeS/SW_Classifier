@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.34215"
+      ], 
+      [
+        "radio", 
+        "0.12154"
+      ], 
+      [
+        "stove", 
+        "0.07137"
+      ], 
+      [
+        "desk", 
+        "0.06094"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05263"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.46670"
+      ], 
+      [
+        "equipment", 
+        "0.43714"
+      ], 
+      [
+        "optical instrument", 
+        "0.40013"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37119"
+      ], 
+      [
+        "device", 
+        "0.35514"
+      ]
+    ], 
+    "10.252"
+  ]
+}

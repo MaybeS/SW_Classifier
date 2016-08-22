@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crash helmet", 
+        "0.18584"
+      ], 
+      [
+        "punching bag", 
+        "0.17678"
+      ], 
+      [
+        "knee pad", 
+        "0.12529"
+      ], 
+      [
+        "water bottle", 
+        "0.12403"
+      ], 
+      [
+        "pop bottle", 
+        "0.07234"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.54924"
+      ], 
+      [
+        "consumer goods", 
+        "0.50997"
+      ], 
+      [
+        "covering", 
+        "0.50330"
+      ], 
+      [
+        "commodity", 
+        "0.48273"
+      ], 
+      [
+        "crash helmet", 
+        "0.43813"
+      ]
+    ], 
+    "5.721"
+  ]
+}

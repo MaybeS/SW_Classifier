@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.50486"
+      ], 
+      [
+        "oil filter", 
+        "0.07718"
+      ], 
+      [
+        "spotlight", 
+        "0.06800"
+      ], 
+      [
+        "reel", 
+        "0.03714"
+      ], 
+      [
+        "power drill", 
+        "0.03404"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40786"
+      ], 
+      [
+        "microphone", 
+        "0.38993"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.36476"
+      ], 
+      [
+        "transducer", 
+        "0.35869"
+      ], 
+      [
+        "electrical device", 
+        "0.35263"
+      ]
+    ], 
+    "6.552"
+  ]
+}

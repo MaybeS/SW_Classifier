@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.17161"
+      ], 
+      [
+        "crash helmet", 
+        "0.09885"
+      ], 
+      [
+        "table lamp", 
+        "0.09024"
+      ], 
+      [
+        "saltshaker", 
+        "0.07850"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07173"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.32554"
+      ], 
+      [
+        "container", 
+        "0.30715"
+      ], 
+      [
+        "consumer goods", 
+        "0.26730"
+      ], 
+      [
+        "commodity", 
+        "0.25442"
+      ], 
+      [
+        "clothing", 
+        "0.25102"
+      ]
+    ], 
+    "10.900"
+  ]
+}

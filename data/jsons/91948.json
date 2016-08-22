@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.49047"
+      ], 
+      [
+        "modem", 
+        "0.19368"
+      ], 
+      [
+        "loudspeaker", 
+        "0.07348"
+      ], 
+      [
+        "microwave", 
+        "0.03452"
+      ], 
+      [
+        "combination lock", 
+        "0.02803"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.74564"
+      ], 
+      [
+        "digital computer", 
+        "0.73136"
+      ], 
+      [
+        "computer", 
+        "0.67807"
+      ], 
+      [
+        "machine", 
+        "0.62394"
+      ], 
+      [
+        "desktop computer", 
+        "0.61254"
+      ]
+    ], 
+    "7.145"
+  ]
+}

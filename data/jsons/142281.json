@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.68532"
+      ], 
+      [
+        "desk", 
+        "0.04854"
+      ], 
+      [
+        "lab coat", 
+        "0.02788"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.02325"
+      ], 
+      [
+        "cradle", 
+        "0.01514"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.48528"
+      ], 
+      [
+        "vehicle", 
+        "0.44134"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.41907"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.34552"
+      ], 
+      [
+        "container", 
+        "0.33508"
+      ]
+    ], 
+    "5.581"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.38005"
+      ], 
+      [
+        "mousetrap", 
+        "0.13047"
+      ], 
+      [
+        "screen", 
+        "0.10022"
+      ], 
+      [
+        "microwave", 
+        "0.06471"
+      ], 
+      [
+        "medicine chest", 
+        "0.03239"
+      ]
+    ], 
+    [
+      [
+        "television", 
+        "0.60016"
+      ], 
+      [
+        "telecommunication system", 
+        "0.59135"
+      ], 
+      [
+        "communication system", 
+        "0.53659"
+      ], 
+      [
+        "system", 
+        "0.46887"
+      ], 
+      [
+        "screen", 
+        "0.35624"
+      ]
+    ], 
+    "6.476"
+  ]
+}

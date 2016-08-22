@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.17624"
+      ], 
+      [
+        "book jacket", 
+        "0.10303"
+      ], 
+      [
+        "punching bag", 
+        "0.07502"
+      ], 
+      [
+        "refrigerator", 
+        "0.03964"
+      ], 
+      [
+        "perfume", 
+        "0.03947"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.32133"
+      ], 
+      [
+        "container", 
+        "0.25569"
+      ], 
+      [
+        "consumer goods", 
+        "0.24314"
+      ], 
+      [
+        "commodity", 
+        "0.23220"
+      ], 
+      [
+        "toiletry", 
+        "0.22845"
+      ]
+    ], 
+    "11.926"
+  ]
+}

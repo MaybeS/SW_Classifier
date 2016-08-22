@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "snowplow", 
+        "0.36537"
+      ], 
+      [
+        "trailer truck", 
+        "0.05859"
+      ], 
+      [
+        "crane", 
+        "0.05587"
+      ], 
+      [
+        "radio", 
+        "0.05021"
+      ], 
+      [
+        "forklift", 
+        "0.04111"
+      ]
+    ], 
+    [
+      [
+        "snowplow", 
+        "1.15672"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "1.12647"
+      ], 
+      [
+        "wheeled vehicle", 
+        "1.05695"
+      ], 
+      [
+        "motor vehicle", 
+        "1.00920"
+      ], 
+      [
+        "vehicle", 
+        "0.93757"
+      ]
+    ], 
+    "10.518"
+  ]
+}

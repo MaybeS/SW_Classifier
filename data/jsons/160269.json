@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.24972"
+      ], 
+      [
+        "reflex camera", 
+        "0.24201"
+      ], 
+      [
+        "lens cap", 
+        "0.10565"
+      ], 
+      [
+        "radio", 
+        "0.08428"
+      ], 
+      [
+        "magnetic compass", 
+        "0.06757"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.65326"
+      ], 
+      [
+        "photographic equipment", 
+        "0.64240"
+      ], 
+      [
+        "reflex camera", 
+        "0.59557"
+      ], 
+      [
+        "equipment", 
+        "0.51181"
+      ], 
+      [
+        "instrument", 
+        "0.40021"
+      ]
+    ], 
+    "5.540"
+  ]
+}

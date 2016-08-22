@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.84400"
+      ], 
+      [
+        "wall clock", 
+        "0.06557"
+      ], 
+      [
+        "stopwatch", 
+        "0.03306"
+      ], 
+      [
+        "digital watch", 
+        "0.03139"
+      ], 
+      [
+        "magnetic compass", 
+        "0.01159"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "1.82289"
+      ], 
+      [
+        "timepiece", 
+        "1.74387"
+      ], 
+      [
+        "clock", 
+        "1.69055"
+      ], 
+      [
+        "analog clock", 
+        "1.39849"
+      ], 
+      [
+        "instrument", 
+        "1.37341"
+      ]
+    ], 
+    "7.732"
+  ]
+}

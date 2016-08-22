@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.40942"
+      ], 
+      [
+        "printer", 
+        "0.12974"
+      ], 
+      [
+        "refrigerator", 
+        "0.10300"
+      ], 
+      [
+        "washer", 
+        "0.09092"
+      ], 
+      [
+        "modem", 
+        "0.07267"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "0.48683"
+      ], 
+      [
+        "heater", 
+        "0.45598"
+      ], 
+      [
+        "home appliance", 
+        "0.44340"
+      ], 
+      [
+        "appliance", 
+        "0.43298"
+      ], 
+      [
+        "white goods", 
+        "0.42225"
+      ]
+    ], 
+    "6.445"
+  ]
+}

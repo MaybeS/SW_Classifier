@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "thimble", 
+        "0.51807"
+      ], 
+      [
+        "microphone", 
+        "0.36638"
+      ], 
+      [
+        "oil filter", 
+        "0.05588"
+      ], 
+      [
+        "spotlight", 
+        "0.03332"
+      ], 
+      [
+        "binoculars", 
+        "0.01707"
+      ]
+    ], 
+    [
+      [
+        "thimble", 
+        "1.03650"
+      ], 
+      [
+        "cap", 
+        "0.93448"
+      ], 
+      [
+        "protective covering", 
+        "0.57374"
+      ], 
+      [
+        "container", 
+        "0.46300"
+      ], 
+      [
+        "covering", 
+        "0.43887"
+      ]
+    ], 
+    "6.180"
+  ]
+}

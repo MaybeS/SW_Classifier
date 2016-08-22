@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.13766"
+      ], 
+      [
+        "binder", 
+        "0.08517"
+      ], 
+      [
+        "safe", 
+        "0.06670"
+      ], 
+      [
+        "refrigerator", 
+        "0.06082"
+      ], 
+      [
+        "medicine chest", 
+        "0.05262"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.32820"
+      ], 
+      [
+        "furnishing", 
+        "0.32159"
+      ], 
+      [
+        "machine", 
+        "0.30214"
+      ], 
+      [
+        "personal computer", 
+        "0.28292"
+      ], 
+      [
+        "digital computer", 
+        "0.27750"
+      ]
+    ], 
+    "6.375"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.25899"
+      ], 
+      [
+        "reflex camera", 
+        "0.20487"
+      ], 
+      [
+        "cassette player", 
+        "0.09391"
+      ], 
+      [
+        "switch", 
+        "0.07440"
+      ], 
+      [
+        "loupe", 
+        "0.06362"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.58278"
+      ], 
+      [
+        "photographic equipment", 
+        "0.57309"
+      ], 
+      [
+        "equipment", 
+        "0.50609"
+      ], 
+      [
+        "reflex camera", 
+        "0.48883"
+      ], 
+      [
+        "oil filter", 
+        "0.37094"
+      ]
+    ], 
+    "5.721"
+  ]
+}

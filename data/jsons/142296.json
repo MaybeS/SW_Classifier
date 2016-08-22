@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wardrobe", 
+        "0.46271"
+      ], 
+      [
+        "medicine chest", 
+        "0.22145"
+      ], 
+      [
+        "bookcase", 
+        "0.04759"
+      ], 
+      [
+        "lotion", 
+        "0.01860"
+      ], 
+      [
+        "sliding door", 
+        "0.01814"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "1.25985"
+      ], 
+      [
+        "furnishing", 
+        "1.20849"
+      ], 
+      [
+        "wardrobe", 
+        "0.90470"
+      ], 
+      [
+        "cabinet", 
+        "0.53322"
+      ], 
+      [
+        "chiffonier", 
+        "0.50513"
+      ]
+    ], 
+    "9.683"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.55013"
+      ], 
+      [
+        "scoreboard", 
+        "0.39449"
+      ], 
+      [
+        "modem", 
+        "0.01058"
+      ], 
+      [
+        "analog clock", 
+        "0.00767"
+      ], 
+      [
+        "digital watch", 
+        "0.00530"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "1.23368"
+      ], 
+      [
+        "board", 
+        "1.21556"
+      ], 
+      [
+        "signboard", 
+        "1.21556"
+      ], 
+      [
+        "sheet", 
+        "1.06217"
+      ], 
+      [
+        "digital clock", 
+        "0.82172"
+      ]
+    ], 
+    "10.402"
+  ]
+}

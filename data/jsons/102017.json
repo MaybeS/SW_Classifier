@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.15539"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08850"
+      ], 
+      [
+        "binoculars", 
+        "0.08841"
+      ], 
+      [
+        "joystick", 
+        "0.08270"
+      ], 
+      [
+        "binder", 
+        "0.06952"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.41429"
+      ], 
+      [
+        "device", 
+        "0.37682"
+      ], 
+      [
+        "electronic equipment", 
+        "0.36273"
+      ], 
+      [
+        "personal computer", 
+        "0.33042"
+      ], 
+      [
+        "machine", 
+        "0.32896"
+      ]
+    ], 
+    "7.353"
+  ]
+}

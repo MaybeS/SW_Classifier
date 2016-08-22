@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "amphibian", 
+        "0.19955"
+      ], 
+      [
+        "tank", 
+        "0.11637"
+      ], 
+      [
+        "convertible", 
+        "0.11097"
+      ], 
+      [
+        "stove", 
+        "0.09001"
+      ], 
+      [
+        "joystick", 
+        "0.06429"
+      ]
+    ], 
+    [
+      [
+        "self-propelled vehicle", 
+        "0.95973"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.85748"
+      ], 
+      [
+        "motor vehicle", 
+        "0.74675"
+      ], 
+      [
+        "vehicle", 
+        "0.74217"
+      ], 
+      [
+        "conveyance", 
+        "0.69621"
+      ]
+    ], 
+    "10.042"
+  ]
+}

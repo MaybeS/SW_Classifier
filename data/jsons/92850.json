@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.54818"
+      ], 
+      [
+        "hard disc", 
+        "0.12275"
+      ], 
+      [
+        "wallet", 
+        "0.06472"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.05633"
+      ], 
+      [
+        "binder", 
+        "0.04585"
+      ]
+    ], 
+    [
+      [
+        "cassette", 
+        "0.70778"
+      ], 
+      [
+        "container", 
+        "0.44706"
+      ], 
+      [
+        "equipment", 
+        "0.37402"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37245"
+      ], 
+      [
+        "hard disc", 
+        "0.26433"
+      ]
+    ], 
+    "6.691"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.27126"
+      ], 
+      [
+        "espresso maker", 
+        "0.12857"
+      ], 
+      [
+        "toaster", 
+        "0.08096"
+      ], 
+      [
+        "perfume", 
+        "0.04491"
+      ], 
+      [
+        "spotlight", 
+        "0.03354"
+      ]
+    ], 
+    [
+      [
+        "kitchen appliance", 
+        "0.68729"
+      ], 
+      [
+        "home appliance", 
+        "0.65365"
+      ], 
+      [
+        "appliance", 
+        "0.63943"
+      ], 
+      [
+        "durables", 
+        "0.62279"
+      ], 
+      [
+        "waffle iron", 
+        "0.52927"
+      ]
+    ], 
+    "8.384"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.31361"
+      ], 
+      [
+        "cellular telephone", 
+        "0.26563"
+      ], 
+      [
+        "web site", 
+        "0.09855"
+      ], 
+      [
+        "scoreboard", 
+        "0.04777"
+      ], 
+      [
+        "pay-phone", 
+        "0.04749"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.77825"
+      ], 
+      [
+        "electronic equipment", 
+        "0.62012"
+      ], 
+      [
+        "telephone", 
+        "0.58145"
+      ], 
+      [
+        "computer", 
+        "0.50257"
+      ], 
+      [
+        "equipment", 
+        "0.48876"
+      ]
+    ], 
+    "6.021"
+  ]
+}

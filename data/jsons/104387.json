@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.30972"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.16222"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.15344"
+      ], 
+      [
+        "switch", 
+        "0.06825"
+      ], 
+      [
+        "sewing machine", 
+        "0.06628"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.51102"
+      ], 
+      [
+        "appliance", 
+        "0.50298"
+      ], 
+      [
+        "durables", 
+        "0.48989"
+      ], 
+      [
+        "camera", 
+        "0.45030"
+      ], 
+      [
+        "photographic equipment", 
+        "0.44281"
+      ]
+    ], 
+    "9.564"
+  ]
+}

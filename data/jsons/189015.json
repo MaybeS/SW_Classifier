@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.80719"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03106"
+      ], 
+      [
+        "mouse", 
+        "0.02106"
+      ], 
+      [
+        "hard disc", 
+        "0.01621"
+      ], 
+      [
+        "can opener", 
+        "0.01321"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.84522"
+      ], 
+      [
+        "modem", 
+        "0.74202"
+      ], 
+      [
+        "equipment", 
+        "0.68819"
+      ], 
+      [
+        "device", 
+        "0.35951"
+      ], 
+      [
+        "machine", 
+        "0.33609"
+      ]
+    ], 
+    "6.475"
+  ]
+}

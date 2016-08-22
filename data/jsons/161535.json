@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.26698"
+      ], 
+      [
+        "scoreboard", 
+        "0.26659"
+      ], 
+      [
+        "cash machine", 
+        "0.18506"
+      ], 
+      [
+        "barbershop", 
+        "0.01980"
+      ], 
+      [
+        "wall clock", 
+        "0.01912"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "0.83734"
+      ], 
+      [
+        "board", 
+        "0.82504"
+      ], 
+      [
+        "signboard", 
+        "0.82504"
+      ], 
+      [
+        "sheet", 
+        "0.71918"
+      ], 
+      [
+        "structure", 
+        "0.49814"
+      ]
+    ], 
+    "5.367"
+  ]
+}

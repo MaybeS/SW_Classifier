@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.11635"
+      ], 
+      [
+        "switch", 
+        "0.09892"
+      ], 
+      [
+        "laptop", 
+        "0.08264"
+      ], 
+      [
+        "joystick", 
+        "0.04720"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04682"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32400"
+      ], 
+      [
+        "equipment", 
+        "0.30789"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27970"
+      ], 
+      [
+        "machine", 
+        "0.26065"
+      ], 
+      [
+        "personal computer", 
+        "0.25044"
+      ]
+    ], 
+    "6.306"
+  ]
+}

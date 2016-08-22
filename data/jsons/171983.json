@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oboe", 
+        "0.42202"
+      ], 
+      [
+        "bassoon", 
+        "0.17991"
+      ], 
+      [
+        "syringe", 
+        "0.11413"
+      ], 
+      [
+        "flute", 
+        "0.07537"
+      ], 
+      [
+        "lipstick", 
+        "0.03950"
+      ]
+    ], 
+    [
+      [
+        "woodwind", 
+        "1.25761"
+      ], 
+      [
+        "beating-reed instrument", 
+        "1.17683"
+      ], 
+      [
+        "wind instrument", 
+        "1.13926"
+      ], 
+      [
+        "double-reed instrument", 
+        "1.10614"
+      ], 
+      [
+        "musical instrument", 
+        "1.06565"
+      ]
+    ], 
+    "6.249"
+  ]
+}

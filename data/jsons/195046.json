@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.85519"
+      ], 
+      [
+        "stove", 
+        "0.04261"
+      ], 
+      [
+        "coffeepot", 
+        "0.01797"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.01716"
+      ], 
+      [
+        "espresso maker", 
+        "0.01047"
+      ]
+    ], 
+    [
+      [
+        "toaster", 
+        "1.11418"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.99826"
+      ], 
+      [
+        "home appliance", 
+        "0.97570"
+      ], 
+      [
+        "appliance", 
+        "0.94423"
+      ], 
+      [
+        "durables", 
+        "0.91966"
+      ]
+    ], 
+    "7.383"
+  ]
+}

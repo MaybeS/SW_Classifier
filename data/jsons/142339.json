@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wardrobe", 
+        "0.23187"
+      ], 
+      [
+        "cash machine", 
+        "0.12655"
+      ], 
+      [
+        "pay-phone", 
+        "0.09367"
+      ], 
+      [
+        "medicine chest", 
+        "0.07485"
+      ], 
+      [
+        "switch", 
+        "0.03060"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.60983"
+      ], 
+      [
+        "furnishing", 
+        "0.58959"
+      ], 
+      [
+        "wardrobe", 
+        "0.44926"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26556"
+      ], 
+      [
+        "machine", 
+        "0.25735"
+      ]
+    ], 
+    "10.399"
+  ]
+}

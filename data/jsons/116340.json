@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reel", 
+        "0.37225"
+      ], 
+      [
+        "reflex camera", 
+        "0.19720"
+      ], 
+      [
+        "oxygen mask", 
+        "0.08582"
+      ], 
+      [
+        "gasmask", 
+        "0.07262"
+      ], 
+      [
+        "binoculars", 
+        "0.05809"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.49900"
+      ], 
+      [
+        "photographic equipment", 
+        "0.49071"
+      ], 
+      [
+        "reflex camera", 
+        "0.47018"
+      ], 
+      [
+        "equipment", 
+        "0.37255"
+      ], 
+      [
+        "device", 
+        "0.34630"
+      ]
+    ], 
+    "6.911"
+  ]
+}

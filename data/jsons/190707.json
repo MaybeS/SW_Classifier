@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.11333"
+      ], 
+      [
+        "buckle", 
+        "0.06886"
+      ], 
+      [
+        "combination lock", 
+        "0.05918"
+      ], 
+      [
+        "trombone", 
+        "0.05459"
+      ], 
+      [
+        "lighter", 
+        "0.05376"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33355"
+      ], 
+      [
+        "implement", 
+        "0.28786"
+      ], 
+      [
+        "equipment", 
+        "0.23160"
+      ], 
+      [
+        "electronic equipment", 
+        "0.22628"
+      ], 
+      [
+        "container", 
+        "0.21818"
+      ]
+    ], 
+    "11.682"
+  ]
+}

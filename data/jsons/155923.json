@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.35094"
+      ], 
+      [
+        "space heater", 
+        "0.05711"
+      ], 
+      [
+        "modem", 
+        "0.05620"
+      ], 
+      [
+        "sunglass", 
+        "0.05441"
+      ], 
+      [
+        "microphone", 
+        "0.05243"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34693"
+      ], 
+      [
+        "equipment", 
+        "0.30757"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30619"
+      ], 
+      [
+        "consumer goods", 
+        "0.28939"
+      ], 
+      [
+        "commodity", 
+        "0.27506"
+      ]
+    ], 
+    "8.293"
+  ]
+}

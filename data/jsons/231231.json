@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.85627"
+      ], 
+      [
+        "joystick", 
+        "0.02181"
+      ], 
+      [
+        "digital watch", 
+        "0.01931"
+      ], 
+      [
+        "television", 
+        "0.01727"
+      ], 
+      [
+        "radio", 
+        "0.01306"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.98044"
+      ], 
+      [
+        "photographic equipment", 
+        "1.94752"
+      ], 
+      [
+        "reflex camera", 
+        "1.91491"
+      ], 
+      [
+        "equipment", 
+        "1.02588"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.32670"
+      ]
+    ], 
+    "5.376"
+  ]
+}

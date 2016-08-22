@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.19173"
+      ], 
+      [
+        "cellular telephone", 
+        "0.15875"
+      ], 
+      [
+        "web site", 
+        "0.15382"
+      ], 
+      [
+        "book jacket", 
+        "0.13570"
+      ], 
+      [
+        "hand-held computer", 
+        "0.13283"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.81896"
+      ], 
+      [
+        "machine", 
+        "0.71619"
+      ], 
+      [
+        "web site", 
+        "0.63871"
+      ], 
+      [
+        "scoreboard", 
+        "0.60882"
+      ], 
+      [
+        "signboard", 
+        "0.59988"
+      ]
+    ], 
+    "4.888"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.49616"
+      ], 
+      [
+        "switch", 
+        "0.14870"
+      ], 
+      [
+        "spotlight", 
+        "0.07312"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04232"
+      ], 
+      [
+        "oscilloscope", 
+        "0.03173"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.27026"
+      ], 
+      [
+        "photographic equipment", 
+        "1.24914"
+      ], 
+      [
+        "reflex camera", 
+        "1.13969"
+      ], 
+      [
+        "equipment", 
+        "0.76958"
+      ], 
+      [
+        "device", 
+        "0.33609"
+      ]
+    ], 
+    "5.315"
+  ]
+}

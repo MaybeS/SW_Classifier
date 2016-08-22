@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "photocopier", 
+        "0.14676"
+      ], 
+      [
+        "studio couch", 
+        "0.07929"
+      ], 
+      [
+        "printer", 
+        "0.07307"
+      ], 
+      [
+        "refrigerator", 
+        "0.06138"
+      ], 
+      [
+        "washer", 
+        "0.04897"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.43612"
+      ], 
+      [
+        "furnishing", 
+        "0.42113"
+      ], 
+      [
+        "photocopier", 
+        "0.41944"
+      ], 
+      [
+        "duplicator", 
+        "0.41328"
+      ], 
+      [
+        "apparatus", 
+        "0.40712"
+      ]
+    ], 
+    "5.763"
+  ]
+}

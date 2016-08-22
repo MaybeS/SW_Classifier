@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.09923"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.05919"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.05519"
+      ], 
+      [
+        "joystick", 
+        "0.05337"
+      ], 
+      [
+        "stethoscope", 
+        "0.04995"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.30130"
+      ], 
+      [
+        "appliance", 
+        "0.27798"
+      ], 
+      [
+        "device", 
+        "0.27642"
+      ], 
+      [
+        "home appliance", 
+        "0.27193"
+      ], 
+      [
+        "durables", 
+        "0.27075"
+      ]
+    ], 
+    "5.027"
+  ]
+}

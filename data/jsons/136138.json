@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.53061"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.12728"
+      ], 
+      [
+        "projector", 
+        "0.06450"
+      ], 
+      [
+        "sewing machine", 
+        "0.04542"
+      ], 
+      [
+        "modem", 
+        "0.02601"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.79202"
+      ], 
+      [
+        "coffee maker", 
+        "0.78038"
+      ], 
+      [
+        "home appliance", 
+        "0.64692"
+      ], 
+      [
+        "appliance", 
+        "0.63874"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.62268"
+      ]
+    ], 
+    "6.171"
+  ]
+}

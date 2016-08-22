@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.94642"
+      ], 
+      [
+        "loupe", 
+        "0.04310"
+      ], 
+      [
+        "binoculars", 
+        "0.00251"
+      ], 
+      [
+        "puck", 
+        "0.00232"
+      ], 
+      [
+        "reflex camera", 
+        "0.00133"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.39798"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.25264"
+      ], 
+      [
+        "transducer", 
+        "1.23181"
+      ], 
+      [
+        "electrical device", 
+        "1.21099"
+      ], 
+      [
+        "device", 
+        "0.48840"
+      ]
+    ], 
+    "7.389"
+  ]
+}

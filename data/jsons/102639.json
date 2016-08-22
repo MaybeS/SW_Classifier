@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric guitar", 
+        "0.26074"
+      ], 
+      [
+        "comic book", 
+        "0.23879"
+      ], 
+      [
+        "book jacket", 
+        "0.15990"
+      ], 
+      [
+        "torch", 
+        "0.06810"
+      ], 
+      [
+        "chain saw", 
+        "0.02236"
+      ]
+    ], 
+    [
+      [
+        "guitar", 
+        "0.48448"
+      ], 
+      [
+        "musical instrument", 
+        "0.45994"
+      ], 
+      [
+        "stringed instrument", 
+        "0.44848"
+      ], 
+      [
+        "comic book", 
+        "0.43868"
+      ], 
+      [
+        "magazine", 
+        "0.43224"
+      ]
+    ], 
+    "5.198"
+  ]
+}

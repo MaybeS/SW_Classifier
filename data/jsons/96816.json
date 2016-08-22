@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.62049"
+      ], 
+      [
+        "holster", 
+        "0.08832"
+      ], 
+      [
+        "hand blower", 
+        "0.05828"
+      ], 
+      [
+        "power drill", 
+        "0.04027"
+      ], 
+      [
+        "hook", 
+        "0.01544"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "0.72565"
+      ], 
+      [
+        "control", 
+        "0.67952"
+      ], 
+      [
+        "data input device", 
+        "0.67300"
+      ], 
+      [
+        "peripheral", 
+        "0.63567"
+      ], 
+      [
+        "electronic equipment", 
+        "0.57297"
+      ]
+    ], 
+    "5.134"
+  ]
+}

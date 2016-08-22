@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "trench coat", 
+        "0.30398"
+      ], 
+      [
+        "sweatshirt", 
+        "0.26058"
+      ], 
+      [
+        "suit", 
+        "0.06351"
+      ], 
+      [
+        "velvet", 
+        "0.06165"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.04247"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "1.20331"
+      ], 
+      [
+        "clothing", 
+        "1.15436"
+      ], 
+      [
+        "consumer goods", 
+        "1.00962"
+      ], 
+      [
+        "covering", 
+        "0.96486"
+      ], 
+      [
+        "commodity", 
+        "0.96122"
+      ]
+    ], 
+    "5.794"
+  ]
+}

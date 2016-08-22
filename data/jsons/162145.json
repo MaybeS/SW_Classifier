@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tray", 
+        "0.24577"
+      ], 
+      [
+        "notebook", 
+        "0.18245"
+      ], 
+      [
+        "laptop", 
+        "0.12319"
+      ], 
+      [
+        "binder", 
+        "0.10283"
+      ], 
+      [
+        "book jacket", 
+        "0.05156"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.49787"
+      ], 
+      [
+        "digital computer", 
+        "0.48833"
+      ], 
+      [
+        "portable computer", 
+        "0.47218"
+      ], 
+      [
+        "computer", 
+        "0.46772"
+      ], 
+      [
+        "machine", 
+        "0.41684"
+      ]
+    ], 
+    "6.763"
+  ]
+}

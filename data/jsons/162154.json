@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.42227"
+      ], 
+      [
+        "binder", 
+        "0.15566"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.07777"
+      ], 
+      [
+        "photocopier", 
+        "0.07143"
+      ], 
+      [
+        "scale", 
+        "0.06266"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.67240"
+      ], 
+      [
+        "electronic equipment", 
+        "0.58321"
+      ], 
+      [
+        "machine", 
+        "0.51616"
+      ], 
+      [
+        "printer", 
+        "0.47962"
+      ], 
+      [
+        "printer", 
+        "0.47257"
+      ]
+    ], 
+    "9.862"
+  ]
+}

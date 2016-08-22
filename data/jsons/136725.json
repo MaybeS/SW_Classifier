@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.18952"
+      ], 
+      [
+        "remote control", 
+        "0.16147"
+      ], 
+      [
+        "loupe", 
+        "0.13243"
+      ], 
+      [
+        "whistle", 
+        "0.07457"
+      ], 
+      [
+        "can opener", 
+        "0.06556"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.41445"
+      ], 
+      [
+        "equipment", 
+        "0.35014"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34260"
+      ], 
+      [
+        "remote control", 
+        "0.32812"
+      ], 
+      [
+        "control", 
+        "0.27517"
+      ]
+    ], 
+    "6.114"
+  ]
+}

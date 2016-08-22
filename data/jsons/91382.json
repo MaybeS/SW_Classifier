@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.17076"
+      ], 
+      [
+        "combination lock", 
+        "0.10253"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09069"
+      ], 
+      [
+        "dumbbell", 
+        "0.08504"
+      ], 
+      [
+        "whistle", 
+        "0.08306"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33621"
+      ], 
+      [
+        "implement", 
+        "0.32147"
+      ], 
+      [
+        "equipment", 
+        "0.32023"
+      ], 
+      [
+        "tool", 
+        "0.24463"
+      ], 
+      [
+        "fastener", 
+        "0.24101"
+      ]
+    ], 
+    "7.068"
+  ]
+}

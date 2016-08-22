@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.27653"
+      ], 
+      [
+        "pencil box", 
+        "0.17012"
+      ], 
+      [
+        "cellular telephone", 
+        "0.13727"
+      ], 
+      [
+        "iPod", 
+        "0.05148"
+      ], 
+      [
+        "scale", 
+        "0.03280"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.34540"
+      ], 
+      [
+        "device", 
+        "0.31537"
+      ], 
+      [
+        "equipment", 
+        "0.31044"
+      ], 
+      [
+        "container", 
+        "0.27966"
+      ], 
+      [
+        "cellular telephone", 
+        "0.27855"
+      ]
+    ], 
+    "7.921"
+  ]
+}

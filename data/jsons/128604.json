@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Polaroid camera", 
+        "0.52127"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.17279"
+      ], 
+      [
+        "switch", 
+        "0.09225"
+      ], 
+      [
+        "lighter", 
+        "0.06176"
+      ], 
+      [
+        "digital watch", 
+        "0.04538"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.26718"
+      ], 
+      [
+        "Polaroid camera", 
+        "1.24652"
+      ], 
+      [
+        "photographic equipment", 
+        "1.24611"
+      ], 
+      [
+        "equipment", 
+        "0.74404"
+      ], 
+      [
+        "device", 
+        "0.30325"
+      ]
+    ], 
+    "7.422"
+  ]
+}

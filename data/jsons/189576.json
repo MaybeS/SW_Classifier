@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.59273"
+      ], 
+      [
+        "projector", 
+        "0.29164"
+      ], 
+      [
+        "loudspeaker", 
+        "0.02491"
+      ], 
+      [
+        "space heater", 
+        "0.00988"
+      ], 
+      [
+        "puck", 
+        "0.00673"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.75678"
+      ], 
+      [
+        "equipment", 
+        "0.68213"
+      ], 
+      [
+        "CD player", 
+        "0.47995"
+      ], 
+      [
+        "projector", 
+        "0.42840"
+      ], 
+      [
+        "optical instrument", 
+        "0.36416"
+      ]
+    ], 
+    "7.742"
+  ]
+}

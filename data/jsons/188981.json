@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dishwasher", 
+        "0.12973"
+      ], 
+      [
+        "entertainment center", 
+        "0.08071"
+      ], 
+      [
+        "plate rack", 
+        "0.06599"
+      ], 
+      [
+        "monitor", 
+        "0.06578"
+      ], 
+      [
+        "stove", 
+        "0.05401"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.46654"
+      ], 
+      [
+        "furnishing", 
+        "0.44267"
+      ], 
+      [
+        "entertainment center", 
+        "0.35851"
+      ], 
+      [
+        "wall unit", 
+        "0.35325"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34395"
+      ]
+    ], 
+    "4.941"
+  ]
+}

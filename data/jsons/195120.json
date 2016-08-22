@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.33885"
+      ], 
+      [
+        "water jug", 
+        "0.15510"
+      ], 
+      [
+        "pitcher", 
+        "0.08742"
+      ], 
+      [
+        "coffeepot", 
+        "0.08449"
+      ], 
+      [
+        "potter's wheel", 
+        "0.07330"
+      ]
+    ], 
+    [
+      [
+        "vessel", 
+        "0.61376"
+      ], 
+      [
+        "espresso maker", 
+        "0.54654"
+      ], 
+      [
+        "coffee maker", 
+        "0.53851"
+      ], 
+      [
+        "home appliance", 
+        "0.48563"
+      ], 
+      [
+        "appliance", 
+        "0.47307"
+      ]
+    ], 
+    "8.604"
+  ]
+}

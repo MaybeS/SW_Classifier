@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.50653"
+      ], 
+      [
+        "reflex camera", 
+        "0.16070"
+      ], 
+      [
+        "stove", 
+        "0.11528"
+      ], 
+      [
+        "tape player", 
+        "0.04580"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02788"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.55157"
+      ], 
+      [
+        "control", 
+        "0.54171"
+      ], 
+      [
+        "camera", 
+        "0.48754"
+      ], 
+      [
+        "photographic equipment", 
+        "0.47943"
+      ], 
+      [
+        "equipment", 
+        "0.47190"
+      ]
+    ], 
+    "8.578"
+  ]
+}

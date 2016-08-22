@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.13886"
+      ], 
+      [
+        "joystick", 
+        "0.11587"
+      ], 
+      [
+        "digital watch", 
+        "0.06335"
+      ], 
+      [
+        "combination lock", 
+        "0.05886"
+      ], 
+      [
+        "can opener", 
+        "0.05503"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40256"
+      ], 
+      [
+        "equipment", 
+        "0.37089"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35531"
+      ], 
+      [
+        "control", 
+        "0.29806"
+      ], 
+      [
+        "measuring instrument", 
+        "0.29657"
+      ]
+    ], 
+    "11.672"
+  ]
+}

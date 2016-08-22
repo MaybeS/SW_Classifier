@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.41210"
+      ], 
+      [
+        "combination lock", 
+        "0.10038"
+      ], 
+      [
+        "cassette player", 
+        "0.07417"
+      ], 
+      [
+        "letter opener", 
+        "0.04743"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.03242"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.59521"
+      ], 
+      [
+        "equipment", 
+        "0.52793"
+      ], 
+      [
+        "modem", 
+        "0.39166"
+      ], 
+      [
+        "device", 
+        "0.34262"
+      ], 
+      [
+        "machine", 
+        "0.24773"
+      ]
+    ], 
+    "5.563"
+  ]
+}

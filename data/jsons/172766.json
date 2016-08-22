@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pinwheel", 
+        "0.15642"
+      ], 
+      [
+        "whistle", 
+        "0.11958"
+      ], 
+      [
+        "hair slide", 
+        "0.09930"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05713"
+      ], 
+      [
+        "sandal", 
+        "0.05207"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.34760"
+      ], 
+      [
+        "pinwheel", 
+        "0.31580"
+      ], 
+      [
+        "clothing", 
+        "0.31521"
+      ], 
+      [
+        "consumer goods", 
+        "0.31278"
+      ], 
+      [
+        "commodity", 
+        "0.29778"
+      ]
+    ], 
+    "7.052"
+  ]
+}

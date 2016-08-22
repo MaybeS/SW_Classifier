@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.16884"
+      ], 
+      [
+        "piggy bank", 
+        "0.09585"
+      ], 
+      [
+        "vacuum", 
+        "0.06279"
+      ], 
+      [
+        "crash helmet", 
+        "0.05231"
+      ], 
+      [
+        "space heater", 
+        "0.04674"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.30016"
+      ], 
+      [
+        "consumer goods", 
+        "0.29580"
+      ], 
+      [
+        "equipment", 
+        "0.28330"
+      ], 
+      [
+        "commodity", 
+        "0.28118"
+      ], 
+      [
+        "appliance", 
+        "0.27118"
+      ]
+    ], 
+    "6.891"
+  ]
+}

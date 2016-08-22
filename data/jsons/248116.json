@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.29203"
+      ], 
+      [
+        "soap dispenser", 
+        "0.10870"
+      ], 
+      [
+        "modem", 
+        "0.10348"
+      ], 
+      [
+        "punching bag", 
+        "0.07538"
+      ], 
+      [
+        "hook", 
+        "0.04617"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.45086"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.41258"
+      ], 
+      [
+        "transducer", 
+        "0.40572"
+      ], 
+      [
+        "electrical device", 
+        "0.39886"
+      ], 
+      [
+        "equipment", 
+        "0.36162"
+      ]
+    ], 
+    "8.799"
+  ]
+}

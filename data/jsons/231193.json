@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.80129"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.07566"
+      ], 
+      [
+        "switch", 
+        "0.02358"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.01935"
+      ], 
+      [
+        "lens cap", 
+        "0.01373"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.01274"
+      ], 
+      [
+        "photographic equipment", 
+        "1.97927"
+      ], 
+      [
+        "reflex camera", 
+        "1.81653"
+      ], 
+      [
+        "equipment", 
+        "1.01020"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.46163"
+      ]
+    ], 
+    "11.527"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.55993"
+      ], 
+      [
+        "radio", 
+        "0.22029"
+      ], 
+      [
+        "modem", 
+        "0.04625"
+      ], 
+      [
+        "screen", 
+        "0.04353"
+      ], 
+      [
+        "oscilloscope", 
+        "0.01688"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.85229"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.76584"
+      ], 
+      [
+        "transducer", 
+        "0.75310"
+      ], 
+      [
+        "electrical device", 
+        "0.74037"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48021"
+      ]
+    ], 
+    "5.583"
+  ]
+}

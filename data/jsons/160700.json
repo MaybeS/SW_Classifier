@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.34893"
+      ], 
+      [
+        "spotlight", 
+        "0.27413"
+      ], 
+      [
+        "stethoscope", 
+        "0.20109"
+      ], 
+      [
+        "microphone", 
+        "0.08394"
+      ], 
+      [
+        "switch", 
+        "0.02685"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.43350"
+      ], 
+      [
+        "device", 
+        "0.43268"
+      ], 
+      [
+        "combination lock", 
+        "0.42153"
+      ], 
+      [
+        "fastener", 
+        "0.39644"
+      ], 
+      [
+        "restraint", 
+        "0.37474"
+      ]
+    ], 
+    "10.913"
+  ]
+}

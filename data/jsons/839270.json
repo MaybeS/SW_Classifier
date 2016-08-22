@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mosquito net", 
+        "0.22460"
+      ], 
+      [
+        "pajama", 
+        "0.15367"
+      ], 
+      [
+        "miniskirt", 
+        "0.12515"
+      ], 
+      [
+        "diaper", 
+        "0.05703"
+      ], 
+      [
+        "brassiere", 
+        "0.05658"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.87534"
+      ], 
+      [
+        "clothing", 
+        "0.82302"
+      ], 
+      [
+        "consumer goods", 
+        "0.74032"
+      ], 
+      [
+        "commodity", 
+        "0.72483"
+      ], 
+      [
+        "mosquito net", 
+        "0.70525"
+      ]
+    ], 
+    "6.957"
+  ]
+}

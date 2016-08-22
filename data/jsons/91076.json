@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.73665"
+      ], 
+      [
+        "cash machine", 
+        "0.07306"
+      ], 
+      [
+        "analog clock", 
+        "0.02906"
+      ], 
+      [
+        "vending machine", 
+        "0.02085"
+      ], 
+      [
+        "television", 
+        "0.01673"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "2.88459"
+      ], 
+      [
+        "computer", 
+        "2.11395"
+      ], 
+      [
+        "machine", 
+        "1.82177"
+      ], 
+      [
+        "device", 
+        "0.62605"
+      ], 
+      [
+        "cash machine", 
+        "0.20809"
+      ]
+    ], 
+    "7.210"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.48648"
+      ], 
+      [
+        "desk", 
+        "0.20904"
+      ], 
+      [
+        "mousetrap", 
+        "0.07850"
+      ], 
+      [
+        "bassinet", 
+        "0.01850"
+      ], 
+      [
+        "oscilloscope", 
+        "0.01795"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "0.83365"
+      ], 
+      [
+        "rack", 
+        "0.82140"
+      ], 
+      [
+        "framework", 
+        "0.72525"
+      ], 
+      [
+        "supporting structure", 
+        "0.66771"
+      ], 
+      [
+        "furniture", 
+        "0.52766"
+      ]
+    ], 
+    "5.763"
+  ]
+}

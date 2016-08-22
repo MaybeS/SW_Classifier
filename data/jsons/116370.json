@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.34271"
+      ], 
+      [
+        "spotlight", 
+        "0.20096"
+      ], 
+      [
+        "loupe", 
+        "0.09123"
+      ], 
+      [
+        "projector", 
+        "0.05576"
+      ], 
+      [
+        "mouse", 
+        "0.04320"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39250"
+      ], 
+      [
+        "optical instrument", 
+        "0.37545"
+      ], 
+      [
+        "instrument", 
+        "0.34696"
+      ], 
+      [
+        "binoculars", 
+        "0.34411"
+      ], 
+      [
+        "container", 
+        "0.22514"
+      ]
+    ], 
+    "7.337"
+  ]
+}

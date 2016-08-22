@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "frying pan", 
+        "0.31859"
+      ], 
+      [
+        "waffle iron", 
+        "0.15682"
+      ], 
+      [
+        "potter's wheel", 
+        "0.11602"
+      ], 
+      [
+        "Dutch oven", 
+        "0.08284"
+      ], 
+      [
+        "caldron", 
+        "0.05630"
+      ]
+    ], 
+    [
+      [
+        "cooking utensil", 
+        "0.62600"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.61257"
+      ], 
+      [
+        "utensil", 
+        "0.59915"
+      ], 
+      [
+        "pan", 
+        "0.54259"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.52054"
+      ]
+    ], 
+    "8.784"
+  ]
+}

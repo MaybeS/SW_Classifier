@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mousetrap", 
+        "0.44615"
+      ], 
+      [
+        "switch", 
+        "0.13683"
+      ], 
+      [
+        "oscilloscope", 
+        "0.10001"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.08959"
+      ], 
+      [
+        "modem", 
+        "0.04123"
+      ]
+    ], 
+    [
+      [
+        "mousetrap", 
+        "0.48969"
+      ], 
+      [
+        "trap", 
+        "0.42735"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37580"
+      ], 
+      [
+        "equipment", 
+        "0.37514"
+      ], 
+      [
+        "device", 
+        "0.33886"
+      ]
+    ], 
+    "11.600"
+  ]
+}

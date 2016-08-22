@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.25867"
+      ], 
+      [
+        "radio", 
+        "0.12401"
+      ], 
+      [
+        "modem", 
+        "0.11506"
+      ], 
+      [
+        "go-kart", 
+        "0.10381"
+      ], 
+      [
+        "joystick", 
+        "0.05636"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.46200"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.43490"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.42264"
+      ], 
+      [
+        "motor vehicle", 
+        "0.41403"
+      ], 
+      [
+        "container", 
+        "0.37850"
+      ]
+    ], 
+    "6.061"
+  ]
+}

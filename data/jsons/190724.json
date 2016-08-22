@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.12625"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09092"
+      ], 
+      [
+        "printer", 
+        "0.05838"
+      ], 
+      [
+        "iPod", 
+        "0.05793"
+      ], 
+      [
+        "modem", 
+        "0.04717"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.60927"
+      ], 
+      [
+        "equipment", 
+        "0.51819"
+      ], 
+      [
+        "machine", 
+        "0.41031"
+      ], 
+      [
+        "device", 
+        "0.35800"
+      ], 
+      [
+        "computer", 
+        "0.22730"
+      ]
+    ], 
+    "5.858"
+  ]
+}

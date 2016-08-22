@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.31722"
+      ], 
+      [
+        "stethoscope", 
+        "0.25314"
+      ], 
+      [
+        "hook", 
+        "0.11664"
+      ], 
+      [
+        "combination lock", 
+        "0.04929"
+      ], 
+      [
+        "web site", 
+        "0.04386"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39413"
+      ], 
+      [
+        "instrument", 
+        "0.31731"
+      ], 
+      [
+        "stethoscope", 
+        "0.23796"
+      ], 
+      [
+        "medical instrument", 
+        "0.22487"
+      ], 
+      [
+        "covering", 
+        "0.21472"
+      ]
+    ], 
+    "8.593"
+  ]
+}

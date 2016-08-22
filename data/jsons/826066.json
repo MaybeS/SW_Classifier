@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "jersey", 
+        "0.58770"
+      ], 
+      [
+        "vending machine", 
+        "0.05959"
+      ], 
+      [
+        "cash machine", 
+        "0.04863"
+      ], 
+      [
+        "hair spray", 
+        "0.04262"
+      ], 
+      [
+        "remote control", 
+        "0.03585"
+      ]
+    ], 
+    [
+      [
+        "jersey", 
+        "0.92618"
+      ], 
+      [
+        "shirt", 
+        "0.91258"
+      ], 
+      [
+        "clothing", 
+        "0.82131"
+      ], 
+      [
+        "garment", 
+        "0.81315"
+      ], 
+      [
+        "consumer goods", 
+        "0.73789"
+      ]
+    ], 
+    "5.944"
+  ]
+}

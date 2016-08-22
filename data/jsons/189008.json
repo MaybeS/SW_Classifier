@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.35310"
+      ], 
+      [
+        "hard disc", 
+        "0.13940"
+      ], 
+      [
+        "microwave", 
+        "0.12456"
+      ], 
+      [
+        "desktop computer", 
+        "0.10679"
+      ], 
+      [
+        "safe", 
+        "0.04527"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.36512"
+      ], 
+      [
+        "device", 
+        "0.31960"
+      ], 
+      [
+        "machine", 
+        "0.31292"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30813"
+      ], 
+      [
+        "personal computer", 
+        "0.30779"
+      ]
+    ], 
+    "9.170"
+  ]
+}

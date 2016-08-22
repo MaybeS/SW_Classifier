@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.32515"
+      ], 
+      [
+        "whistle", 
+        "0.15793"
+      ], 
+      [
+        "stethoscope", 
+        "0.08044"
+      ], 
+      [
+        "stopwatch", 
+        "0.06258"
+      ], 
+      [
+        "hand blower", 
+        "0.03375"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.42519"
+      ], 
+      [
+        "instrument", 
+        "0.28707"
+      ], 
+      [
+        "microphone", 
+        "0.26010"
+      ], 
+      [
+        "measuring instrument", 
+        "0.24405"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.24273"
+      ]
+    ], 
+    "5.359"
+  ]
+}

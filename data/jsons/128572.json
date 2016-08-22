@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.27109"
+      ], 
+      [
+        "modem", 
+        "0.26322"
+      ], 
+      [
+        "lighter", 
+        "0.05833"
+      ], 
+      [
+        "power drill", 
+        "0.05812"
+      ], 
+      [
+        "radio", 
+        "0.03370"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.62448"
+      ], 
+      [
+        "personal computer", 
+        "0.61653"
+      ], 
+      [
+        "digital computer", 
+        "0.60472"
+      ], 
+      [
+        "hand-held computer", 
+        "0.58091"
+      ], 
+      [
+        "computer", 
+        "0.56860"
+      ]
+    ], 
+    "11.358"
+  ]
+}

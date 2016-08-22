@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.16972"
+      ], 
+      [
+        "wallet", 
+        "0.10579"
+      ], 
+      [
+        "hard disc", 
+        "0.07922"
+      ], 
+      [
+        "CD player", 
+        "0.07889"
+      ], 
+      [
+        "loudspeaker", 
+        "0.07149"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.50792"
+      ], 
+      [
+        "equipment", 
+        "0.44984"
+      ], 
+      [
+        "device", 
+        "0.32602"
+      ], 
+      [
+        "container", 
+        "0.26805"
+      ], 
+      [
+        "instrument", 
+        "0.22941"
+      ]
+    ], 
+    "7.537"
+  ]
+}

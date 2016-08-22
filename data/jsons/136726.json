@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.61564"
+      ], 
+      [
+        "stethoscope", 
+        "0.11759"
+      ], 
+      [
+        "bolo tie", 
+        "0.06924"
+      ], 
+      [
+        "radio", 
+        "0.03782"
+      ], 
+      [
+        "combination lock", 
+        "0.02314"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.46753"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.43373"
+      ], 
+      [
+        "transducer", 
+        "0.42652"
+      ], 
+      [
+        "electrical device", 
+        "0.41931"
+      ], 
+      [
+        "device", 
+        "0.40763"
+      ]
+    ], 
+    "5.315"
+  ]
+}

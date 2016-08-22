@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.88204"
+      ], 
+      [
+        "swimming trunks", 
+        "0.03966"
+      ], 
+      [
+        "jean", 
+        "0.00738"
+      ], 
+      [
+        "wool", 
+        "0.00709"
+      ], 
+      [
+        "miniskirt", 
+        "0.00525"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "1.61451"
+      ], 
+      [
+        "protective garment", 
+        "1.43904"
+      ], 
+      [
+        "clothing", 
+        "1.03910"
+      ], 
+      [
+        "consumer goods", 
+        "0.91783"
+      ], 
+      [
+        "covering", 
+        "0.91328"
+      ]
+    ], 
+    "7.003"
+  ]
+}

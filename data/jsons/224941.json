@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.10155"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05920"
+      ], 
+      [
+        "perfume", 
+        "0.05550"
+      ], 
+      [
+        "monitor", 
+        "0.05147"
+      ], 
+      [
+        "digital watch", 
+        "0.04580"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37801"
+      ], 
+      [
+        "equipment", 
+        "0.28003"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26599"
+      ], 
+      [
+        "instrument", 
+        "0.26426"
+      ], 
+      [
+        "machine", 
+        "0.26419"
+      ]
+    ], 
+    "6.362"
+  ]
+}

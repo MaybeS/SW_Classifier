@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "notebook", 
+        "0.13077"
+      ], 
+      [
+        "dishwasher", 
+        "0.12953"
+      ], 
+      [
+        "monitor", 
+        "0.10392"
+      ], 
+      [
+        "desktop computer", 
+        "0.08946"
+      ], 
+      [
+        "modem", 
+        "0.08349"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.64343"
+      ], 
+      [
+        "digital computer", 
+        "0.63111"
+      ], 
+      [
+        "computer", 
+        "0.60202"
+      ], 
+      [
+        "machine", 
+        "0.55634"
+      ], 
+      [
+        "portable computer", 
+        "0.47518"
+      ]
+    ], 
+    "6.782"
+  ]
+}

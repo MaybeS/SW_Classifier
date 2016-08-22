@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.75077"
+      ], 
+      [
+        "soap dispenser", 
+        "0.08765"
+      ], 
+      [
+        "toilet tissue", 
+        "0.05697"
+      ], 
+      [
+        "paper towel", 
+        "0.02166"
+      ], 
+      [
+        "toilet seat", 
+        "0.02129"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.37646"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.37248"
+      ], 
+      [
+        "sharpener", 
+        "0.36701"
+      ], 
+      [
+        "container", 
+        "0.25800"
+      ], 
+      [
+        "device", 
+        "0.25524"
+      ]
+    ], 
+    "10.401"
+  ]
+}

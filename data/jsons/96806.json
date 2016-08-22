@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.22770"
+      ], 
+      [
+        "lipstick", 
+        "0.17013"
+      ], 
+      [
+        "harmonica", 
+        "0.14200"
+      ], 
+      [
+        "lighter", 
+        "0.08917"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07157"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.38797"
+      ], 
+      [
+        "makeup", 
+        "0.36374"
+      ], 
+      [
+        "cosmetic", 
+        "0.35769"
+      ], 
+      [
+        "lipstick", 
+        "0.35708"
+      ], 
+      [
+        "implement", 
+        "0.32400"
+      ]
+    ], 
+    "5.433"
+  ]
+}

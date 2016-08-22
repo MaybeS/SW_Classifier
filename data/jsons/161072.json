@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.50012"
+      ], 
+      [
+        "scale", 
+        "0.18946"
+      ], 
+      [
+        "printer", 
+        "0.08574"
+      ], 
+      [
+        "photocopier", 
+        "0.07375"
+      ], 
+      [
+        "switch", 
+        "0.03544"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.72112"
+      ], 
+      [
+        "cash machine", 
+        "0.71786"
+      ], 
+      [
+        "equipment", 
+        "0.45758"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44289"
+      ], 
+      [
+        "device", 
+        "0.43988"
+      ]
+    ], 
+    "4.959"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "letter opener", 
+        "0.18857"
+      ], 
+      [
+        "notebook", 
+        "0.11960"
+      ], 
+      [
+        "scale", 
+        "0.08336"
+      ], 
+      [
+        "binder", 
+        "0.05992"
+      ], 
+      [
+        "table lamp", 
+        "0.04115"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.32949"
+      ], 
+      [
+        "device", 
+        "0.29941"
+      ], 
+      [
+        "personal computer", 
+        "0.25473"
+      ], 
+      [
+        "computer", 
+        "0.25436"
+      ], 
+      [
+        "digital computer", 
+        "0.24985"
+      ]
+    ], 
+    "12.252"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.79593"
+      ], 
+      [
+        "spotlight", 
+        "0.07209"
+      ], 
+      [
+        "gasmask", 
+        "0.06774"
+      ], 
+      [
+        "switch", 
+        "0.01228"
+      ], 
+      [
+        "loudspeaker", 
+        "0.00800"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.84155"
+      ], 
+      [
+        "photographic equipment", 
+        "1.81093"
+      ], 
+      [
+        "reflex camera", 
+        "1.78720"
+      ], 
+      [
+        "equipment", 
+        "0.92947"
+      ], 
+      [
+        "device", 
+        "0.30563"
+      ]
+    ], 
+    "5.776"
+  ]
+}

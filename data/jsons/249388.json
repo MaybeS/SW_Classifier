@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vending machine", 
+        "0.30065"
+      ], 
+      [
+        "remote control", 
+        "0.28276"
+      ], 
+      [
+        "hand-held computer", 
+        "0.18823"
+      ], 
+      [
+        "oscilloscope", 
+        "0.11811"
+      ], 
+      [
+        "cellular telephone", 
+        "0.02865"
+      ]
+    ], 
+    [
+      [
+        "vending machine", 
+        "0.94890"
+      ], 
+      [
+        "machine", 
+        "0.94009"
+      ], 
+      [
+        "slot machine", 
+        "0.88158"
+      ], 
+      [
+        "electronic equipment", 
+        "0.61024"
+      ], 
+      [
+        "remote control", 
+        "0.60688"
+      ]
+    ], 
+    "6.300"
+  ]
+}

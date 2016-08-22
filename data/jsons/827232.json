@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.15187"
+      ], 
+      [
+        "iron", 
+        "0.11568"
+      ], 
+      [
+        "hand blower", 
+        "0.09356"
+      ], 
+      [
+        "punching bag", 
+        "0.08289"
+      ], 
+      [
+        "barbell", 
+        "0.06741"
+      ]
+    ], 
+    [
+      [
+        "consumer goods", 
+        "0.41143"
+      ], 
+      [
+        "commodity", 
+        "0.39112"
+      ], 
+      [
+        "equipment", 
+        "0.38052"
+      ], 
+      [
+        "weight", 
+        "0.36596"
+      ], 
+      [
+        "sports equipment", 
+        "0.33480"
+      ]
+    ], 
+    "5.620"
+  ]
+}

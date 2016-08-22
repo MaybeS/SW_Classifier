@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.57619"
+      ], 
+      [
+        "reflex camera", 
+        "0.11156"
+      ], 
+      [
+        "spotlight", 
+        "0.11041"
+      ], 
+      [
+        "switch", 
+        "0.05587"
+      ], 
+      [
+        "combination lock", 
+        "0.04360"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.72920"
+      ], 
+      [
+        "optical instrument", 
+        "0.63674"
+      ], 
+      [
+        "camera", 
+        "0.45834"
+      ], 
+      [
+        "photographic equipment", 
+        "0.45072"
+      ], 
+      [
+        "instrument", 
+        "0.44171"
+      ]
+    ], 
+    "5.224"
+  ]
+}

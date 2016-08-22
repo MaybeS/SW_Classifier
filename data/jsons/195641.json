@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.16827"
+      ], 
+      [
+        "mousetrap", 
+        "0.16185"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.08803"
+      ], 
+      [
+        "can opener", 
+        "0.06164"
+      ], 
+      [
+        "iron", 
+        "0.05922"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.32584"
+      ], 
+      [
+        "device", 
+        "0.30938"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27000"
+      ], 
+      [
+        "implement", 
+        "0.26152"
+      ], 
+      [
+        "machine", 
+        "0.25228"
+      ]
+    ], 
+    "13.502"
+  ]
+}

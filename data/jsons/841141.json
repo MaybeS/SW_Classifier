@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.39772"
+      ], 
+      [
+        "jersey", 
+        "0.12617"
+      ], 
+      [
+        "cuirass", 
+        "0.09416"
+      ], 
+      [
+        "velvet", 
+        "0.09405"
+      ], 
+      [
+        "breastplate", 
+        "0.09243"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.98885"
+      ], 
+      [
+        "garment", 
+        "0.97262"
+      ], 
+      [
+        "covering", 
+        "0.95769"
+      ], 
+      [
+        "body armor", 
+        "0.91358"
+      ], 
+      [
+        "consumer goods", 
+        "0.87239"
+      ]
+    ], 
+    "8.841"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.28256"
+      ], 
+      [
+        "mixing bowl", 
+        "0.10576"
+      ], 
+      [
+        "toilet seat", 
+        "0.06269"
+      ], 
+      [
+        "trifle", 
+        "0.05762"
+      ], 
+      [
+        "Crock Pot", 
+        "0.04219"
+      ]
+    ], 
+    [
+      [
+        "kitchen appliance", 
+        "0.55725"
+      ], 
+      [
+        "waffle iron", 
+        "0.55147"
+      ], 
+      [
+        "home appliance", 
+        "0.54305"
+      ], 
+      [
+        "appliance", 
+        "0.52582"
+      ], 
+      [
+        "durables", 
+        "0.51214"
+      ]
+    ], 
+    "8.032"
+  ]
+}

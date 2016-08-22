@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "teapot", 
+        "0.24278"
+      ], 
+      [
+        "tray", 
+        "0.10284"
+      ], 
+      [
+        "soap dispenser", 
+        "0.10248"
+      ], 
+      [
+        "measuring cup", 
+        "0.05326"
+      ], 
+      [
+        "mortar", 
+        "0.05007"
+      ]
+    ], 
+    [
+      [
+        "vessel", 
+        "0.57960"
+      ], 
+      [
+        "cooking utensil", 
+        "0.49452"
+      ], 
+      [
+        "container", 
+        "0.49409"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.48391"
+      ], 
+      [
+        "utensil", 
+        "0.47331"
+      ]
+    ], 
+    "5.417"
+  ]
+}

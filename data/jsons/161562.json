@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.22103"
+      ], 
+      [
+        "hand-held computer", 
+        "0.15395"
+      ], 
+      [
+        "syringe", 
+        "0.06741"
+      ], 
+      [
+        "printer", 
+        "0.06235"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05162"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.58542"
+      ], 
+      [
+        "equipment", 
+        "0.54410"
+      ], 
+      [
+        "machine", 
+        "0.45975"
+      ], 
+      [
+        "personal computer", 
+        "0.45496"
+      ], 
+      [
+        "digital computer", 
+        "0.44624"
+      ]
+    ], 
+    "5.336"
+  ]
+}

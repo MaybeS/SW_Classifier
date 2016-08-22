@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.64763"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.10889"
+      ], 
+      [
+        "CD player", 
+        "0.06194"
+      ], 
+      [
+        "spotlight", 
+        "0.04583"
+      ], 
+      [
+        "loupe", 
+        "0.02348"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.96978"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.87330"
+      ], 
+      [
+        "transducer", 
+        "0.85878"
+      ], 
+      [
+        "electrical device", 
+        "0.84426"
+      ], 
+      [
+        "device", 
+        "0.43145"
+      ]
+    ], 
+    "5.940"
+  ]
+}

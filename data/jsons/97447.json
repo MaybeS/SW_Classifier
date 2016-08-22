@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.38143"
+      ], 
+      [
+        "oscilloscope", 
+        "0.16934"
+      ], 
+      [
+        "cassette", 
+        "0.12117"
+      ], 
+      [
+        "modem", 
+        "0.06557"
+      ], 
+      [
+        "scoreboard", 
+        "0.06090"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.62882"
+      ], 
+      [
+        "oscilloscope", 
+        "0.55581"
+      ], 
+      [
+        "equipment", 
+        "0.51587"
+      ], 
+      [
+        "switch", 
+        "0.43230"
+      ], 
+      [
+        "control", 
+        "0.41529"
+      ]
+    ], 
+    "5.473"
+  ]
+}

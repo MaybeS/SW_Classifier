@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bassoon", 
+        "0.16017"
+      ], 
+      [
+        "sunglasses", 
+        "0.14592"
+      ], 
+      [
+        "sunglass", 
+        "0.11708"
+      ], 
+      [
+        "oboe", 
+        "0.11016"
+      ], 
+      [
+        "flute", 
+        "0.04460"
+      ]
+    ], 
+    [
+      [
+        "musical instrument", 
+        "0.59424"
+      ], 
+      [
+        "woodwind", 
+        "0.57375"
+      ], 
+      [
+        "wind instrument", 
+        "0.56519"
+      ], 
+      [
+        "beating-reed instrument", 
+        "0.53398"
+      ], 
+      [
+        "double-reed instrument", 
+        "0.50019"
+      ]
+    ], 
+    "5.595"
+  ]
+}

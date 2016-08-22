@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.15053"
+      ], 
+      [
+        "loudspeaker", 
+        "0.09823"
+      ], 
+      [
+        "digital clock", 
+        "0.07029"
+      ], 
+      [
+        "book jacket", 
+        "0.06856"
+      ], 
+      [
+        "paper towel", 
+        "0.03751"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31891"
+      ], 
+      [
+        "equipment", 
+        "0.23511"
+      ], 
+      [
+        "implement", 
+        "0.22955"
+      ], 
+      [
+        "container", 
+        "0.22306"
+      ], 
+      [
+        "covering", 
+        "0.19742"
+      ]
+    ], 
+    "7.677"
+  ]
+}

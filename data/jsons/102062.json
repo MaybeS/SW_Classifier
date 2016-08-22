@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.43336"
+      ], 
+      [
+        "cassette player", 
+        "0.14524"
+      ], 
+      [
+        "stopwatch", 
+        "0.09401"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08873"
+      ], 
+      [
+        "scale", 
+        "0.05002"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.77970"
+      ], 
+      [
+        "equipment", 
+        "0.65606"
+      ], 
+      [
+        "CD player", 
+        "0.41648"
+      ], 
+      [
+        "measuring instrument", 
+        "0.40502"
+      ], 
+      [
+        "cassette player", 
+        "0.38279"
+      ]
+    ], 
+    "5.045"
+  ]
+}

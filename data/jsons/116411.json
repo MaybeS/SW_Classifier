@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.49596"
+      ], 
+      [
+        "joystick", 
+        "0.05495"
+      ], 
+      [
+        "torch", 
+        "0.05267"
+      ], 
+      [
+        "lighter", 
+        "0.04696"
+      ], 
+      [
+        "thimble", 
+        "0.04276"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39238"
+      ], 
+      [
+        "microphone", 
+        "0.38310"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.35329"
+      ], 
+      [
+        "transducer", 
+        "0.34742"
+      ], 
+      [
+        "electrical device", 
+        "0.34154"
+      ]
+    ], 
+    "12.281"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cuirass", 
+        "0.16601"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.14749"
+      ], 
+      [
+        "water bottle", 
+        "0.07263"
+      ], 
+      [
+        "breastplate", 
+        "0.06948"
+      ], 
+      [
+        "chain mail", 
+        "0.06124"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.69780"
+      ], 
+      [
+        "body armor", 
+        "0.68672"
+      ], 
+      [
+        "armor", 
+        "0.65400"
+      ], 
+      [
+        "protective covering", 
+        "0.62702"
+      ], 
+      [
+        "clothing", 
+        "0.53505"
+      ]
+    ], 
+    "6.914"
+  ]
+}

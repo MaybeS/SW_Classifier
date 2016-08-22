@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.36783"
+      ], 
+      [
+        "radio", 
+        "0.24355"
+      ], 
+      [
+        "cellular telephone", 
+        "0.14501"
+      ], 
+      [
+        "hard disc", 
+        "0.05295"
+      ], 
+      [
+        "projector", 
+        "0.05051"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.83135"
+      ], 
+      [
+        "equipment", 
+        "0.68949"
+      ], 
+      [
+        "modem", 
+        "0.38157"
+      ], 
+      [
+        "device", 
+        "0.35428"
+      ], 
+      [
+        "cellular telephone", 
+        "0.30282"
+      ]
+    ], 
+    "11.351"
+  ]
+}

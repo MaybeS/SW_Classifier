@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.26465"
+      ], 
+      [
+        "Band Aid", 
+        "0.13239"
+      ], 
+      [
+        "web site", 
+        "0.13127"
+      ], 
+      [
+        "street sign", 
+        "0.08408"
+      ], 
+      [
+        "envelope", 
+        "0.03772"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.52897"
+      ], 
+      [
+        "measuring instrument", 
+        "0.43340"
+      ], 
+      [
+        "computer", 
+        "0.42637"
+      ], 
+      [
+        "timepiece", 
+        "0.42358"
+      ], 
+      [
+        "clock", 
+        "0.39890"
+      ]
+    ], 
+    "11.349"
+  ]
+}

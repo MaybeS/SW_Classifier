@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.25584"
+      ], 
+      [
+        "joystick", 
+        "0.25404"
+      ], 
+      [
+        "loudspeaker", 
+        "0.11696"
+      ], 
+      [
+        "vacuum", 
+        "0.03740"
+      ], 
+      [
+        "binoculars", 
+        "0.03723"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40248"
+      ], 
+      [
+        "equipment", 
+        "0.36779"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33857"
+      ], 
+      [
+        "control", 
+        "0.33116"
+      ], 
+      [
+        "joystick", 
+        "0.32229"
+      ]
+    ], 
+    "10.328"
+  ]
+}

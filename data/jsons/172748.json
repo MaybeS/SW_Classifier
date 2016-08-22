@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.16185"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.14767"
+      ], 
+      [
+        "carton", 
+        "0.10499"
+      ], 
+      [
+        "perfume", 
+        "0.10120"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.07274"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.34938"
+      ], 
+      [
+        "container", 
+        "0.31420"
+      ], 
+      [
+        "device", 
+        "0.28809"
+      ], 
+      [
+        "camera", 
+        "0.27825"
+      ], 
+      [
+        "photographic equipment", 
+        "0.27363"
+      ]
+    ], 
+    "5.401"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.74508"
+      ], 
+      [
+        "projector", 
+        "0.04474"
+      ], 
+      [
+        "loudspeaker", 
+        "0.01810"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.01197"
+      ], 
+      [
+        "racer", 
+        "0.01116"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "1.58885"
+      ], 
+      [
+        "fan", 
+        "1.56551"
+      ], 
+      [
+        "device", 
+        "0.46778"
+      ], 
+      [
+        "container", 
+        "0.24866"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.24739"
+      ]
+    ], 
+    "6.482"
+  ]
+}

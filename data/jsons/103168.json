@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric guitar", 
+        "0.97849"
+      ], 
+      [
+        "hard disc", 
+        "0.00455"
+      ], 
+      [
+        "modem", 
+        "0.00381"
+      ], 
+      [
+        "acoustic guitar", 
+        "0.00304"
+      ], 
+      [
+        "pick", 
+        "0.00266"
+      ]
+    ], 
+    [
+      [
+        "guitar", 
+        "1.67939"
+      ], 
+      [
+        "stringed instrument", 
+        "1.47550"
+      ], 
+      [
+        "electric guitar", 
+        "1.43688"
+      ], 
+      [
+        "musical instrument", 
+        "1.25485"
+      ], 
+      [
+        "device", 
+        "0.56595"
+      ]
+    ], 
+    "5.608"
+  ]
+}

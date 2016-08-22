@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.37111"
+      ], 
+      [
+        "microphone", 
+        "0.21130"
+      ], 
+      [
+        "vacuum", 
+        "0.06640"
+      ], 
+      [
+        "table lamp", 
+        "0.06273"
+      ], 
+      [
+        "loupe", 
+        "0.05504"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36094"
+      ], 
+      [
+        "container", 
+        "0.24015"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.20898"
+      ], 
+      [
+        "covering", 
+        "0.20666"
+      ], 
+      [
+        "transducer", 
+        "0.20551"
+      ]
+    ], 
+    "5.385"
+  ]
+}

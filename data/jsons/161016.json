@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.15760"
+      ], 
+      [
+        "perfume", 
+        "0.10001"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06918"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05637"
+      ], 
+      [
+        "remote control", 
+        "0.03984"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.62699"
+      ], 
+      [
+        "computer", 
+        "0.59718"
+      ], 
+      [
+        "machine", 
+        "0.53982"
+      ], 
+      [
+        "device", 
+        "0.38285"
+      ], 
+      [
+        "toiletry", 
+        "0.25067"
+      ]
+    ], 
+    "7.461"
+  ]
+}

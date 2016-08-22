@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "maillot", 
+        "0.66294"
+      ], 
+      [
+        "maillot", 
+        "0.14228"
+      ], 
+      [
+        "balance beam", 
+        "0.08894"
+      ], 
+      [
+        "horizontal bar", 
+        "0.01178"
+      ], 
+      [
+        "miniskirt", 
+        "0.00905"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.54556"
+      ], 
+      [
+        "swimsuit", 
+        "0.48839"
+      ], 
+      [
+        "consumer goods", 
+        "0.47738"
+      ], 
+      [
+        "commodity", 
+        "0.45166"
+      ], 
+      [
+        "maillot", 
+        "0.44921"
+      ]
+    ], 
+    "6.892"
+  ]
+}

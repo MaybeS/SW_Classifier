@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.66077"
+      ], 
+      [
+        "muzzle", 
+        "0.07305"
+      ], 
+      [
+        "piggy bank", 
+        "0.07274"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.03717"
+      ], 
+      [
+        "mouse", 
+        "0.03424"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "1.83425"
+      ], 
+      [
+        "wind instrument", 
+        "1.11028"
+      ], 
+      [
+        "musical instrument", 
+        "0.90440"
+      ], 
+      [
+        "device", 
+        "0.44668"
+      ], 
+      [
+        "covering", 
+        "0.22687"
+      ]
+    ], 
+    "10.722"
+  ]
+}

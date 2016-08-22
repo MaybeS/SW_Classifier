@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hair slide", 
+        "0.22822"
+      ], 
+      [
+        "digital clock", 
+        "0.16927"
+      ], 
+      [
+        "spatula", 
+        "0.06518"
+      ], 
+      [
+        "buckle", 
+        "0.06119"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04101"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34539"
+      ], 
+      [
+        "fastener", 
+        "0.32439"
+      ], 
+      [
+        "measuring instrument", 
+        "0.31634"
+      ], 
+      [
+        "timepiece", 
+        "0.30665"
+      ], 
+      [
+        "restraint", 
+        "0.30319"
+      ]
+    ], 
+    "8.012"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.11362"
+      ], 
+      [
+        "cassette player", 
+        "0.10064"
+      ], 
+      [
+        "binder", 
+        "0.06571"
+      ], 
+      [
+        "desktop computer", 
+        "0.05965"
+      ], 
+      [
+        "switch", 
+        "0.05422"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.44675"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43969"
+      ], 
+      [
+        "device", 
+        "0.35106"
+      ], 
+      [
+        "measuring instrument", 
+        "0.33453"
+      ], 
+      [
+        "timepiece", 
+        "0.31065"
+      ]
+    ], 
+    "7.249"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screen", 
+        "0.46095"
+      ], 
+      [
+        "television", 
+        "0.30323"
+      ], 
+      [
+        "monitor", 
+        "0.15987"
+      ], 
+      [
+        "microwave", 
+        "0.01106"
+      ], 
+      [
+        "iPod", 
+        "0.00950"
+      ]
+    ], 
+    [
+      [
+        "screen", 
+        "0.69391"
+      ], 
+      [
+        "electronic device", 
+        "0.69274"
+      ], 
+      [
+        "display", 
+        "0.68372"
+      ], 
+      [
+        "personal computer", 
+        "0.62657"
+      ], 
+      [
+        "digital computer", 
+        "0.61457"
+      ]
+    ], 
+    "9.131"
+  ]
+}

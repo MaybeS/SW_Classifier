@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.15386"
+      ], 
+      [
+        "binder", 
+        "0.12414"
+      ], 
+      [
+        "digital clock", 
+        "0.11716"
+      ], 
+      [
+        "modem", 
+        "0.10755"
+      ], 
+      [
+        "oil filter", 
+        "0.04800"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32057"
+      ], 
+      [
+        "measuring instrument", 
+        "0.24741"
+      ], 
+      [
+        "equipment", 
+        "0.24405"
+      ], 
+      [
+        "container", 
+        "0.24090"
+      ], 
+      [
+        "toiletry", 
+        "0.23970"
+      ]
+    ], 
+    "6.287"
+  ]
+}

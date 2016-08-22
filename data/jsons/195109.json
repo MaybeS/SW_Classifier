@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.36343"
+      ], 
+      [
+        "barber chair", 
+        "0.15420"
+      ], 
+      [
+        "iron", 
+        "0.07833"
+      ], 
+      [
+        "hourglass", 
+        "0.06909"
+      ], 
+      [
+        "sewing machine", 
+        "0.03994"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.55841"
+      ], 
+      [
+        "appliance", 
+        "0.54628"
+      ], 
+      [
+        "espresso maker", 
+        "0.54263"
+      ], 
+      [
+        "coffee maker", 
+        "0.53466"
+      ], 
+      [
+        "durables", 
+        "0.53206"
+      ]
+    ], 
+    "10.405"
+  ]
+}

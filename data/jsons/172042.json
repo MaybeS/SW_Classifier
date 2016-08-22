@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.06871"
+      ], 
+      [
+        "spotlight", 
+        "0.06730"
+      ], 
+      [
+        "perfume", 
+        "0.06188"
+      ], 
+      [
+        "microphone", 
+        "0.05783"
+      ], 
+      [
+        "harmonica", 
+        "0.05345"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34337"
+      ], 
+      [
+        "musical instrument", 
+        "0.27441"
+      ], 
+      [
+        "equipment", 
+        "0.24339"
+      ], 
+      [
+        "container", 
+        "0.21572"
+      ], 
+      [
+        "wind instrument", 
+        "0.19682"
+      ]
+    ], 
+    "4.916"
+  ]
+}

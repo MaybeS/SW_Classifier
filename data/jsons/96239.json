@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.74818"
+      ], 
+      [
+        "rubber eraser", 
+        "0.18583"
+      ], 
+      [
+        "lipstick", 
+        "0.01434"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00900"
+      ], 
+      [
+        "Band Aid", 
+        "0.00875"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.82099"
+      ], 
+      [
+        "acoustic device", 
+        "0.80893"
+      ], 
+      [
+        "signaling device", 
+        "0.80893"
+      ], 
+      [
+        "implement", 
+        "0.42117"
+      ], 
+      [
+        "device", 
+        "0.38067"
+      ]
+    ], 
+    "11.458"
+  ]
+}

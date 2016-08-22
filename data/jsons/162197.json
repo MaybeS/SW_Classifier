@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.51897"
+      ], 
+      [
+        "combination lock", 
+        "0.09774"
+      ], 
+      [
+        "cash machine", 
+        "0.06420"
+      ], 
+      [
+        "safe", 
+        "0.04735"
+      ], 
+      [
+        "dial telephone", 
+        "0.03976"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.58254"
+      ], 
+      [
+        "control", 
+        "0.55863"
+      ], 
+      [
+        "mechanism", 
+        "0.42385"
+      ], 
+      [
+        "device", 
+        "0.39535"
+      ], 
+      [
+        "electronic equipment", 
+        "0.38498"
+      ]
+    ], 
+    "7.813"
+  ]
+}

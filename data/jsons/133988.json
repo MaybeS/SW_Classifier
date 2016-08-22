@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.35178"
+      ], 
+      [
+        "modem", 
+        "0.29975"
+      ], 
+      [
+        "remote control", 
+        "0.10650"
+      ], 
+      [
+        "radio", 
+        "0.09706"
+      ], 
+      [
+        "harmonica", 
+        "0.02172"
+      ]
+    ], 
+    [
+      [
+        "digital clock", 
+        "0.56118"
+      ], 
+      [
+        "measuring instrument", 
+        "0.53546"
+      ], 
+      [
+        "electronic equipment", 
+        "0.53411"
+      ], 
+      [
+        "timepiece", 
+        "0.53268"
+      ], 
+      [
+        "clock", 
+        "0.48820"
+      ]
+    ], 
+    "13.544"
+  ]
+}

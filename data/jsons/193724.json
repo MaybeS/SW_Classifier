@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.25900"
+      ], 
+      [
+        "loudspeaker", 
+        "0.18322"
+      ], 
+      [
+        "washer", 
+        "0.15619"
+      ], 
+      [
+        "fire screen", 
+        "0.11715"
+      ], 
+      [
+        "combination lock", 
+        "0.06189"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.39137"
+      ], 
+      [
+        "appliance", 
+        "0.38023"
+      ], 
+      [
+        "durables", 
+        "0.37034"
+      ], 
+      [
+        "white goods", 
+        "0.36740"
+      ], 
+      [
+        "washer", 
+        "0.35367"
+      ]
+    ], 
+    "5.650"
+  ]
+}

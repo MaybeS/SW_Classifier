@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.41900"
+      ], 
+      [
+        "switch", 
+        "0.23441"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03810"
+      ], 
+      [
+        "cellular telephone", 
+        "0.02864"
+      ], 
+      [
+        "iPod", 
+        "0.02106"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.33044"
+      ], 
+      [
+        "device", 
+        "0.30677"
+      ], 
+      [
+        "soap dispenser", 
+        "0.29907"
+      ], 
+      [
+        "dispenser", 
+        "0.29467"
+      ], 
+      [
+        "control", 
+        "0.29425"
+      ]
+    ], 
+    "12.646"
+  ]
+}

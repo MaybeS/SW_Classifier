@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "trench coat", 
+        "0.72941"
+      ], 
+      [
+        "sweatshirt", 
+        "0.10335"
+      ], 
+      [
+        "sleeping bag", 
+        "0.02248"
+      ], 
+      [
+        "backpack", 
+        "0.02094"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.01175"
+      ]
+    ], 
+    [
+      [
+        "trench coat", 
+        "1.49750"
+      ], 
+      [
+        "garment", 
+        "1.48952"
+      ], 
+      [
+        "raincoat", 
+        "1.47551"
+      ], 
+      [
+        "coat", 
+        "1.41966"
+      ], 
+      [
+        "overgarment", 
+        "1.38010"
+      ]
+    ], 
+    "5.832"
+  ]
+}

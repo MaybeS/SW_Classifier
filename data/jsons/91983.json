@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.17970"
+      ], 
+      [
+        "binder", 
+        "0.16580"
+      ], 
+      [
+        "desktop computer", 
+        "0.13314"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08018"
+      ], 
+      [
+        "solar dish", 
+        "0.07090"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.37022"
+      ], 
+      [
+        "device", 
+        "0.33610"
+      ], 
+      [
+        "equipment", 
+        "0.33415"
+      ], 
+      [
+        "machine", 
+        "0.28964"
+      ], 
+      [
+        "personal computer", 
+        "0.28704"
+      ]
+    ], 
+    "12.847"
+  ]
+}

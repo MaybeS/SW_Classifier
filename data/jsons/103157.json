@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "quill", 
+        "0.11926"
+      ], 
+      [
+        "analog clock", 
+        "0.10199"
+      ], 
+      [
+        "wall clock", 
+        "0.07273"
+      ], 
+      [
+        "digital clock", 
+        "0.07200"
+      ], 
+      [
+        "street sign", 
+        "0.06502"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.45145"
+      ], 
+      [
+        "clock", 
+        "0.43552"
+      ], 
+      [
+        "timepiece", 
+        "0.43506"
+      ], 
+      [
+        "instrument", 
+        "0.37140"
+      ], 
+      [
+        "device", 
+        "0.31635"
+      ]
+    ], 
+    "10.347"
+  ]
+}

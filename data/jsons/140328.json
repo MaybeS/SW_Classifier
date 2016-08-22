@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "monitor", 
+        "0.20411"
+      ], 
+      [
+        "digital clock", 
+        "0.07071"
+      ], 
+      [
+        "screen", 
+        "0.05046"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04622"
+      ], 
+      [
+        "joystick", 
+        "0.04504"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.44516"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42530"
+      ], 
+      [
+        "device", 
+        "0.39349"
+      ], 
+      [
+        "machine", 
+        "0.37963"
+      ], 
+      [
+        "personal computer", 
+        "0.36146"
+      ]
+    ], 
+    "10.566"
+  ]
+}

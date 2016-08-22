@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tripod", 
+        "0.15405"
+      ], 
+      [
+        "loudspeaker", 
+        "0.15398"
+      ], 
+      [
+        "microphone", 
+        "0.09527"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.09359"
+      ], 
+      [
+        "reflex camera", 
+        "0.05322"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.43870"
+      ], 
+      [
+        "photographic equipment", 
+        "0.43140"
+      ], 
+      [
+        "equipment", 
+        "0.41909"
+      ], 
+      [
+        "device", 
+        "0.39165"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.30843"
+      ]
+    ], 
+    "8.096"
+  ]
+}

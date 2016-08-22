@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.40156"
+      ], 
+      [
+        "digital clock", 
+        "0.14607"
+      ], 
+      [
+        "loupe", 
+        "0.06174"
+      ], 
+      [
+        "stopwatch", 
+        "0.03559"
+      ], 
+      [
+        "combination lock", 
+        "0.03414"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51945"
+      ], 
+      [
+        "equipment", 
+        "0.47477"
+      ], 
+      [
+        "measuring instrument", 
+        "0.39048"
+      ], 
+      [
+        "device", 
+        "0.38921"
+      ], 
+      [
+        "modem", 
+        "0.38378"
+      ]
+    ], 
+    "4.906"
+  ]
+}

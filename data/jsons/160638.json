@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.58683"
+      ], 
+      [
+        "rule", 
+        "0.25613"
+      ], 
+      [
+        "hair slide", 
+        "0.02896"
+      ], 
+      [
+        "letter opener", 
+        "0.01529"
+      ], 
+      [
+        "modem", 
+        "0.01412"
+      ]
+    ], 
+    [
+      [
+        "harmonica", 
+        "0.55046"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.50688"
+      ], 
+      [
+        "musical instrument", 
+        "0.49562"
+      ], 
+      [
+        "wind instrument", 
+        "0.46328"
+      ], 
+      [
+        "device", 
+        "0.43930"
+      ]
+    ], 
+    "7.396"
+  ]
+}

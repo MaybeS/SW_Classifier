@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.31107"
+      ], 
+      [
+        "radio", 
+        "0.29377"
+      ], 
+      [
+        "oscilloscope", 
+        "0.08222"
+      ], 
+      [
+        "modem", 
+        "0.07890"
+      ], 
+      [
+        "digital clock", 
+        "0.04200"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.53790"
+      ], 
+      [
+        "equipment", 
+        "0.48188"
+      ], 
+      [
+        "device", 
+        "0.31733"
+      ], 
+      [
+        "implement", 
+        "0.30725"
+      ], 
+      [
+        "oscilloscope", 
+        "0.28955"
+      ]
+    ], 
+    "9.091"
+  ]
+}

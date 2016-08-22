@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ballpoint", 
+        "0.21163"
+      ], 
+      [
+        "lipstick", 
+        "0.16405"
+      ], 
+      [
+        "rubber eraser", 
+        "0.11844"
+      ], 
+      [
+        "microphone", 
+        "0.08527"
+      ], 
+      [
+        "fountain pen", 
+        "0.07071"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.55839"
+      ], 
+      [
+        "pen", 
+        "0.48014"
+      ], 
+      [
+        "writing implement", 
+        "0.47158"
+      ], 
+      [
+        "toiletry", 
+        "0.39967"
+      ], 
+      [
+        "makeup", 
+        "0.35923"
+      ]
+    ], 
+    "5.515"
+  ]
+}

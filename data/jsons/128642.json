@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pick", 
+        "0.91250"
+      ], 
+      [
+        "mouse", 
+        "0.06145"
+      ], 
+      [
+        "remote control", 
+        "0.00651"
+      ], 
+      [
+        "rubber eraser", 
+        "0.00253"
+      ], 
+      [
+        "soap dispenser", 
+        "0.00129"
+      ]
+    ], 
+    [
+      [
+        "pick", 
+        "1.47310"
+      ], 
+      [
+        "device", 
+        "0.46191"
+      ], 
+      [
+        "covering", 
+        "0.24972"
+      ], 
+      [
+        "musical instrument", 
+        "0.19814"
+      ], 
+      [
+        "equipment", 
+        "0.18364"
+      ]
+    ], 
+    "5.754"
+  ]
+}

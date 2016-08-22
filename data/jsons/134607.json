@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.17308"
+      ], 
+      [
+        "book jacket", 
+        "0.07522"
+      ], 
+      [
+        "binder", 
+        "0.06605"
+      ], 
+      [
+        "modem", 
+        "0.06249"
+      ], 
+      [
+        "magnetic compass", 
+        "0.06060"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.36624"
+      ], 
+      [
+        "measuring instrument", 
+        "0.35005"
+      ], 
+      [
+        "device", 
+        "0.34463"
+      ], 
+      [
+        "container", 
+        "0.25835"
+      ], 
+      [
+        "equipment", 
+        "0.21883"
+      ]
+    ], 
+    "8.256"
+  ]
+}

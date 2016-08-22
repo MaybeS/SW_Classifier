@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.59913"
+      ], 
+      [
+        "muzzle", 
+        "0.11992"
+      ], 
+      [
+        "radio", 
+        "0.05695"
+      ], 
+      [
+        "modem", 
+        "0.04940"
+      ], 
+      [
+        "shovel", 
+        "0.04762"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.45165"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.41691"
+      ], 
+      [
+        "transducer", 
+        "0.40998"
+      ], 
+      [
+        "electrical device", 
+        "0.40305"
+      ], 
+      [
+        "device", 
+        "0.37128"
+      ]
+    ], 
+    "5.339"
+  ]
+}

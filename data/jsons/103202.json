@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toy poodle", 
+        "0.79268"
+      ], 
+      [
+        "miniature poodle", 
+        "0.20106"
+      ], 
+      [
+        "standard poodle", 
+        "0.00237"
+      ], 
+      [
+        "teddy", 
+        "0.00069"
+      ], 
+      [
+        "cocker spaniel", 
+        "0.00022"
+      ]
+    ], 
+    [
+      [
+        "poodle", 
+        "1.76136"
+      ], 
+      [
+        "dog", 
+        "1.26302"
+      ], 
+      [
+        "domestic animal", 
+        "1.16106"
+      ], 
+      [
+        "canine", 
+        "1.10971"
+      ], 
+      [
+        "toy poodle", 
+        "1.00653"
+      ]
+    ], 
+    "5.218"
+  ]
+}

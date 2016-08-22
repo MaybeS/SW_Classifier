@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "buckle", 
+        "0.28786"
+      ], 
+      [
+        "analog clock", 
+        "0.12244"
+      ], 
+      [
+        "projector", 
+        "0.10249"
+      ], 
+      [
+        "electric fan", 
+        "0.09981"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03716"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.41882"
+      ], 
+      [
+        "device", 
+        "0.40673"
+      ], 
+      [
+        "measuring instrument", 
+        "0.38260"
+      ], 
+      [
+        "timepiece", 
+        "0.35978"
+      ], 
+      [
+        "clock", 
+        "0.32391"
+      ]
+    ], 
+    "11.813"
+  ]
+}

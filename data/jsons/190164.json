@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mousetrap", 
+        "0.33417"
+      ], 
+      [
+        "cassette", 
+        "0.17080"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.12481"
+      ], 
+      [
+        "tape player", 
+        "0.05311"
+      ], 
+      [
+        "tennis ball", 
+        "0.03833"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.38794"
+      ], 
+      [
+        "mousetrap", 
+        "0.37590"
+      ], 
+      [
+        "trap", 
+        "0.32758"
+      ], 
+      [
+        "container", 
+        "0.31632"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28331"
+      ]
+    ], 
+    "7.976"
+  ]
+}

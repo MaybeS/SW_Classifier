@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.26001"
+      ], 
+      [
+        "loupe", 
+        "0.23322"
+      ], 
+      [
+        "vacuum", 
+        "0.07636"
+      ], 
+      [
+        "gasmask", 
+        "0.07331"
+      ], 
+      [
+        "stethoscope", 
+        "0.06018"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37691"
+      ], 
+      [
+        "covering", 
+        "0.27345"
+      ], 
+      [
+        "instrument", 
+        "0.24788"
+      ], 
+      [
+        "consumer goods", 
+        "0.23149"
+      ], 
+      [
+        "protective covering", 
+        "0.22659"
+      ]
+    ], 
+    "9.631"
+  ]
+}

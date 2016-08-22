@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.21216"
+      ], 
+      [
+        "book jacket", 
+        "0.09333"
+      ], 
+      [
+        "modem", 
+        "0.06303"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06230"
+      ], 
+      [
+        "digital clock", 
+        "0.05147"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.28708"
+      ], 
+      [
+        "equipment", 
+        "0.26948"
+      ], 
+      [
+        "covering", 
+        "0.26877"
+      ], 
+      [
+        "container", 
+        "0.25356"
+      ], 
+      [
+        "electronic equipment", 
+        "0.25176"
+      ]
+    ], 
+    "7.318"
+  ]
+}

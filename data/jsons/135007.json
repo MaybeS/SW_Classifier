@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "shower curtain", 
+        "0.99439"
+      ], 
+      [
+        "radiator", 
+        "0.00087"
+      ], 
+      [
+        "hook", 
+        "0.00066"
+      ], 
+      [
+        "bath towel", 
+        "0.00062"
+      ], 
+      [
+        "lab coat", 
+        "0.00053"
+      ]
+    ], 
+    [
+      [
+        "shower curtain", 
+        "1.00704"
+      ], 
+      [
+        "blind", 
+        "0.94931"
+      ], 
+      [
+        "curtain", 
+        "0.93088"
+      ], 
+      [
+        "furnishing", 
+        "0.74897"
+      ], 
+      [
+        "protective covering", 
+        "0.74430"
+      ]
+    ], 
+    "7.797"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.33533"
+      ], 
+      [
+        "punching bag", 
+        "0.06041"
+      ], 
+      [
+        "safe", 
+        "0.04846"
+      ], 
+      [
+        "lotion", 
+        "0.04040"
+      ], 
+      [
+        "hair spray", 
+        "0.03164"
+      ]
+    ], 
+    [
+      [
+        "refrigerator", 
+        "0.52252"
+      ], 
+      [
+        "white goods", 
+        "0.49045"
+      ], 
+      [
+        "home appliance", 
+        "0.43827"
+      ], 
+      [
+        "appliance", 
+        "0.42754"
+      ], 
+      [
+        "durables", 
+        "0.41641"
+      ]
+    ], 
+    "9.469"
+  ]
+}

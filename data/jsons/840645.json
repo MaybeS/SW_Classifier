@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "swimming trunks", 
+        "0.22976"
+      ], 
+      [
+        "jean", 
+        "0.16352"
+      ], 
+      [
+        "mailbag", 
+        "0.11497"
+      ], 
+      [
+        "apron", 
+        "0.08041"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.06364"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.91114"
+      ], 
+      [
+        "garment", 
+        "0.86609"
+      ], 
+      [
+        "consumer goods", 
+        "0.80628"
+      ], 
+      [
+        "commodity", 
+        "0.76932"
+      ], 
+      [
+        "covering", 
+        "0.76669"
+      ]
+    ], 
+    "8.092"
+  ]
+}

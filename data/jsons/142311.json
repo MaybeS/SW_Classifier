@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "medicine chest", 
+        "0.24753"
+      ], 
+      [
+        "window screen", 
+        "0.21553"
+      ], 
+      [
+        "window shade", 
+        "0.10389"
+      ], 
+      [
+        "sliding door", 
+        "0.07137"
+      ], 
+      [
+        "wardrobe", 
+        "0.06063"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.69775"
+      ], 
+      [
+        "furnishing", 
+        "0.68425"
+      ], 
+      [
+        "screen", 
+        "0.52559"
+      ], 
+      [
+        "window screen", 
+        "0.52306"
+      ], 
+      [
+        "protective covering", 
+        "0.47291"
+      ]
+    ], 
+    "11.449"
+  ]
+}

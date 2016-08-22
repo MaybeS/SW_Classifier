@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.34235"
+      ], 
+      [
+        "whistle", 
+        "0.13304"
+      ], 
+      [
+        "digital watch", 
+        "0.12322"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.05992"
+      ], 
+      [
+        "dumbbell", 
+        "0.03678"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.44718"
+      ], 
+      [
+        "lock", 
+        "0.43279"
+      ], 
+      [
+        "combination lock", 
+        "0.41816"
+      ], 
+      [
+        "fastener", 
+        "0.40659"
+      ], 
+      [
+        "timepiece", 
+        "0.39715"
+      ]
+    ], 
+    "6.962"
+  ]
+}

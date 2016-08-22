@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.63086"
+      ], 
+      [
+        "mouse", 
+        "0.10374"
+      ], 
+      [
+        "loudspeaker", 
+        "0.02506"
+      ], 
+      [
+        "lighter", 
+        "0.02442"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02279"
+      ]
+    ], 
+    [
+      [
+        "cellular telephone", 
+        "1.10833"
+      ], 
+      [
+        "radiotelephone", 
+        "1.09205"
+      ], 
+      [
+        "telephone", 
+        "0.93701"
+      ], 
+      [
+        "electronic equipment", 
+        "0.88333"
+      ], 
+      [
+        "equipment", 
+        "0.69864"
+      ]
+    ], 
+    "4.835"
+  ]
+}

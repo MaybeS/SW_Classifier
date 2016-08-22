@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.58723"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07674"
+      ], 
+      [
+        "iPod", 
+        "0.03497"
+      ], 
+      [
+        "can opener", 
+        "0.03110"
+      ], 
+      [
+        "cellular telephone", 
+        "0.01788"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.87840"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.79169"
+      ], 
+      [
+        "transducer", 
+        "0.77853"
+      ], 
+      [
+        "electrical device", 
+        "0.76536"
+      ], 
+      [
+        "device", 
+        "0.41790"
+      ]
+    ], 
+    "5.767"
+  ]
+}

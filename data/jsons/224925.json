@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.12905"
+      ], 
+      [
+        "combination lock", 
+        "0.09094"
+      ], 
+      [
+        "cassette player", 
+        "0.08845"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07968"
+      ], 
+      [
+        "muzzle", 
+        "0.06359"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32049"
+      ], 
+      [
+        "fastener", 
+        "0.26654"
+      ], 
+      [
+        "restraint", 
+        "0.26467"
+      ], 
+      [
+        "equipment", 
+        "0.25260"
+      ], 
+      [
+        "container", 
+        "0.23934"
+      ]
+    ], 
+    "6.178"
+  ]
+}

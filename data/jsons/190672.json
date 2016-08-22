@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.54993"
+      ], 
+      [
+        "Band Aid", 
+        "0.04219"
+      ], 
+      [
+        "digital clock", 
+        "0.03987"
+      ], 
+      [
+        "face powder", 
+        "0.03796"
+      ], 
+      [
+        "letter opener", 
+        "0.03261"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.50121"
+      ], 
+      [
+        "rubber eraser", 
+        "0.33935"
+      ], 
+      [
+        "eraser", 
+        "0.33437"
+      ], 
+      [
+        "device", 
+        "0.29029"
+      ], 
+      [
+        "toiletry", 
+        "0.26486"
+      ]
+    ], 
+    "5.829"
+  ]
+}

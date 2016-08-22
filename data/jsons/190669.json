@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.25331"
+      ], 
+      [
+        "modem", 
+        "0.15821"
+      ], 
+      [
+        "screwdriver", 
+        "0.13151"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05115"
+      ], 
+      [
+        "lighter", 
+        "0.04715"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.51721"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43999"
+      ], 
+      [
+        "device", 
+        "0.40768"
+      ], 
+      [
+        "equipment", 
+        "0.39741"
+      ], 
+      [
+        "implement", 
+        "0.28304"
+      ]
+    ], 
+    "12.994"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.66053"
+      ], 
+      [
+        "toilet seat", 
+        "0.06905"
+      ], 
+      [
+        "washbasin", 
+        "0.03948"
+      ], 
+      [
+        "soap dispenser", 
+        "0.03880"
+      ], 
+      [
+        "can opener", 
+        "0.03035"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.97228"
+      ], 
+      [
+        "coffee maker", 
+        "0.95799"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.73559"
+      ], 
+      [
+        "home appliance", 
+        "0.72016"
+      ], 
+      [
+        "appliance", 
+        "0.70895"
+      ]
+    ], 
+    "6.823"
+  ]
+}

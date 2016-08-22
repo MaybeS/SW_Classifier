@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.21295"
+      ], 
+      [
+        "tray", 
+        "0.11279"
+      ], 
+      [
+        "face powder", 
+        "0.07265"
+      ], 
+      [
+        "shopping basket", 
+        "0.06992"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06919"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.32619"
+      ], 
+      [
+        "covering", 
+        "0.25462"
+      ], 
+      [
+        "device", 
+        "0.24183"
+      ], 
+      [
+        "binder", 
+        "0.23104"
+      ], 
+      [
+        "protective covering", 
+        "0.22507"
+      ]
+    ], 
+    "6.495"
+  ]
+}

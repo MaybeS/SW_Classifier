@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.22115"
+      ], 
+      [
+        "espresso maker", 
+        "0.16086"
+      ], 
+      [
+        "safe", 
+        "0.11983"
+      ], 
+      [
+        "gas pump", 
+        "0.06743"
+      ], 
+      [
+        "cassette player", 
+        "0.05527"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.40474"
+      ], 
+      [
+        "home appliance", 
+        "0.35179"
+      ], 
+      [
+        "appliance", 
+        "0.34345"
+      ], 
+      [
+        "safe", 
+        "0.34068"
+      ], 
+      [
+        "strongbox", 
+        "0.33568"
+      ]
+    ], 
+    "6.747"
+  ]
+}

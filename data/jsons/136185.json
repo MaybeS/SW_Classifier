@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand blower", 
+        "0.08645"
+      ], 
+      [
+        "oil filter", 
+        "0.07584"
+      ], 
+      [
+        "spotlight", 
+        "0.07021"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06158"
+      ], 
+      [
+        "hard disc", 
+        "0.05799"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33113"
+      ], 
+      [
+        "container", 
+        "0.25421"
+      ], 
+      [
+        "equipment", 
+        "0.23617"
+      ], 
+      [
+        "consumer goods", 
+        "0.23412"
+      ], 
+      [
+        "commodity", 
+        "0.22493"
+      ]
+    ], 
+    "6.154"
+  ]
+}

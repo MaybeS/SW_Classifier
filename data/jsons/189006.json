@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.58028"
+      ], 
+      [
+        "radio", 
+        "0.05768"
+      ], 
+      [
+        "safe", 
+        "0.05168"
+      ], 
+      [
+        "projector", 
+        "0.04772"
+      ], 
+      [
+        "microwave", 
+        "0.03447"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.00838"
+      ], 
+      [
+        "magnetic disk", 
+        "0.99357"
+      ], 
+      [
+        "memory device", 
+        "0.97875"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44231"
+      ], 
+      [
+        "device", 
+        "0.43322"
+      ]
+    ], 
+    "6.846"
+  ]
+}

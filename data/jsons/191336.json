@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.16070"
+      ], 
+      [
+        "binder", 
+        "0.14191"
+      ], 
+      [
+        "combination lock", 
+        "0.05325"
+      ], 
+      [
+        "analog clock", 
+        "0.05115"
+      ], 
+      [
+        "plate rack", 
+        "0.03549"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30448"
+      ], 
+      [
+        "container", 
+        "0.24797"
+      ], 
+      [
+        "measuring instrument", 
+        "0.22419"
+      ], 
+      [
+        "instrument", 
+        "0.21766"
+      ], 
+      [
+        "covering", 
+        "0.21685"
+      ]
+    ], 
+    "6.811"
+  ]
+}

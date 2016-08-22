@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Crock Pot", 
+        "0.93082"
+      ], 
+      [
+        "coffeepot", 
+        "0.01140"
+      ], 
+      [
+        "chocolate sauce", 
+        "0.00713"
+      ], 
+      [
+        "espresso", 
+        "0.00607"
+      ], 
+      [
+        "espresso maker", 
+        "0.00458"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "2.21566"
+      ], 
+      [
+        "cooker", 
+        "2.18312"
+      ], 
+      [
+        "cooking utensil", 
+        "1.72273"
+      ], 
+      [
+        "kitchen utensil", 
+        "1.68578"
+      ], 
+      [
+        "utensil", 
+        "1.64882"
+      ]
+    ], 
+    "8.850"
+  ]
+}

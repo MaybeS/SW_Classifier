@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.20717"
+      ], 
+      [
+        "modem", 
+        "0.19435"
+      ], 
+      [
+        "space heater", 
+        "0.11336"
+      ], 
+      [
+        "tape player", 
+        "0.07502"
+      ], 
+      [
+        "cassette player", 
+        "0.06353"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.64595"
+      ], 
+      [
+        "equipment", 
+        "0.54960"
+      ], 
+      [
+        "device", 
+        "0.32720"
+      ], 
+      [
+        "radio", 
+        "0.28898"
+      ], 
+      [
+        "communication system", 
+        "0.27149"
+      ]
+    ], 
+    "14.830"
+  ]
+}

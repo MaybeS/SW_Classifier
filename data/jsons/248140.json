@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.57621"
+      ], 
+      [
+        "reel", 
+        "0.08704"
+      ], 
+      [
+        "plate rack", 
+        "0.07503"
+      ], 
+      [
+        "spotlight", 
+        "0.02135"
+      ], 
+      [
+        "gasmask", 
+        "0.01921"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.70266"
+      ], 
+      [
+        "optical instrument", 
+        "0.59923"
+      ], 
+      [
+        "instrument", 
+        "0.42206"
+      ], 
+      [
+        "device", 
+        "0.36349"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.31903"
+      ]
+    ], 
+    "5.295"
+  ]
+}

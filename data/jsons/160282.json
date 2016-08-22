@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.38661"
+      ], 
+      [
+        "radio", 
+        "0.23977"
+      ], 
+      [
+        "radiator", 
+        "0.14700"
+      ], 
+      [
+        "ashcan", 
+        "0.04439"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04306"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "0.49534"
+      ], 
+      [
+        "heater", 
+        "0.46065"
+      ], 
+      [
+        "device", 
+        "0.36548"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32486"
+      ], 
+      [
+        "equipment", 
+        "0.30604"
+      ]
+    ], 
+    "6.963"
+  ]
+}

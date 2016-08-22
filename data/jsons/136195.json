@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.57516"
+      ], 
+      [
+        "espresso maker", 
+        "0.09018"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05666"
+      ], 
+      [
+        "cassette player", 
+        "0.03085"
+      ], 
+      [
+        "loudspeaker", 
+        "0.02898"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.72536"
+      ], 
+      [
+        "optical instrument", 
+        "0.62912"
+      ], 
+      [
+        "instrument", 
+        "0.42276"
+      ], 
+      [
+        "equipment", 
+        "0.41670"
+      ], 
+      [
+        "camera", 
+        "0.36338"
+      ]
+    ], 
+    "5.092"
+  ]
+}

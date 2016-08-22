@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "perfume", 
+        "0.39799"
+      ], 
+      [
+        "iPod", 
+        "0.14367"
+      ], 
+      [
+        "lighter", 
+        "0.10413"
+      ], 
+      [
+        "lotion", 
+        "0.04831"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03932"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.62479"
+      ], 
+      [
+        "perfume", 
+        "0.47901"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33266"
+      ], 
+      [
+        "equipment", 
+        "0.29027"
+      ], 
+      [
+        "container", 
+        "0.27691"
+      ]
+    ], 
+    "5.114"
+  ]
+}

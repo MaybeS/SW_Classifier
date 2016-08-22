@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.45514"
+      ], 
+      [
+        "web site", 
+        "0.18316"
+      ], 
+      [
+        "West Highland white terrier", 
+        "0.05416"
+      ], 
+      [
+        "screen", 
+        "0.05143"
+      ], 
+      [
+        "cash machine", 
+        "0.02505"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.73102"
+      ], 
+      [
+        "computer", 
+        "0.72763"
+      ], 
+      [
+        "machine", 
+        "0.67928"
+      ], 
+      [
+        "television", 
+        "0.67277"
+      ], 
+      [
+        "telecommunication system", 
+        "0.66288"
+      ]
+    ], 
+    "5.331"
+  ]
+}

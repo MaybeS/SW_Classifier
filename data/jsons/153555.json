@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.24605"
+      ], 
+      [
+        "analog clock", 
+        "0.19767"
+      ], 
+      [
+        "scoreboard", 
+        "0.12137"
+      ], 
+      [
+        "book jacket", 
+        "0.09352"
+      ], 
+      [
+        "pick", 
+        "0.04532"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.79323"
+      ], 
+      [
+        "timepiece", 
+        "0.74406"
+      ], 
+      [
+        "clock", 
+        "0.70245"
+      ], 
+      [
+        "instrument", 
+        "0.60233"
+      ], 
+      [
+        "device", 
+        "0.42871"
+      ]
+    ], 
+    "6.156"
+  ]
+}

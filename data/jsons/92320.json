@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.89720"
+      ], 
+      [
+        "ballpoint", 
+        "0.01611"
+      ], 
+      [
+        "wallet", 
+        "0.01465"
+      ], 
+      [
+        "pencil box", 
+        "0.01443"
+      ], 
+      [
+        "fountain pen", 
+        "0.01243"
+      ]
+    ], 
+    [
+      [
+        "harmonica", 
+        "0.83355"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.76465"
+      ], 
+      [
+        "musical instrument", 
+        "0.69456"
+      ], 
+      [
+        "wind instrument", 
+        "0.65891"
+      ], 
+      [
+        "device", 
+        "0.45005"
+      ]
+    ], 
+    "7.161"
+  ]
+}

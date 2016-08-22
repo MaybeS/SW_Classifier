@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.41477"
+      ], 
+      [
+        "digital clock", 
+        "0.07663"
+      ], 
+      [
+        "analog clock", 
+        "0.04591"
+      ], 
+      [
+        "Band Aid", 
+        "0.04410"
+      ], 
+      [
+        "wall clock", 
+        "0.04303"
+      ]
+    ], 
+    [
+      [
+        "street sign", 
+        "0.82512"
+      ], 
+      [
+        "sign", 
+        "0.81300"
+      ], 
+      [
+        "communication", 
+        "0.73247"
+      ], 
+      [
+        "abstraction", 
+        "0.49815"
+      ], 
+      [
+        "measuring instrument", 
+        "0.33046"
+      ]
+    ], 
+    "6.556"
+  ]
+}

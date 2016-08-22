@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.86244"
+      ], 
+      [
+        "power drill", 
+        "0.02910"
+      ], 
+      [
+        "whistle", 
+        "0.01822"
+      ], 
+      [
+        "muzzle", 
+        "0.01300"
+      ], 
+      [
+        "combination lock", 
+        "0.01032"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "2.37593"
+      ], 
+      [
+        "wind instrument", 
+        "1.43018"
+      ], 
+      [
+        "musical instrument", 
+        "1.15989"
+      ], 
+      [
+        "device", 
+        "0.54118"
+      ], 
+      [
+        "covering", 
+        "0.21763"
+      ]
+    ], 
+    "6.597"
+  ]
+}

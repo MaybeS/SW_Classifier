@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.18587"
+      ], 
+      [
+        "stopwatch", 
+        "0.15040"
+      ], 
+      [
+        "face powder", 
+        "0.13463"
+      ], 
+      [
+        "washer", 
+        "0.11964"
+      ], 
+      [
+        "combination lock", 
+        "0.05287"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.41445"
+      ], 
+      [
+        "measuring instrument", 
+        "0.41298"
+      ], 
+      [
+        "timepiece", 
+        "0.38968"
+      ], 
+      [
+        "face powder", 
+        "0.36805"
+      ], 
+      [
+        "powder", 
+        "0.36264"
+      ]
+    ], 
+    "5.379"
+  ]
+}

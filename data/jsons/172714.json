@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.33657"
+      ], 
+      [
+        "can opener", 
+        "0.17133"
+      ], 
+      [
+        "spotlight", 
+        "0.10802"
+      ], 
+      [
+        "space heater", 
+        "0.09380"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.05362"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34588"
+      ], 
+      [
+        "microphone", 
+        "0.26535"
+      ], 
+      [
+        "implement", 
+        "0.26485"
+      ], 
+      [
+        "container", 
+        "0.26384"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.25562"
+      ]
+    ], 
+    "5.435"
+  ]
+}

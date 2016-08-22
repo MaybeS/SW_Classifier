@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.99821"
+      ], 
+      [
+        "tape player", 
+        "0.00027"
+      ], 
+      [
+        "iron", 
+        "0.00021"
+      ], 
+      [
+        "crash helmet", 
+        "0.00019"
+      ], 
+      [
+        "disk brake", 
+        "0.00011"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.70732"
+      ], 
+      [
+        "magnetic disk", 
+        "1.68224"
+      ], 
+      [
+        "memory device", 
+        "1.65716"
+      ], 
+      [
+        "device", 
+        "0.52258"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41654"
+      ]
+    ], 
+    "5.292"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.10638"
+      ], 
+      [
+        "iPod", 
+        "0.09056"
+      ], 
+      [
+        "scale", 
+        "0.08402"
+      ], 
+      [
+        "lighter", 
+        "0.06274"
+      ], 
+      [
+        "perfume", 
+        "0.06065"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35548"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35520"
+      ], 
+      [
+        "measuring instrument", 
+        "0.33583"
+      ], 
+      [
+        "equipment", 
+        "0.31191"
+      ], 
+      [
+        "instrument", 
+        "0.29756"
+      ]
+    ], 
+    "11.189"
+  ]
+}

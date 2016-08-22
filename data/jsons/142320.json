@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.71249"
+      ], 
+      [
+        "ashcan", 
+        "0.12390"
+      ], 
+      [
+        "can opener", 
+        "0.04992"
+      ], 
+      [
+        "soap dispenser", 
+        "0.01941"
+      ], 
+      [
+        "rain barrel", 
+        "0.01708"
+      ]
+    ], 
+    [
+      [
+        "washer", 
+        "1.53326"
+      ], 
+      [
+        "white goods", 
+        "1.32532"
+      ], 
+      [
+        "home appliance", 
+        "1.08748"
+      ], 
+      [
+        "appliance", 
+        "1.04313"
+      ], 
+      [
+        "durables", 
+        "1.01598"
+      ]
+    ], 
+    "7.029"
+  ]
+}

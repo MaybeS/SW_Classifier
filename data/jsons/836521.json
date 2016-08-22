@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.24188"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.15775"
+      ], 
+      [
+        "pencil box", 
+        "0.05539"
+      ], 
+      [
+        "cassette player", 
+        "0.04651"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04412"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.39435"
+      ], 
+      [
+        "cassette", 
+        "0.35112"
+      ], 
+      [
+        "container", 
+        "0.34937"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33599"
+      ], 
+      [
+        "device", 
+        "0.26727"
+      ]
+    ], 
+    "6.887"
+  ]
+}

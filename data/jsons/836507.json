@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "horizontal bar", 
+        "0.20308"
+      ], 
+      [
+        "pajama", 
+        "0.19642"
+      ], 
+      [
+        "parallel bars", 
+        "0.11886"
+      ], 
+      [
+        "jersey", 
+        "0.07483"
+      ], 
+      [
+        "balance beam", 
+        "0.04985"
+      ]
+    ], 
+    [
+      [
+        "gymnastic apparatus", 
+        "0.65832"
+      ], 
+      [
+        "clothing", 
+        "0.65651"
+      ], 
+      [
+        "sports equipment", 
+        "0.63873"
+      ], 
+      [
+        "consumer goods", 
+        "0.59012"
+      ], 
+      [
+        "commodity", 
+        "0.56534"
+      ]
+    ], 
+    "4.984"
+  ]
+}

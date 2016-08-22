@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.39735"
+      ], 
+      [
+        "oscilloscope", 
+        "0.18532"
+      ], 
+      [
+        "mousetrap", 
+        "0.05570"
+      ], 
+      [
+        "plate rack", 
+        "0.05117"
+      ], 
+      [
+        "envelope", 
+        "0.03577"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.85321"
+      ], 
+      [
+        "fan", 
+        "0.84068"
+      ], 
+      [
+        "oscilloscope", 
+        "0.58298"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42384"
+      ], 
+      [
+        "device", 
+        "0.36961"
+      ]
+    ], 
+    "6.405"
+  ]
+}

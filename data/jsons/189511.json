@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.67092"
+      ], 
+      [
+        "desktop computer", 
+        "0.07600"
+      ], 
+      [
+        "binder", 
+        "0.04621"
+      ], 
+      [
+        "hard disc", 
+        "0.02314"
+      ], 
+      [
+        "combination lock", 
+        "0.01599"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.77965"
+      ], 
+      [
+        "equipment", 
+        "0.64616"
+      ], 
+      [
+        "modem", 
+        "0.62417"
+      ], 
+      [
+        "machine", 
+        "0.37800"
+      ], 
+      [
+        "device", 
+        "0.36248"
+      ]
+    ], 
+    "8.998"
+  ]
+}

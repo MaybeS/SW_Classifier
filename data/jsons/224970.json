@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.94304"
+      ], 
+      [
+        "cassette player", 
+        "0.01607"
+      ], 
+      [
+        "cassette", 
+        "0.00775"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.00765"
+      ], 
+      [
+        "power drill", 
+        "0.00665"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "1.87858"
+      ], 
+      [
+        "hand-held computer", 
+        "1.87614"
+      ], 
+      [
+        "personal computer", 
+        "1.79868"
+      ], 
+      [
+        "digital computer", 
+        "1.76424"
+      ], 
+      [
+        "computer", 
+        "1.62013"
+      ]
+    ], 
+    "7.446"
+  ]
+}

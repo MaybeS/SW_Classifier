@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.15743"
+      ], 
+      [
+        "cassette player", 
+        "0.08396"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05910"
+      ], 
+      [
+        "purse", 
+        "0.05653"
+      ], 
+      [
+        "radio", 
+        "0.04451"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.37780"
+      ], 
+      [
+        "container", 
+        "0.31059"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29539"
+      ], 
+      [
+        "device", 
+        "0.28337"
+      ], 
+      [
+        "camera", 
+        "0.23435"
+      ]
+    ], 
+    "10.543"
+  ]
+}

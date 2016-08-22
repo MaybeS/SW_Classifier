@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "trailer truck", 
+        "0.14098"
+      ], 
+      [
+        "scoreboard", 
+        "0.13717"
+      ], 
+      [
+        "container ship", 
+        "0.12128"
+      ], 
+      [
+        "moving van", 
+        "0.11370"
+      ], 
+      [
+        "space shuttle", 
+        "0.09919"
+      ]
+    ], 
+    [
+      [
+        "vehicle", 
+        "0.79469"
+      ], 
+      [
+        "conveyance", 
+        "0.74035"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.61010"
+      ], 
+      [
+        "truck", 
+        "0.58266"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.56530"
+      ]
+    ], 
+    "6.237"
+  ]
+}

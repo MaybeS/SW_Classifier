@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "beaker", 
+        "0.43289"
+      ], 
+      [
+        "ocarina", 
+        "0.20433"
+      ], 
+      [
+        "spotlight", 
+        "0.08273"
+      ], 
+      [
+        "spatula", 
+        "0.02974"
+      ], 
+      [
+        "table lamp", 
+        "0.02576"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "0.56581"
+      ], 
+      [
+        "vessel", 
+        "0.45142"
+      ], 
+      [
+        "container", 
+        "0.40263"
+      ], 
+      [
+        "wind instrument", 
+        "0.39333"
+      ], 
+      [
+        "musical instrument", 
+        "0.38396"
+      ]
+    ], 
+    "124.904"
+  ]
+}

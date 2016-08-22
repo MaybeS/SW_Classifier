@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.57613"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07890"
+      ], 
+      [
+        "microwave", 
+        "0.06463"
+      ], 
+      [
+        "oscilloscope", 
+        "0.05393"
+      ], 
+      [
+        "cellular telephone", 
+        "0.02883"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.13214"
+      ], 
+      [
+        "electronic equipment", 
+        "0.60933"
+      ], 
+      [
+        "equipment", 
+        "0.50329"
+      ], 
+      [
+        "device", 
+        "0.48718"
+      ], 
+      [
+        "personal computer", 
+        "0.39115"
+      ]
+    ], 
+    "10.846"
+  ]
+}

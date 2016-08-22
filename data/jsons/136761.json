@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.45069"
+      ], 
+      [
+        "microphone", 
+        "0.33422"
+      ], 
+      [
+        "hook", 
+        "0.06131"
+      ], 
+      [
+        "bolo tie", 
+        "0.02826"
+      ], 
+      [
+        "hair slide", 
+        "0.02166"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40677"
+      ], 
+      [
+        "stethoscope", 
+        "0.37709"
+      ], 
+      [
+        "medical instrument", 
+        "0.35447"
+      ], 
+      [
+        "instrument", 
+        "0.28880"
+      ], 
+      [
+        "covering", 
+        "0.27557"
+      ]
+    ], 
+    "9.123"
+  ]
+}

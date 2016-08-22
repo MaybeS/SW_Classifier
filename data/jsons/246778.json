@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.84837"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04595"
+      ], 
+      [
+        "loudspeaker", 
+        "0.01980"
+      ], 
+      [
+        "remote control", 
+        "0.01477"
+      ], 
+      [
+        "hard disc", 
+        "0.00640"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.90632"
+      ], 
+      [
+        "control", 
+        "0.86560"
+      ], 
+      [
+        "mechanism", 
+        "0.61032"
+      ], 
+      [
+        "device", 
+        "0.41189"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32991"
+      ]
+    ], 
+    "7.987"
+  ]
+}

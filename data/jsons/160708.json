@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "syringe", 
+        "0.33075"
+      ], 
+      [
+        "vacuum", 
+        "0.21695"
+      ], 
+      [
+        "microphone", 
+        "0.07800"
+      ], 
+      [
+        "projectile", 
+        "0.04378"
+      ], 
+      [
+        "water bottle", 
+        "0.03729"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32391"
+      ], 
+      [
+        "implement", 
+        "0.31631"
+      ], 
+      [
+        "consumer goods", 
+        "0.24774"
+      ], 
+      [
+        "commodity", 
+        "0.23845"
+      ], 
+      [
+        "instrument", 
+        "0.23068"
+      ]
+    ], 
+    "10.831"
+  ]
+}

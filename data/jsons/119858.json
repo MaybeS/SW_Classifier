@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.74542"
+      ], 
+      [
+        "waffle iron", 
+        "0.07819"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04947"
+      ], 
+      [
+        "hand blower", 
+        "0.01120"
+      ], 
+      [
+        "electric fan", 
+        "0.01083"
+      ]
+    ], 
+    [
+      [
+        "spotlight", 
+        "0.36648"
+      ], 
+      [
+        "device", 
+        "0.34747"
+      ], 
+      [
+        "source of illumination", 
+        "0.33484"
+      ], 
+      [
+        "lamp", 
+        "0.33057"
+      ], 
+      [
+        "container", 
+        "0.25976"
+      ]
+    ], 
+    "9.683"
+  ]
+}

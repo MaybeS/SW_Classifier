@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.19227"
+      ], 
+      [
+        "lighter", 
+        "0.13481"
+      ], 
+      [
+        "space heater", 
+        "0.12497"
+      ], 
+      [
+        "soap dispenser", 
+        "0.08151"
+      ], 
+      [
+        "oil filter", 
+        "0.05454"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.39290"
+      ], 
+      [
+        "cellular telephone", 
+        "0.36281"
+      ], 
+      [
+        "radiotelephone", 
+        "0.35748"
+      ], 
+      [
+        "equipment", 
+        "0.35586"
+      ], 
+      [
+        "device", 
+        "0.35054"
+      ]
+    ], 
+    "5.075"
+  ]
+}

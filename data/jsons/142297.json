@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.08087"
+      ], 
+      [
+        "crash helmet", 
+        "0.07474"
+      ], 
+      [
+        "printer", 
+        "0.07010"
+      ], 
+      [
+        "space heater", 
+        "0.06768"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06122"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31766"
+      ], 
+      [
+        "equipment", 
+        "0.30224"
+      ], 
+      [
+        "consumer goods", 
+        "0.26783"
+      ], 
+      [
+        "commodity", 
+        "0.25617"
+      ], 
+      [
+        "container", 
+        "0.25024"
+      ]
+    ], 
+    "5.807"
+  ]
+}

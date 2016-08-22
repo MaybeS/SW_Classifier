@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.92607"
+      ], 
+      [
+        "puck", 
+        "0.03055"
+      ], 
+      [
+        "oil filter", 
+        "0.00566"
+      ], 
+      [
+        "cassette player", 
+        "0.00529"
+      ], 
+      [
+        "mouse", 
+        "0.00512"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "1.05738"
+      ], 
+      [
+        "equipment", 
+        "0.86483"
+      ], 
+      [
+        "CD player", 
+        "0.71339"
+      ], 
+      [
+        "cassette player", 
+        "0.44808"
+      ], 
+      [
+        "motor vehicle", 
+        "0.34229"
+      ]
+    ], 
+    "6.643"
+  ]
+}

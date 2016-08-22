@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.25886"
+      ], 
+      [
+        "remote control", 
+        "0.15093"
+      ], 
+      [
+        "joystick", 
+        "0.12636"
+      ], 
+      [
+        "ocarina", 
+        "0.10939"
+      ], 
+      [
+        "mousetrap", 
+        "0.06099"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.41199"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32446"
+      ], 
+      [
+        "equipment", 
+        "0.31274"
+      ], 
+      [
+        "ocarina", 
+        "0.31046"
+      ], 
+      [
+        "remote control", 
+        "0.30178"
+      ]
+    ], 
+    "6.143"
+  ]
+}

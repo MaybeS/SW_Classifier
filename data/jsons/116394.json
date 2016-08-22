@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric guitar", 
+        "0.64900"
+      ], 
+      [
+        "iron", 
+        "0.03086"
+      ], 
+      [
+        "chain saw", 
+        "0.02937"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.02692"
+      ], 
+      [
+        "acoustic guitar", 
+        "0.02277"
+      ]
+    ], 
+    [
+      [
+        "guitar", 
+        "1.16357"
+      ], 
+      [
+        "stringed instrument", 
+        "1.06926"
+      ], 
+      [
+        "electric guitar", 
+        "0.96573"
+      ], 
+      [
+        "musical instrument", 
+        "0.94232"
+      ], 
+      [
+        "device", 
+        "0.50446"
+      ]
+    ], 
+    "4.860"
+  ]
+}

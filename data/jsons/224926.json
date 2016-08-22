@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.15185"
+      ], 
+      [
+        "modem", 
+        "0.13848"
+      ], 
+      [
+        "loupe", 
+        "0.09161"
+      ], 
+      [
+        "combination lock", 
+        "0.06624"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04879"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35329"
+      ], 
+      [
+        "equipment", 
+        "0.31998"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28006"
+      ], 
+      [
+        "implement", 
+        "0.23193"
+      ], 
+      [
+        "container", 
+        "0.22046"
+      ]
+    ], 
+    "7.470"
+  ]
+}

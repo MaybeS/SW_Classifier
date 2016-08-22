@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hoopskirt", 
+        "0.26356"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.22583"
+      ], 
+      [
+        "trench coat", 
+        "0.12532"
+      ], 
+      [
+        "suit", 
+        "0.05471"
+      ], 
+      [
+        "overskirt", 
+        "0.04902"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "1.22379"
+      ], 
+      [
+        "clothing", 
+        "1.20998"
+      ], 
+      [
+        "consumer goods", 
+        "1.06163"
+      ], 
+      [
+        "commodity", 
+        "1.00543"
+      ], 
+      [
+        "covering", 
+        "0.98527"
+      ]
+    ], 
+    "7.006"
+  ]
+}

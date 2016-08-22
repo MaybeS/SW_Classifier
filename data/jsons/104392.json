@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.27282"
+      ], 
+      [
+        "toaster", 
+        "0.16284"
+      ], 
+      [
+        "oil filter", 
+        "0.09117"
+      ], 
+      [
+        "Crock Pot", 
+        "0.07679"
+      ], 
+      [
+        "can opener", 
+        "0.07357"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.36512"
+      ], 
+      [
+        "appliance", 
+        "0.36457"
+      ], 
+      [
+        "durables", 
+        "0.35508"
+      ], 
+      [
+        "container", 
+        "0.33426"
+      ], 
+      [
+        "consumer goods", 
+        "0.27917"
+      ]
+    ], 
+    "6.863"
+  ]
+}

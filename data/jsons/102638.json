@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.28693"
+      ], 
+      [
+        "web site", 
+        "0.07650"
+      ], 
+      [
+        "screen", 
+        "0.04645"
+      ], 
+      [
+        "desktop computer", 
+        "0.03241"
+      ], 
+      [
+        "printer", 
+        "0.02999"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.69332"
+      ], 
+      [
+        "cash machine", 
+        "0.43702"
+      ], 
+      [
+        "computer", 
+        "0.42760"
+      ], 
+      [
+        "device", 
+        "0.39074"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33712"
+      ]
+    ], 
+    "5.697"
+  ]
+}

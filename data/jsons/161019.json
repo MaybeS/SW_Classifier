@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.76828"
+      ], 
+      [
+        "projector", 
+        "0.09533"
+      ], 
+      [
+        "radio", 
+        "0.02607"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.01990"
+      ], 
+      [
+        "joystick", 
+        "0.01275"
+      ]
+    ], 
+    [
+      [
+        "optical instrument", 
+        "0.75141"
+      ], 
+      [
+        "binoculars", 
+        "0.74613"
+      ], 
+      [
+        "instrument", 
+        "0.49534"
+      ], 
+      [
+        "device", 
+        "0.39710"
+      ], 
+      [
+        "equipment", 
+        "0.26859"
+      ]
+    ], 
+    "6.203"
+  ]
+}

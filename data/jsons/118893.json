@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.20942"
+      ], 
+      [
+        "combination lock", 
+        "0.15523"
+      ], 
+      [
+        "stethoscope", 
+        "0.13094"
+      ], 
+      [
+        "joystick", 
+        "0.06094"
+      ], 
+      [
+        "modem", 
+        "0.04724"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39646"
+      ], 
+      [
+        "equipment", 
+        "0.31111"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30505"
+      ], 
+      [
+        "instrument", 
+        "0.29459"
+      ], 
+      [
+        "fastener", 
+        "0.24987"
+      ]
+    ], 
+    "10.991"
+  ]
+}

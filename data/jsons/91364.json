@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.24566"
+      ], 
+      [
+        "hammer", 
+        "0.19124"
+      ], 
+      [
+        "switch", 
+        "0.04782"
+      ], 
+      [
+        "whistle", 
+        "0.04337"
+      ], 
+      [
+        "combination lock", 
+        "0.03341"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.38107"
+      ], 
+      [
+        "device", 
+        "0.36065"
+      ], 
+      [
+        "rule", 
+        "0.32172"
+      ], 
+      [
+        "measuring stick", 
+        "0.31700"
+      ], 
+      [
+        "measuring instrument", 
+        "0.29877"
+      ]
+    ], 
+    "7.452"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.20188"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.09026"
+      ], 
+      [
+        "oil filter", 
+        "0.08656"
+      ], 
+      [
+        "projector", 
+        "0.08287"
+      ], 
+      [
+        "combination lock", 
+        "0.05424"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.36943"
+      ], 
+      [
+        "device", 
+        "0.35316"
+      ], 
+      [
+        "camera", 
+        "0.30366"
+      ], 
+      [
+        "photographic equipment", 
+        "0.29861"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.27048"
+      ]
+    ], 
+    "10.388"
+  ]
+}

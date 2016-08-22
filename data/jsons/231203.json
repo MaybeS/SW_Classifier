@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.07539"
+      ], 
+      [
+        "face powder", 
+        "0.05832"
+      ], 
+      [
+        "perfume", 
+        "0.05645"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05504"
+      ], 
+      [
+        "iPod", 
+        "0.04416"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.35742"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31120"
+      ], 
+      [
+        "device", 
+        "0.30635"
+      ], 
+      [
+        "equipment", 
+        "0.29476"
+      ], 
+      [
+        "machine", 
+        "0.25448"
+      ]
+    ], 
+    "6.581"
+  ]
+}

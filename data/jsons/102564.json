@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.89431"
+      ], 
+      [
+        "switch", 
+        "0.04545"
+      ], 
+      [
+        "reflex camera", 
+        "0.01249"
+      ], 
+      [
+        "remote control", 
+        "0.00984"
+      ], 
+      [
+        "binoculars", 
+        "0.00379"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.01845"
+      ], 
+      [
+        "control", 
+        "0.98937"
+      ], 
+      [
+        "data input device", 
+        "0.94389"
+      ], 
+      [
+        "peripheral", 
+        "0.88424"
+      ], 
+      [
+        "electronic equipment", 
+        "0.76041"
+      ]
+    ], 
+    "7.579"
+  ]
+}

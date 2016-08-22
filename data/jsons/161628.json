@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.29110"
+      ], 
+      [
+        "wallet", 
+        "0.10416"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.09833"
+      ], 
+      [
+        "combination lock", 
+        "0.09423"
+      ], 
+      [
+        "hand-held computer", 
+        "0.08155"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.31535"
+      ], 
+      [
+        "device", 
+        "0.29325"
+      ], 
+      [
+        "container", 
+        "0.28476"
+      ], 
+      [
+        "equipment", 
+        "0.26887"
+      ], 
+      [
+        "covering", 
+        "0.26323"
+      ]
+    ], 
+    "7.844"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.44886"
+      ], 
+      [
+        "table lamp", 
+        "0.25185"
+      ], 
+      [
+        "shovel", 
+        "0.08966"
+      ], 
+      [
+        "ladle", 
+        "0.04506"
+      ], 
+      [
+        "ocarina", 
+        "0.02342"
+      ]
+    ], 
+    [
+      [
+        "table lamp", 
+        "0.43787"
+      ], 
+      [
+        "lamp", 
+        "0.43144"
+      ], 
+      [
+        "microphone", 
+        "0.34003"
+      ], 
+      [
+        "device", 
+        "0.31998"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.31277"
+      ]
+    ], 
+    "14.484"
+  ]
+}

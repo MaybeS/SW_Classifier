@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.23064"
+      ], 
+      [
+        "loudspeaker", 
+        "0.19370"
+      ], 
+      [
+        "desktop computer", 
+        "0.12423"
+      ], 
+      [
+        "safe", 
+        "0.06939"
+      ], 
+      [
+        "tape player", 
+        "0.06608"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.63960"
+      ], 
+      [
+        "equipment", 
+        "0.55236"
+      ], 
+      [
+        "device", 
+        "0.36748"
+      ], 
+      [
+        "loudspeaker", 
+        "0.33164"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.30628"
+      ]
+    ], 
+    "6.452"
+  ]
+}

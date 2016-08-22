@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "guillotine", 
+        "0.29244"
+      ], 
+      [
+        "envelope", 
+        "0.09693"
+      ], 
+      [
+        "book jacket", 
+        "0.08239"
+      ], 
+      [
+        "Windsor tie", 
+        "0.03864"
+      ], 
+      [
+        "hourglass", 
+        "0.03381"
+      ]
+    ], 
+    [
+      [
+        "guillotine", 
+        "0.51451"
+      ], 
+      [
+        "instrument of execution", 
+        "0.50695"
+      ], 
+      [
+        "instrument", 
+        "0.33396"
+      ], 
+      [
+        "covering", 
+        "0.32140"
+      ], 
+      [
+        "device", 
+        "0.27422"
+      ]
+    ], 
+    "5.660"
+  ]
+}

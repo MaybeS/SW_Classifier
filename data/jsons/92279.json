@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.56108"
+      ], 
+      [
+        "harmonica", 
+        "0.10022"
+      ], 
+      [
+        "modem", 
+        "0.06099"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03651"
+      ], 
+      [
+        "letter opener", 
+        "0.02867"
+      ]
+    ], 
+    [
+      [
+        "rule", 
+        "0.71130"
+      ], 
+      [
+        "measuring stick", 
+        "0.70085"
+      ], 
+      [
+        "measuring instrument", 
+        "0.48187"
+      ], 
+      [
+        "instrument", 
+        "0.40130"
+      ], 
+      [
+        "device", 
+        "0.38811"
+      ]
+    ], 
+    "10.972"
+  ]
+}

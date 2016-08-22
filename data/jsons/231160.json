@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.36516"
+      ], 
+      [
+        "lighter", 
+        "0.15763"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04163"
+      ], 
+      [
+        "whistle", 
+        "0.03950"
+      ], 
+      [
+        "web site", 
+        "0.02514"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32107"
+      ], 
+      [
+        "implement", 
+        "0.31038"
+      ], 
+      [
+        "equipment", 
+        "0.24646"
+      ], 
+      [
+        "container", 
+        "0.24444"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.21507"
+      ]
+    ], 
+    "13.054"
+  ]
+}

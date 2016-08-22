@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "accordion", 
+        "0.72162"
+      ], 
+      [
+        "electric guitar", 
+        "0.05788"
+      ], 
+      [
+        "comic book", 
+        "0.04281"
+      ], 
+      [
+        "book jacket", 
+        "0.03852"
+      ], 
+      [
+        "microphone", 
+        "0.03471"
+      ]
+    ], 
+    [
+      [
+        "accordion", 
+        "1.39818"
+      ], 
+      [
+        "free-reed instrument", 
+        "1.31941"
+      ], 
+      [
+        "keyboard instrument", 
+        "1.18647"
+      ], 
+      [
+        "musical instrument", 
+        "1.08255"
+      ], 
+      [
+        "wind instrument", 
+        "1.06593"
+      ]
+    ], 
+    "4.519"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.54083"
+      ], 
+      [
+        "switch", 
+        "0.07409"
+      ], 
+      [
+        "hard disc", 
+        "0.05629"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04338"
+      ], 
+      [
+        "reflex camera", 
+        "0.03914"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.81470"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.73425"
+      ], 
+      [
+        "transducer", 
+        "0.72204"
+      ], 
+      [
+        "electrical device", 
+        "0.70984"
+      ], 
+      [
+        "device", 
+        "0.43215"
+      ]
+    ], 
+    "6.715"
+  ]
+}

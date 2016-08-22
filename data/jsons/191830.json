@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette player", 
+        "0.29350"
+      ], 
+      [
+        "oil filter", 
+        "0.13475"
+      ], 
+      [
+        "digital clock", 
+        "0.09491"
+      ], 
+      [
+        "radio", 
+        "0.04910"
+      ], 
+      [
+        "modem", 
+        "0.04610"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.61396"
+      ], 
+      [
+        "equipment", 
+        "0.53019"
+      ], 
+      [
+        "cassette player", 
+        "0.35674"
+      ], 
+      [
+        "device", 
+        "0.32650"
+      ], 
+      [
+        "measuring instrument", 
+        "0.27974"
+      ]
+    ], 
+    "6.101"
+  ]
+}

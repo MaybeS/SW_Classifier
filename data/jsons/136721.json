@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oxygen mask", 
+        "0.81163"
+      ], 
+      [
+        "syringe", 
+        "0.02710"
+      ], 
+      [
+        "football helmet", 
+        "0.02330"
+      ], 
+      [
+        "gasmask", 
+        "0.01556"
+      ], 
+      [
+        "beaker", 
+        "0.00814"
+      ]
+    ], 
+    [
+      [
+        "oxygen mask", 
+        "0.56005"
+      ], 
+      [
+        "breathing device", 
+        "0.55254"
+      ], 
+      [
+        "covering", 
+        "0.35731"
+      ], 
+      [
+        "consumer goods", 
+        "0.29794"
+      ], 
+      [
+        "clothing", 
+        "0.29196"
+      ]
+    ], 
+    "4.906"
+  ]
+}

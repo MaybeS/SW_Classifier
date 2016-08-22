@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "grocery store", 
+        "0.12607"
+      ], 
+      [
+        "tobacco shop", 
+        "0.07385"
+      ], 
+      [
+        "shopping basket", 
+        "0.07373"
+      ], 
+      [
+        "sweatshirt", 
+        "0.07358"
+      ], 
+      [
+        "pajama", 
+        "0.06520"
+      ]
+    ], 
+    [
+      [
+        "mercantile establishment", 
+        "0.50707"
+      ], 
+      [
+        "place of business", 
+        "0.49557"
+      ], 
+      [
+        "clothing", 
+        "0.48492"
+      ], 
+      [
+        "establishment", 
+        "0.47510"
+      ], 
+      [
+        "consumer goods", 
+        "0.44805"
+      ]
+    ], 
+    "4.996"
+  ]
+}

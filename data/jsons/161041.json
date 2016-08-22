@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "thimble", 
+        "0.79155"
+      ], 
+      [
+        "lighter", 
+        "0.05370"
+      ], 
+      [
+        "oil filter", 
+        "0.05151"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.01202"
+      ], 
+      [
+        "cellular telephone", 
+        "0.00977"
+      ]
+    ], 
+    [
+      [
+        "thimble", 
+        "1.39030"
+      ], 
+      [
+        "cap", 
+        "1.23816"
+      ], 
+      [
+        "protective covering", 
+        "0.71964"
+      ], 
+      [
+        "container", 
+        "0.58334"
+      ], 
+      [
+        "covering", 
+        "0.51747"
+      ]
+    ], 
+    "9.141"
+  ]
+}

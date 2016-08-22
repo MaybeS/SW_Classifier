@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.20664"
+      ], 
+      [
+        "refrigerator", 
+        "0.19646"
+      ], 
+      [
+        "desktop computer", 
+        "0.13727"
+      ], 
+      [
+        "washer", 
+        "0.07807"
+      ], 
+      [
+        "microwave", 
+        "0.07239"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.52256"
+      ], 
+      [
+        "appliance", 
+        "0.50485"
+      ], 
+      [
+        "white goods", 
+        "0.49864"
+      ], 
+      [
+        "durables", 
+        "0.49171"
+      ], 
+      [
+        "consumer goods", 
+        "0.33360"
+      ]
+    ], 
+    "10.765"
+  ]
+}

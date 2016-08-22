@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.69876"
+      ], 
+      [
+        "switch", 
+        "0.05920"
+      ], 
+      [
+        "cassette player", 
+        "0.03796"
+      ], 
+      [
+        "spotlight", 
+        "0.02463"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02393"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.04372"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.93799"
+      ], 
+      [
+        "transducer", 
+        "0.92240"
+      ], 
+      [
+        "electrical device", 
+        "0.90680"
+      ], 
+      [
+        "device", 
+        "0.43970"
+      ]
+    ], 
+    "5.713"
+  ]
+}

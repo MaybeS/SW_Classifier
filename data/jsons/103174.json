@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.13569"
+      ], 
+      [
+        "vending machine", 
+        "0.12960"
+      ], 
+      [
+        "scoreboard", 
+        "0.12021"
+      ], 
+      [
+        "cash machine", 
+        "0.07792"
+      ], 
+      [
+        "digital clock", 
+        "0.05402"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.83629"
+      ], 
+      [
+        "web site", 
+        "0.56232"
+      ], 
+      [
+        "slot machine", 
+        "0.54947"
+      ], 
+      [
+        "computer", 
+        "0.50973"
+      ], 
+      [
+        "vending machine", 
+        "0.45040"
+      ]
+    ], 
+    "4.833"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.19465"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.18015"
+      ], 
+      [
+        "vacuum", 
+        "0.13211"
+      ], 
+      [
+        "lawn mower", 
+        "0.05788"
+      ], 
+      [
+        "radio", 
+        "0.04174"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.55044"
+      ], 
+      [
+        "photographic equipment", 
+        "0.54129"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.51462"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.49590"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.49152"
+      ]
+    ], 
+    "5.331"
+  ]
+}

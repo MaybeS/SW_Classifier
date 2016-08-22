@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.38086"
+      ], 
+      [
+        "loupe", 
+        "0.30234"
+      ], 
+      [
+        "oxygen mask", 
+        "0.08723"
+      ], 
+      [
+        "magnetic compass", 
+        "0.06371"
+      ], 
+      [
+        "stethoscope", 
+        "0.04419"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.42847"
+      ], 
+      [
+        "acoustic device", 
+        "0.42218"
+      ], 
+      [
+        "signaling device", 
+        "0.42218"
+      ], 
+      [
+        "device", 
+        "0.40429"
+      ], 
+      [
+        "instrument", 
+        "0.31423"
+      ]
+    ], 
+    "13.661"
+  ]
+}

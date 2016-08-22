@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.72332"
+      ], 
+      [
+        "tray", 
+        "0.08493"
+      ], 
+      [
+        "modem", 
+        "0.03130"
+      ], 
+      [
+        "packet", 
+        "0.01654"
+      ], 
+      [
+        "breastplate", 
+        "0.01275"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.24431"
+      ], 
+      [
+        "magnetic disk", 
+        "1.22604"
+      ], 
+      [
+        "memory device", 
+        "1.20776"
+      ], 
+      [
+        "device", 
+        "0.43614"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35680"
+      ]
+    ], 
+    "6.713"
+  ]
+}

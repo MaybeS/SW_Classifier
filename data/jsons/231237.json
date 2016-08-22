@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.76519"
+      ], 
+      [
+        "joystick", 
+        "0.04261"
+      ], 
+      [
+        "digital watch", 
+        "0.04093"
+      ], 
+      [
+        "hand-held computer", 
+        "0.02268"
+      ], 
+      [
+        "switch", 
+        "0.02198"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.77939"
+      ], 
+      [
+        "photographic equipment", 
+        "1.74981"
+      ], 
+      [
+        "reflex camera", 
+        "1.71499"
+      ], 
+      [
+        "equipment", 
+        "0.96689"
+      ], 
+      [
+        "device", 
+        "0.33236"
+      ]
+    ], 
+    "5.964"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.25188"
+      ], 
+      [
+        "cellular telephone", 
+        "0.11845"
+      ], 
+      [
+        "dial telephone", 
+        "0.08187"
+      ], 
+      [
+        "modem", 
+        "0.06015"
+      ], 
+      [
+        "radio", 
+        "0.05304"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.50763"
+      ], 
+      [
+        "equipment", 
+        "0.44228"
+      ], 
+      [
+        "telephone", 
+        "0.40696"
+      ], 
+      [
+        "device", 
+        "0.39644"
+      ], 
+      [
+        "lock", 
+        "0.35118"
+      ]
+    ], 
+    "12.622"
+  ]
+}

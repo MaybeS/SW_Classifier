@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.60818"
+      ], 
+      [
+        "binoculars", 
+        "0.22341"
+      ], 
+      [
+        "car wheel", 
+        "0.05697"
+      ], 
+      [
+        "reflex camera", 
+        "0.04912"
+      ], 
+      [
+        "projector", 
+        "0.02091"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37282"
+      ], 
+      [
+        "spotlight", 
+        "0.30323"
+      ], 
+      [
+        "source of illumination", 
+        "0.27895"
+      ], 
+      [
+        "container", 
+        "0.27636"
+      ], 
+      [
+        "lamp", 
+        "0.27383"
+      ]
+    ], 
+    "6.589"
+  ]
+}

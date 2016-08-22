@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.72457"
+      ], 
+      [
+        "loupe", 
+        "0.08372"
+      ], 
+      [
+        "spotlight", 
+        "0.06293"
+      ], 
+      [
+        "reflex camera", 
+        "0.02371"
+      ], 
+      [
+        "lens cap", 
+        "0.01676"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.08040"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.97540"
+      ], 
+      [
+        "transducer", 
+        "0.95918"
+      ], 
+      [
+        "electrical device", 
+        "0.94296"
+      ], 
+      [
+        "device", 
+        "0.45847"
+      ]
+    ], 
+    "6.688"
+  ]
+}

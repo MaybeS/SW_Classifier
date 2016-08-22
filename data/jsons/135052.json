@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.88587"
+      ], 
+      [
+        "plunger", 
+        "0.05113"
+      ], 
+      [
+        "microphone", 
+        "0.03430"
+      ], 
+      [
+        "vacuum", 
+        "0.00995"
+      ], 
+      [
+        "modem", 
+        "0.00359"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.00615"
+      ], 
+      [
+        "control", 
+        "0.93512"
+      ], 
+      [
+        "data input device", 
+        "0.93149"
+      ], 
+      [
+        "peripheral", 
+        "0.87139"
+      ], 
+      [
+        "electronic equipment", 
+        "0.73627"
+      ]
+    ], 
+    "6.034"
+  ]
+}

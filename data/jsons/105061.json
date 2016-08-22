@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.54169"
+      ], 
+      [
+        "modem", 
+        "0.18890"
+      ], 
+      [
+        "desktop computer", 
+        "0.04722"
+      ], 
+      [
+        "carton", 
+        "0.02371"
+      ], 
+      [
+        "sunscreen", 
+        "0.01925"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.53925"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33736"
+      ], 
+      [
+        "protective covering", 
+        "0.32162"
+      ], 
+      [
+        "equipment", 
+        "0.31791"
+      ], 
+      [
+        "covering", 
+        "0.28230"
+      ]
+    ], 
+    "7.574"
+  ]
+}

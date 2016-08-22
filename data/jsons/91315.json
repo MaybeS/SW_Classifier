@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.32087"
+      ], 
+      [
+        "switch", 
+        "0.19577"
+      ], 
+      [
+        "reflex camera", 
+        "0.09370"
+      ], 
+      [
+        "modem", 
+        "0.06512"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.04491"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.40631"
+      ], 
+      [
+        "combination lock", 
+        "0.39580"
+      ], 
+      [
+        "equipment", 
+        "0.38664"
+      ], 
+      [
+        "device", 
+        "0.37831"
+      ], 
+      [
+        "fastener", 
+        "0.35898"
+      ]
+    ], 
+    "7.439"
+  ]
+}

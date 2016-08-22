@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "parallel bars", 
+        "0.38587"
+      ], 
+      [
+        "horizontal bar", 
+        "0.30860"
+      ], 
+      [
+        "racket", 
+        "0.18063"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.05055"
+      ], 
+      [
+        "balance beam", 
+        "0.02241"
+      ]
+    ], 
+    [
+      [
+        "gymnastic apparatus", 
+        "1.20418"
+      ], 
+      [
+        "sports equipment", 
+        "1.09970"
+      ], 
+      [
+        "equipment", 
+        "0.93405"
+      ], 
+      [
+        "parallel bars", 
+        "0.71133"
+      ], 
+      [
+        "ball", 
+        "0.49784"
+      ]
+    ], 
+    "4.962"
+  ]
+}

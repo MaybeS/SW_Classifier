@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.26290"
+      ], 
+      [
+        "can opener", 
+        "0.24370"
+      ], 
+      [
+        "scale", 
+        "0.13176"
+      ], 
+      [
+        "digital watch", 
+        "0.06892"
+      ], 
+      [
+        "barometer", 
+        "0.03836"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.92851"
+      ], 
+      [
+        "instrument", 
+        "0.76464"
+      ], 
+      [
+        "timepiece", 
+        "0.75184"
+      ], 
+      [
+        "clock", 
+        "0.58933"
+      ], 
+      [
+        "device", 
+        "0.47414"
+      ]
+    ], 
+    "11.275"
+  ]
+}

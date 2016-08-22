@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.75571"
+      ], 
+      [
+        "tape player", 
+        "0.03222"
+      ], 
+      [
+        "scoreboard", 
+        "0.02412"
+      ], 
+      [
+        "radio", 
+        "0.02397"
+      ], 
+      [
+        "CD player", 
+        "0.01980"
+      ]
+    ], 
+    [
+      [
+        "digital clock", 
+        "1.11542"
+      ], 
+      [
+        "measuring instrument", 
+        "1.03938"
+      ], 
+      [
+        "timepiece", 
+        "1.03771"
+      ], 
+      [
+        "clock", 
+        "0.96896"
+      ], 
+      [
+        "instrument", 
+        "0.74265"
+      ]
+    ], 
+    "6.596"
+  ]
+}

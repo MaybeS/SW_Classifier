@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "studio couch", 
+        "0.25631"
+      ], 
+      [
+        "balance beam", 
+        "0.15962"
+      ], 
+      [
+        "slide rule", 
+        "0.11664"
+      ], 
+      [
+        "stretcher", 
+        "0.07995"
+      ], 
+      [
+        "guillotine", 
+        "0.05575"
+      ]
+    ], 
+    [
+      [
+        "studio couch", 
+        "0.57036"
+      ], 
+      [
+        "convertible", 
+        "0.56199"
+      ], 
+      [
+        "sofa", 
+        "0.55361"
+      ], 
+      [
+        "furniture", 
+        "0.51194"
+      ], 
+      [
+        "furnishing", 
+        "0.49001"
+      ]
+    ], 
+    "5.865"
+  ]
+}

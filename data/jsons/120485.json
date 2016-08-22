@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.08675"
+      ], 
+      [
+        "whistle", 
+        "0.05682"
+      ], 
+      [
+        "modem", 
+        "0.05586"
+      ], 
+      [
+        "remote control", 
+        "0.05178"
+      ], 
+      [
+        "sunglass", 
+        "0.03834"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34413"
+      ], 
+      [
+        "equipment", 
+        "0.31067"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29644"
+      ], 
+      [
+        "covering", 
+        "0.24018"
+      ], 
+      [
+        "consumer goods", 
+        "0.22894"
+      ]
+    ], 
+    "8.315"
+  ]
+}

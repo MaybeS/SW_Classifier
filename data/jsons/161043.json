@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "candle", 
+        "0.24653"
+      ], 
+      [
+        "lipstick", 
+        "0.23975"
+      ], 
+      [
+        "lighter", 
+        "0.13151"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.08626"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06590"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.49918"
+      ], 
+      [
+        "lipstick", 
+        "0.49902"
+      ], 
+      [
+        "makeup", 
+        "0.49701"
+      ], 
+      [
+        "cosmetic", 
+        "0.48874"
+      ], 
+      [
+        "source of illumination", 
+        "0.38661"
+      ]
+    ], 
+    "6.248"
+  ]
+}

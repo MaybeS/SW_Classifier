@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric guitar", 
+        "0.21865"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.10164"
+      ], 
+      [
+        "modem", 
+        "0.08495"
+      ], 
+      [
+        "switch", 
+        "0.08090"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.06540"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40262"
+      ], 
+      [
+        "guitar", 
+        "0.39371"
+      ], 
+      [
+        "equipment", 
+        "0.37579"
+      ], 
+      [
+        "stringed instrument", 
+        "0.36762"
+      ], 
+      [
+        "musical instrument", 
+        "0.35456"
+      ]
+    ], 
+    "10.366"
+  ]
+}

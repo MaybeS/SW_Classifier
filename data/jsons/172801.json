@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.53137"
+      ], 
+      [
+        "spotlight", 
+        "0.05521"
+      ], 
+      [
+        "whistle", 
+        "0.04421"
+      ], 
+      [
+        "syringe", 
+        "0.04092"
+      ], 
+      [
+        "can opener", 
+        "0.03660"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.40770"
+      ], 
+      [
+        "device", 
+        "0.37855"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.37756"
+      ], 
+      [
+        "transducer", 
+        "0.37128"
+      ], 
+      [
+        "electrical device", 
+        "0.36500"
+      ]
+    ], 
+    "13.139"
+  ]
+}

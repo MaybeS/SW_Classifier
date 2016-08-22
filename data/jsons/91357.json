@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.50984"
+      ], 
+      [
+        "combination lock", 
+        "0.23588"
+      ], 
+      [
+        "CD player", 
+        "0.05734"
+      ], 
+      [
+        "magnetic compass", 
+        "0.04109"
+      ], 
+      [
+        "waffle iron", 
+        "0.02172"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.44734"
+      ], 
+      [
+        "instrument", 
+        "0.43650"
+      ], 
+      [
+        "stethoscope", 
+        "0.41712"
+      ], 
+      [
+        "medical instrument", 
+        "0.38541"
+      ], 
+      [
+        "lock", 
+        "0.31438"
+      ]
+    ], 
+    "11.731"
+  ]
+}

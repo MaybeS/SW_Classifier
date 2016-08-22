@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.47774"
+      ], 
+      [
+        "loudspeaker", 
+        "0.31898"
+      ], 
+      [
+        "combination lock", 
+        "0.02503"
+      ], 
+      [
+        "reflex camera", 
+        "0.02449"
+      ], 
+      [
+        "radio", 
+        "0.01822"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.52189"
+      ], 
+      [
+        "control", 
+        "0.51810"
+      ], 
+      [
+        "loudspeaker", 
+        "0.49731"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.44984"
+      ], 
+      [
+        "transducer", 
+        "0.44236"
+      ]
+    ], 
+    "9.290"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.38915"
+      ], 
+      [
+        "chain mail", 
+        "0.20002"
+      ], 
+      [
+        "wool", 
+        "0.11988"
+      ], 
+      [
+        "cuirass", 
+        "0.06760"
+      ], 
+      [
+        "pickelhaube", 
+        "0.03282"
+      ]
+    ], 
+    [
+      [
+        "body armor", 
+        "1.28036"
+      ], 
+      [
+        "armor", 
+        "1.20895"
+      ], 
+      [
+        "protective covering", 
+        "0.93367"
+      ], 
+      [
+        "covering", 
+        "0.90861"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.76622"
+      ]
+    ], 
+    "7.235"
+  ]
+}

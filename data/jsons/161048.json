@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.34513"
+      ], 
+      [
+        "combination lock", 
+        "0.15628"
+      ], 
+      [
+        "digital watch", 
+        "0.10387"
+      ], 
+      [
+        "cassette player", 
+        "0.07750"
+      ], 
+      [
+        "stopwatch", 
+        "0.04273"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.74741"
+      ], 
+      [
+        "hand-held computer", 
+        "0.73477"
+      ], 
+      [
+        "personal computer", 
+        "0.72341"
+      ], 
+      [
+        "digital computer", 
+        "0.70956"
+      ], 
+      [
+        "computer", 
+        "0.65788"
+      ]
+    ], 
+    "6.332"
+  ]
+}

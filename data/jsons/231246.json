@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.41424"
+      ], 
+      [
+        "lens cap", 
+        "0.30986"
+      ], 
+      [
+        "loudspeaker", 
+        "0.02056"
+      ], 
+      [
+        "washer", 
+        "0.01838"
+      ], 
+      [
+        "oil filter", 
+        "0.01472"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.06457"
+      ], 
+      [
+        "photographic equipment", 
+        "1.04687"
+      ], 
+      [
+        "reflex camera", 
+        "1.02234"
+      ], 
+      [
+        "lens cap", 
+        "0.62364"
+      ], 
+      [
+        "equipment", 
+        "0.61591"
+      ]
+    ], 
+    "5.277"
+  ]
+}

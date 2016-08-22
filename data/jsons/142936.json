@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "letter opener", 
+        "0.15488"
+      ], 
+      [
+        "modem", 
+        "0.12952"
+      ], 
+      [
+        "remote control", 
+        "0.10292"
+      ], 
+      [
+        "can opener", 
+        "0.07868"
+      ], 
+      [
+        "ballpoint", 
+        "0.07000"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.43207"
+      ], 
+      [
+        "device", 
+        "0.33559"
+      ], 
+      [
+        "tool", 
+        "0.29946"
+      ], 
+      [
+        "equipment", 
+        "0.27307"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26896"
+      ]
+    ], 
+    "13.197"
+  ]
+}

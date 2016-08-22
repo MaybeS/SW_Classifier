@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.93153"
+      ], 
+      [
+        "cassette player", 
+        "0.00959"
+      ], 
+      [
+        "switch", 
+        "0.00913"
+      ], 
+      [
+        "joystick", 
+        "0.00756"
+      ], 
+      [
+        "digital watch", 
+        "0.00601"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.13453"
+      ], 
+      [
+        "photographic equipment", 
+        "2.09904"
+      ], 
+      [
+        "reflex camera", 
+        "2.08035"
+      ], 
+      [
+        "equipment", 
+        "1.07036"
+      ], 
+      [
+        "lens cap", 
+        "0.34641"
+      ]
+    ], 
+    "5.812"
+  ]
+}

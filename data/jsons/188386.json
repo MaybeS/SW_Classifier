@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "packet", 
+        "0.65872"
+      ], 
+      [
+        "hard disc", 
+        "0.17885"
+      ], 
+      [
+        "hand-held computer", 
+        "0.03751"
+      ], 
+      [
+        "oil filter", 
+        "0.01047"
+      ], 
+      [
+        "plastic bag", 
+        "0.00847"
+      ]
+    ], 
+    [
+      [
+        "packet", 
+        "0.52846"
+      ], 
+      [
+        "package", 
+        "0.52069"
+      ], 
+      [
+        "container", 
+        "0.38009"
+      ], 
+      [
+        "hard disc", 
+        "0.33054"
+      ], 
+      [
+        "magnetic disk", 
+        "0.32568"
+      ]
+    ], 
+    "9.097"
+  ]
+}

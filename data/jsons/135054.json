@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.51657"
+      ], 
+      [
+        "binoculars", 
+        "0.11893"
+      ], 
+      [
+        "spotlight", 
+        "0.07723"
+      ], 
+      [
+        "loupe", 
+        "0.04912"
+      ], 
+      [
+        "thimble", 
+        "0.03786"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.40263"
+      ], 
+      [
+        "device", 
+        "0.39231"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.37608"
+      ], 
+      [
+        "transducer", 
+        "0.36983"
+      ], 
+      [
+        "electrical device", 
+        "0.36357"
+      ]
+    ], 
+    "7.061"
+  ]
+}

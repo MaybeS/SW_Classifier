@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cuirass", 
+        "0.29636"
+      ], 
+      [
+        "breastplate", 
+        "0.26416"
+      ], 
+      [
+        "maillot", 
+        "0.13613"
+      ], 
+      [
+        "maillot", 
+        "0.05948"
+      ], 
+      [
+        "cardigan", 
+        "0.02747"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "1.00144"
+      ], 
+      [
+        "protective covering", 
+        "0.76875"
+      ], 
+      [
+        "clothing", 
+        "0.76604"
+      ], 
+      [
+        "cuirass", 
+        "0.70939"
+      ], 
+      [
+        "consumer goods", 
+        "0.68790"
+      ]
+    ], 
+    "8.029"
+  ]
+}

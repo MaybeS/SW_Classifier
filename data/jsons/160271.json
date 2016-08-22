@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.42289"
+      ], 
+      [
+        "hand-held computer", 
+        "0.28041"
+      ], 
+      [
+        "revolver", 
+        "0.03636"
+      ], 
+      [
+        "assault rifle", 
+        "0.02823"
+      ], 
+      [
+        "modem", 
+        "0.02804"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.74899"
+      ], 
+      [
+        "magnetic disk", 
+        "0.73799"
+      ], 
+      [
+        "memory device", 
+        "0.72699"
+      ], 
+      [
+        "portable computer", 
+        "0.67482"
+      ], 
+      [
+        "personal computer", 
+        "0.67081"
+      ]
+    ], 
+    "6.970"
+  ]
+}

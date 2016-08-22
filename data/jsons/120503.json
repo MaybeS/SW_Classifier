@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.45886"
+      ], 
+      [
+        "mousetrap", 
+        "0.26885"
+      ], 
+      [
+        "Petri dish", 
+        "0.05062"
+      ], 
+      [
+        "matchstick", 
+        "0.03611"
+      ], 
+      [
+        "tray", 
+        "0.03118"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "0.78888"
+      ], 
+      [
+        "rack", 
+        "0.77729"
+      ], 
+      [
+        "framework", 
+        "0.68796"
+      ], 
+      [
+        "supporting structure", 
+        "0.63197"
+      ], 
+      [
+        "structure", 
+        "0.37798"
+      ]
+    ], 
+    "7.865"
+  ]
+}

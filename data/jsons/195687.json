@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.99948"
+      ], 
+      [
+        "plate rack", 
+        "0.00042"
+      ], 
+      [
+        "medicine chest", 
+        "0.00004"
+      ], 
+      [
+        "bakery", 
+        "0.00002"
+      ], 
+      [
+        "dishwasher", 
+        "0.00001"
+      ]
+    ], 
+    [
+      [
+        "refrigerator", 
+        "1.52406"
+      ], 
+      [
+        "white goods", 
+        "1.34867"
+      ], 
+      [
+        "home appliance", 
+        "1.08976"
+      ], 
+      [
+        "appliance", 
+        "1.04421"
+      ], 
+      [
+        "durables", 
+        "1.01704"
+      ]
+    ], 
+    "5.318"
+  ]
+}

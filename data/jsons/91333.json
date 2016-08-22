@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.68610"
+      ], 
+      [
+        "padlock", 
+        "0.09996"
+      ], 
+      [
+        "switch", 
+        "0.08560"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.01346"
+      ], 
+      [
+        "cash machine", 
+        "0.01159"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.91460"
+      ], 
+      [
+        "combination lock", 
+        "0.81808"
+      ], 
+      [
+        "fastener", 
+        "0.76207"
+      ], 
+      [
+        "restraint", 
+        "0.70084"
+      ], 
+      [
+        "device", 
+        "0.46622"
+      ]
+    ], 
+    "6.802"
+  ]
+}

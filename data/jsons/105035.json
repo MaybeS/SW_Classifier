@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stove", 
+        "0.11189"
+      ], 
+      [
+        "table lamp", 
+        "0.07419"
+      ], 
+      [
+        "microphone", 
+        "0.06829"
+      ], 
+      [
+        "espresso maker", 
+        "0.06049"
+      ], 
+      [
+        "dining table", 
+        "0.05857"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.31010"
+      ], 
+      [
+        "furnishing", 
+        "0.29341"
+      ], 
+      [
+        "device", 
+        "0.27629"
+      ], 
+      [
+        "home appliance", 
+        "0.27398"
+      ], 
+      [
+        "appliance", 
+        "0.27047"
+      ]
+    ], 
+    "11.333"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lampshade", 
+        "0.24048"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.22197"
+      ], 
+      [
+        "spotlight", 
+        "0.14016"
+      ], 
+      [
+        "face powder", 
+        "0.09913"
+      ], 
+      [
+        "brassiere", 
+        "0.05350"
+      ]
+    ], 
+    [
+      [
+        "ping-pong ball", 
+        "0.45794"
+      ], 
+      [
+        "ball", 
+        "0.40012"
+      ], 
+      [
+        "game equipment", 
+        "0.37667"
+      ], 
+      [
+        "equipment", 
+        "0.33270"
+      ], 
+      [
+        "covering", 
+        "0.27881"
+      ]
+    ], 
+    "7.589"
+  ]
+}

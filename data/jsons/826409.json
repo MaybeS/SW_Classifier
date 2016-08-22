@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "swimming trunks", 
+        "0.25704"
+      ], 
+      [
+        "jean", 
+        "0.20830"
+      ], 
+      [
+        "web site", 
+        "0.04712"
+      ], 
+      [
+        "paintbrush", 
+        "0.03635"
+      ], 
+      [
+        "rubber eraser", 
+        "0.02235"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "0.80677"
+      ], 
+      [
+        "clothing", 
+        "0.79028"
+      ], 
+      [
+        "consumer goods", 
+        "0.70172"
+      ], 
+      [
+        "commodity", 
+        "0.67246"
+      ], 
+      [
+        "covering", 
+        "0.66110"
+      ]
+    ], 
+    "7.066"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crash helmet", 
+        "0.76547"
+      ], 
+      [
+        "football helmet", 
+        "0.04345"
+      ], 
+      [
+        "oxygen mask", 
+        "0.03013"
+      ], 
+      [
+        "neck brace", 
+        "0.02068"
+      ], 
+      [
+        "carton", 
+        "0.01047"
+      ]
+    ], 
+    [
+      [
+        "crash helmet", 
+        "1.75798"
+      ], 
+      [
+        "helmet", 
+        "1.69116"
+      ], 
+      [
+        "headdress", 
+        "1.29427"
+      ], 
+      [
+        "clothing", 
+        "0.81076"
+      ], 
+      [
+        "consumer goods", 
+        "0.74314"
+      ]
+    ], 
+    "5.415"
+  ]
+}

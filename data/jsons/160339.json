@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.93064"
+      ], 
+      [
+        "radio", 
+        "0.02778"
+      ], 
+      [
+        "CD player", 
+        "0.01530"
+      ], 
+      [
+        "modem", 
+        "0.00805"
+      ], 
+      [
+        "hard disc", 
+        "0.00649"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "1.12916"
+      ], 
+      [
+        "optical instrument", 
+        "0.93870"
+      ], 
+      [
+        "instrument", 
+        "0.56021"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.41712"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.40248"
+      ]
+    ], 
+    "6.109"
+  ]
+}

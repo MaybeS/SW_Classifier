@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oxygen mask", 
+        "0.52974"
+      ], 
+      [
+        "stethoscope", 
+        "0.15563"
+      ], 
+      [
+        "loupe", 
+        "0.11244"
+      ], 
+      [
+        "can opener", 
+        "0.05176"
+      ], 
+      [
+        "combination lock", 
+        "0.03346"
+      ]
+    ], 
+    [
+      [
+        "breathing device", 
+        "0.42918"
+      ], 
+      [
+        "oxygen mask", 
+        "0.38318"
+      ], 
+      [
+        "device", 
+        "0.35068"
+      ], 
+      [
+        "covering", 
+        "0.30205"
+      ], 
+      [
+        "consumer goods", 
+        "0.26670"
+      ]
+    ], 
+    "6.445"
+  ]
+}

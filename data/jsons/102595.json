@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.49673"
+      ], 
+      [
+        "clog", 
+        "0.16352"
+      ], 
+      [
+        "hair slide", 
+        "0.09651"
+      ], 
+      [
+        "sandal", 
+        "0.05811"
+      ], 
+      [
+        "remote control", 
+        "0.03681"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "1.37758"
+      ], 
+      [
+        "wind instrument", 
+        "0.84160"
+      ], 
+      [
+        "musical instrument", 
+        "0.70104"
+      ], 
+      [
+        "device", 
+        "0.40667"
+      ], 
+      [
+        "footwear", 
+        "0.37250"
+      ]
+    ], 
+    "6.429"
+  ]
+}

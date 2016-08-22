@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.19131"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.18406"
+      ], 
+      [
+        "oil filter", 
+        "0.06362"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04547"
+      ], 
+      [
+        "screwdriver", 
+        "0.04089"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.34393"
+      ], 
+      [
+        "device", 
+        "0.30222"
+      ], 
+      [
+        "container", 
+        "0.27017"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.25281"
+      ], 
+      [
+        "equipment", 
+        "0.24946"
+      ]
+    ], 
+    "5.736"
+  ]
+}

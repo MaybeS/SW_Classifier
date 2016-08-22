@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.46892"
+      ], 
+      [
+        "modem", 
+        "0.28720"
+      ], 
+      [
+        "CD player", 
+        "0.10277"
+      ], 
+      [
+        "remote control", 
+        "0.04588"
+      ], 
+      [
+        "digital clock", 
+        "0.01736"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.78475"
+      ], 
+      [
+        "equipment", 
+        "0.65981"
+      ], 
+      [
+        "radio", 
+        "0.47369"
+      ], 
+      [
+        "communication system", 
+        "0.43108"
+      ], 
+      [
+        "system", 
+        "0.40967"
+      ]
+    ], 
+    "11.743"
+  ]
+}

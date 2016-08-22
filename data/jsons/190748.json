@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.57692"
+      ], 
+      [
+        "whistle", 
+        "0.26652"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05787"
+      ], 
+      [
+        "lighter", 
+        "0.02082"
+      ], 
+      [
+        "Band Aid", 
+        "0.01677"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.55228"
+      ], 
+      [
+        "whistle", 
+        "0.36864"
+      ], 
+      [
+        "acoustic device", 
+        "0.36322"
+      ], 
+      [
+        "signaling device", 
+        "0.36322"
+      ], 
+      [
+        "rubber eraser", 
+        "0.36162"
+      ]
+    ], 
+    "5.027"
+  ]
+}

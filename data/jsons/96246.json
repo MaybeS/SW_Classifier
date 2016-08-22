@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.29371"
+      ], 
+      [
+        "switch", 
+        "0.13321"
+      ], 
+      [
+        "soap dispenser", 
+        "0.08230"
+      ], 
+      [
+        "remote control", 
+        "0.07746"
+      ], 
+      [
+        "can opener", 
+        "0.07245"
+      ]
+    ], 
+    [
+      [
+        "cellular telephone", 
+        "0.54753"
+      ], 
+      [
+        "electronic equipment", 
+        "0.54027"
+      ], 
+      [
+        "radiotelephone", 
+        "0.53949"
+      ], 
+      [
+        "telephone", 
+        "0.47751"
+      ], 
+      [
+        "equipment", 
+        "0.45400"
+      ]
+    ], 
+    "5.180"
+  ]
+}

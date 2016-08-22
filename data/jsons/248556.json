@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.29979"
+      ], 
+      [
+        "modem", 
+        "0.29828"
+      ], 
+      [
+        "cellular telephone", 
+        "0.11897"
+      ], 
+      [
+        "desktop computer", 
+        "0.03634"
+      ], 
+      [
+        "remote control", 
+        "0.02832"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.63228"
+      ], 
+      [
+        "equipment", 
+        "0.55089"
+      ], 
+      [
+        "loudspeaker", 
+        "0.47521"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.43094"
+      ], 
+      [
+        "transducer", 
+        "0.42377"
+      ]
+    ], 
+    "11.406"
+  ]
+}

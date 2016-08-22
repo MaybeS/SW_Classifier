@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.23363"
+      ], 
+      [
+        "lighter", 
+        "0.21866"
+      ], 
+      [
+        "packet", 
+        "0.05130"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03248"
+      ], 
+      [
+        "sunscreen", 
+        "0.03007"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.47476"
+      ], 
+      [
+        "device", 
+        "0.37676"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32256"
+      ], 
+      [
+        "equipment", 
+        "0.30468"
+      ], 
+      [
+        "container", 
+        "0.22935"
+      ]
+    ], 
+    "9.641"
+  ]
+}

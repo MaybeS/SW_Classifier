@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.67226"
+      ], 
+      [
+        "washer", 
+        "0.06116"
+      ], 
+      [
+        "hand blower", 
+        "0.04879"
+      ], 
+      [
+        "combination lock", 
+        "0.03471"
+      ], 
+      [
+        "strainer", 
+        "0.02967"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "1.43790"
+      ], 
+      [
+        "fan", 
+        "1.41678"
+      ], 
+      [
+        "device", 
+        "0.46013"
+      ], 
+      [
+        "container", 
+        "0.21618"
+      ], 
+      [
+        "consumer goods", 
+        "0.20939"
+      ]
+    ], 
+    "9.895"
+  ]
+}

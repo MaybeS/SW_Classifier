@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carton", 
+        "0.22363"
+      ], 
+      [
+        "tobacco shop", 
+        "0.07649"
+      ], 
+      [
+        "bookshop", 
+        "0.05232"
+      ], 
+      [
+        "packet", 
+        "0.04250"
+      ], 
+      [
+        "crate", 
+        "0.03820"
+      ]
+    ], 
+    [
+      [
+        "mercantile establishment", 
+        "0.43194"
+      ], 
+      [
+        "place of business", 
+        "0.42215"
+      ], 
+      [
+        "shop", 
+        "0.41369"
+      ], 
+      [
+        "establishment", 
+        "0.40857"
+      ], 
+      [
+        "structure", 
+        "0.38682"
+      ]
+    ], 
+    "4.550"
+  ]
+}

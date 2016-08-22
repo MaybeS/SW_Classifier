@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.14014"
+      ], 
+      [
+        "combination lock", 
+        "0.10406"
+      ], 
+      [
+        "scoreboard", 
+        "0.09087"
+      ], 
+      [
+        "remote control", 
+        "0.08923"
+      ], 
+      [
+        "gas pump", 
+        "0.08852"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.41182"
+      ], 
+      [
+        "measuring instrument", 
+        "0.36285"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33117"
+      ], 
+      [
+        "timepiece", 
+        "0.32673"
+      ], 
+      [
+        "machine", 
+        "0.31851"
+      ]
+    ], 
+    "5.491"
+  ]
+}

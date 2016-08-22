@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "laptop", 
+        "0.19720"
+      ], 
+      [
+        "notebook", 
+        "0.10486"
+      ], 
+      [
+        "joystick", 
+        "0.03964"
+      ], 
+      [
+        "web site", 
+        "0.03908"
+      ], 
+      [
+        "television", 
+        "0.03392"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.58915"
+      ], 
+      [
+        "machine", 
+        "0.53061"
+      ], 
+      [
+        "personal computer", 
+        "0.51954"
+      ], 
+      [
+        "digital computer", 
+        "0.50959"
+      ], 
+      [
+        "portable computer", 
+        "0.47447"
+      ]
+    ], 
+    "6.413"
+  ]
+}

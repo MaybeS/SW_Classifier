@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.53844"
+      ], 
+      [
+        "loudspeaker", 
+        "0.15548"
+      ], 
+      [
+        "soap dispenser", 
+        "0.06255"
+      ], 
+      [
+        "combination lock", 
+        "0.04041"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.03084"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.58867"
+      ], 
+      [
+        "control", 
+        "0.57332"
+      ], 
+      [
+        "mechanism", 
+        "0.42298"
+      ], 
+      [
+        "device", 
+        "0.38940"
+      ], 
+      [
+        "equipment", 
+        "0.28643"
+      ]
+    ], 
+    "9.196"
+  ]
+}

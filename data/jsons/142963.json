@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Band Aid", 
+        "0.47661"
+      ], 
+      [
+        "packet", 
+        "0.40923"
+      ], 
+      [
+        "sunscreen", 
+        "0.01753"
+      ], 
+      [
+        "rubber eraser", 
+        "0.01739"
+      ], 
+      [
+        "confectionery", 
+        "0.00771"
+      ]
+    ], 
+    [
+      [
+        "Band Aid", 
+        "0.46926"
+      ], 
+      [
+        "adhesive bandage", 
+        "0.46237"
+      ], 
+      [
+        "bandage", 
+        "0.45548"
+      ], 
+      [
+        "dressing", 
+        "0.44858"
+      ], 
+      [
+        "covering", 
+        "0.41410"
+      ]
+    ], 
+    "6.186"
+  ]
+}

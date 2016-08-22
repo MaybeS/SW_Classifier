@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.32429"
+      ], 
+      [
+        "soap dispenser", 
+        "0.21259"
+      ], 
+      [
+        "digital clock", 
+        "0.07320"
+      ], 
+      [
+        "printer", 
+        "0.04104"
+      ], 
+      [
+        "scale", 
+        "0.03094"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.29424"
+      ], 
+      [
+        "device", 
+        "0.29334"
+      ], 
+      [
+        "equipment", 
+        "0.26325"
+      ], 
+      [
+        "implement", 
+        "0.24099"
+      ], 
+      [
+        "electronic equipment", 
+        "0.23229"
+      ]
+    ], 
+    "8.109"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.32781"
+      ], 
+      [
+        "projector", 
+        "0.16541"
+      ], 
+      [
+        "loupe", 
+        "0.13803"
+      ], 
+      [
+        "combination lock", 
+        "0.09842"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06645"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38745"
+      ], 
+      [
+        "instrument", 
+        "0.28630"
+      ], 
+      [
+        "container", 
+        "0.26573"
+      ], 
+      [
+        "projector", 
+        "0.23267"
+      ], 
+      [
+        "equipment", 
+        "0.22708"
+      ]
+    ], 
+    "8.509"
+  ]
+}

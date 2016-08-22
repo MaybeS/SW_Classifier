@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.36655"
+      ], 
+      [
+        "wallet", 
+        "0.12852"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06349"
+      ], 
+      [
+        "Band Aid", 
+        "0.06045"
+      ], 
+      [
+        "pencil box", 
+        "0.05488"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.31678"
+      ], 
+      [
+        "container", 
+        "0.31189"
+      ], 
+      [
+        "device", 
+        "0.24740"
+      ], 
+      [
+        "covering", 
+        "0.23804"
+      ], 
+      [
+        "consumer goods", 
+        "0.20673"
+      ]
+    ], 
+    "5.940"
+  ]
+}

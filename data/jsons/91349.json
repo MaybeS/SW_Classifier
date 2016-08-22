@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.22850"
+      ], 
+      [
+        "potter's wheel", 
+        "0.20817"
+      ], 
+      [
+        "stove", 
+        "0.07664"
+      ], 
+      [
+        "caldron", 
+        "0.07471"
+      ], 
+      [
+        "joystick", 
+        "0.06883"
+      ]
+    ], 
+    [
+      [
+        "potter's wheel", 
+        "0.48687"
+      ], 
+      [
+        "waffle iron", 
+        "0.46108"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.44866"
+      ], 
+      [
+        "home appliance", 
+        "0.42498"
+      ], 
+      [
+        "appliance", 
+        "0.41360"
+      ]
+    ], 
+    "7.528"
+  ]
+}

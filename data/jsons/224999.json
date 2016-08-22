@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.77804"
+      ], 
+      [
+        "space bar", 
+        "0.11857"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.06084"
+      ], 
+      [
+        "Windsor tie", 
+        "0.00333"
+      ], 
+      [
+        "screen", 
+        "0.00306"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "1.61653"
+      ], 
+      [
+        "hand-held computer", 
+        "1.58792"
+      ], 
+      [
+        "personal computer", 
+        "1.55469"
+      ], 
+      [
+        "digital computer", 
+        "1.52491"
+      ], 
+      [
+        "computer", 
+        "1.41014"
+      ]
+    ], 
+    "7.558"
+  ]
+}

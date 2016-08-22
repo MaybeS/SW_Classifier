@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.24921"
+      ], 
+      [
+        "ballpoint", 
+        "0.10844"
+      ], 
+      [
+        "rule", 
+        "0.10393"
+      ], 
+      [
+        "fountain pen", 
+        "0.05916"
+      ], 
+      [
+        "notebook", 
+        "0.05902"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.44012"
+      ], 
+      [
+        "device", 
+        "0.36940"
+      ], 
+      [
+        "pen", 
+        "0.33272"
+      ], 
+      [
+        "writing implement", 
+        "0.32679"
+      ], 
+      [
+        "musical instrument", 
+        "0.28406"
+      ]
+    ], 
+    "7.627"
+  ]
+}

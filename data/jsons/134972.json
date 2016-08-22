@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.53364"
+      ], 
+      [
+        "nail", 
+        "0.13983"
+      ], 
+      [
+        "plunger", 
+        "0.10847"
+      ], 
+      [
+        "hammer", 
+        "0.06689"
+      ], 
+      [
+        "pedestal", 
+        "0.03652"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.40419"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.37029"
+      ], 
+      [
+        "transducer", 
+        "0.36413"
+      ], 
+      [
+        "device", 
+        "0.36040"
+      ], 
+      [
+        "electrical device", 
+        "0.35797"
+      ]
+    ], 
+    "13.559"
+  ]
+}

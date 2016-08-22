@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "photocopier", 
+        "0.39507"
+      ], 
+      [
+        "printer", 
+        "0.15246"
+      ], 
+      [
+        "desk", 
+        "0.09432"
+      ], 
+      [
+        "guillotine", 
+        "0.05448"
+      ], 
+      [
+        "potter's wheel", 
+        "0.04665"
+      ]
+    ], 
+    [
+      [
+        "photocopier", 
+        "1.07221"
+      ], 
+      [
+        "duplicator", 
+        "1.05646"
+      ], 
+      [
+        "apparatus", 
+        "1.04071"
+      ], 
+      [
+        "equipment", 
+        "0.80242"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45028"
+      ]
+    ], 
+    "6.141"
+  ]
+}

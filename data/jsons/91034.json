@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.24039"
+      ], 
+      [
+        "stopwatch", 
+        "0.16132"
+      ], 
+      [
+        "gasmask", 
+        "0.08317"
+      ], 
+      [
+        "hard disc", 
+        "0.06850"
+      ], 
+      [
+        "whistle", 
+        "0.05821"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.52709"
+      ], 
+      [
+        "measuring instrument", 
+        "0.45982"
+      ], 
+      [
+        "device", 
+        "0.44442"
+      ], 
+      [
+        "timepiece", 
+        "0.44207"
+      ], 
+      [
+        "stopwatch", 
+        "0.36942"
+      ]
+    ], 
+    "9.206"
+  ]
+}

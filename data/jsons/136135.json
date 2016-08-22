@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.17414"
+      ], 
+      [
+        "microphone", 
+        "0.15028"
+      ], 
+      [
+        "radio", 
+        "0.10773"
+      ], 
+      [
+        "joystick", 
+        "0.10656"
+      ], 
+      [
+        "spotlight", 
+        "0.06999"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.42654"
+      ], 
+      [
+        "equipment", 
+        "0.40673"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39598"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.36476"
+      ], 
+      [
+        "transducer", 
+        "0.35870"
+      ]
+    ], 
+    "10.750"
+  ]
+}

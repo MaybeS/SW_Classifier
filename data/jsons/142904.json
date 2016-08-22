@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.35431"
+      ], 
+      [
+        "modem", 
+        "0.10415"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.08716"
+      ], 
+      [
+        "can opener", 
+        "0.04082"
+      ], 
+      [
+        "ashcan", 
+        "0.03650"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.36871"
+      ], 
+      [
+        "vessel", 
+        "0.30032"
+      ], 
+      [
+        "soap dispenser", 
+        "0.26232"
+      ], 
+      [
+        "dispenser", 
+        "0.25847"
+      ], 
+      [
+        "device", 
+        "0.24091"
+      ]
+    ], 
+    "9.535"
+  ]
+}

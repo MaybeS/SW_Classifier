@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.10954"
+      ], 
+      [
+        "space heater", 
+        "0.10903"
+      ], 
+      [
+        "bathing cap", 
+        "0.07788"
+      ], 
+      [
+        "book jacket", 
+        "0.07296"
+      ], 
+      [
+        "web site", 
+        "0.05683"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32542"
+      ], 
+      [
+        "covering", 
+        "0.27695"
+      ], 
+      [
+        "consumer goods", 
+        "0.24283"
+      ], 
+      [
+        "commodity", 
+        "0.23277"
+      ], 
+      [
+        "container", 
+        "0.23189"
+      ]
+    ], 
+    "5.991"
+  ]
+}

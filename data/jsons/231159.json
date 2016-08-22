@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.20241"
+      ], 
+      [
+        "microphone", 
+        "0.06429"
+      ], 
+      [
+        "modem", 
+        "0.04666"
+      ], 
+      [
+        "Windsor tie", 
+        "0.04370"
+      ], 
+      [
+        "corkscrew", 
+        "0.03551"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34133"
+      ], 
+      [
+        "fastener", 
+        "0.29849"
+      ], 
+      [
+        "lock", 
+        "0.28898"
+      ], 
+      [
+        "restraint", 
+        "0.28483"
+      ], 
+      [
+        "combination lock", 
+        "0.25709"
+      ]
+    ], 
+    "10.608"
+  ]
+}

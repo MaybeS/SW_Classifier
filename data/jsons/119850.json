@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.36971"
+      ], 
+      [
+        "notebook", 
+        "0.20535"
+      ], 
+      [
+        "radio", 
+        "0.09277"
+      ], 
+      [
+        "scale", 
+        "0.05082"
+      ], 
+      [
+        "letter opener", 
+        "0.04519"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.55356"
+      ], 
+      [
+        "personal computer", 
+        "0.51465"
+      ], 
+      [
+        "digital computer", 
+        "0.50479"
+      ], 
+      [
+        "computer", 
+        "0.49073"
+      ], 
+      [
+        "portable computer", 
+        "0.48414"
+      ]
+    ], 
+    "6.271"
+  ]
+}

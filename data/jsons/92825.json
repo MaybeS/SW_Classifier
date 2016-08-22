@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.16383"
+      ], 
+      [
+        "radio", 
+        "0.09763"
+      ], 
+      [
+        "cassette player", 
+        "0.08833"
+      ], 
+      [
+        "combination lock", 
+        "0.06971"
+      ], 
+      [
+        "switch", 
+        "0.05794"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51287"
+      ], 
+      [
+        "equipment", 
+        "0.48748"
+      ], 
+      [
+        "device", 
+        "0.35438"
+      ], 
+      [
+        "hard disc", 
+        "0.31696"
+      ], 
+      [
+        "magnetic disk", 
+        "0.31230"
+      ]
+    ], 
+    "8.534"
+  ]
+}

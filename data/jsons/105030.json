@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.31435"
+      ], 
+      [
+        "analog clock", 
+        "0.12904"
+      ], 
+      [
+        "plate rack", 
+        "0.12731"
+      ], 
+      [
+        "oscilloscope", 
+        "0.05448"
+      ], 
+      [
+        "mousetrap", 
+        "0.04580"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.68082"
+      ], 
+      [
+        "fan", 
+        "0.67082"
+      ], 
+      [
+        "device", 
+        "0.41273"
+      ], 
+      [
+        "measuring instrument", 
+        "0.39884"
+      ], 
+      [
+        "instrument", 
+        "0.36754"
+      ]
+    ], 
+    "6.493"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.29206"
+      ], 
+      [
+        "digital clock", 
+        "0.09342"
+      ], 
+      [
+        "cassette", 
+        "0.08047"
+      ], 
+      [
+        "remote control", 
+        "0.04211"
+      ], 
+      [
+        "modem", 
+        "0.03894"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38046"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35248"
+      ], 
+      [
+        "control", 
+        "0.33470"
+      ], 
+      [
+        "switch", 
+        "0.33416"
+      ], 
+      [
+        "equipment", 
+        "0.33272"
+      ]
+    ], 
+    "9.045"
+  ]
+}

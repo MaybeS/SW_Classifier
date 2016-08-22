@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "window screen", 
+        "0.34688"
+      ], 
+      [
+        "shoji", 
+        "0.12486"
+      ], 
+      [
+        "sliding door", 
+        "0.12015"
+      ], 
+      [
+        "window shade", 
+        "0.07522"
+      ], 
+      [
+        "monitor", 
+        "0.04063"
+      ]
+    ], 
+    [
+      [
+        "window screen", 
+        "0.82603"
+      ], 
+      [
+        "screen", 
+        "0.74787"
+      ], 
+      [
+        "protective covering", 
+        "0.60875"
+      ], 
+      [
+        "covering", 
+        "0.53077"
+      ], 
+      [
+        "shoji", 
+        "0.48430"
+      ]
+    ], 
+    "5.549"
+  ]
+}

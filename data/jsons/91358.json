@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.25489"
+      ], 
+      [
+        "modem", 
+        "0.21598"
+      ], 
+      [
+        "whistle", 
+        "0.19403"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09550"
+      ], 
+      [
+        "combination lock", 
+        "0.05762"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37578"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32937"
+      ], 
+      [
+        "equipment", 
+        "0.32770"
+      ], 
+      [
+        "control", 
+        "0.29325"
+      ], 
+      [
+        "switch", 
+        "0.29160"
+      ]
+    ], 
+    "8.368"
+  ]
+}

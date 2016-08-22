@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.57338"
+      ], 
+      [
+        "ashcan", 
+        "0.04336"
+      ], 
+      [
+        "scoreboard", 
+        "0.02224"
+      ], 
+      [
+        "barbershop", 
+        "0.02062"
+      ], 
+      [
+        "mailbox", 
+        "0.01989"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.85420"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.76726"
+      ], 
+      [
+        "transducer", 
+        "0.75450"
+      ], 
+      [
+        "electrical device", 
+        "0.74175"
+      ], 
+      [
+        "device", 
+        "0.39784"
+      ]
+    ], 
+    "8.408"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.41371"
+      ], 
+      [
+        "wall clock", 
+        "0.07670"
+      ], 
+      [
+        "analog clock", 
+        "0.06618"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04454"
+      ], 
+      [
+        "safety pin", 
+        "0.02506"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.41081"
+      ], 
+      [
+        "measuring instrument", 
+        "0.33678"
+      ], 
+      [
+        "clock", 
+        "0.30840"
+      ], 
+      [
+        "covering", 
+        "0.30603"
+      ], 
+      [
+        "timepiece", 
+        "0.30344"
+      ]
+    ], 
+    "5.987"
+  ]
+}

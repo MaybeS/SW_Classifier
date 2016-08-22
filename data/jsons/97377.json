@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.08448"
+      ], 
+      [
+        "projectile", 
+        "0.05619"
+      ], 
+      [
+        "stretcher", 
+        "0.05381"
+      ], 
+      [
+        "horizontal bar", 
+        "0.05192"
+      ], 
+      [
+        "balance beam", 
+        "0.05067"
+      ]
+    ], 
+    [
+      [
+        "vehicle", 
+        "0.55836"
+      ], 
+      [
+        "conveyance", 
+        "0.53468"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.39641"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.38842"
+      ], 
+      [
+        "motor vehicle", 
+        "0.38643"
+      ]
+    ], 
+    "5.114"
+  ]
+}

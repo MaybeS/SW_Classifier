@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.28848"
+      ], 
+      [
+        "tobacco shop", 
+        "0.16237"
+      ], 
+      [
+        "slot", 
+        "0.14737"
+      ], 
+      [
+        "comic book", 
+        "0.10006"
+      ], 
+      [
+        "scoreboard", 
+        "0.06455"
+      ]
+    ], 
+    [
+      [
+        "slot machine", 
+        "0.58630"
+      ], 
+      [
+        "slot", 
+        "0.56841"
+      ], 
+      [
+        "mercantile establishment", 
+        "0.50628"
+      ], 
+      [
+        "shop", 
+        "0.49572"
+      ], 
+      [
+        "place of business", 
+        "0.49480"
+      ]
+    ], 
+    "5.497"
+  ]
+}

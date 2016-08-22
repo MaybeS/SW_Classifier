@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.19647"
+      ], 
+      [
+        "photocopier", 
+        "0.18167"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.06944"
+      ], 
+      [
+        "modem", 
+        "0.06372"
+      ], 
+      [
+        "iron", 
+        "0.04626"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.69602"
+      ], 
+      [
+        "photocopier", 
+        "0.57255"
+      ], 
+      [
+        "duplicator", 
+        "0.56414"
+      ], 
+      [
+        "apparatus", 
+        "0.55573"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48994"
+      ]
+    ], 
+    "7.641"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.23000"
+      ], 
+      [
+        "whistle", 
+        "0.08173"
+      ], 
+      [
+        "combination lock", 
+        "0.06792"
+      ], 
+      [
+        "radio", 
+        "0.06710"
+      ], 
+      [
+        "modem", 
+        "0.06684"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38325"
+      ], 
+      [
+        "equipment", 
+        "0.32921"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29953"
+      ], 
+      [
+        "implement", 
+        "0.22240"
+      ], 
+      [
+        "container", 
+        "0.20856"
+      ]
+    ], 
+    "6.501"
+  ]
+}

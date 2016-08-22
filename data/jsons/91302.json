@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.28445"
+      ], 
+      [
+        "radio", 
+        "0.11410"
+      ], 
+      [
+        "joystick", 
+        "0.09425"
+      ], 
+      [
+        "switch", 
+        "0.05827"
+      ], 
+      [
+        "loupe", 
+        "0.05735"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.57312"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46613"
+      ], 
+      [
+        "equipment", 
+        "0.43039"
+      ], 
+      [
+        "device", 
+        "0.42618"
+      ], 
+      [
+        "control", 
+        "0.22696"
+      ]
+    ], 
+    "6.669"
+  ]
+}

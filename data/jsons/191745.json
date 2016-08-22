@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "packet", 
+        "0.21317"
+      ], 
+      [
+        "combination lock", 
+        "0.08554"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06770"
+      ], 
+      [
+        "Windsor tie", 
+        "0.06525"
+      ], 
+      [
+        "doormat", 
+        "0.04222"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.32208"
+      ], 
+      [
+        "container", 
+        "0.26272"
+      ], 
+      [
+        "consumer goods", 
+        "0.24743"
+      ], 
+      [
+        "clothing", 
+        "0.24608"
+      ], 
+      [
+        "commodity", 
+        "0.23888"
+      ]
+    ], 
+    "6.580"
+  ]
+}

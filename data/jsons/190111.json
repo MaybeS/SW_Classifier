@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.24363"
+      ], 
+      [
+        "hand-held computer", 
+        "0.13019"
+      ], 
+      [
+        "screen", 
+        "0.10833"
+      ], 
+      [
+        "monitor", 
+        "0.05670"
+      ], 
+      [
+        "modem", 
+        "0.05655"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.50886"
+      ], 
+      [
+        "computer", 
+        "0.50060"
+      ], 
+      [
+        "digital computer", 
+        "0.49911"
+      ], 
+      [
+        "machine", 
+        "0.47763"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44600"
+      ]
+    ], 
+    "9.209"
+  ]
+}

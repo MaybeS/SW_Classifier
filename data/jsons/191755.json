@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.17645"
+      ], 
+      [
+        "binder", 
+        "0.08110"
+      ], 
+      [
+        "digital clock", 
+        "0.07234"
+      ], 
+      [
+        "street sign", 
+        "0.04982"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04330"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.30198"
+      ], 
+      [
+        "device", 
+        "0.26953"
+      ], 
+      [
+        "covering", 
+        "0.24876"
+      ], 
+      [
+        "container", 
+        "0.24235"
+      ], 
+      [
+        "instrument", 
+        "0.17584"
+      ]
+    ], 
+    "9.858"
+  ]
+}

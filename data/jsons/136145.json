@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.45508"
+      ], 
+      [
+        "microphone", 
+        "0.22328"
+      ], 
+      [
+        "tripod", 
+        "0.15268"
+      ], 
+      [
+        "spotlight", 
+        "0.04837"
+      ], 
+      [
+        "binoculars", 
+        "0.03539"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.56760"
+      ], 
+      [
+        "optical instrument", 
+        "0.51404"
+      ], 
+      [
+        "device", 
+        "0.42438"
+      ], 
+      [
+        "instrument", 
+        "0.37476"
+      ], 
+      [
+        "tripod", 
+        "0.29708"
+      ]
+    ], 
+    "6.468"
+  ]
+}

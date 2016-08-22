@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.23139"
+      ], 
+      [
+        "reflex camera", 
+        "0.20497"
+      ], 
+      [
+        "whistle", 
+        "0.03225"
+      ], 
+      [
+        "can opener", 
+        "0.02260"
+      ], 
+      [
+        "modem", 
+        "0.02256"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.57095"
+      ], 
+      [
+        "photographic equipment", 
+        "0.56145"
+      ], 
+      [
+        "reflex camera", 
+        "0.48910"
+      ], 
+      [
+        "equipment", 
+        "0.48809"
+      ], 
+      [
+        "device", 
+        "0.36519"
+      ]
+    ], 
+    "5.491"
+  ]
+}

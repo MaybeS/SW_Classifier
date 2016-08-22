@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.13910"
+      ], 
+      [
+        "harmonica", 
+        "0.09977"
+      ], 
+      [
+        "CD player", 
+        "0.07661"
+      ], 
+      [
+        "digital clock", 
+        "0.06028"
+      ], 
+      [
+        "web site", 
+        "0.03913"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.45827"
+      ], 
+      [
+        "equipment", 
+        "0.42042"
+      ], 
+      [
+        "device", 
+        "0.38251"
+      ], 
+      [
+        "machine", 
+        "0.32210"
+      ], 
+      [
+        "computer", 
+        "0.30177"
+      ]
+    ], 
+    "5.800"
+  ]
+}

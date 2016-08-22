@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "minibus", 
+        "0.34890"
+      ], 
+      [
+        "moving van", 
+        "0.13514"
+      ], 
+      [
+        "police van", 
+        "0.05016"
+      ], 
+      [
+        "barbershop", 
+        "0.03160"
+      ], 
+      [
+        "scoreboard", 
+        "0.02519"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.87884"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.86660"
+      ], 
+      [
+        "minibus", 
+        "0.84770"
+      ], 
+      [
+        "bus", 
+        "0.83098"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.81382"
+      ]
+    ], 
+    "8.285"
+  ]
+}

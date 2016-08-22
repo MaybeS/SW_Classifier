@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.88075"
+      ], 
+      [
+        "disk brake", 
+        "0.02388"
+      ], 
+      [
+        "tape player", 
+        "0.01565"
+      ], 
+      [
+        "electric fan", 
+        "0.01441"
+      ], 
+      [
+        "dumbbell", 
+        "0.00947"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.50928"
+      ], 
+      [
+        "magnetic disk", 
+        "1.48711"
+      ], 
+      [
+        "memory device", 
+        "1.46494"
+      ], 
+      [
+        "device", 
+        "0.50931"
+      ], 
+      [
+        "electronic equipment", 
+        "0.40747"
+      ]
+    ], 
+    "6.627"
+  ]
+}

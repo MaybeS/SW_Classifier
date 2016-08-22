@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.83586"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.08139"
+      ], 
+      [
+        "screwdriver", 
+        "0.04643"
+      ], 
+      [
+        "lighter", 
+        "0.01270"
+      ], 
+      [
+        "can opener", 
+        "0.01060"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.90657"
+      ], 
+      [
+        "acoustic device", 
+        "0.89325"
+      ], 
+      [
+        "signaling device", 
+        "0.89325"
+      ], 
+      [
+        "device", 
+        "0.39462"
+      ], 
+      [
+        "implement", 
+        "0.38347"
+      ]
+    ], 
+    "5.619"
+  ]
+}

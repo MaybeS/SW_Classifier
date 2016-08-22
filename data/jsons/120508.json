@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.70455"
+      ], 
+      [
+        "sunglass", 
+        "0.06178"
+      ], 
+      [
+        "sunglasses", 
+        "0.02925"
+      ], 
+      [
+        "modem", 
+        "0.02411"
+      ], 
+      [
+        "loupe", 
+        "0.02403"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "1.33794"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.05086"
+      ], 
+      [
+        "home appliance", 
+        "0.93586"
+      ], 
+      [
+        "appliance", 
+        "0.90919"
+      ], 
+      [
+        "durables", 
+        "0.88553"
+      ]
+    ], 
+    "6.451"
+  ]
+}

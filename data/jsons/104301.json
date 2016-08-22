@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.28378"
+      ], 
+      [
+        "saltshaker", 
+        "0.23019"
+      ], 
+      [
+        "toilet seat", 
+        "0.05417"
+      ], 
+      [
+        "crash helmet", 
+        "0.04347"
+      ], 
+      [
+        "space shuttle", 
+        "0.04321"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.34976"
+      ], 
+      [
+        "saltshaker", 
+        "0.33002"
+      ], 
+      [
+        "shaker", 
+        "0.32186"
+      ], 
+      [
+        "covering", 
+        "0.25200"
+      ], 
+      [
+        "consumer goods", 
+        "0.24644"
+      ]
+    ], 
+    "5.689"
+  ]
+}

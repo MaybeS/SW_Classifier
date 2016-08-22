@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.32788"
+      ], 
+      [
+        "spotlight", 
+        "0.15034"
+      ], 
+      [
+        "loupe", 
+        "0.13108"
+      ], 
+      [
+        "can opener", 
+        "0.11386"
+      ], 
+      [
+        "combination lock", 
+        "0.04383"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38425"
+      ], 
+      [
+        "whistle", 
+        "0.38063"
+      ], 
+      [
+        "acoustic device", 
+        "0.37504"
+      ], 
+      [
+        "signaling device", 
+        "0.37504"
+      ], 
+      [
+        "implement", 
+        "0.30780"
+      ]
+    ], 
+    "9.061"
+  ]
+}

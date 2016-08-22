@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.79452"
+      ], 
+      [
+        "parking meter", 
+        "0.10340"
+      ], 
+      [
+        "binoculars", 
+        "0.05684"
+      ], 
+      [
+        "stopwatch", 
+        "0.02050"
+      ], 
+      [
+        "digital watch", 
+        "0.00640"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.83093"
+      ], 
+      [
+        "photographic equipment", 
+        "1.80049"
+      ], 
+      [
+        "reflex camera", 
+        "1.78023"
+      ], 
+      [
+        "equipment", 
+        "0.91931"
+      ], 
+      [
+        "instrument", 
+        "0.35474"
+      ]
+    ], 
+    "10.213"
+  ]
+}

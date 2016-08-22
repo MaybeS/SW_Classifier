@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "buckle", 
+        "0.28398"
+      ], 
+      [
+        "crash helmet", 
+        "0.16010"
+      ], 
+      [
+        "sunglasses", 
+        "0.06023"
+      ], 
+      [
+        "mailbag", 
+        "0.05990"
+      ], 
+      [
+        "electric fan", 
+        "0.04385"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.41463"
+      ], 
+      [
+        "crash helmet", 
+        "0.38359"
+      ], 
+      [
+        "clothing", 
+        "0.37014"
+      ], 
+      [
+        "consumer goods", 
+        "0.36423"
+      ], 
+      [
+        "helmet", 
+        "0.36249"
+      ]
+    ], 
+    "6.948"
+  ]
+}

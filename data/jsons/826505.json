@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.51064"
+      ], 
+      [
+        "saltshaker", 
+        "0.15224"
+      ], 
+      [
+        "water tower", 
+        "0.04218"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.03246"
+      ], 
+      [
+        "barrel", 
+        "0.02569"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "0.94104"
+      ], 
+      [
+        "protective garment", 
+        "0.84012"
+      ], 
+      [
+        "clothing", 
+        "0.63422"
+      ], 
+      [
+        "covering", 
+        "0.60833"
+      ], 
+      [
+        "consumer goods", 
+        "0.57875"
+      ]
+    ], 
+    "7.401"
+  ]
+}

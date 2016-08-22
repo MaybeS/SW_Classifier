@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.26058"
+      ], 
+      [
+        "projector", 
+        "0.07209"
+      ], 
+      [
+        "hammer", 
+        "0.05713"
+      ], 
+      [
+        "can opener", 
+        "0.03932"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.03751"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.30757"
+      ], 
+      [
+        "device", 
+        "0.30188"
+      ], 
+      [
+        "equipment", 
+        "0.29162"
+      ], 
+      [
+        "container", 
+        "0.23055"
+      ], 
+      [
+        "consumer goods", 
+        "0.22026"
+      ]
+    ], 
+    "11.391"
+  ]
+}

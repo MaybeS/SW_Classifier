@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.20140"
+      ], 
+      [
+        "desktop computer", 
+        "0.14769"
+      ], 
+      [
+        "hard disc", 
+        "0.09361"
+      ], 
+      [
+        "book jacket", 
+        "0.08256"
+      ], 
+      [
+        "binder", 
+        "0.05333"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.42526"
+      ], 
+      [
+        "equipment", 
+        "0.41133"
+      ], 
+      [
+        "device", 
+        "0.38420"
+      ], 
+      [
+        "machine", 
+        "0.33333"
+      ], 
+      [
+        "computer", 
+        "0.32935"
+      ]
+    ], 
+    "6.301"
+  ]
+}

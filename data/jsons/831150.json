@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.43794"
+      ], 
+      [
+        "book jacket", 
+        "0.42913"
+      ], 
+      [
+        "digital clock", 
+        "0.04433"
+      ], 
+      [
+        "street sign", 
+        "0.03827"
+      ], 
+      [
+        "crossword puzzle", 
+        "0.00627"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "1.36418"
+      ], 
+      [
+        "board", 
+        "1.34414"
+      ], 
+      [
+        "signboard", 
+        "1.34414"
+      ], 
+      [
+        "sheet", 
+        "1.16692"
+      ], 
+      [
+        "structure", 
+        "0.66860"
+      ]
+    ], 
+    "5.419"
+  ]
+}

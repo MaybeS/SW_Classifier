@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.26095"
+      ], 
+      [
+        "switch", 
+        "0.13023"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07036"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06563"
+      ], 
+      [
+        "space heater", 
+        "0.06271"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.47435"
+      ], 
+      [
+        "timepiece", 
+        "0.46139"
+      ], 
+      [
+        "clock", 
+        "0.42082"
+      ], 
+      [
+        "digital clock", 
+        "0.39802"
+      ], 
+      [
+        "instrument", 
+        "0.38507"
+      ]
+    ], 
+    "11.992"
+  ]
+}

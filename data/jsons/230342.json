@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.92552"
+      ], 
+      [
+        "backpack", 
+        "0.01129"
+      ], 
+      [
+        "knee pad", 
+        "0.01115"
+      ], 
+      [
+        "binoculars", 
+        "0.01024"
+      ], 
+      [
+        "digital watch", 
+        "0.00990"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.11330"
+      ], 
+      [
+        "photographic equipment", 
+        "2.07817"
+      ], 
+      [
+        "reflex camera", 
+        "2.06518"
+      ], 
+      [
+        "equipment", 
+        "1.04038"
+      ], 
+      [
+        "lens cap", 
+        "0.34102"
+      ]
+    ], 
+    "6.003"
+  ]
+}

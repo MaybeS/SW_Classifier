@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.48513"
+      ], 
+      [
+        "slide rule", 
+        "0.05738"
+      ], 
+      [
+        "remote control", 
+        "0.05149"
+      ], 
+      [
+        "harmonica", 
+        "0.04765"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04761"
+      ]
+    ], 
+    [
+      [
+        "rule", 
+        "0.63454"
+      ], 
+      [
+        "measuring stick", 
+        "0.62522"
+      ], 
+      [
+        "measuring instrument", 
+        "0.44378"
+      ], 
+      [
+        "device", 
+        "0.40486"
+      ], 
+      [
+        "instrument", 
+        "0.37710"
+      ]
+    ], 
+    "13.736"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.17202"
+      ], 
+      [
+        "Crock Pot", 
+        "0.13837"
+      ], 
+      [
+        "toaster", 
+        "0.12366"
+      ], 
+      [
+        "mouse", 
+        "0.12253"
+      ], 
+      [
+        "oil filter", 
+        "0.09025"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "0.35273"
+      ], 
+      [
+        "cooker", 
+        "0.34755"
+      ], 
+      [
+        "cooking utensil", 
+        "0.32948"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.32242"
+      ], 
+      [
+        "appliance", 
+        "0.31548"
+      ]
+    ], 
+    "6.761"
+  ]
+}

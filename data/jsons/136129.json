@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.52856"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.33139"
+      ], 
+      [
+        "joystick", 
+        "0.03544"
+      ], 
+      [
+        "mouse", 
+        "0.02456"
+      ], 
+      [
+        "cellular telephone", 
+        "0.01312"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.81038"
+      ], 
+      [
+        "coffee maker", 
+        "0.79847"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.63662"
+      ], 
+      [
+        "home appliance", 
+        "0.61140"
+      ], 
+      [
+        "appliance", 
+        "0.60253"
+      ]
+    ], 
+    "6.912"
+  ]
+}

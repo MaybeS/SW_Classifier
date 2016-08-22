@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.28107"
+      ], 
+      [
+        "loudspeaker", 
+        "0.11295"
+      ], 
+      [
+        "desktop computer", 
+        "0.08072"
+      ], 
+      [
+        "space heater", 
+        "0.06766"
+      ], 
+      [
+        "modem", 
+        "0.05604"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52697"
+      ], 
+      [
+        "equipment", 
+        "0.47852"
+      ], 
+      [
+        "device", 
+        "0.37166"
+      ], 
+      [
+        "communication system", 
+        "0.30257"
+      ], 
+      [
+        "radio", 
+        "0.30051"
+      ]
+    ], 
+    "10.662"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tripod", 
+        "0.22953"
+      ], 
+      [
+        "projector", 
+        "0.22718"
+      ], 
+      [
+        "reflex camera", 
+        "0.13040"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.08589"
+      ], 
+      [
+        "switch", 
+        "0.03819"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.62056"
+      ], 
+      [
+        "photographic equipment", 
+        "0.61024"
+      ], 
+      [
+        "equipment", 
+        "0.48637"
+      ], 
+      [
+        "tripod", 
+        "0.42262"
+      ], 
+      [
+        "rack", 
+        "0.41641"
+      ]
+    ], 
+    "9.124"
+  ]
+}

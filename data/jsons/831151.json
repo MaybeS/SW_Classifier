@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "swimming trunks", 
+        "0.39442"
+      ], 
+      [
+        "punching bag", 
+        "0.26361"
+      ], 
+      [
+        "plastic bag", 
+        "0.08711"
+      ], 
+      [
+        "abaya", 
+        "0.08248"
+      ], 
+      [
+        "backpack", 
+        "0.02701"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.83053"
+      ], 
+      [
+        "garment", 
+        "0.80374"
+      ], 
+      [
+        "consumer goods", 
+        "0.74522"
+      ], 
+      [
+        "commodity", 
+        "0.71032"
+      ], 
+      [
+        "covering", 
+        "0.67846"
+      ]
+    ], 
+    "5.927"
+  ]
+}

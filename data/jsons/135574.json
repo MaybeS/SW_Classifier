@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.88773"
+      ], 
+      [
+        "radio", 
+        "0.03691"
+      ], 
+      [
+        "home theater", 
+        "0.02055"
+      ], 
+      [
+        "face powder", 
+        "0.01317"
+      ], 
+      [
+        "cassette player", 
+        "0.01010"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.31613"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.17864"
+      ], 
+      [
+        "transducer", 
+        "1.15904"
+      ], 
+      [
+        "electrical device", 
+        "1.13945"
+      ], 
+      [
+        "device", 
+        "0.46321"
+      ]
+    ], 
+    "7.243"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.66783"
+      ], 
+      [
+        "whistle", 
+        "0.10282"
+      ], 
+      [
+        "hand blower", 
+        "0.05029"
+      ], 
+      [
+        "soap dispenser", 
+        "0.01751"
+      ], 
+      [
+        "screw", 
+        "0.01621"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36026"
+      ], 
+      [
+        "spotlight", 
+        "0.32925"
+      ], 
+      [
+        "source of illumination", 
+        "0.30308"
+      ], 
+      [
+        "lamp", 
+        "0.29827"
+      ], 
+      [
+        "container", 
+        "0.25599"
+      ]
+    ], 
+    "12.298"
+  ]
+}

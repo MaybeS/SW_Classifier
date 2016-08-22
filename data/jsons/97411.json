@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.99844"
+      ], 
+      [
+        "joystick", 
+        "0.00024"
+      ], 
+      [
+        "switch", 
+        "0.00020"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00014"
+      ], 
+      [
+        "crash helmet", 
+        "0.00009"
+      ]
+    ], 
+    [
+      [
+        "mouse", 
+        "0.43753"
+      ], 
+      [
+        "electronic device", 
+        "0.43709"
+      ], 
+      [
+        "device", 
+        "0.38766"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35051"
+      ], 
+      [
+        "equipment", 
+        "0.33203"
+      ]
+    ], 
+    "6.318"
+  ]
+}

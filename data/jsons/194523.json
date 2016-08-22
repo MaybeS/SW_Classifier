@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "letter opener", 
+        "0.28333"
+      ], 
+      [
+        "notebook", 
+        "0.20612"
+      ], 
+      [
+        "rule", 
+        "0.11744"
+      ], 
+      [
+        "ballpoint", 
+        "0.04157"
+      ], 
+      [
+        "syringe", 
+        "0.04031"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.50642"
+      ], 
+      [
+        "computer", 
+        "0.43402"
+      ], 
+      [
+        "personal computer", 
+        "0.39145"
+      ], 
+      [
+        "digital computer", 
+        "0.38396"
+      ], 
+      [
+        "machine", 
+        "0.38237"
+      ]
+    ], 
+    "6.655"
+  ]
+}

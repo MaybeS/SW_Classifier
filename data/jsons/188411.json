@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.18192"
+      ], 
+      [
+        "toaster", 
+        "0.16054"
+      ], 
+      [
+        "space heater", 
+        "0.12897"
+      ], 
+      [
+        "switch", 
+        "0.05591"
+      ], 
+      [
+        "modem", 
+        "0.03737"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.43714"
+      ], 
+      [
+        "equipment", 
+        "0.43567"
+      ], 
+      [
+        "home appliance", 
+        "0.32807"
+      ], 
+      [
+        "appliance", 
+        "0.32323"
+      ], 
+      [
+        "device", 
+        "0.31756"
+      ]
+    ], 
+    "8.976"
+  ]
+}

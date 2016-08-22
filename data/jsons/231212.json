@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.10496"
+      ], 
+      [
+        "monitor", 
+        "0.09899"
+      ], 
+      [
+        "safe", 
+        "0.07593"
+      ], 
+      [
+        "combination lock", 
+        "0.07170"
+      ], 
+      [
+        "cash machine", 
+        "0.04086"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.32183"
+      ], 
+      [
+        "machine", 
+        "0.32136"
+      ], 
+      [
+        "device", 
+        "0.31370"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27947"
+      ], 
+      [
+        "container", 
+        "0.27011"
+      ]
+    ], 
+    "6.103"
+  ]
+}

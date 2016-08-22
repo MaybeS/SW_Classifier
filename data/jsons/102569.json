@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.16140"
+      ], 
+      [
+        "oscilloscope", 
+        "0.14381"
+      ], 
+      [
+        "monitor", 
+        "0.07026"
+      ], 
+      [
+        "screen", 
+        "0.06706"
+      ], 
+      [
+        "hand-held computer", 
+        "0.05549"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.75254"
+      ], 
+      [
+        "machine", 
+        "0.68589"
+      ], 
+      [
+        "web site", 
+        "0.65149"
+      ], 
+      [
+        "electronic equipment", 
+        "0.53137"
+      ], 
+      [
+        "oscilloscope", 
+        "0.47299"
+      ]
+    ], 
+    "8.022"
+  ]
+}

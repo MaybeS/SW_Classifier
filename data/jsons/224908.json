@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.14320"
+      ], 
+      [
+        "screen", 
+        "0.12628"
+      ], 
+      [
+        "radio", 
+        "0.10228"
+      ], 
+      [
+        "monitor", 
+        "0.09193"
+      ], 
+      [
+        "modem", 
+        "0.06972"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.58871"
+      ], 
+      [
+        "digital computer", 
+        "0.57744"
+      ], 
+      [
+        "computer", 
+        "0.55322"
+      ], 
+      [
+        "machine", 
+        "0.53260"
+      ], 
+      [
+        "electronic equipment", 
+        "0.47514"
+      ]
+    ], 
+    "11.654"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.16872"
+      ], 
+      [
+        "combination lock", 
+        "0.15073"
+      ], 
+      [
+        "modem", 
+        "0.08780"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.05444"
+      ], 
+      [
+        "switch", 
+        "0.04951"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37676"
+      ], 
+      [
+        "implement", 
+        "0.34739"
+      ], 
+      [
+        "equipment", 
+        "0.28594"
+      ], 
+      [
+        "tool", 
+        "0.24737"
+      ], 
+      [
+        "electronic equipment", 
+        "0.23943"
+      ]
+    ], 
+    "9.796"
+  ]
+}

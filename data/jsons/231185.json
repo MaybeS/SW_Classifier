@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.63764"
+      ], 
+      [
+        "switch", 
+        "0.05597"
+      ], 
+      [
+        "oil filter", 
+        "0.02868"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.02619"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02533"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.53343"
+      ], 
+      [
+        "photographic equipment", 
+        "1.50794"
+      ], 
+      [
+        "reflex camera", 
+        "1.44006"
+      ], 
+      [
+        "equipment", 
+        "0.82582"
+      ], 
+      [
+        "device", 
+        "0.32262"
+      ]
+    ], 
+    "6.193"
+  ]
+}

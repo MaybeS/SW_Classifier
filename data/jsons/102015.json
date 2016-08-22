@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.20589"
+      ], 
+      [
+        "joystick", 
+        "0.14646"
+      ], 
+      [
+        "binoculars", 
+        "0.09650"
+      ], 
+      [
+        "sunglass", 
+        "0.06166"
+      ], 
+      [
+        "whistle", 
+        "0.04459"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37888"
+      ], 
+      [
+        "equipment", 
+        "0.30658"
+      ], 
+      [
+        "instrument", 
+        "0.26408"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24989"
+      ], 
+      [
+        "covering", 
+        "0.22562"
+      ]
+    ], 
+    "5.249"
+  ]
+}

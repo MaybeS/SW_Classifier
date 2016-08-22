@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.85759"
+      ], 
+      [
+        "rocking chair", 
+        "0.01462"
+      ], 
+      [
+        "coil", 
+        "0.01271"
+      ], 
+      [
+        "dumbbell", 
+        "0.00921"
+      ], 
+      [
+        "studio couch", 
+        "0.00908"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "1.45379"
+      ], 
+      [
+        "rack", 
+        "1.43243"
+      ], 
+      [
+        "framework", 
+        "1.26368"
+      ], 
+      [
+        "supporting structure", 
+        "1.16082"
+      ], 
+      [
+        "structure", 
+        "0.65365"
+      ]
+    ], 
+    "5.060"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "racket", 
+        "0.21275"
+      ], 
+      [
+        "combination lock", 
+        "0.08522"
+      ], 
+      [
+        "electric fan", 
+        "0.06340"
+      ], 
+      [
+        "tennis ball", 
+        "0.03587"
+      ], 
+      [
+        "pick", 
+        "0.03333"
+      ]
+    ], 
+    [
+      [
+        "racket", 
+        "0.42382"
+      ], 
+      [
+        "sports implement", 
+        "0.41759"
+      ], 
+      [
+        "device", 
+        "0.32884"
+      ], 
+      [
+        "implement", 
+        "0.28970"
+      ], 
+      [
+        "equipment", 
+        "0.27246"
+      ]
+    ], 
+    "5.329"
+  ]
+}

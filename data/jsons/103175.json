@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.19286"
+      ], 
+      [
+        "vending machine", 
+        "0.16010"
+      ], 
+      [
+        "packet", 
+        "0.11188"
+      ], 
+      [
+        "microwave", 
+        "0.04371"
+      ], 
+      [
+        "cash machine", 
+        "0.03104"
+      ]
+    ], 
+    [
+      [
+        "vending machine", 
+        "0.54818"
+      ], 
+      [
+        "slot machine", 
+        "0.51866"
+      ], 
+      [
+        "machine", 
+        "0.50790"
+      ], 
+      [
+        "home appliance", 
+        "0.33846"
+      ], 
+      [
+        "appliance", 
+        "0.32756"
+      ]
+    ], 
+    "4.792"
+  ]
+}

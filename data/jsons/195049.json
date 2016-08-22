@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Band Aid", 
+        "0.43226"
+      ], 
+      [
+        "knee pad", 
+        "0.06707"
+      ], 
+      [
+        "sock", 
+        "0.04701"
+      ], 
+      [
+        "plane", 
+        "0.03611"
+      ], 
+      [
+        "Christmas stocking", 
+        "0.02744"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.54279"
+      ], 
+      [
+        "clothing", 
+        "0.43538"
+      ], 
+      [
+        "consumer goods", 
+        "0.40381"
+      ], 
+      [
+        "Band Aid", 
+        "0.40367"
+      ], 
+      [
+        "adhesive bandage", 
+        "0.39774"
+      ]
+    ], 
+    "9.924"
+  ]
+}

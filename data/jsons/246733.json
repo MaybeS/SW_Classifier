@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.09535"
+      ], 
+      [
+        "modem", 
+        "0.08145"
+      ], 
+      [
+        "iPod", 
+        "0.06637"
+      ], 
+      [
+        "desktop computer", 
+        "0.05637"
+      ], 
+      [
+        "screen", 
+        "0.05170"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52581"
+      ], 
+      [
+        "equipment", 
+        "0.44782"
+      ], 
+      [
+        "personal computer", 
+        "0.37279"
+      ], 
+      [
+        "device", 
+        "0.37090"
+      ], 
+      [
+        "digital computer", 
+        "0.36565"
+      ]
+    ], 
+    "11.056"
+  ]
+}

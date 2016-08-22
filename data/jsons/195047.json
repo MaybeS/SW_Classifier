@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.47209"
+      ], 
+      [
+        "switch", 
+        "0.14561"
+      ], 
+      [
+        "coffeepot", 
+        "0.03664"
+      ], 
+      [
+        "power drill", 
+        "0.03015"
+      ], 
+      [
+        "sewing machine", 
+        "0.02904"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.72605"
+      ], 
+      [
+        "coffee maker", 
+        "0.71538"
+      ], 
+      [
+        "home appliance", 
+        "0.58972"
+      ], 
+      [
+        "appliance", 
+        "0.57606"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.56856"
+      ]
+    ], 
+    "12.227"
+  ]
+}

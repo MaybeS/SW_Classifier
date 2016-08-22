@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "window screen", 
+        "0.25382"
+      ], 
+      [
+        "mobile home", 
+        "0.23279"
+      ], 
+      [
+        "fire screen", 
+        "0.09439"
+      ], 
+      [
+        "moving van", 
+        "0.08594"
+      ], 
+      [
+        "guillotine", 
+        "0.02894"
+      ]
+    ], 
+    [
+      [
+        "screen", 
+        "0.68474"
+      ], 
+      [
+        "window screen", 
+        "0.59656"
+      ], 
+      [
+        "protective covering", 
+        "0.50634"
+      ], 
+      [
+        "mobile home", 
+        "0.48252"
+      ], 
+      [
+        "trailer", 
+        "0.47543"
+      ]
+    ], 
+    "5.031"
+  ]
+}

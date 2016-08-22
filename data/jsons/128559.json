@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.28718"
+      ], 
+      [
+        "rule", 
+        "0.13342"
+      ], 
+      [
+        "whistle", 
+        "0.06591"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05325"
+      ], 
+      [
+        "letter opener", 
+        "0.04708"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.48372"
+      ], 
+      [
+        "device", 
+        "0.32861"
+      ], 
+      [
+        "tool", 
+        "0.23446"
+      ], 
+      [
+        "measuring instrument", 
+        "0.23269"
+      ], 
+      [
+        "instrument", 
+        "0.23198"
+      ]
+    ], 
+    "5.337"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "laptop", 
+        "0.18135"
+      ], 
+      [
+        "crossword puzzle", 
+        "0.11348"
+      ], 
+      [
+        "hand-held computer", 
+        "0.10244"
+      ], 
+      [
+        "notebook", 
+        "0.10231"
+      ], 
+      [
+        "iPod", 
+        "0.07780"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.64982"
+      ], 
+      [
+        "digital computer", 
+        "0.63738"
+      ], 
+      [
+        "portable computer", 
+        "0.63535"
+      ], 
+      [
+        "computer", 
+        "0.62851"
+      ], 
+      [
+        "equipment", 
+        "0.57754"
+      ]
+    ], 
+    "5.175"
+  ]
+}

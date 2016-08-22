@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.30165"
+      ], 
+      [
+        "combination lock", 
+        "0.29894"
+      ], 
+      [
+        "cassette player", 
+        "0.10116"
+      ], 
+      [
+        "tape player", 
+        "0.06350"
+      ], 
+      [
+        "safe", 
+        "0.05682"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.40419"
+      ], 
+      [
+        "lock", 
+        "0.39586"
+      ], 
+      [
+        "device", 
+        "0.38285"
+      ], 
+      [
+        "combination lock", 
+        "0.38163"
+      ], 
+      [
+        "switch", 
+        "0.36759"
+      ]
+    ], 
+    "5.736"
+  ]
+}

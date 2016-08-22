@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.40569"
+      ], 
+      [
+        "electric fan", 
+        "0.23280"
+      ], 
+      [
+        "cassette", 
+        "0.13126"
+      ], 
+      [
+        "tape player", 
+        "0.03888"
+      ], 
+      [
+        "spotlight", 
+        "0.01936"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.71232"
+      ], 
+      [
+        "magnetic disk", 
+        "0.70185"
+      ], 
+      [
+        "memory device", 
+        "0.69139"
+      ], 
+      [
+        "electric fan", 
+        "0.50640"
+      ], 
+      [
+        "fan", 
+        "0.49896"
+      ]
+    ], 
+    "10.438"
+  ]
+}

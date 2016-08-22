@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.56507"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.07913"
+      ], 
+      [
+        "cassette player", 
+        "0.06464"
+      ], 
+      [
+        "tape player", 
+        "0.05111"
+      ], 
+      [
+        "modem", 
+        "0.03513"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.41481"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32227"
+      ], 
+      [
+        "implement", 
+        "0.30055"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.29363"
+      ], 
+      [
+        "sharpener", 
+        "0.28932"
+      ]
+    ], 
+    "7.464"
+  ]
+}

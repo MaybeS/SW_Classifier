@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.19356"
+      ], 
+      [
+        "loudspeaker", 
+        "0.16492"
+      ], 
+      [
+        "microwave", 
+        "0.15715"
+      ], 
+      [
+        "radio", 
+        "0.09766"
+      ], 
+      [
+        "CD player", 
+        "0.09142"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.56859"
+      ], 
+      [
+        "equipment", 
+        "0.52357"
+      ], 
+      [
+        "device", 
+        "0.33623"
+      ], 
+      [
+        "home appliance", 
+        "0.30105"
+      ], 
+      [
+        "appliance", 
+        "0.29703"
+      ]
+    ], 
+    "6.585"
+  ]
+}

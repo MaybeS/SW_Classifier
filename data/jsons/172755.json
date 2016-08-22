@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.18039"
+      ], 
+      [
+        "cassette player", 
+        "0.08121"
+      ], 
+      [
+        "cassette", 
+        "0.07293"
+      ], 
+      [
+        "modem", 
+        "0.07021"
+      ], 
+      [
+        "scale", 
+        "0.06904"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.69454"
+      ], 
+      [
+        "equipment", 
+        "0.58009"
+      ], 
+      [
+        "cellular telephone", 
+        "0.36609"
+      ], 
+      [
+        "radiotelephone", 
+        "0.36071"
+      ], 
+      [
+        "device", 
+        "0.35152"
+      ]
+    ], 
+    "10.841"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "computer keyboard", 
+        "0.78550"
+      ], 
+      [
+        "space bar", 
+        "0.13556"
+      ], 
+      [
+        "crossword puzzle", 
+        "0.01605"
+      ], 
+      [
+        "remote control", 
+        "0.01158"
+      ], 
+      [
+        "slide rule", 
+        "0.00877"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "1.46513"
+      ], 
+      [
+        "computer keyboard", 
+        "1.27980"
+      ], 
+      [
+        "data input device", 
+        "1.15615"
+      ], 
+      [
+        "peripheral", 
+        "1.07314"
+      ], 
+      [
+        "electronic equipment", 
+        "0.88094"
+      ]
+    ], 
+    "6.062"
+  ]
+}

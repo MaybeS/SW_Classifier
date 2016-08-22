@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette player", 
+        "0.16964"
+      ], 
+      [
+        "switch", 
+        "0.15028"
+      ], 
+      [
+        "safe", 
+        "0.13521"
+      ], 
+      [
+        "tape player", 
+        "0.06931"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06548"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.54571"
+      ], 
+      [
+        "equipment", 
+        "0.53250"
+      ], 
+      [
+        "safe", 
+        "0.38393"
+      ], 
+      [
+        "strongbox", 
+        "0.37829"
+      ], 
+      [
+        "box", 
+        "0.33193"
+      ]
+    ], 
+    "5.099"
+  ]
+}

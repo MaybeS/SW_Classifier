@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "syringe", 
+        "0.64150"
+      ], 
+      [
+        "fountain pen", 
+        "0.14839"
+      ], 
+      [
+        "screwdriver", 
+        "0.11849"
+      ], 
+      [
+        "ballpoint", 
+        "0.03308"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.01501"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.55263"
+      ], 
+      [
+        "pen", 
+        "0.44404"
+      ], 
+      [
+        "writing implement", 
+        "0.43613"
+      ], 
+      [
+        "fountain pen", 
+        "0.33380"
+      ], 
+      [
+        "device", 
+        "0.29947"
+      ]
+    ], 
+    "6.287"
+  ]
+}

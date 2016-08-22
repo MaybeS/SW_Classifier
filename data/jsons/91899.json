@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "china cabinet", 
+        "0.20057"
+      ], 
+      [
+        "sliding door", 
+        "0.10594"
+      ], 
+      [
+        "refrigerator", 
+        "0.07924"
+      ], 
+      [
+        "medicine chest", 
+        "0.05652"
+      ], 
+      [
+        "wardrobe", 
+        "0.04908"
+      ]
+    ], 
+    [
+      [
+        "cabinet", 
+        "0.78853"
+      ], 
+      [
+        "furniture", 
+        "0.77769"
+      ], 
+      [
+        "furnishing", 
+        "0.74346"
+      ], 
+      [
+        "china cabinet", 
+        "0.72553"
+      ], 
+      [
+        "structure", 
+        "0.27797"
+      ]
+    ], 
+    "8.561"
+  ]
+}

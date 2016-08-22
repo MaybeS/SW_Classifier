@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.18407"
+      ], 
+      [
+        "web site", 
+        "0.08592"
+      ], 
+      [
+        "analog clock", 
+        "0.06110"
+      ], 
+      [
+        "wall clock", 
+        "0.05714"
+      ], 
+      [
+        "street sign", 
+        "0.05657"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.39278"
+      ], 
+      [
+        "timepiece", 
+        "0.36152"
+      ], 
+      [
+        "web site", 
+        "0.35568"
+      ], 
+      [
+        "machine", 
+        "0.34892"
+      ], 
+      [
+        "computer", 
+        "0.34453"
+      ]
+    ], 
+    "4.573"
+  ]
+}

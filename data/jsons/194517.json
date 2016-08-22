@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.40978"
+      ], 
+      [
+        "wardrobe", 
+        "0.19007"
+      ], 
+      [
+        "safe", 
+        "0.05842"
+      ], 
+      [
+        "refrigerator", 
+        "0.05226"
+      ], 
+      [
+        "desktop computer", 
+        "0.04951"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.57002"
+      ], 
+      [
+        "furnishing", 
+        "0.56983"
+      ], 
+      [
+        "binder", 
+        "0.41220"
+      ], 
+      [
+        "wardrobe", 
+        "0.37677"
+      ], 
+      [
+        "protective covering", 
+        "0.29696"
+      ]
+    ], 
+    "8.294"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "military uniform", 
+        "0.23334"
+      ], 
+      [
+        "comic book", 
+        "0.18111"
+      ], 
+      [
+        "book jacket", 
+        "0.07666"
+      ], 
+      [
+        "ballplayer", 
+        "0.03021"
+      ], 
+      [
+        "assault rifle", 
+        "0.02268"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.41426"
+      ], 
+      [
+        "clothing", 
+        "0.35716"
+      ], 
+      [
+        "consumer goods", 
+        "0.33419"
+      ], 
+      [
+        "comic book", 
+        "0.32202"
+      ], 
+      [
+        "magazine", 
+        "0.31729"
+      ]
+    ], 
+    "4.490"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.43882"
+      ], 
+      [
+        "packet", 
+        "0.13615"
+      ], 
+      [
+        "menu", 
+        "0.08362"
+      ], 
+      [
+        "paper towel", 
+        "0.03604"
+      ], 
+      [
+        "envelope", 
+        "0.02702"
+      ]
+    ], 
+    [
+      [
+        "refrigerator", 
+        "0.68275"
+      ], 
+      [
+        "white goods", 
+        "0.62777"
+      ], 
+      [
+        "home appliance", 
+        "0.55548"
+      ], 
+      [
+        "appliance", 
+        "0.53420"
+      ], 
+      [
+        "durables", 
+        "0.52030"
+      ]
+    ], 
+    "5.843"
+  ]
+}

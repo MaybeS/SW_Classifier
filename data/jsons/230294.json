@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.98952"
+      ], 
+      [
+        "lens cap", 
+        "0.00862"
+      ], 
+      [
+        "tripod", 
+        "0.00071"
+      ], 
+      [
+        "switch", 
+        "0.00022"
+      ], 
+      [
+        "loudspeaker", 
+        "0.00017"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.25389"
+      ], 
+      [
+        "photographic equipment", 
+        "2.21642"
+      ], 
+      [
+        "reflex camera", 
+        "2.20666"
+      ], 
+      [
+        "equipment", 
+        "1.09908"
+      ], 
+      [
+        "lens cap", 
+        "0.37079"
+      ]
+    ], 
+    "5.923"
+  ]
+}

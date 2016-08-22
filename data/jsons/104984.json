@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.14289"
+      ], 
+      [
+        "wall clock", 
+        "0.12001"
+      ], 
+      [
+        "analog clock", 
+        "0.08891"
+      ], 
+      [
+        "projector", 
+        "0.06281"
+      ], 
+      [
+        "hair slide", 
+        "0.06260"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.45712"
+      ], 
+      [
+        "instrument", 
+        "0.45637"
+      ], 
+      [
+        "clock", 
+        "0.43665"
+      ], 
+      [
+        "timepiece", 
+        "0.43432"
+      ], 
+      [
+        "device", 
+        "0.41593"
+      ]
+    ], 
+    "6.242"
+  ]
+}

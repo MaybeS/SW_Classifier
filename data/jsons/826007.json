@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Band Aid", 
+        "0.44942"
+      ], 
+      [
+        "book jacket", 
+        "0.06671"
+      ], 
+      [
+        "bathing cap", 
+        "0.04939"
+      ], 
+      [
+        "can opener", 
+        "0.03989"
+      ], 
+      [
+        "comic book", 
+        "0.03540"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.52570"
+      ], 
+      [
+        "Band Aid", 
+        "0.41801"
+      ], 
+      [
+        "clothing", 
+        "0.41260"
+      ], 
+      [
+        "adhesive bandage", 
+        "0.41187"
+      ], 
+      [
+        "bandage", 
+        "0.40573"
+      ]
+    ], 
+    "5.770"
+  ]
+}

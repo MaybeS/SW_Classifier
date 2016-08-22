@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.38194"
+      ], 
+      [
+        "wall clock", 
+        "0.34421"
+      ], 
+      [
+        "analog clock", 
+        "0.07467"
+      ], 
+      [
+        "saltshaker", 
+        "0.04745"
+      ], 
+      [
+        "bubble", 
+        "0.01206"
+      ]
+    ], 
+    [
+      [
+        "clock", 
+        "0.88442"
+      ], 
+      [
+        "timepiece", 
+        "0.79974"
+      ], 
+      [
+        "measuring instrument", 
+        "0.79562"
+      ], 
+      [
+        "instrument", 
+        "0.60756"
+      ], 
+      [
+        "wall clock", 
+        "0.52131"
+      ]
+    ], 
+    "5.415"
+  ]
+}

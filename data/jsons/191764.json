@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.28499"
+      ], 
+      [
+        "binder", 
+        "0.10209"
+      ], 
+      [
+        "switch", 
+        "0.09690"
+      ], 
+      [
+        "cassette player", 
+        "0.07843"
+      ], 
+      [
+        "safe", 
+        "0.05568"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.33287"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32891"
+      ], 
+      [
+        "container", 
+        "0.28991"
+      ], 
+      [
+        "device", 
+        "0.28447"
+      ], 
+      [
+        "implement", 
+        "0.23121"
+      ]
+    ], 
+    "7.435"
+  ]
+}

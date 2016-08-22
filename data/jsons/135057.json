@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.29750"
+      ], 
+      [
+        "projector", 
+        "0.16831"
+      ], 
+      [
+        "can opener", 
+        "0.10370"
+      ], 
+      [
+        "space heater", 
+        "0.10054"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06699"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.48568"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44670"
+      ], 
+      [
+        "device", 
+        "0.34951"
+      ], 
+      [
+        "machine", 
+        "0.34759"
+      ], 
+      [
+        "printer", 
+        "0.32206"
+      ]
+    ], 
+    "6.038"
+  ]
+}

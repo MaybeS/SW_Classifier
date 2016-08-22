@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.58288"
+      ], 
+      [
+        "hand-held computer", 
+        "0.11702"
+      ], 
+      [
+        "oil filter", 
+        "0.03896"
+      ], 
+      [
+        "radio", 
+        "0.02622"
+      ], 
+      [
+        "soap dispenser", 
+        "0.02586"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.01258"
+      ], 
+      [
+        "magnetic disk", 
+        "0.99771"
+      ], 
+      [
+        "memory device", 
+        "0.98283"
+      ], 
+      [
+        "device", 
+        "0.47621"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41577"
+      ]
+    ], 
+    "8.625"
+  ]
+}

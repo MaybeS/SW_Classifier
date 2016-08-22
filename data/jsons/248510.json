@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.29760"
+      ], 
+      [
+        "oscilloscope", 
+        "0.07461"
+      ], 
+      [
+        "switch", 
+        "0.06680"
+      ], 
+      [
+        "tape player", 
+        "0.04790"
+      ], 
+      [
+        "cassette", 
+        "0.03661"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.46690"
+      ], 
+      [
+        "espresso maker", 
+        "0.45764"
+      ], 
+      [
+        "equipment", 
+        "0.45471"
+      ], 
+      [
+        "coffee maker", 
+        "0.45091"
+      ], 
+      [
+        "home appliance", 
+        "0.42171"
+      ]
+    ], 
+    "5.436"
+  ]
+}

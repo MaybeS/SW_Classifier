@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.47075"
+      ], 
+      [
+        "rule", 
+        "0.29226"
+      ], 
+      [
+        "digital clock", 
+        "0.05703"
+      ], 
+      [
+        "switch", 
+        "0.02896"
+      ], 
+      [
+        "pencil box", 
+        "0.02031"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51055"
+      ], 
+      [
+        "modem", 
+        "0.44353"
+      ], 
+      [
+        "equipment", 
+        "0.44255"
+      ], 
+      [
+        "measuring instrument", 
+        "0.39847"
+      ], 
+      [
+        "rule", 
+        "0.38017"
+      ]
+    ], 
+    "7.275"
+  ]
+}

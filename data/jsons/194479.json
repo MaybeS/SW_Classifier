@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.33787"
+      ], 
+      [
+        "harmonica", 
+        "0.17271"
+      ], 
+      [
+        "space heater", 
+        "0.03850"
+      ], 
+      [
+        "whistle", 
+        "0.02289"
+      ], 
+      [
+        "rotisserie", 
+        "0.02254"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.46700"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43179"
+      ], 
+      [
+        "machine", 
+        "0.39728"
+      ], 
+      [
+        "device", 
+        "0.35727"
+      ], 
+      [
+        "printer", 
+        "0.35423"
+      ]
+    ], 
+    "6.044"
+  ]
+}

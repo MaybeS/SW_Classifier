@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.20661"
+      ], 
+      [
+        "hand-held computer", 
+        "0.14362"
+      ], 
+      [
+        "slot", 
+        "0.09005"
+      ], 
+      [
+        "oscilloscope", 
+        "0.06408"
+      ], 
+      [
+        "digital clock", 
+        "0.05667"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "1.06705"
+      ], 
+      [
+        "computer", 
+        "1.00384"
+      ], 
+      [
+        "web site", 
+        "0.82666"
+      ], 
+      [
+        "device", 
+        "0.49768"
+      ], 
+      [
+        "personal computer", 
+        "0.48811"
+      ]
+    ], 
+    "4.741"
+  ]
+}

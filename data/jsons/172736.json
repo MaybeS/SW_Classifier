@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hair spray", 
+        "0.34843"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.22966"
+      ], 
+      [
+        "lighter", 
+        "0.11145"
+      ], 
+      [
+        "oil filter", 
+        "0.06704"
+      ], 
+      [
+        "can opener", 
+        "0.06174"
+      ]
+    ], 
+    [
+      [
+        "shaker", 
+        "0.44836"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.42574"
+      ], 
+      [
+        "toiletry", 
+        "0.37635"
+      ], 
+      [
+        "container", 
+        "0.36348"
+      ], 
+      [
+        "vessel", 
+        "0.26567"
+      ]
+    ], 
+    "11.061"
+  ]
+}

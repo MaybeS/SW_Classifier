@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.24972"
+      ], 
+      [
+        "stopwatch", 
+        "0.13266"
+      ], 
+      [
+        "nipple", 
+        "0.09451"
+      ], 
+      [
+        "digital watch", 
+        "0.05769"
+      ], 
+      [
+        "gasmask", 
+        "0.05594"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.44198"
+      ], 
+      [
+        "timepiece", 
+        "0.43899"
+      ], 
+      [
+        "instrument", 
+        "0.39223"
+      ], 
+      [
+        "device", 
+        "0.33455"
+      ], 
+      [
+        "stopwatch", 
+        "0.32658"
+      ]
+    ], 
+    "5.565"
+  ]
+}

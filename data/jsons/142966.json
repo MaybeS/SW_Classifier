@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.15389"
+      ], 
+      [
+        "cash machine", 
+        "0.14889"
+      ], 
+      [
+        "web site", 
+        "0.12323"
+      ], 
+      [
+        "vending machine", 
+        "0.11050"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.06900"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.80793"
+      ], 
+      [
+        "web site", 
+        "0.50098"
+      ], 
+      [
+        "computer", 
+        "0.50017"
+      ], 
+      [
+        "oscilloscope", 
+        "0.49633"
+      ], 
+      [
+        "electronic equipment", 
+        "0.49602"
+      ]
+    ], 
+    "5.318"
+  ]
+}

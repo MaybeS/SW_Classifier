@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.93396"
+      ], 
+      [
+        "stove", 
+        "0.04184"
+      ], 
+      [
+        "radio", 
+        "0.00847"
+      ], 
+      [
+        "tape player", 
+        "0.00393"
+      ], 
+      [
+        "switch", 
+        "0.00292"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.05873"
+      ], 
+      [
+        "control", 
+        "0.98699"
+      ], 
+      [
+        "data input device", 
+        "0.98032"
+      ], 
+      [
+        "peripheral", 
+        "0.91731"
+      ], 
+      [
+        "electronic equipment", 
+        "0.78649"
+      ]
+    ], 
+    "9.350"
+  ]
+}

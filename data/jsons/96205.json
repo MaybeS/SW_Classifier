@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "shower curtain", 
+        "0.41902"
+      ], 
+      [
+        "velvet", 
+        "0.36257"
+      ], 
+      [
+        "wool", 
+        "0.01612"
+      ], 
+      [
+        "lampshade", 
+        "0.01511"
+      ], 
+      [
+        "brain coral", 
+        "0.01469"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.60832"
+      ], 
+      [
+        "blind", 
+        "0.46304"
+      ], 
+      [
+        "curtain", 
+        "0.45425"
+      ], 
+      [
+        "protective covering", 
+        "0.44764"
+      ], 
+      [
+        "shower curtain", 
+        "0.43962"
+      ]
+    ], 
+    "6.686"
+  ]
+}

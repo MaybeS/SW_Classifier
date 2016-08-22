@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.95923"
+      ], 
+      [
+        "spotlight", 
+        "0.01014"
+      ], 
+      [
+        "tripod", 
+        "0.00745"
+      ], 
+      [
+        "radio", 
+        "0.00276"
+      ], 
+      [
+        "strainer", 
+        "0.00221"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.71580"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.64987"
+      ], 
+      [
+        "transducer", 
+        "0.63906"
+      ], 
+      [
+        "electrical device", 
+        "0.62826"
+      ], 
+      [
+        "device", 
+        "0.44102"
+      ]
+    ], 
+    "11.228"
+  ]
+}

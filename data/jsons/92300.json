@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.25272"
+      ], 
+      [
+        "modem", 
+        "0.08424"
+      ], 
+      [
+        "rule", 
+        "0.07342"
+      ], 
+      [
+        "oscilloscope", 
+        "0.05918"
+      ], 
+      [
+        "abacus", 
+        "0.05594"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.44229"
+      ], 
+      [
+        "digital clock", 
+        "0.39266"
+      ], 
+      [
+        "timepiece", 
+        "0.38392"
+      ], 
+      [
+        "electronic equipment", 
+        "0.36385"
+      ], 
+      [
+        "clock", 
+        "0.35079"
+      ]
+    ], 
+    "10.549"
+  ]
+}

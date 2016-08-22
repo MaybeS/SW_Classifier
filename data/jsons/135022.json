@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.92966"
+      ], 
+      [
+        "rocking chair", 
+        "0.01906"
+      ], 
+      [
+        "plate rack", 
+        "0.00752"
+      ], 
+      [
+        "solar dish", 
+        "0.00653"
+      ], 
+      [
+        "spotlight", 
+        "0.00460"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "1.97803"
+      ], 
+      [
+        "fan", 
+        "1.94898"
+      ], 
+      [
+        "device", 
+        "0.49460"
+      ], 
+      [
+        "container", 
+        "0.21282"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.19424"
+      ]
+    ], 
+    "7.821"
+  ]
+}

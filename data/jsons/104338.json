@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.30229"
+      ], 
+      [
+        "nipple", 
+        "0.12583"
+      ], 
+      [
+        "switch", 
+        "0.07314"
+      ], 
+      [
+        "gasmask", 
+        "0.04544"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.03657"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.32686"
+      ], 
+      [
+        "toiletry", 
+        "0.28893"
+      ], 
+      [
+        "vessel", 
+        "0.27348"
+      ], 
+      [
+        "covering", 
+        "0.25579"
+      ], 
+      [
+        "consumer goods", 
+        "0.22605"
+      ]
+    ], 
+    "8.469"
+  ]
+}

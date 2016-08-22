@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "solar dish", 
+        "0.55677"
+      ], 
+      [
+        "dome", 
+        "0.09006"
+      ], 
+      [
+        "tray", 
+        "0.03127"
+      ], 
+      [
+        "handkerchief", 
+        "0.02684"
+      ], 
+      [
+        "greenhouse", 
+        "0.01583"
+      ]
+    ], 
+    [
+      [
+        "solar dish", 
+        "0.98901"
+      ], 
+      [
+        "reflector", 
+        "0.87129"
+      ], 
+      [
+        "structure", 
+        "0.35802"
+      ], 
+      [
+        "device", 
+        "0.29997"
+      ], 
+      [
+        "protective covering", 
+        "0.27971"
+      ]
+    ], 
+    "5.137"
+  ]
+}

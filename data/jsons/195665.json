@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.39661"
+      ], 
+      [
+        "harmonica", 
+        "0.24380"
+      ], 
+      [
+        "radio", 
+        "0.07971"
+      ], 
+      [
+        "space heater", 
+        "0.04197"
+      ], 
+      [
+        "modem", 
+        "0.02856"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.33012"
+      ], 
+      [
+        "device", 
+        "0.32067"
+      ], 
+      [
+        "vehicle", 
+        "0.30223"
+      ], 
+      [
+        "musical instrument", 
+        "0.29163"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.27364"
+      ]
+    ], 
+    "9.916"
+  ]
+}

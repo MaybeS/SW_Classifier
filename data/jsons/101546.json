@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.85482"
+      ], 
+      [
+        "binoculars", 
+        "0.02296"
+      ], 
+      [
+        "CD player", 
+        "0.01326"
+      ], 
+      [
+        "cassette player", 
+        "0.01217"
+      ], 
+      [
+        "reflex camera", 
+        "0.01065"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "0.97277"
+      ], 
+      [
+        "control", 
+        "0.91314"
+      ], 
+      [
+        "data input device", 
+        "0.90166"
+      ], 
+      [
+        "peripheral", 
+        "0.84565"
+      ], 
+      [
+        "electronic equipment", 
+        "0.76832"
+      ]
+    ], 
+    "6.148"
+  ]
+}

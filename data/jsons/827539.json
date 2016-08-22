@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vase", 
+        "0.29469"
+      ], 
+      [
+        "swimming trunks", 
+        "0.24840"
+      ], 
+      [
+        "knee pad", 
+        "0.16823"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.04089"
+      ], 
+      [
+        "breastplate", 
+        "0.02002"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.70925"
+      ], 
+      [
+        "consumer goods", 
+        "0.63315"
+      ], 
+      [
+        "covering", 
+        "0.63255"
+      ], 
+      [
+        "commodity", 
+        "0.60074"
+      ], 
+      [
+        "garment", 
+        "0.53759"
+      ]
+    ], 
+    "7.353"
+  ]
+}

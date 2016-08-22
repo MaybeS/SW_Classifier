@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.55189"
+      ], 
+      [
+        "can opener", 
+        "0.06803"
+      ], 
+      [
+        "piggy bank", 
+        "0.06467"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06408"
+      ], 
+      [
+        "lotion", 
+        "0.03059"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.42302"
+      ], 
+      [
+        "soap dispenser", 
+        "0.38778"
+      ], 
+      [
+        "dispenser", 
+        "0.38208"
+      ], 
+      [
+        "vessel", 
+        "0.32797"
+      ], 
+      [
+        "toiletry", 
+        "0.29849"
+      ]
+    ], 
+    "9.219"
+  ]
+}

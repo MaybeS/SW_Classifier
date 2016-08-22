@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette player", 
+        "0.13765"
+      ], 
+      [
+        "printer", 
+        "0.09470"
+      ], 
+      [
+        "photocopier", 
+        "0.08865"
+      ], 
+      [
+        "cassette", 
+        "0.07907"
+      ], 
+      [
+        "mousetrap", 
+        "0.06767"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.61956"
+      ], 
+      [
+        "electronic equipment", 
+        "0.56509"
+      ], 
+      [
+        "container", 
+        "0.30407"
+      ], 
+      [
+        "photocopier", 
+        "0.28361"
+      ], 
+      [
+        "duplicator", 
+        "0.27945"
+      ]
+    ], 
+    "12.765"
+  ]
+}

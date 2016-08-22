@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.99994"
+      ], 
+      [
+        "CD player", 
+        "0.00003"
+      ], 
+      [
+        "cassette", 
+        "0.00001"
+      ], 
+      [
+        "tape player", 
+        "0.00001"
+      ], 
+      [
+        "electric fan", 
+        "0.00000"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.71024"
+      ], 
+      [
+        "magnetic disk", 
+        "1.68512"
+      ], 
+      [
+        "memory device", 
+        "1.66000"
+      ], 
+      [
+        "device", 
+        "0.52303"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41664"
+      ]
+    ], 
+    "6.609"
+  ]
+}

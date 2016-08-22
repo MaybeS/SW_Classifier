@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.17003"
+      ], 
+      [
+        "toyshop", 
+        "0.09086"
+      ], 
+      [
+        "soccer ball", 
+        "0.05981"
+      ], 
+      [
+        "puck", 
+        "0.04004"
+      ], 
+      [
+        "confectionery", 
+        "0.03035"
+      ]
+    ], 
+    [
+      [
+        "mercantile establishment", 
+        "0.39320"
+      ], 
+      [
+        "place of business", 
+        "0.38429"
+      ], 
+      [
+        "establishment", 
+        "0.36911"
+      ], 
+      [
+        "shop", 
+        "0.35661"
+      ], 
+      [
+        "street sign", 
+        "0.34078"
+      ]
+    ], 
+    "4.680"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ballpoint", 
+        "0.44110"
+      ], 
+      [
+        "notebook", 
+        "0.18440"
+      ], 
+      [
+        "fountain pen", 
+        "0.16231"
+      ], 
+      [
+        "desktop computer", 
+        "0.04586"
+      ], 
+      [
+        "letter opener", 
+        "0.03625"
+      ]
+    ], 
+    [
+      [
+        "pen", 
+        "0.87828"
+      ], 
+      [
+        "writing implement", 
+        "0.86262"
+      ], 
+      [
+        "implement", 
+        "0.74449"
+      ], 
+      [
+        "fountain pen", 
+        "0.51466"
+      ], 
+      [
+        "ballpoint", 
+        "0.51343"
+      ]
+    ], 
+    "5.838"
+  ]
+}

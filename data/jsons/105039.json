@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.41386"
+      ], 
+      [
+        "projector", 
+        "0.19119"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.11123"
+      ], 
+      [
+        "spotlight", 
+        "0.07477"
+      ], 
+      [
+        "espresso maker", 
+        "0.03486"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.28492"
+      ], 
+      [
+        "photographic equipment", 
+        "1.26356"
+      ], 
+      [
+        "reflex camera", 
+        "0.99308"
+      ], 
+      [
+        "equipment", 
+        "0.72082"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.46128"
+      ]
+    ], 
+    "8.773"
+  ]
+}

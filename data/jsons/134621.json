@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.11653"
+      ], 
+      [
+        "switch", 
+        "0.11039"
+      ], 
+      [
+        "rubber eraser", 
+        "0.09982"
+      ], 
+      [
+        "hard disc", 
+        "0.06481"
+      ], 
+      [
+        "lighter", 
+        "0.05256"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33664"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32467"
+      ], 
+      [
+        "equipment", 
+        "0.31397"
+      ], 
+      [
+        "implement", 
+        "0.23611"
+      ], 
+      [
+        "container", 
+        "0.23258"
+      ]
+    ], 
+    "5.497"
+  ]
+}

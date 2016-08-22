@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.47253"
+      ], 
+      [
+        "hand-held computer", 
+        "0.30000"
+      ], 
+      [
+        "cash machine", 
+        "0.04445"
+      ], 
+      [
+        "carton", 
+        "0.01361"
+      ], 
+      [
+        "oscilloscope", 
+        "0.01310"
+      ]
+    ], 
+    [
+      [
+        "cellular telephone", 
+        "0.94638"
+      ], 
+      [
+        "radiotelephone", 
+        "0.93247"
+      ], 
+      [
+        "hand-held computer", 
+        "0.88591"
+      ], 
+      [
+        "portable computer", 
+        "0.87678"
+      ], 
+      [
+        "personal computer", 
+        "0.85195"
+      ]
+    ], 
+    "5.140"
+  ]
+}

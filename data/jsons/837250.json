@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "chain mail", 
+        "0.63871"
+      ], 
+      [
+        "jersey", 
+        "0.03511"
+      ], 
+      [
+        "miniskirt", 
+        "0.03355"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.03315"
+      ], 
+      [
+        "apron", 
+        "0.02780"
+      ]
+    ], 
+    [
+      [
+        "chain mail", 
+        "1.94728"
+      ], 
+      [
+        "body armor", 
+        "1.70960"
+      ], 
+      [
+        "armor", 
+        "1.59843"
+      ], 
+      [
+        "protective covering", 
+        "1.00735"
+      ], 
+      [
+        "covering", 
+        "0.87607"
+      ]
+    ], 
+    "5.214"
+  ]
+}

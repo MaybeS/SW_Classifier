@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.09761"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07537"
+      ], 
+      [
+        "remote control", 
+        "0.06958"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06700"
+      ], 
+      [
+        "cassette", 
+        "0.06415"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.35791"
+      ], 
+      [
+        "machine", 
+        "0.34773"
+      ], 
+      [
+        "device", 
+        "0.34261"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33422"
+      ], 
+      [
+        "equipment", 
+        "0.31427"
+      ]
+    ], 
+    "6.386"
+  ]
+}

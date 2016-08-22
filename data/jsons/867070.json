@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "accordion", 
+        "0.05778"
+      ], 
+      [
+        "electric guitar", 
+        "0.03745"
+      ], 
+      [
+        "desk", 
+        "0.03416"
+      ], 
+      [
+        "hand blower", 
+        "0.03014"
+      ], 
+      [
+        "photocopier", 
+        "0.02358"
+      ]
+    ], 
+    [
+      [
+        "musical instrument", 
+        "0.34642"
+      ], 
+      [
+        "device", 
+        "0.31413"
+      ], 
+      [
+        "consumer goods", 
+        "0.30205"
+      ], 
+      [
+        "covering", 
+        "0.28898"
+      ], 
+      [
+        "commodity", 
+        "0.28757"
+      ]
+    ], 
+    "7.632"
+  ]
+}

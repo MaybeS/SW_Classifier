@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.98031"
+      ], 
+      [
+        "hand blower", 
+        "0.01785"
+      ], 
+      [
+        "spotlight", 
+        "0.00037"
+      ], 
+      [
+        "lipstick", 
+        "0.00027"
+      ], 
+      [
+        "face powder", 
+        "0.00027"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.73067"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.66059"
+      ], 
+      [
+        "transducer", 
+        "0.64961"
+      ], 
+      [
+        "electrical device", 
+        "0.63863"
+      ], 
+      [
+        "device", 
+        "0.44348"
+      ]
+    ], 
+    "11.617"
+  ]
+}

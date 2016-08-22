@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.35587"
+      ], 
+      [
+        "desktop computer", 
+        "0.16349"
+      ], 
+      [
+        "binder", 
+        "0.09991"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05395"
+      ], 
+      [
+        "binoculars", 
+        "0.03938"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.55406"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.50242"
+      ], 
+      [
+        "transducer", 
+        "0.49407"
+      ], 
+      [
+        "electrical device", 
+        "0.48572"
+      ], 
+      [
+        "equipment", 
+        "0.40768"
+      ]
+    ], 
+    "5.102"
+  ]
+}

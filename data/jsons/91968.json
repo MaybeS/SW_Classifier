@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.21501"
+      ], 
+      [
+        "dishwasher", 
+        "0.19815"
+      ], 
+      [
+        "desktop computer", 
+        "0.14395"
+      ], 
+      [
+        "binder", 
+        "0.11079"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08095"
+      ]
+    ], 
+    [
+      [
+        "white goods", 
+        "0.57419"
+      ], 
+      [
+        "home appliance", 
+        "0.51479"
+      ], 
+      [
+        "appliance", 
+        "0.49539"
+      ], 
+      [
+        "durables", 
+        "0.48250"
+      ], 
+      [
+        "refrigerator", 
+        "0.35006"
+      ]
+    ], 
+    "9.733"
+  ]
+}

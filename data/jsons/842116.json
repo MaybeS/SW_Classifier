@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "backpack", 
+        "0.15203"
+      ], 
+      [
+        "mailbag", 
+        "0.13116"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.07909"
+      ], 
+      [
+        "shopping basket", 
+        "0.04591"
+      ], 
+      [
+        "cowboy boot", 
+        "0.04305"
+      ]
+    ], 
+    [
+      [
+        "bag", 
+        "0.39676"
+      ], 
+      [
+        "covering", 
+        "0.35658"
+      ], 
+      [
+        "consumer goods", 
+        "0.34029"
+      ], 
+      [
+        "container", 
+        "0.32981"
+      ], 
+      [
+        "commodity", 
+        "0.32403"
+      ]
+    ], 
+    "6.564"
+  ]
+}

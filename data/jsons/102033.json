@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.42891"
+      ], 
+      [
+        "binder", 
+        "0.05676"
+      ], 
+      [
+        "paper towel", 
+        "0.05403"
+      ], 
+      [
+        "switch", 
+        "0.03866"
+      ], 
+      [
+        "soap dispenser", 
+        "0.02319"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.64430"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.58237"
+      ], 
+      [
+        "transducer", 
+        "0.57268"
+      ], 
+      [
+        "electrical device", 
+        "0.56300"
+      ], 
+      [
+        "device", 
+        "0.36618"
+      ]
+    ], 
+    "6.943"
+  ]
+}

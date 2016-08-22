@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.50022"
+      ], 
+      [
+        "spotlight", 
+        "0.14711"
+      ], 
+      [
+        "torch", 
+        "0.14631"
+      ], 
+      [
+        "screw", 
+        "0.03615"
+      ], 
+      [
+        "loupe", 
+        "0.03332"
+      ]
+    ], 
+    [
+      [
+        "binoculars", 
+        "0.49012"
+      ], 
+      [
+        "optical instrument", 
+        "0.44457"
+      ], 
+      [
+        "device", 
+        "0.40713"
+      ], 
+      [
+        "instrument", 
+        "0.36562"
+      ], 
+      [
+        "source of illumination", 
+        "0.28475"
+      ]
+    ], 
+    "16.109"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "shower cap", 
+        "0.22893"
+      ], 
+      [
+        "bib", 
+        "0.11582"
+      ], 
+      [
+        "jigsaw puzzle", 
+        "0.10068"
+      ], 
+      [
+        "toilet seat", 
+        "0.07865"
+      ], 
+      [
+        "handkerchief", 
+        "0.05922"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.45042"
+      ], 
+      [
+        "covering", 
+        "0.44771"
+      ], 
+      [
+        "consumer goods", 
+        "0.41666"
+      ], 
+      [
+        "commodity", 
+        "0.40719"
+      ], 
+      [
+        "fabric", 
+        "0.34456"
+      ]
+    ], 
+    "5.713"
+  ]
+}

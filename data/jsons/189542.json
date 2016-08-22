@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.27747"
+      ], 
+      [
+        "ice lolly", 
+        "0.18044"
+      ], 
+      [
+        "rubber eraser", 
+        "0.11844"
+      ], 
+      [
+        "harmonica", 
+        "0.06123"
+      ], 
+      [
+        "lipstick", 
+        "0.04669"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.33656"
+      ], 
+      [
+        "implement", 
+        "0.33181"
+      ], 
+      [
+        "acoustic device", 
+        "0.33162"
+      ], 
+      [
+        "signaling device", 
+        "0.33162"
+      ], 
+      [
+        "toiletry", 
+        "0.28353"
+      ]
+    ], 
+    "6.309"
+  ]
+}

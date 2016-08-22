@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mousetrap", 
+        "0.33852"
+      ], 
+      [
+        "electric guitar", 
+        "0.08319"
+      ], 
+      [
+        "switch", 
+        "0.08107"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06978"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04244"
+      ]
+    ], 
+    [
+      [
+        "mousetrap", 
+        "0.37793"
+      ], 
+      [
+        "device", 
+        "0.37109"
+      ], 
+      [
+        "trap", 
+        "0.32977"
+      ], 
+      [
+        "implement", 
+        "0.28502"
+      ], 
+      [
+        "musical instrument", 
+        "0.22184"
+      ]
+    ], 
+    "6.239"
+  ]
+}

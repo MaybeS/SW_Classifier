@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.84803"
+      ], 
+      [
+        "table lamp", 
+        "0.09688"
+      ], 
+      [
+        "ladle", 
+        "0.01998"
+      ], 
+      [
+        "frying pan", 
+        "0.00566"
+      ], 
+      [
+        "mouse", 
+        "0.00444"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.63324"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.57374"
+      ], 
+      [
+        "transducer", 
+        "0.56420"
+      ], 
+      [
+        "electrical device", 
+        "0.55466"
+      ], 
+      [
+        "device", 
+        "0.40791"
+      ]
+    ], 
+    "14.284"
+  ]
+}

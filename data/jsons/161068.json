@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.92211"
+      ], 
+      [
+        "whistle", 
+        "0.02595"
+      ], 
+      [
+        "rubber eraser", 
+        "0.01051"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00795"
+      ], 
+      [
+        "combination lock", 
+        "0.00300"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.98250"
+      ], 
+      [
+        "control", 
+        "0.92991"
+      ], 
+      [
+        "mechanism", 
+        "0.65445"
+      ], 
+      [
+        "device", 
+        "0.40662"
+      ], 
+      [
+        "equipment", 
+        "0.26675"
+      ]
+    ], 
+    "7.126"
+  ]
+}

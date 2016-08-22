@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.66987"
+      ], 
+      [
+        "spotlight", 
+        "0.05236"
+      ], 
+      [
+        "can opener", 
+        "0.05061"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.02609"
+      ], 
+      [
+        "soap dispenser", 
+        "0.01925"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.50706"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.46430"
+      ], 
+      [
+        "transducer", 
+        "0.45658"
+      ], 
+      [
+        "electrical device", 
+        "0.44886"
+      ], 
+      [
+        "device", 
+        "0.38793"
+      ]
+    ], 
+    "12.963"
+  ]
+}

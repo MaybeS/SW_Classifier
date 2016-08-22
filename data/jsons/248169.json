@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.38004"
+      ], 
+      [
+        "cellular telephone", 
+        "0.23813"
+      ], 
+      [
+        "lighter", 
+        "0.08201"
+      ], 
+      [
+        "hand-held computer", 
+        "0.04051"
+      ], 
+      [
+        "packet", 
+        "0.02622"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.90081"
+      ], 
+      [
+        "iPod", 
+        "0.69426"
+      ], 
+      [
+        "equipment", 
+        "0.69305"
+      ], 
+      [
+        "stereo", 
+        "0.68406"
+      ], 
+      [
+        "reproducer", 
+        "0.67386"
+      ]
+    ], 
+    "10.958"
+  ]
+}

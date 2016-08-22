@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.45594"
+      ], 
+      [
+        "lipstick", 
+        "0.16269"
+      ], 
+      [
+        "oil filter", 
+        "0.14572"
+      ], 
+      [
+        "switch", 
+        "0.04578"
+      ], 
+      [
+        "screwdriver", 
+        "0.03208"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.50604"
+      ], 
+      [
+        "signaling device", 
+        "0.49861"
+      ], 
+      [
+        "acoustic device", 
+        "0.49861"
+      ], 
+      [
+        "toiletry", 
+        "0.38877"
+      ], 
+      [
+        "makeup", 
+        "0.36007"
+      ]
+    ], 
+    "11.065"
+  ]
+}

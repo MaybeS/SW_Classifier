@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "candle", 
+        "0.88943"
+      ], 
+      [
+        "toilet tissue", 
+        "0.04945"
+      ], 
+      [
+        "paper towel", 
+        "0.01293"
+      ], 
+      [
+        "lotion", 
+        "0.00970"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00406"
+      ]
+    ], 
+    [
+      [
+        "source of illumination", 
+        "1.21917"
+      ], 
+      [
+        "candle", 
+        "1.06221"
+      ], 
+      [
+        "lamp", 
+        "1.02804"
+      ], 
+      [
+        "device", 
+        "0.37616"
+      ], 
+      [
+        "torch", 
+        "0.35022"
+      ]
+    ], 
+    "6.351"
+  ]
+}

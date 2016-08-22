@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.29161"
+      ], 
+      [
+        "iPod", 
+        "0.13339"
+      ], 
+      [
+        "monitor", 
+        "0.06699"
+      ], 
+      [
+        "modem", 
+        "0.05474"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05292"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.73447"
+      ], 
+      [
+        "equipment", 
+        "0.61421"
+      ], 
+      [
+        "system", 
+        "0.46987"
+      ], 
+      [
+        "device", 
+        "0.35150"
+      ], 
+      [
+        "communication system", 
+        "0.31613"
+      ]
+    ], 
+    "8.610"
+  ]
+}

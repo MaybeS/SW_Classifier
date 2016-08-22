@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.60669"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.21288"
+      ], 
+      [
+        "CD player", 
+        "0.02975"
+      ], 
+      [
+        "oil filter", 
+        "0.01542"
+      ], 
+      [
+        "washer", 
+        "0.01311"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.61602"
+      ], 
+      [
+        "instrument", 
+        "0.54106"
+      ], 
+      [
+        "scale", 
+        "0.50076"
+      ], 
+      [
+        "device", 
+        "0.39405"
+      ], 
+      [
+        "container", 
+        "0.25253"
+      ]
+    ], 
+    "6.663"
+  ]
+}

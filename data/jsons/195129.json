@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.55919"
+      ], 
+      [
+        "perfume", 
+        "0.18089"
+      ], 
+      [
+        "hand blower", 
+        "0.06695"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.03830"
+      ], 
+      [
+        "binoculars", 
+        "0.03061"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.84332"
+      ], 
+      [
+        "coffee maker", 
+        "0.83093"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.64003"
+      ], 
+      [
+        "appliance", 
+        "0.62305"
+      ], 
+      [
+        "home appliance", 
+        "0.61463"
+      ]
+    ], 
+    "8.759"
+  ]
+}

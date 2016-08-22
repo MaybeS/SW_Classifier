@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.09116"
+      ], 
+      [
+        "whistle", 
+        "0.06285"
+      ], 
+      [
+        "microphone", 
+        "0.05787"
+      ], 
+      [
+        "knee pad", 
+        "0.05360"
+      ], 
+      [
+        "switch", 
+        "0.04888"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34870"
+      ], 
+      [
+        "equipment", 
+        "0.27359"
+      ], 
+      [
+        "covering", 
+        "0.25081"
+      ], 
+      [
+        "consumer goods", 
+        "0.22945"
+      ], 
+      [
+        "electronic equipment", 
+        "0.22553"
+      ]
+    ], 
+    "9.874"
+  ]
+}

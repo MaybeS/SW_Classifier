@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.16786"
+      ], 
+      [
+        "hand-held computer", 
+        "0.08664"
+      ], 
+      [
+        "television", 
+        "0.07791"
+      ], 
+      [
+        "packet", 
+        "0.06841"
+      ], 
+      [
+        "screen", 
+        "0.05287"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.40654"
+      ], 
+      [
+        "machine", 
+        "0.39622"
+      ], 
+      [
+        "device", 
+        "0.35472"
+      ], 
+      [
+        "personal computer", 
+        "0.33150"
+      ], 
+      [
+        "digital computer", 
+        "0.32515"
+      ]
+    ], 
+    "8.555"
+  ]
+}

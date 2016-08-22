@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dining table", 
+        "0.16983"
+      ], 
+      [
+        "pajama", 
+        "0.15958"
+      ], 
+      [
+        "sewing machine", 
+        "0.05052"
+      ], 
+      [
+        "restaurant", 
+        "0.04638"
+      ], 
+      [
+        "china cabinet", 
+        "0.03283"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.52354"
+      ], 
+      [
+        "furnishing", 
+        "0.51625"
+      ], 
+      [
+        "clothing", 
+        "0.47060"
+      ], 
+      [
+        "consumer goods", 
+        "0.46504"
+      ], 
+      [
+        "commodity", 
+        "0.44427"
+      ]
+    ], 
+    "7.149"
+  ]
+}

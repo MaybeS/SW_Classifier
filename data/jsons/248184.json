@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.29549"
+      ], 
+      [
+        "punching bag", 
+        "0.25548"
+      ], 
+      [
+        "oil filter", 
+        "0.07497"
+      ], 
+      [
+        "binder", 
+        "0.06595"
+      ], 
+      [
+        "wallet", 
+        "0.02453"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.44261"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.40587"
+      ], 
+      [
+        "transducer", 
+        "0.39912"
+      ], 
+      [
+        "electrical device", 
+        "0.39237"
+      ], 
+      [
+        "device", 
+        "0.31091"
+      ]
+    ], 
+    "8.379"
+  ]
+}

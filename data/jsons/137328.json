@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.23095"
+      ], 
+      [
+        "remote control", 
+        "0.16276"
+      ], 
+      [
+        "cassette player", 
+        "0.11642"
+      ], 
+      [
+        "CD player", 
+        "0.11174"
+      ], 
+      [
+        "radio", 
+        "0.10261"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.65635"
+      ], 
+      [
+        "equipment", 
+        "0.60437"
+      ], 
+      [
+        "device", 
+        "0.38743"
+      ], 
+      [
+        "loudspeaker", 
+        "0.37577"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.34496"
+      ]
+    ], 
+    "5.741"
+  ]
+}

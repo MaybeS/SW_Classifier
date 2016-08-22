@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.73461"
+      ], 
+      [
+        "modem", 
+        "0.03600"
+      ], 
+      [
+        "oil filter", 
+        "0.03049"
+      ], 
+      [
+        "wallet", 
+        "0.02189"
+      ], 
+      [
+        "radio", 
+        "0.02156"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.09310"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.98071"
+      ], 
+      [
+        "transducer", 
+        "0.96441"
+      ], 
+      [
+        "electrical device", 
+        "0.94810"
+      ], 
+      [
+        "device", 
+        "0.44841"
+      ]
+    ], 
+    "9.929"
+  ]
+}

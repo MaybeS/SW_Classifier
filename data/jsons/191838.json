@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.16327"
+      ], 
+      [
+        "CD player", 
+        "0.13752"
+      ], 
+      [
+        "switch", 
+        "0.10061"
+      ], 
+      [
+        "remote control", 
+        "0.06854"
+      ], 
+      [
+        "scale", 
+        "0.06649"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.49893"
+      ], 
+      [
+        "measuring instrument", 
+        "0.48821"
+      ], 
+      [
+        "equipment", 
+        "0.43842"
+      ], 
+      [
+        "timepiece", 
+        "0.42714"
+      ], 
+      [
+        "instrument", 
+        "0.42484"
+      ]
+    ], 
+    "5.973"
+  ]
+}

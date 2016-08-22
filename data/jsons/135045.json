@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.43160"
+      ], 
+      [
+        "remote control", 
+        "0.24734"
+      ], 
+      [
+        "combination lock", 
+        "0.11716"
+      ], 
+      [
+        "microphone", 
+        "0.06912"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06142"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.50140"
+      ], 
+      [
+        "device", 
+        "0.42914"
+      ], 
+      [
+        "lighter", 
+        "0.32259"
+      ], 
+      [
+        "implement", 
+        "0.26430"
+      ], 
+      [
+        "equipment", 
+        "0.22399"
+      ]
+    ], 
+    "6.007"
+  ]
+}

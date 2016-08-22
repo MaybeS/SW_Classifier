@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.28580"
+      ], 
+      [
+        "radio", 
+        "0.10333"
+      ], 
+      [
+        "menu", 
+        "0.03462"
+      ], 
+      [
+        "hand-held computer", 
+        "0.03044"
+      ], 
+      [
+        "bottlecap", 
+        "0.02628"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.53708"
+      ], 
+      [
+        "timepiece", 
+        "0.50906"
+      ], 
+      [
+        "digital clock", 
+        "0.44490"
+      ], 
+      [
+        "clock", 
+        "0.43252"
+      ], 
+      [
+        "instrument", 
+        "0.42288"
+      ]
+    ], 
+    "4.955"
+  ]
+}

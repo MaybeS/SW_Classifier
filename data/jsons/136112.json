@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.11229"
+      ], 
+      [
+        "radio", 
+        "0.11010"
+      ], 
+      [
+        "cassette player", 
+        "0.06816"
+      ], 
+      [
+        "modem", 
+        "0.06103"
+      ], 
+      [
+        "hand blower", 
+        "0.05441"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.45246"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45035"
+      ], 
+      [
+        "device", 
+        "0.35291"
+      ], 
+      [
+        "container", 
+        "0.20984"
+      ], 
+      [
+        "control", 
+        "0.20245"
+      ]
+    ], 
+    "6.858"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.17002"
+      ], 
+      [
+        "radio", 
+        "0.10194"
+      ], 
+      [
+        "power drill", 
+        "0.09344"
+      ], 
+      [
+        "joystick", 
+        "0.05519"
+      ], 
+      [
+        "cassette player", 
+        "0.05201"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43751"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42602"
+      ], 
+      [
+        "device", 
+        "0.36913"
+      ], 
+      [
+        "control", 
+        "0.27953"
+      ], 
+      [
+        "mechanism", 
+        "0.23524"
+      ]
+    ], 
+    "5.677"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.25901"
+      ], 
+      [
+        "projector", 
+        "0.09120"
+      ], 
+      [
+        "tripod", 
+        "0.07161"
+      ], 
+      [
+        "printer", 
+        "0.05332"
+      ], 
+      [
+        "modem", 
+        "0.04346"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.47632"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45829"
+      ], 
+      [
+        "device", 
+        "0.32530"
+      ], 
+      [
+        "communication system", 
+        "0.26240"
+      ], 
+      [
+        "radio", 
+        "0.25166"
+      ]
+    ], 
+    "6.801"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.47015"
+      ], 
+      [
+        "hand blower", 
+        "0.17152"
+      ], 
+      [
+        "whistle", 
+        "0.11943"
+      ], 
+      [
+        "switch", 
+        "0.05040"
+      ], 
+      [
+        "piggy bank", 
+        "0.03314"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.33828"
+      ], 
+      [
+        "device", 
+        "0.29775"
+      ], 
+      [
+        "consumer goods", 
+        "0.26240"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.25158"
+      ], 
+      [
+        "commodity", 
+        "0.25048"
+      ]
+    ], 
+    "10.548"
+  ]
+}

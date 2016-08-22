@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Crock Pot", 
+        "0.56151"
+      ], 
+      [
+        "oil filter", 
+        "0.18123"
+      ], 
+      [
+        "face powder", 
+        "0.05234"
+      ], 
+      [
+        "lotion", 
+        "0.04521"
+      ], 
+      [
+        "sunscreen", 
+        "0.03222"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "1.34841"
+      ], 
+      [
+        "cooker", 
+        "1.32860"
+      ], 
+      [
+        "cooking utensil", 
+        "1.05887"
+      ], 
+      [
+        "kitchen utensil", 
+        "1.03616"
+      ], 
+      [
+        "utensil", 
+        "1.01344"
+      ]
+    ], 
+    "5.928"
+  ]
+}

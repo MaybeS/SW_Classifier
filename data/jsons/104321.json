@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.32044"
+      ], 
+      [
+        "binder", 
+        "0.23745"
+      ], 
+      [
+        "book jacket", 
+        "0.16542"
+      ], 
+      [
+        "refrigerator", 
+        "0.04374"
+      ], 
+      [
+        "screen", 
+        "0.03679"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.34047"
+      ], 
+      [
+        "covering", 
+        "0.33438"
+      ], 
+      [
+        "container", 
+        "0.30825"
+      ], 
+      [
+        "envelope", 
+        "0.29074"
+      ], 
+      [
+        "protective covering", 
+        "0.24050"
+      ]
+    ], 
+    "6.160"
+  ]
+}

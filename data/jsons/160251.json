@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.25722"
+      ], 
+      [
+        "CD player", 
+        "0.11331"
+      ], 
+      [
+        "cassette", 
+        "0.11167"
+      ], 
+      [
+        "tape player", 
+        "0.09581"
+      ], 
+      [
+        "radio", 
+        "0.08648"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.70337"
+      ], 
+      [
+        "equipment", 
+        "0.58332"
+      ], 
+      [
+        "remote control", 
+        "0.52657"
+      ], 
+      [
+        "device", 
+        "0.39636"
+      ], 
+      [
+        "personal computer", 
+        "0.27526"
+      ]
+    ], 
+    "10.164"
+  ]
+}

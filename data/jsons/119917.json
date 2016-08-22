@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.52588"
+      ], 
+      [
+        "modem", 
+        "0.16430"
+      ], 
+      [
+        "notebook", 
+        "0.10040"
+      ], 
+      [
+        "radio", 
+        "0.07231"
+      ], 
+      [
+        "wallet", 
+        "0.03022"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.52806"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33580"
+      ], 
+      [
+        "protective covering", 
+        "0.31743"
+      ], 
+      [
+        "equipment", 
+        "0.30868"
+      ], 
+      [
+        "computer", 
+        "0.30479"
+      ]
+    ], 
+    "5.759"
+  ]
+}

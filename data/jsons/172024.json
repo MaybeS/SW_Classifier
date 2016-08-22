@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ballpoint", 
+        "0.24083"
+      ], 
+      [
+        "projectile", 
+        "0.14919"
+      ], 
+      [
+        "missile", 
+        "0.14303"
+      ], 
+      [
+        "fountain pen", 
+        "0.11539"
+      ], 
+      [
+        "can opener", 
+        "0.06154"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.58202"
+      ], 
+      [
+        "pen", 
+        "0.55469"
+      ], 
+      [
+        "writing implement", 
+        "0.54480"
+      ], 
+      [
+        "weapon", 
+        "0.39435"
+      ], 
+      [
+        "fountain pen", 
+        "0.34220"
+      ]
+    ], 
+    "6.051"
+  ]
+}

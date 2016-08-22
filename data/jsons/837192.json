@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bow tie", 
+        "0.40975"
+      ], 
+      [
+        "academic gown", 
+        "0.14067"
+      ], 
+      [
+        "stethoscope", 
+        "0.08267"
+      ], 
+      [
+        "bolo tie", 
+        "0.03090"
+      ], 
+      [
+        "Windsor tie", 
+        "0.02179"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.85613"
+      ], 
+      [
+        "consumer goods", 
+        "0.76567"
+      ], 
+      [
+        "commodity", 
+        "0.72629"
+      ], 
+      [
+        "covering", 
+        "0.70567"
+      ], 
+      [
+        "garment", 
+        "0.64786"
+      ]
+    ], 
+    "5.054"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sunscreen", 
+        "0.28910"
+      ], 
+      [
+        "lotion", 
+        "0.20090"
+      ], 
+      [
+        "combination lock", 
+        "0.04886"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04857"
+      ], 
+      [
+        "remote control", 
+        "0.04671"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.76981"
+      ], 
+      [
+        "lotion", 
+        "0.49350"
+      ], 
+      [
+        "device", 
+        "0.25319"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24823"
+      ], 
+      [
+        "container", 
+        "0.24477"
+      ]
+    ], 
+    "8.059"
+  ]
+}

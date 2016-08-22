@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.47513"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.20445"
+      ], 
+      [
+        "screwdriver", 
+        "0.03807"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03397"
+      ], 
+      [
+        "remote control", 
+        "0.03220"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.51720"
+      ], 
+      [
+        "control", 
+        "0.50007"
+      ], 
+      [
+        "mechanism", 
+        "0.37909"
+      ], 
+      [
+        "device", 
+        "0.35557"
+      ], 
+      [
+        "implement", 
+        "0.26092"
+      ]
+    ], 
+    "5.526"
+  ]
+}

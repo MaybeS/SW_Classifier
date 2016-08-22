@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.35551"
+      ], 
+      [
+        "bell pepper", 
+        "0.17158"
+      ], 
+      [
+        "packet", 
+        "0.07683"
+      ], 
+      [
+        "joystick", 
+        "0.02117"
+      ], 
+      [
+        "screwdriver", 
+        "0.01832"
+      ]
+    ], 
+    [
+      [
+        "bell pepper", 
+        "0.61252"
+      ], 
+      [
+        "sweet pepper", 
+        "0.60352"
+      ], 
+      [
+        "pepper", 
+        "0.59453"
+      ], 
+      [
+        "solanaceous vegetable", 
+        "0.52400"
+      ], 
+      [
+        "vegetable", 
+        "0.44703"
+      ]
+    ], 
+    "8.305"
+  ]
+}

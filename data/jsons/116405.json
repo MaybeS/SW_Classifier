@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.33952"
+      ], 
+      [
+        "oil filter", 
+        "0.24739"
+      ], 
+      [
+        "reflex camera", 
+        "0.08866"
+      ], 
+      [
+        "lighter", 
+        "0.07147"
+      ], 
+      [
+        "projector", 
+        "0.07067"
+      ]
+    ], 
+    [
+      [
+        "optical instrument", 
+        "0.39140"
+      ], 
+      [
+        "device", 
+        "0.38568"
+      ], 
+      [
+        "oil filter", 
+        "0.36482"
+      ], 
+      [
+        "binoculars", 
+        "0.33853"
+      ], 
+      [
+        "filter", 
+        "0.33311"
+      ]
+    ], 
+    "11.627"
+  ]
+}

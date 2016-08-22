@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.60942"
+      ], 
+      [
+        "projector", 
+        "0.10494"
+      ], 
+      [
+        "binoculars", 
+        "0.07519"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.03650"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03559"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "0.70510"
+      ], 
+      [
+        "control", 
+        "0.67871"
+      ], 
+      [
+        "data input device", 
+        "0.65693"
+      ], 
+      [
+        "peripheral", 
+        "0.62677"
+      ], 
+      [
+        "equipment", 
+        "0.60870"
+      ]
+    ], 
+    "6.405"
+  ]
+}

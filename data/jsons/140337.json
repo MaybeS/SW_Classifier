@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.26621"
+      ], 
+      [
+        "soap dispenser", 
+        "0.15063"
+      ], 
+      [
+        "espresso maker", 
+        "0.08762"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06647"
+      ], 
+      [
+        "scale", 
+        "0.05860"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.46711"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42271"
+      ], 
+      [
+        "machine", 
+        "0.32929"
+      ], 
+      [
+        "device", 
+        "0.31726"
+      ], 
+      [
+        "printer", 
+        "0.29985"
+      ]
+    ], 
+    "8.806"
+  ]
+}

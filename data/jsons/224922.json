@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.24131"
+      ], 
+      [
+        "switch", 
+        "0.15510"
+      ], 
+      [
+        "microphone", 
+        "0.14033"
+      ], 
+      [
+        "modem", 
+        "0.07464"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05827"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37504"
+      ], 
+      [
+        "equipment", 
+        "0.36351"
+      ], 
+      [
+        "camera", 
+        "0.28898"
+      ], 
+      [
+        "photographic equipment", 
+        "0.28417"
+      ], 
+      [
+        "instrument", 
+        "0.26649"
+      ]
+    ], 
+    "6.616"
+  ]
+}

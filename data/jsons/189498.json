@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mousetrap", 
+        "0.35125"
+      ], 
+      [
+        "cassette", 
+        "0.16773"
+      ], 
+      [
+        "switch", 
+        "0.10613"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.08329"
+      ], 
+      [
+        "cassette player", 
+        "0.06104"
+      ]
+    ], 
+    [
+      [
+        "mousetrap", 
+        "0.39369"
+      ], 
+      [
+        "equipment", 
+        "0.34727"
+      ], 
+      [
+        "trap", 
+        "0.34298"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32678"
+      ], 
+      [
+        "container", 
+        "0.30912"
+      ]
+    ], 
+    "10.176"
+  ]
+}

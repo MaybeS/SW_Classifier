@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.63314"
+      ], 
+      [
+        "switch", 
+        "0.07690"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06959"
+      ], 
+      [
+        "home theater", 
+        "0.03735"
+      ], 
+      [
+        "digital clock", 
+        "0.02800"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.94583"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.84992"
+      ], 
+      [
+        "transducer", 
+        "0.83578"
+      ], 
+      [
+        "electrical device", 
+        "0.82165"
+      ], 
+      [
+        "device", 
+        "0.42978"
+      ]
+    ], 
+    "11.117"
+  ]
+}

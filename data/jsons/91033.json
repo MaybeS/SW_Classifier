@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.26672"
+      ], 
+      [
+        "cassette", 
+        "0.13003"
+      ], 
+      [
+        "analog clock", 
+        "0.10273"
+      ], 
+      [
+        "digital clock", 
+        "0.04908"
+      ], 
+      [
+        "scoreboard", 
+        "0.04888"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.57858"
+      ], 
+      [
+        "fan", 
+        "0.57008"
+      ], 
+      [
+        "device", 
+        "0.43024"
+      ], 
+      [
+        "measuring instrument", 
+        "0.42247"
+      ], 
+      [
+        "instrument", 
+        "0.38690"
+      ]
+    ], 
+    "6.728"
+  ]
+}

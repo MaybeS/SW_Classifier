@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.30298"
+      ], 
+      [
+        "perfume", 
+        "0.12002"
+      ], 
+      [
+        "scale", 
+        "0.04899"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04772"
+      ], 
+      [
+        "packet", 
+        "0.03775"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30467"
+      ], 
+      [
+        "toiletry", 
+        "0.30395"
+      ], 
+      [
+        "container", 
+        "0.26714"
+      ], 
+      [
+        "lighter", 
+        "0.22315"
+      ], 
+      [
+        "measuring instrument", 
+        "0.21505"
+      ]
+    ], 
+    "7.060"
+  ]
+}

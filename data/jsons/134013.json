@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.16657"
+      ], 
+      [
+        "shopping cart", 
+        "0.16433"
+      ], 
+      [
+        "shopping basket", 
+        "0.08943"
+      ], 
+      [
+        "stretcher", 
+        "0.08414"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.08075"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.35862"
+      ], 
+      [
+        "shopping cart", 
+        "0.33871"
+      ], 
+      [
+        "equipment", 
+        "0.33821"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31140"
+      ], 
+      [
+        "handcart", 
+        "0.30873"
+      ]
+    ], 
+    "10.233"
+  ]
+}

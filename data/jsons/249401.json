@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.42498"
+      ], 
+      [
+        "modem", 
+        "0.16307"
+      ], 
+      [
+        "desktop computer", 
+        "0.04046"
+      ], 
+      [
+        "rule", 
+        "0.04039"
+      ], 
+      [
+        "microwave", 
+        "0.02843"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.42884"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30886"
+      ], 
+      [
+        "equipment", 
+        "0.29724"
+      ], 
+      [
+        "device", 
+        "0.28673"
+      ], 
+      [
+        "protective covering", 
+        "0.27307"
+      ]
+    ], 
+    "5.741"
+  ]
+}

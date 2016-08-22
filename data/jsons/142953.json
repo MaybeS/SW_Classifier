@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Crock Pot", 
+        "0.21204"
+      ], 
+      [
+        "washer", 
+        "0.09315"
+      ], 
+      [
+        "soap dispenser", 
+        "0.06217"
+      ], 
+      [
+        "toilet seat", 
+        "0.05970"
+      ], 
+      [
+        "toaster", 
+        "0.03755"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "0.51963"
+      ], 
+      [
+        "cooker", 
+        "0.51200"
+      ], 
+      [
+        "cooking utensil", 
+        "0.46779"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.45776"
+      ], 
+      [
+        "utensil", 
+        "0.44772"
+      ]
+    ], 
+    "4.881"
+  ]
+}

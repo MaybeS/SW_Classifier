@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "snorkel", 
+        "0.23204"
+      ], 
+      [
+        "vacuum", 
+        "0.21776"
+      ], 
+      [
+        "gasmask", 
+        "0.13175"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04239"
+      ], 
+      [
+        "knee pad", 
+        "0.03553"
+      ]
+    ], 
+    [
+      [
+        "breathing device", 
+        "0.55182"
+      ], 
+      [
+        "snorkel", 
+        "0.50614"
+      ], 
+      [
+        "consumer goods", 
+        "0.32766"
+      ], 
+      [
+        "covering", 
+        "0.32059"
+      ], 
+      [
+        "commodity", 
+        "0.31055"
+      ]
+    ], 
+    "10.902"
+  ]
+}

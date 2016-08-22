@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.25173"
+      ], 
+      [
+        "ballpoint", 
+        "0.18214"
+      ], 
+      [
+        "syringe", 
+        "0.13238"
+      ], 
+      [
+        "screwdriver", 
+        "0.11474"
+      ], 
+      [
+        "drumstick", 
+        "0.06896"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.67593"
+      ], 
+      [
+        "pen", 
+        "0.44578"
+      ], 
+      [
+        "writing implement", 
+        "0.43784"
+      ], 
+      [
+        "ballpoint", 
+        "0.31789"
+      ], 
+      [
+        "device", 
+        "0.29844"
+      ]
+    ], 
+    "7.215"
+  ]
+}

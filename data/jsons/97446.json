@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.87933"
+      ], 
+      [
+        "ocarina", 
+        "0.03375"
+      ], 
+      [
+        "modem", 
+        "0.01649"
+      ], 
+      [
+        "hand-held computer", 
+        "0.01458"
+      ], 
+      [
+        "switch", 
+        "0.00721"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.68924"
+      ], 
+      [
+        "device", 
+        "0.55834"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46350"
+      ], 
+      [
+        "equipment", 
+        "0.40213"
+      ], 
+      [
+        "cellular telephone", 
+        "0.31043"
+      ]
+    ], 
+    "5.960"
+  ]
+}

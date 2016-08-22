@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rugby ball", 
+        "0.77764"
+      ], 
+      [
+        "volleyball", 
+        "0.07819"
+      ], 
+      [
+        "soccer ball", 
+        "0.03214"
+      ], 
+      [
+        "racket", 
+        "0.02945"
+      ], 
+      [
+        "basketball", 
+        "0.02134"
+      ]
+    ], 
+    [
+      [
+        "rugby ball", 
+        "2.32013"
+      ], 
+      [
+        "ball", 
+        "2.10611"
+      ], 
+      [
+        "game equipment", 
+        "1.88775"
+      ], 
+      [
+        "equipment", 
+        "1.31381"
+      ], 
+      [
+        "sports equipment", 
+        "0.27987"
+      ]
+    ], 
+    "5.649"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.23267"
+      ], 
+      [
+        "spotlight", 
+        "0.17773"
+      ], 
+      [
+        "gasmask", 
+        "0.14148"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04056"
+      ], 
+      [
+        "reel", 
+        "0.03811"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36324"
+      ], 
+      [
+        "covering", 
+        "0.26807"
+      ], 
+      [
+        "protective covering", 
+        "0.26289"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.24700"
+      ], 
+      [
+        "transducer", 
+        "0.24290"
+      ]
+    ], 
+    "10.141"
+  ]
+}

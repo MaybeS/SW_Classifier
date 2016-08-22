@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.86088"
+      ], 
+      [
+        "swimming trunks", 
+        "0.03587"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.00844"
+      ], 
+      [
+        "wool", 
+        "0.00636"
+      ], 
+      [
+        "ski mask", 
+        "0.00408"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "1.57519"
+      ], 
+      [
+        "protective garment", 
+        "1.40394"
+      ], 
+      [
+        "clothing", 
+        "1.01336"
+      ], 
+      [
+        "consumer goods", 
+        "0.89638"
+      ], 
+      [
+        "covering", 
+        "0.89535"
+      ]
+    ], 
+    "5.718"
+  ]
+}

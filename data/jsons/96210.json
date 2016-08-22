@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.07221"
+      ], 
+      [
+        "digital clock", 
+        "0.06291"
+      ], 
+      [
+        "analog clock", 
+        "0.05795"
+      ], 
+      [
+        "laptop", 
+        "0.05692"
+      ], 
+      [
+        "Band Aid", 
+        "0.04716"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34098"
+      ], 
+      [
+        "measuring instrument", 
+        "0.34034"
+      ], 
+      [
+        "machine", 
+        "0.33359"
+      ], 
+      [
+        "computer", 
+        "0.32898"
+      ], 
+      [
+        "timepiece", 
+        "0.29737"
+      ]
+    ], 
+    "8.974"
+  ]
+}

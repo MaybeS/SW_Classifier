@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.13614"
+      ], 
+      [
+        "hair slide", 
+        "0.12741"
+      ], 
+      [
+        "comic book", 
+        "0.05811"
+      ], 
+      [
+        "barn spider", 
+        "0.04160"
+      ], 
+      [
+        "web site", 
+        "0.03150"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.25233"
+      ], 
+      [
+        "invertebrate", 
+        "0.24155"
+      ], 
+      [
+        "arthropod", 
+        "0.23887"
+      ], 
+      [
+        "book jacket", 
+        "0.22481"
+      ], 
+      [
+        "jacket", 
+        "0.22151"
+      ]
+    ], 
+    "6.177"
+  ]
+}

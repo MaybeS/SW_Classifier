@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Crock Pot", 
+        "0.14781"
+      ], 
+      [
+        "scale", 
+        "0.13966"
+      ], 
+      [
+        "modem", 
+        "0.12349"
+      ], 
+      [
+        "can opener", 
+        "0.08409"
+      ], 
+      [
+        "CD player", 
+        "0.07893"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "0.36980"
+      ], 
+      [
+        "cooker", 
+        "0.36437"
+      ], 
+      [
+        "cooking utensil", 
+        "0.32611"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32169"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.31912"
+      ]
+    ], 
+    "8.668"
+  ]
+}

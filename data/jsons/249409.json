@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.23700"
+      ], 
+      [
+        "packet", 
+        "0.09677"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05825"
+      ], 
+      [
+        "television", 
+        "0.03876"
+      ], 
+      [
+        "screen", 
+        "0.03377"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.94855"
+      ], 
+      [
+        "computer", 
+        "0.86481"
+      ], 
+      [
+        "machine", 
+        "0.82342"
+      ], 
+      [
+        "device", 
+        "0.39323"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24257"
+      ]
+    ], 
+    "5.290"
+  ]
+}

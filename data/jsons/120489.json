@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.16483"
+      ], 
+      [
+        "modem", 
+        "0.10352"
+      ], 
+      [
+        "combination lock", 
+        "0.10071"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04784"
+      ], 
+      [
+        "radio", 
+        "0.03596"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33715"
+      ], 
+      [
+        "equipment", 
+        "0.27989"
+      ], 
+      [
+        "electronic equipment", 
+        "0.25815"
+      ], 
+      [
+        "fastener", 
+        "0.21340"
+      ], 
+      [
+        "container", 
+        "0.21277"
+      ]
+    ], 
+    "12.235"
+  ]
+}

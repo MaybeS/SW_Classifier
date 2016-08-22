@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.90994"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05041"
+      ], 
+      [
+        "radio", 
+        "0.01292"
+      ], 
+      [
+        "CD player", 
+        "0.00562"
+      ], 
+      [
+        "cassette player", 
+        "0.00469"
+      ]
+    ], 
+    [
+      [
+        "iPod", 
+        "1.57662"
+      ], 
+      [
+        "stereo", 
+        "1.55346"
+      ], 
+      [
+        "reproducer", 
+        "1.53030"
+      ], 
+      [
+        "audio system", 
+        "1.50714"
+      ], 
+      [
+        "electronic equipment", 
+        "1.30050"
+      ]
+    ], 
+    "8.768"
+  ]
+}

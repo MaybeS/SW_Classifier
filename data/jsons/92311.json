@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.29958"
+      ], 
+      [
+        "harmonica", 
+        "0.29455"
+      ], 
+      [
+        "rule", 
+        "0.09928"
+      ], 
+      [
+        "Band Aid", 
+        "0.06921"
+      ], 
+      [
+        "modem", 
+        "0.04433"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.37231"
+      ], 
+      [
+        "device", 
+        "0.35029"
+      ], 
+      [
+        "musical instrument", 
+        "0.29286"
+      ], 
+      [
+        "harmonica", 
+        "0.28574"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.26532"
+      ]
+    ], 
+    "9.907"
+  ]
+}

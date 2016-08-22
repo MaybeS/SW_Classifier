@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.11586"
+      ], 
+      [
+        "packet", 
+        "0.09067"
+      ], 
+      [
+        "rule", 
+        "0.08330"
+      ], 
+      [
+        "corkscrew", 
+        "0.06502"
+      ], 
+      [
+        "accordion", 
+        "0.05032"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30529"
+      ], 
+      [
+        "implement", 
+        "0.30238"
+      ], 
+      [
+        "container", 
+        "0.25630"
+      ], 
+      [
+        "musical instrument", 
+        "0.24420"
+      ], 
+      [
+        "wind instrument", 
+        "0.21348"
+      ]
+    ], 
+    "6.194"
+  ]
+}

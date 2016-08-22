@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.21963"
+      ], 
+      [
+        "power drill", 
+        "0.08706"
+      ], 
+      [
+        "cuirass", 
+        "0.04256"
+      ], 
+      [
+        "stretcher", 
+        "0.04007"
+      ], 
+      [
+        "chain saw", 
+        "0.03420"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.48535"
+      ], 
+      [
+        "body armor", 
+        "0.48517"
+      ], 
+      [
+        "armor", 
+        "0.46300"
+      ], 
+      [
+        "clothing", 
+        "0.45972"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.45156"
+      ]
+    ], 
+    "5.347"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.63073"
+      ], 
+      [
+        "hard disc", 
+        "0.06759"
+      ], 
+      [
+        "toilet seat", 
+        "0.06689"
+      ], 
+      [
+        "puck", 
+        "0.02627"
+      ], 
+      [
+        "spotlight", 
+        "0.02424"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.77694"
+      ], 
+      [
+        "equipment", 
+        "0.65119"
+      ], 
+      [
+        "CD player", 
+        "0.49212"
+      ], 
+      [
+        "cassette player", 
+        "0.31251"
+      ], 
+      [
+        "device", 
+        "0.29027"
+      ]
+    ], 
+    "6.436"
+  ]
+}

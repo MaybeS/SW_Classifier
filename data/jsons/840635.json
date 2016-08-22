@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "velvet", 
+        "0.16065"
+      ], 
+      [
+        "sleeping bag", 
+        "0.16024"
+      ], 
+      [
+        "knee pad", 
+        "0.05128"
+      ], 
+      [
+        "swimming trunks", 
+        "0.04849"
+      ], 
+      [
+        "paintbrush", 
+        "0.04157"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.66094"
+      ], 
+      [
+        "covering", 
+        "0.61559"
+      ], 
+      [
+        "consumer goods", 
+        "0.58862"
+      ], 
+      [
+        "commodity", 
+        "0.56663"
+      ], 
+      [
+        "garment", 
+        "0.52078"
+      ]
+    ], 
+    "9.039"
+  ]
+}

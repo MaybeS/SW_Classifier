@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.43061"
+      ], 
+      [
+        "radio", 
+        "0.11653"
+      ], 
+      [
+        "hand blower", 
+        "0.10802"
+      ], 
+      [
+        "modem", 
+        "0.07081"
+      ], 
+      [
+        "dial telephone", 
+        "0.04015"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38575"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34310"
+      ], 
+      [
+        "equipment", 
+        "0.33919"
+      ], 
+      [
+        "microphone", 
+        "0.33152"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.32335"
+      ]
+    ], 
+    "8.196"
+  ]
+}

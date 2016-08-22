@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.61152"
+      ], 
+      [
+        "magnetic compass", 
+        "0.24091"
+      ], 
+      [
+        "digital watch", 
+        "0.08764"
+      ], 
+      [
+        "electric fan", 
+        "0.00908"
+      ], 
+      [
+        "analog clock", 
+        "0.00532"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.60837"
+      ], 
+      [
+        "magnetic compass", 
+        "0.57021"
+      ], 
+      [
+        "compass", 
+        "0.56183"
+      ], 
+      [
+        "navigational instrument", 
+        "0.55345"
+      ], 
+      [
+        "device", 
+        "0.47228"
+      ]
+    ], 
+    "8.944"
+  ]
+}

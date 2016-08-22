@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "slide rule", 
+        "0.16103"
+      ], 
+      [
+        "notebook", 
+        "0.14035"
+      ], 
+      [
+        "miniskirt", 
+        "0.06053"
+      ], 
+      [
+        "crossword puzzle", 
+        "0.05248"
+      ], 
+      [
+        "computer keyboard", 
+        "0.04346"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.61529"
+      ], 
+      [
+        "machine", 
+        "0.52689"
+      ], 
+      [
+        "slide rule", 
+        "0.47712"
+      ], 
+      [
+        "analog computer", 
+        "0.47011"
+      ], 
+      [
+        "device", 
+        "0.36329"
+      ]
+    ], 
+    "5.146"
+  ]
+}

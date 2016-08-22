@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.11727"
+      ], 
+      [
+        "paper towel", 
+        "0.08325"
+      ], 
+      [
+        "window shade", 
+        "0.07390"
+      ], 
+      [
+        "monitor", 
+        "0.06158"
+      ], 
+      [
+        "shower curtain", 
+        "0.05350"
+      ]
+    ], 
+    [
+      [
+        "furnishing", 
+        "0.29575"
+      ], 
+      [
+        "covering", 
+        "0.26824"
+      ], 
+      [
+        "furniture", 
+        "0.26436"
+      ], 
+      [
+        "protective covering", 
+        "0.25261"
+      ], 
+      [
+        "container", 
+        "0.23051"
+      ]
+    ], 
+    "6.703"
+  ]
+}

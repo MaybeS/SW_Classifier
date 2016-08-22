@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "paper towel", 
+        "0.22845"
+      ], 
+      [
+        "toilet tissue", 
+        "0.16659"
+      ], 
+      [
+        "mortarboard", 
+        "0.07552"
+      ], 
+      [
+        "printer", 
+        "0.03966"
+      ], 
+      [
+        "binoculars", 
+        "0.02626"
+      ]
+    ], 
+    [
+      [
+        "consumer goods", 
+        "0.32168"
+      ], 
+      [
+        "covering", 
+        "0.30876"
+      ], 
+      [
+        "commodity", 
+        "0.30865"
+      ], 
+      [
+        "clothing", 
+        "0.29907"
+      ], 
+      [
+        "paper towel", 
+        "0.28203"
+      ]
+    ], 
+    "11.653"
+  ]
+}

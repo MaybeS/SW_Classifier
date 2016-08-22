@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.49092"
+      ], 
+      [
+        "magnetic compass", 
+        "0.18858"
+      ], 
+      [
+        "buckle", 
+        "0.13757"
+      ], 
+      [
+        "combination lock", 
+        "0.05278"
+      ], 
+      [
+        "reflex camera", 
+        "0.01477"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.55716"
+      ], 
+      [
+        "magnetic compass", 
+        "0.45783"
+      ], 
+      [
+        "compass", 
+        "0.45110"
+      ], 
+      [
+        "navigational instrument", 
+        "0.44438"
+      ], 
+      [
+        "device", 
+        "0.44389"
+      ]
+    ], 
+    "9.230"
+  ]
+}

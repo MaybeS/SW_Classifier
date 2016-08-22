@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pedestal", 
+        "0.82967"
+      ], 
+      [
+        "guillotine", 
+        "0.01902"
+      ], 
+      [
+        "printer", 
+        "0.01250"
+      ], 
+      [
+        "upright", 
+        "0.01064"
+      ], 
+      [
+        "bannister", 
+        "0.01012"
+      ]
+    ], 
+    [
+      [
+        "pedestal", 
+        "1.34787"
+      ], 
+      [
+        "support", 
+        "1.32807"
+      ], 
+      [
+        "supporting structure", 
+        "1.07780"
+      ], 
+      [
+        "structure", 
+        "0.81758"
+      ], 
+      [
+        "container", 
+        "0.22374"
+      ]
+    ], 
+    "7.281"
+  ]
+}

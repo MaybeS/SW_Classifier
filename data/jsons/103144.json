@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "comic book", 
+        "0.51525"
+      ], 
+      [
+        "web site", 
+        "0.17289"
+      ], 
+      [
+        "book jacket", 
+        "0.05619"
+      ], 
+      [
+        "scoreboard", 
+        "0.03171"
+      ], 
+      [
+        "vending machine", 
+        "0.02675"
+      ]
+    ], 
+    [
+      [
+        "comic book", 
+        "0.85486"
+      ], 
+      [
+        "magazine", 
+        "0.84230"
+      ], 
+      [
+        "press", 
+        "0.82974"
+      ], 
+      [
+        "publication", 
+        "0.82974"
+      ], 
+      [
+        "print media", 
+        "0.81718"
+      ]
+    ], 
+    "5.537"
+  ]
+}

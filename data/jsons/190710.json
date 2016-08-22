@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ballpoint", 
+        "0.42636"
+      ], 
+      [
+        "screwdriver", 
+        "0.10902"
+      ], 
+      [
+        "lipstick", 
+        "0.08778"
+      ], 
+      [
+        "fountain pen", 
+        "0.08386"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06698"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.76800"
+      ], 
+      [
+        "pen", 
+        "0.75716"
+      ], 
+      [
+        "writing implement", 
+        "0.74366"
+      ], 
+      [
+        "ballpoint", 
+        "0.50686"
+      ], 
+      [
+        "fountain pen", 
+        "0.37889"
+      ]
+    ], 
+    "6.826"
+  ]
+}

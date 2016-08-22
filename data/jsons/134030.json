@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.24885"
+      ], 
+      [
+        "can opener", 
+        "0.15104"
+      ], 
+      [
+        "loupe", 
+        "0.08940"
+      ], 
+      [
+        "modem", 
+        "0.04131"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03021"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36720"
+      ], 
+      [
+        "equipment", 
+        "0.33327"
+      ], 
+      [
+        "projector", 
+        "0.33136"
+      ], 
+      [
+        "instrument", 
+        "0.31938"
+      ], 
+      [
+        "optical instrument", 
+        "0.29696"
+      ]
+    ], 
+    "7.391"
+  ]
+}

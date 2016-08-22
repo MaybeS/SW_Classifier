@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.65321"
+      ], 
+      [
+        "joystick", 
+        "0.14860"
+      ], 
+      [
+        "remote control", 
+        "0.08177"
+      ], 
+      [
+        "oscilloscope", 
+        "0.02128"
+      ], 
+      [
+        "cassette player", 
+        "0.01480"
+      ]
+    ], 
+    [
+      [
+        "control", 
+        "0.83083"
+      ], 
+      [
+        "switch", 
+        "0.71100"
+      ], 
+      [
+        "mechanism", 
+        "0.58313"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44158"
+      ], 
+      [
+        "device", 
+        "0.41589"
+      ]
+    ], 
+    "6.444"
+  ]
+}

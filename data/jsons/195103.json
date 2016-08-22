@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.27747"
+      ], 
+      [
+        "spotlight", 
+        "0.17783"
+      ], 
+      [
+        "toilet seat", 
+        "0.09914"
+      ], 
+      [
+        "hand blower", 
+        "0.05563"
+      ], 
+      [
+        "space heater", 
+        "0.04776"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.35750"
+      ], 
+      [
+        "optical instrument", 
+        "0.33019"
+      ], 
+      [
+        "device", 
+        "0.32241"
+      ], 
+      [
+        "container", 
+        "0.29397"
+      ], 
+      [
+        "instrument", 
+        "0.27677"
+      ]
+    ], 
+    "5.895"
+  ]
+}

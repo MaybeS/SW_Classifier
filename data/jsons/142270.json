@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.60371"
+      ], 
+      [
+        "combination lock", 
+        "0.07745"
+      ], 
+      [
+        "Crock Pot", 
+        "0.04304"
+      ], 
+      [
+        "espresso maker", 
+        "0.04043"
+      ], 
+      [
+        "microwave", 
+        "0.03055"
+      ]
+    ], 
+    [
+      [
+        "washer", 
+        "1.30827"
+      ], 
+      [
+        "white goods", 
+        "1.14195"
+      ], 
+      [
+        "home appliance", 
+        "1.02497"
+      ], 
+      [
+        "appliance", 
+        "0.98348"
+      ], 
+      [
+        "durables", 
+        "0.95789"
+      ]
+    ], 
+    "7.098"
+  ]
+}

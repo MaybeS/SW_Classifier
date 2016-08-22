@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.63023"
+      ], 
+      [
+        "joystick", 
+        "0.08829"
+      ], 
+      [
+        "switch", 
+        "0.05030"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.03034"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02596"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.94339"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.85104"
+      ], 
+      [
+        "transducer", 
+        "0.83689"
+      ], 
+      [
+        "electrical device", 
+        "0.82274"
+      ], 
+      [
+        "device", 
+        "0.44207"
+      ]
+    ], 
+    "6.436"
+  ]
+}

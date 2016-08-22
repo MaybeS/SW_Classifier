@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.35679"
+      ], 
+      [
+        "microwave", 
+        "0.18707"
+      ], 
+      [
+        "rotisserie", 
+        "0.13964"
+      ], 
+      [
+        "safe", 
+        "0.07263"
+      ], 
+      [
+        "screen", 
+        "0.06548"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.56438"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.55110"
+      ], 
+      [
+        "appliance", 
+        "0.54609"
+      ], 
+      [
+        "durables", 
+        "0.53188"
+      ], 
+      [
+        "heater", 
+        "0.47738"
+      ]
+    ], 
+    "9.966"
+  ]
+}

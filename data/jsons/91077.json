@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.14824"
+      ], 
+      [
+        "oxygen mask", 
+        "0.14103"
+      ], 
+      [
+        "football helmet", 
+        "0.13880"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06601"
+      ], 
+      [
+        "cassette player", 
+        "0.05138"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.58351"
+      ], 
+      [
+        "computer", 
+        "0.45290"
+      ], 
+      [
+        "machine", 
+        "0.42224"
+      ], 
+      [
+        "football helmet", 
+        "0.36426"
+      ], 
+      [
+        "helmet", 
+        "0.35677"
+      ]
+    ], 
+    "6.951"
+  ]
+}

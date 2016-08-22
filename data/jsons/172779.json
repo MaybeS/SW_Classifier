@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.25278"
+      ], 
+      [
+        "analog clock", 
+        "0.17994"
+      ], 
+      [
+        "electric fan", 
+        "0.16991"
+      ], 
+      [
+        "space heater", 
+        "0.12386"
+      ], 
+      [
+        "magnetic compass", 
+        "0.12321"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.72061"
+      ], 
+      [
+        "instrument", 
+        "0.69911"
+      ], 
+      [
+        "device", 
+        "0.55774"
+      ], 
+      [
+        "timepiece", 
+        "0.53789"
+      ], 
+      [
+        "clock", 
+        "0.44222"
+      ]
+    ], 
+    "5.810"
+  ]
+}

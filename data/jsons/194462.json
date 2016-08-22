@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.39644"
+      ], 
+      [
+        "binder", 
+        "0.11955"
+      ], 
+      [
+        "letter opener", 
+        "0.10840"
+      ], 
+      [
+        "photocopier", 
+        "0.07493"
+      ], 
+      [
+        "ballpoint", 
+        "0.04316"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.57071"
+      ], 
+      [
+        "electronic equipment", 
+        "0.49529"
+      ], 
+      [
+        "printer", 
+        "0.45177"
+      ], 
+      [
+        "printer", 
+        "0.44513"
+      ], 
+      [
+        "machine", 
+        "0.44126"
+      ]
+    ], 
+    "8.015"
+  ]
+}

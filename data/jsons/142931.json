@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.39283"
+      ], 
+      [
+        "hair spray", 
+        "0.29229"
+      ], 
+      [
+        "sunscreen", 
+        "0.13907"
+      ], 
+      [
+        "ballpoint", 
+        "0.07179"
+      ], 
+      [
+        "rubber eraser", 
+        "0.02731"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.76427"
+      ], 
+      [
+        "toiletry", 
+        "0.44712"
+      ], 
+      [
+        "device", 
+        "0.35795"
+      ], 
+      [
+        "equipment", 
+        "0.23442"
+      ], 
+      [
+        "electronic equipment", 
+        "0.22630"
+      ]
+    ], 
+    "12.983"
+  ]
+}

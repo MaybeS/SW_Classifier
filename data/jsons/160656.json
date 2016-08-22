@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.54067"
+      ], 
+      [
+        "projector", 
+        "0.18380"
+      ], 
+      [
+        "switch", 
+        "0.02891"
+      ], 
+      [
+        "loudspeaker", 
+        "0.02793"
+      ], 
+      [
+        "reflex camera", 
+        "0.02640"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.80347"
+      ], 
+      [
+        "coffee maker", 
+        "0.79167"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.62961"
+      ], 
+      [
+        "home appliance", 
+        "0.61356"
+      ], 
+      [
+        "appliance", 
+        "0.59894"
+      ]
+    ], 
+    "9.732"
+  ]
+}

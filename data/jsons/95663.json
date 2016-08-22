@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.53821"
+      ], 
+      [
+        "binder", 
+        "0.09101"
+      ], 
+      [
+        "scale", 
+        "0.05326"
+      ], 
+      [
+        "fire screen", 
+        "0.03264"
+      ], 
+      [
+        "mousetrap", 
+        "0.02706"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.39070"
+      ], 
+      [
+        "vehicle", 
+        "0.35666"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.33141"
+      ], 
+      [
+        "container", 
+        "0.31876"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.26111"
+      ]
+    ], 
+    "9.362"
+  ]
+}

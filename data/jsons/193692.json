@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.16006"
+      ], 
+      [
+        "stethoscope", 
+        "0.10569"
+      ], 
+      [
+        "electric fan", 
+        "0.09060"
+      ], 
+      [
+        "loupe", 
+        "0.07669"
+      ], 
+      [
+        "frying pan", 
+        "0.07262"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36128"
+      ], 
+      [
+        "cooking utensil", 
+        "0.25888"
+      ], 
+      [
+        "loudspeaker", 
+        "0.25701"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.25332"
+      ], 
+      [
+        "equipment", 
+        "0.24920"
+      ]
+    ], 
+    "6.306"
+  ]
+}

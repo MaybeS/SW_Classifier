@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.71964"
+      ], 
+      [
+        "binoculars", 
+        "0.13799"
+      ], 
+      [
+        "switch", 
+        "0.02080"
+      ], 
+      [
+        "whistle", 
+        "0.01872"
+      ], 
+      [
+        "can opener", 
+        "0.01794"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.67352"
+      ], 
+      [
+        "photographic equipment", 
+        "1.64570"
+      ], 
+      [
+        "reflex camera", 
+        "1.62390"
+      ], 
+      [
+        "equipment", 
+        "0.85595"
+      ], 
+      [
+        "device", 
+        "0.32213"
+      ]
+    ], 
+    "5.609"
+  ]
+}

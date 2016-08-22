@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.18391"
+      ], 
+      [
+        "slide rule", 
+        "0.14647"
+      ], 
+      [
+        "notebook", 
+        "0.13094"
+      ], 
+      [
+        "modem", 
+        "0.08443"
+      ], 
+      [
+        "hand-held computer", 
+        "0.03896"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.76213"
+      ], 
+      [
+        "machine", 
+        "0.66770"
+      ], 
+      [
+        "slide rule", 
+        "0.48472"
+      ], 
+      [
+        "analog computer", 
+        "0.47760"
+      ], 
+      [
+        "personal computer", 
+        "0.45676"
+      ]
+    ], 
+    "5.425"
+  ]
+}

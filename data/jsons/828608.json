@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cowboy hat", 
+        "0.37974"
+      ], 
+      [
+        "kimono", 
+        "0.09986"
+      ], 
+      [
+        "sombrero", 
+        "0.08875"
+      ], 
+      [
+        "ballplayer", 
+        "0.03912"
+      ], 
+      [
+        "sweatshirt", 
+        "0.03705"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.77430"
+      ], 
+      [
+        "consumer goods", 
+        "0.68625"
+      ], 
+      [
+        "covering", 
+        "0.66808"
+      ], 
+      [
+        "commodity", 
+        "0.65360"
+      ], 
+      [
+        "headdress", 
+        "0.51275"
+      ]
+    ], 
+    "6.516"
+  ]
+}

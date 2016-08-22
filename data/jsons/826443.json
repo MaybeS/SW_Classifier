@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "accordion", 
+        "0.45632"
+      ], 
+      [
+        "velvet", 
+        "0.10649"
+      ], 
+      [
+        "quilt", 
+        "0.07148"
+      ], 
+      [
+        "miniskirt", 
+        "0.04579"
+      ], 
+      [
+        "theater curtain", 
+        "0.04022"
+      ]
+    ], 
+    [
+      [
+        "accordion", 
+        "0.88217"
+      ], 
+      [
+        "free-reed instrument", 
+        "0.83078"
+      ], 
+      [
+        "keyboard instrument", 
+        "0.76494"
+      ], 
+      [
+        "wind instrument", 
+        "0.69138"
+      ], 
+      [
+        "musical instrument", 
+        "0.68282"
+      ]
+    ], 
+    "4.982"
+  ]
+}

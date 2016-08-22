@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screen", 
+        "0.09379"
+      ], 
+      [
+        "oil filter", 
+        "0.08675"
+      ], 
+      [
+        "modem", 
+        "0.07723"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06331"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06182"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.36684"
+      ], 
+      [
+        "machine", 
+        "0.35871"
+      ], 
+      [
+        "equipment", 
+        "0.34748"
+      ], 
+      [
+        "device", 
+        "0.33636"
+      ], 
+      [
+        "personal computer", 
+        "0.31645"
+      ]
+    ], 
+    "6.772"
+  ]
+}

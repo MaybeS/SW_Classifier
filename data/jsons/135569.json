@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "strainer", 
+        "0.60461"
+      ], 
+      [
+        "loudspeaker", 
+        "0.26216"
+      ], 
+      [
+        "frying pan", 
+        "0.01776"
+      ], 
+      [
+        "puck", 
+        "0.01385"
+      ], 
+      [
+        "Dutch oven", 
+        "0.01113"
+      ]
+    ], 
+    [
+      [
+        "strainer", 
+        "0.62803"
+      ], 
+      [
+        "filter", 
+        "0.58326"
+      ], 
+      [
+        "loudspeaker", 
+        "0.39581"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.38128"
+      ], 
+      [
+        "transducer", 
+        "0.37494"
+      ]
+    ], 
+    "7.483"
+  ]
+}

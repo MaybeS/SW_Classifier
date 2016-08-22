@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.19928"
+      ], 
+      [
+        "rifle", 
+        "0.18048"
+      ], 
+      [
+        "CD player", 
+        "0.08835"
+      ], 
+      [
+        "tape player", 
+        "0.07434"
+      ], 
+      [
+        "stove", 
+        "0.07161"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51844"
+      ], 
+      [
+        "equipment", 
+        "0.48431"
+      ], 
+      [
+        "device", 
+        "0.30687"
+      ], 
+      [
+        "radio", 
+        "0.27119"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.26972"
+      ]
+    ], 
+    "6.981"
+  ]
+}

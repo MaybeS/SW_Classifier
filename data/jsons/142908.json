@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.17081"
+      ], 
+      [
+        "syringe", 
+        "0.06451"
+      ], 
+      [
+        "printer", 
+        "0.04249"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.04009"
+      ], 
+      [
+        "power drill", 
+        "0.04007"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.38089"
+      ], 
+      [
+        "device", 
+        "0.31413"
+      ], 
+      [
+        "equipment", 
+        "0.30650"
+      ], 
+      [
+        "tool", 
+        "0.24929"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24029"
+      ]
+    ], 
+    "5.173"
+  ]
+}

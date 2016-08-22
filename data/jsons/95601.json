@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fire screen", 
+        "0.34744"
+      ], 
+      [
+        "desk", 
+        "0.20122"
+      ], 
+      [
+        "toaster", 
+        "0.05401"
+      ], 
+      [
+        "studio couch", 
+        "0.03952"
+      ], 
+      [
+        "space heater", 
+        "0.02944"
+      ]
+    ], 
+    [
+      [
+        "fire screen", 
+        "0.76075"
+      ], 
+      [
+        "screen", 
+        "0.66874"
+      ], 
+      [
+        "furniture", 
+        "0.54364"
+      ], 
+      [
+        "furnishing", 
+        "0.53502"
+      ], 
+      [
+        "protective covering", 
+        "0.49474"
+      ]
+    ], 
+    "15525.262"
+  ]
+}

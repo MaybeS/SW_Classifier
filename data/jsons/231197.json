@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.12025"
+      ], 
+      [
+        "oil filter", 
+        "0.11149"
+      ], 
+      [
+        "switch", 
+        "0.09590"
+      ], 
+      [
+        "magnetic compass", 
+        "0.09532"
+      ], 
+      [
+        "loupe", 
+        "0.04421"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40694"
+      ], 
+      [
+        "instrument", 
+        "0.39462"
+      ], 
+      [
+        "equipment", 
+        "0.38239"
+      ], 
+      [
+        "camera", 
+        "0.33129"
+      ], 
+      [
+        "photographic equipment", 
+        "0.32578"
+      ]
+    ], 
+    "5.712"
+  ]
+}

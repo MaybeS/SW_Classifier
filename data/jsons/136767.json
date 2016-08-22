@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.33863"
+      ], 
+      [
+        "oxygen mask", 
+        "0.17942"
+      ], 
+      [
+        "gasmask", 
+        "0.15162"
+      ], 
+      [
+        "stethoscope", 
+        "0.11493"
+      ], 
+      [
+        "strainer", 
+        "0.04241"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35673"
+      ], 
+      [
+        "covering", 
+        "0.35331"
+      ], 
+      [
+        "protective covering", 
+        "0.29380"
+      ], 
+      [
+        "gasmask", 
+        "0.26867"
+      ], 
+      [
+        "microphone", 
+        "0.26741"
+      ]
+    ], 
+    "5.693"
+  ]
+}

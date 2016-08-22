@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.38530"
+      ], 
+      [
+        "candle", 
+        "0.10594"
+      ], 
+      [
+        "nipple", 
+        "0.08586"
+      ], 
+      [
+        "dumbbell", 
+        "0.05373"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04895"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.31525"
+      ], 
+      [
+        "device", 
+        "0.27239"
+      ], 
+      [
+        "covering", 
+        "0.23701"
+      ], 
+      [
+        "container", 
+        "0.22293"
+      ], 
+      [
+        "consumer goods", 
+        "0.21437"
+      ]
+    ], 
+    "6.113"
+  ]
+}

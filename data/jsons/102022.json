@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.40122"
+      ], 
+      [
+        "oil filter", 
+        "0.14959"
+      ], 
+      [
+        "lighter", 
+        "0.05405"
+      ], 
+      [
+        "switch", 
+        "0.03376"
+      ], 
+      [
+        "combination lock", 
+        "0.03277"
+      ]
+    ], 
+    [
+      [
+        "cellular telephone", 
+        "0.71460"
+      ], 
+      [
+        "radiotelephone", 
+        "0.70411"
+      ], 
+      [
+        "telephone", 
+        "0.61137"
+      ], 
+      [
+        "electronic equipment", 
+        "0.60339"
+      ], 
+      [
+        "equipment", 
+        "0.52771"
+      ]
+    ], 
+    "9.800"
+  ]
+}

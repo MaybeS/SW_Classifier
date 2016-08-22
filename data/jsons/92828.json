@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.51120"
+      ], 
+      [
+        "projector", 
+        "0.08450"
+      ], 
+      [
+        "modem", 
+        "0.07116"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.06727"
+      ], 
+      [
+        "tape player", 
+        "0.03915"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.61590"
+      ], 
+      [
+        "equipment", 
+        "0.58525"
+      ], 
+      [
+        "radio", 
+        "0.50159"
+      ], 
+      [
+        "communication system", 
+        "0.45565"
+      ], 
+      [
+        "system", 
+        "0.41980"
+      ]
+    ], 
+    "6.734"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.27632"
+      ], 
+      [
+        "safe", 
+        "0.11984"
+      ], 
+      [
+        "stopwatch", 
+        "0.06391"
+      ], 
+      [
+        "cassette player", 
+        "0.06391"
+      ], 
+      [
+        "scale", 
+        "0.05639"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.47071"
+      ], 
+      [
+        "timepiece", 
+        "0.41781"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39619"
+      ], 
+      [
+        "instrument", 
+        "0.39427"
+      ], 
+      [
+        "device", 
+        "0.38750"
+      ]
+    ], 
+    "6.343"
+  ]
+}

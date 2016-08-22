@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.58358"
+      ], 
+      [
+        "iPod", 
+        "0.14231"
+      ], 
+      [
+        "switch", 
+        "0.07206"
+      ], 
+      [
+        "remote control", 
+        "0.03971"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02911"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.49269"
+      ], 
+      [
+        "rubber eraser", 
+        "0.35545"
+      ], 
+      [
+        "eraser", 
+        "0.35023"
+      ], 
+      [
+        "device", 
+        "0.31622"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29733"
+      ]
+    ], 
+    "8.462"
+  ]
+}

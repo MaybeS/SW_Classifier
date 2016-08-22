@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.41304"
+      ], 
+      [
+        "projector", 
+        "0.11914"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.11734"
+      ], 
+      [
+        "radio", 
+        "0.06680"
+      ], 
+      [
+        "cassette player", 
+        "0.03552"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.63641"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.57792"
+      ], 
+      [
+        "transducer", 
+        "0.56831"
+      ], 
+      [
+        "electrical device", 
+        "0.55870"
+      ], 
+      [
+        "equipment", 
+        "0.50231"
+      ]
+    ], 
+    "6.732"
+  ]
+}

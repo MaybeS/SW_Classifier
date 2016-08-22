@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.27621"
+      ], 
+      [
+        "crash helmet", 
+        "0.14005"
+      ], 
+      [
+        "face powder", 
+        "0.10868"
+      ], 
+      [
+        "lotion", 
+        "0.09090"
+      ], 
+      [
+        "bathing cap", 
+        "0.05183"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.56562"
+      ], 
+      [
+        "consumer goods", 
+        "0.34612"
+      ], 
+      [
+        "crash helmet", 
+        "0.33379"
+      ], 
+      [
+        "commodity", 
+        "0.32868"
+      ], 
+      [
+        "container", 
+        "0.32037"
+      ]
+    ], 
+    "9.096"
+  ]
+}

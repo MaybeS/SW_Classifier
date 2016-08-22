@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.88735"
+      ], 
+      [
+        "desktop computer", 
+        "0.02984"
+      ], 
+      [
+        "hand-held computer", 
+        "0.02244"
+      ], 
+      [
+        "file", 
+        "0.00751"
+      ], 
+      [
+        "microwave", 
+        "0.00673"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.70732"
+      ], 
+      [
+        "device", 
+        "0.56256"
+      ], 
+      [
+        "electronic equipment", 
+        "0.49030"
+      ], 
+      [
+        "equipment", 
+        "0.42070"
+      ], 
+      [
+        "personal computer", 
+        "0.34757"
+      ]
+    ], 
+    "5.983"
+  ]
+}

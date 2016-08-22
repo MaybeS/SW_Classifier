@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.28089"
+      ], 
+      [
+        "switch", 
+        "0.21968"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.15226"
+      ], 
+      [
+        "scale", 
+        "0.08083"
+      ], 
+      [
+        "combination lock", 
+        "0.04574"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36831"
+      ], 
+      [
+        "implement", 
+        "0.35673"
+      ], 
+      [
+        "control", 
+        "0.25679"
+      ], 
+      [
+        "switch", 
+        "0.25614"
+      ], 
+      [
+        "measuring instrument", 
+        "0.24860"
+      ]
+    ], 
+    "12.788"
+  ]
+}

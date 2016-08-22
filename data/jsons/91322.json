@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.15895"
+      ], 
+      [
+        "switch", 
+        "0.12594"
+      ], 
+      [
+        "spotlight", 
+        "0.06117"
+      ], 
+      [
+        "broom", 
+        "0.06038"
+      ], 
+      [
+        "mousetrap", 
+        "0.05976"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.38465"
+      ], 
+      [
+        "device", 
+        "0.33412"
+      ], 
+      [
+        "equipment", 
+        "0.24046"
+      ], 
+      [
+        "container", 
+        "0.20295"
+      ], 
+      [
+        "electronic equipment", 
+        "0.18625"
+      ]
+    ], 
+    "6.774"
+  ]
+}

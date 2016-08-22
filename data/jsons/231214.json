@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.22752"
+      ], 
+      [
+        "cassette player", 
+        "0.12497"
+      ], 
+      [
+        "tape player", 
+        "0.10637"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.06041"
+      ], 
+      [
+        "reflex camera", 
+        "0.04586"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.62394"
+      ], 
+      [
+        "electronic equipment", 
+        "0.55586"
+      ], 
+      [
+        "camera", 
+        "0.33366"
+      ], 
+      [
+        "photographic equipment", 
+        "0.32811"
+      ], 
+      [
+        "device", 
+        "0.30918"
+      ]
+    ], 
+    "10.995"
+  ]
+}

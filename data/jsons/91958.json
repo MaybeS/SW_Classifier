@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.42218"
+      ], 
+      [
+        "desktop computer", 
+        "0.10808"
+      ], 
+      [
+        "perfume", 
+        "0.09435"
+      ], 
+      [
+        "hair spray", 
+        "0.03832"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03304"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.55578"
+      ], 
+      [
+        "equipment", 
+        "0.47607"
+      ], 
+      [
+        "modem", 
+        "0.40041"
+      ], 
+      [
+        "device", 
+        "0.34115"
+      ], 
+      [
+        "machine", 
+        "0.31470"
+      ]
+    ], 
+    "7.360"
+  ]
+}

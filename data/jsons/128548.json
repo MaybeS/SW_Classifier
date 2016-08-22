@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.28431"
+      ], 
+      [
+        "switch", 
+        "0.15936"
+      ], 
+      [
+        "iPod", 
+        "0.09266"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05759"
+      ], 
+      [
+        "binder", 
+        "0.05086"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.43856"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.39859"
+      ], 
+      [
+        "transducer", 
+        "0.39196"
+      ], 
+      [
+        "electrical device", 
+        "0.38533"
+      ], 
+      [
+        "equipment", 
+        "0.37425"
+      ]
+    ], 
+    "10.828"
+  ]
+}

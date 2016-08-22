@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.74005"
+      ], 
+      [
+        "loudspeaker", 
+        "0.14603"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05667"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.01392"
+      ], 
+      [
+        "radio", 
+        "0.00956"
+      ]
+    ], 
+    [
+      [
+        "iPod", 
+        "1.29847"
+      ], 
+      [
+        "stereo", 
+        "1.27939"
+      ], 
+      [
+        "reproducer", 
+        "1.26032"
+      ], 
+      [
+        "audio system", 
+        "1.24125"
+      ], 
+      [
+        "electronic equipment", 
+        "1.16073"
+      ]
+    ], 
+    "7.306"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.23292"
+      ], 
+      [
+        "iPod", 
+        "0.13451"
+      ], 
+      [
+        "notebook", 
+        "0.10856"
+      ], 
+      [
+        "book jacket", 
+        "0.08149"
+      ], 
+      [
+        "hard disc", 
+        "0.06658"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.63481"
+      ], 
+      [
+        "equipment", 
+        "0.52667"
+      ], 
+      [
+        "machine", 
+        "0.41589"
+      ], 
+      [
+        "personal computer", 
+        "0.41107"
+      ], 
+      [
+        "computer", 
+        "0.40662"
+      ]
+    ], 
+    "5.686"
+  ]
+}

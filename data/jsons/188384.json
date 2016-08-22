@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.99998"
+      ], 
+      [
+        "dial telephone", 
+        "0.00001"
+      ], 
+      [
+        "binder", 
+        "0.00000"
+      ], 
+      [
+        "stethoscope", 
+        "0.00000"
+      ], 
+      [
+        "mousetrap", 
+        "0.00000"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.71032"
+      ], 
+      [
+        "magnetic disk", 
+        "1.68519"
+      ], 
+      [
+        "memory device", 
+        "1.66007"
+      ], 
+      [
+        "device", 
+        "0.52304"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41662"
+      ]
+    ], 
+    "10.449"
+  ]
+}

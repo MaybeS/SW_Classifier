@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.14842"
+      ], 
+      [
+        "switch", 
+        "0.10697"
+      ], 
+      [
+        "rubber eraser", 
+        "0.08600"
+      ], 
+      [
+        "broom", 
+        "0.06941"
+      ], 
+      [
+        "mousetrap", 
+        "0.05059"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.41940"
+      ], 
+      [
+        "device", 
+        "0.32369"
+      ], 
+      [
+        "equipment", 
+        "0.22703"
+      ], 
+      [
+        "container", 
+        "0.20127"
+      ], 
+      [
+        "cleaning implement", 
+        "0.19308"
+      ]
+    ], 
+    "6.791"
+  ]
+}

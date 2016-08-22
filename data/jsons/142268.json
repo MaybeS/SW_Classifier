@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hourglass", 
+        "0.72780"
+      ], 
+      [
+        "can opener", 
+        "0.09702"
+      ], 
+      [
+        "nipple", 
+        "0.03559"
+      ], 
+      [
+        "ladle", 
+        "0.02295"
+      ], 
+      [
+        "goblet", 
+        "0.01425"
+      ]
+    ], 
+    [
+      [
+        "hourglass", 
+        "2.14839"
+      ], 
+      [
+        "sandglass", 
+        "2.11684"
+      ], 
+      [
+        "timepiece", 
+        "1.45175"
+      ], 
+      [
+        "measuring instrument", 
+        "1.32645"
+      ], 
+      [
+        "instrument", 
+        "0.95174"
+      ]
+    ], 
+    "12.479"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.16875"
+      ], 
+      [
+        "face powder", 
+        "0.11866"
+      ], 
+      [
+        "laptop", 
+        "0.09840"
+      ], 
+      [
+        "scale", 
+        "0.09265"
+      ], 
+      [
+        "notebook", 
+        "0.07999"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.32554"
+      ], 
+      [
+        "personal computer", 
+        "0.31997"
+      ], 
+      [
+        "digital computer", 
+        "0.31384"
+      ], 
+      [
+        "computer", 
+        "0.31240"
+      ], 
+      [
+        "portable computer", 
+        "0.30141"
+      ]
+    ], 
+    "11.063"
+  ]
+}

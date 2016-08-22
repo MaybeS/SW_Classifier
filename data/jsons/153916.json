@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "airship", 
+        "0.13672"
+      ], 
+      [
+        "digital clock", 
+        "0.11320"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05896"
+      ], 
+      [
+        "switch", 
+        "0.04662"
+      ], 
+      [
+        "screwdriver", 
+        "0.04638"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.28604"
+      ], 
+      [
+        "airship", 
+        "0.28563"
+      ], 
+      [
+        "lighter-than-air craft", 
+        "0.27310"
+      ], 
+      [
+        "measuring instrument", 
+        "0.26393"
+      ], 
+      [
+        "craft", 
+        "0.25153"
+      ]
+    ], 
+    "16.721"
+  ]
+}

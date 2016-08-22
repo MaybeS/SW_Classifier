@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.14337"
+      ], 
+      [
+        "digital watch", 
+        "0.13733"
+      ], 
+      [
+        "combination lock", 
+        "0.12579"
+      ], 
+      [
+        "oil filter", 
+        "0.11801"
+      ], 
+      [
+        "digital clock", 
+        "0.07984"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "0.59590"
+      ], 
+      [
+        "measuring instrument", 
+        "0.59511"
+      ], 
+      [
+        "instrument", 
+        "0.47646"
+      ], 
+      [
+        "device", 
+        "0.45126"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41252"
+      ]
+    ], 
+    "5.596"
+  ]
+}

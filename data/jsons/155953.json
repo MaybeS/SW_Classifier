@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.53658"
+      ], 
+      [
+        "screen", 
+        "0.25650"
+      ], 
+      [
+        "monitor", 
+        "0.15717"
+      ], 
+      [
+        "strawberry", 
+        "0.02236"
+      ], 
+      [
+        "tray", 
+        "0.00528"
+      ]
+    ], 
+    [
+      [
+        "television", 
+        "0.87054"
+      ], 
+      [
+        "telecommunication system", 
+        "0.85776"
+      ], 
+      [
+        "communication system", 
+        "0.76757"
+      ], 
+      [
+        "screen", 
+        "0.67429"
+      ], 
+      [
+        "system", 
+        "0.66766"
+      ]
+    ], 
+    "5.093"
+  ]
+}

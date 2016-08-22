@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.33553"
+      ], 
+      [
+        "television", 
+        "0.14393"
+      ], 
+      [
+        "desktop computer", 
+        "0.11751"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09476"
+      ], 
+      [
+        "monitor", 
+        "0.07703"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.52466"
+      ], 
+      [
+        "electronic equipment", 
+        "0.47440"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.47355"
+      ], 
+      [
+        "transducer", 
+        "0.46568"
+      ], 
+      [
+        "electrical device", 
+        "0.45780"
+      ]
+    ], 
+    "6.818"
+  ]
+}

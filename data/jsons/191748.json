@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.67243"
+      ], 
+      [
+        "crash helmet", 
+        "0.17192"
+      ], 
+      [
+        "frying pan", 
+        "0.01388"
+      ], 
+      [
+        "toaster", 
+        "0.00778"
+      ], 
+      [
+        "football helmet", 
+        "0.00769"
+      ]
+    ], 
+    [
+      [
+        "crash helmet", 
+        "0.52527"
+      ], 
+      [
+        "helmet", 
+        "0.50258"
+      ], 
+      [
+        "headdress", 
+        "0.40820"
+      ], 
+      [
+        "consumer goods", 
+        "0.37585"
+      ], 
+      [
+        "commodity", 
+        "0.35597"
+      ]
+    ], 
+    "5.954"
+  ]
+}

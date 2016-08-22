@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.39379"
+      ], 
+      [
+        "combination lock", 
+        "0.08954"
+      ], 
+      [
+        "reflex camera", 
+        "0.04182"
+      ], 
+      [
+        "switch", 
+        "0.03785"
+      ], 
+      [
+        "book jacket", 
+        "0.03354"
+      ]
+    ], 
+    [
+      [
+        "oil filter", 
+        "0.52946"
+      ], 
+      [
+        "filter", 
+        "0.47915"
+      ], 
+      [
+        "device", 
+        "0.36226"
+      ], 
+      [
+        "equipment", 
+        "0.28350"
+      ], 
+      [
+        "container", 
+        "0.27638"
+      ]
+    ], 
+    "5.224"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.21927"
+      ], 
+      [
+        "saltshaker", 
+        "0.17317"
+      ], 
+      [
+        "water jug", 
+        "0.13079"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.12776"
+      ], 
+      [
+        "coffeepot", 
+        "0.10747"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.59275"
+      ], 
+      [
+        "vessel", 
+        "0.59065"
+      ], 
+      [
+        "shaker", 
+        "0.54616"
+      ], 
+      [
+        "bottle", 
+        "0.32923"
+      ], 
+      [
+        "saltshaker", 
+        "0.31652"
+      ]
+    ], 
+    "7.377"
+  ]
+}

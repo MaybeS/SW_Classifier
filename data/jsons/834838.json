@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bow tie", 
+        "0.40616"
+      ], 
+      [
+        "sweatshirt", 
+        "0.24022"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.08762"
+      ], 
+      [
+        "jersey", 
+        "0.06680"
+      ], 
+      [
+        "neck brace", 
+        "0.05054"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.02244"
+      ], 
+      [
+        "garment", 
+        "1.00794"
+      ], 
+      [
+        "consumer goods", 
+        "0.90361"
+      ], 
+      [
+        "commodity", 
+        "0.85856"
+      ], 
+      [
+        "covering", 
+        "0.84722"
+      ]
+    ], 
+    "5.534"
+  ]
+}

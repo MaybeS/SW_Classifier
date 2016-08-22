@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.50557"
+      ], 
+      [
+        "gasmask", 
+        "0.24658"
+      ], 
+      [
+        "reflex camera", 
+        "0.05543"
+      ], 
+      [
+        "combination lock", 
+        "0.03091"
+      ], 
+      [
+        "microphone", 
+        "0.02589"
+      ]
+    ], 
+    [
+      [
+        "gasmask", 
+        "0.37753"
+      ], 
+      [
+        "mask", 
+        "0.35325"
+      ], 
+      [
+        "device", 
+        "0.33237"
+      ], 
+      [
+        "protective covering", 
+        "0.30774"
+      ], 
+      [
+        "covering", 
+        "0.29182"
+      ]
+    ], 
+    "6.227"
+  ]
+}

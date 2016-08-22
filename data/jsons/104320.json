@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.20911"
+      ], 
+      [
+        "scale", 
+        "0.10556"
+      ], 
+      [
+        "space heater", 
+        "0.05146"
+      ], 
+      [
+        "espresso maker", 
+        "0.04983"
+      ], 
+      [
+        "combination lock", 
+        "0.03921"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.50592"
+      ], 
+      [
+        "timepiece", 
+        "0.44357"
+      ], 
+      [
+        "instrument", 
+        "0.41764"
+      ], 
+      [
+        "device", 
+        "0.36106"
+      ], 
+      [
+        "digital clock", 
+        "0.33495"
+      ]
+    ], 
+    "5.813"
+  ]
+}

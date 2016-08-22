@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.14771"
+      ], 
+      [
+        "screwdriver", 
+        "0.13223"
+      ], 
+      [
+        "cassette", 
+        "0.06525"
+      ], 
+      [
+        "pencil box", 
+        "0.05925"
+      ], 
+      [
+        "mousetrap", 
+        "0.05740"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.34788"
+      ], 
+      [
+        "implement", 
+        "0.31869"
+      ], 
+      [
+        "device", 
+        "0.29271"
+      ], 
+      [
+        "container", 
+        "0.29170"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27300"
+      ]
+    ], 
+    "4.848"
+  ]
+}

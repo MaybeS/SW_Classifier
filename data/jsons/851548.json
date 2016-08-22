@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sewing machine", 
+        "0.72722"
+      ], 
+      [
+        "iron", 
+        "0.04808"
+      ], 
+      [
+        "dumbbell", 
+        "0.02570"
+      ], 
+      [
+        "hand blower", 
+        "0.02508"
+      ], 
+      [
+        "sandal", 
+        "0.01979"
+      ]
+    ], 
+    [
+      [
+        "sewing machine", 
+        "0.87320"
+      ], 
+      [
+        "textile machine", 
+        "0.86038"
+      ], 
+      [
+        "home appliance", 
+        "0.68175"
+      ], 
+      [
+        "appliance", 
+        "0.67131"
+      ], 
+      [
+        "durables", 
+        "0.65384"
+      ]
+    ], 
+    "6.645"
+  ]
+}

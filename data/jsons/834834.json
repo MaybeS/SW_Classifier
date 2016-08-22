@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "jersey", 
+        "0.56071"
+      ], 
+      [
+        "sweatshirt", 
+        "0.38462"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.04581"
+      ], 
+      [
+        "maillot", 
+        "0.00565"
+      ], 
+      [
+        "knee pad", 
+        "0.00055"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "1.22537"
+      ], 
+      [
+        "clothing", 
+        "1.18259"
+      ], 
+      [
+        "consumer goods", 
+        "1.03646"
+      ], 
+      [
+        "commodity", 
+        "0.98353"
+      ], 
+      [
+        "covering", 
+        "0.96055"
+      ]
+    ], 
+    "6.496"
+  ]
+}

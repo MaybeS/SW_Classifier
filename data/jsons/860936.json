@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mosquito net", 
+        "0.16752"
+      ], 
+      [
+        "gown", 
+        "0.10083"
+      ], 
+      [
+        "shower curtain", 
+        "0.09564"
+      ], 
+      [
+        "bath towel", 
+        "0.07209"
+      ], 
+      [
+        "hoopskirt", 
+        "0.06417"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.76309"
+      ], 
+      [
+        "clothing", 
+        "0.67592"
+      ], 
+      [
+        "consumer goods", 
+        "0.61692"
+      ], 
+      [
+        "commodity", 
+        "0.61481"
+      ], 
+      [
+        "mosquito net", 
+        "0.56146"
+      ]
+    ], 
+    "7.339"
+  ]
+}

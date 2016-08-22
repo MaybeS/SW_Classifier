@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.99964"
+      ], 
+      [
+        "lens cap", 
+        "0.00024"
+      ], 
+      [
+        "binoculars", 
+        "0.00005"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.00005"
+      ], 
+      [
+        "projector", 
+        "0.00002"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.27428"
+      ], 
+      [
+        "photographic equipment", 
+        "2.23647"
+      ], 
+      [
+        "reflex camera", 
+        "2.22666"
+      ], 
+      [
+        "equipment", 
+        "1.10732"
+      ], 
+      [
+        "lens cap", 
+        "0.36174"
+      ]
+    ], 
+    "5.389"
+  ]
+}

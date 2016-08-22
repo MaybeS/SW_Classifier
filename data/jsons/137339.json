@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "safety pin", 
+        "0.22352"
+      ], 
+      [
+        "spatula", 
+        "0.16403"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.15644"
+      ], 
+      [
+        "electric fan", 
+        "0.09962"
+      ], 
+      [
+        "hair slide", 
+        "0.06360"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31532"
+      ], 
+      [
+        "implement", 
+        "0.30209"
+      ], 
+      [
+        "fastener", 
+        "0.26638"
+      ], 
+      [
+        "restraint", 
+        "0.25471"
+      ], 
+      [
+        "electric fan", 
+        "0.22128"
+      ]
+    ], 
+    "5.155"
+  ]
+}

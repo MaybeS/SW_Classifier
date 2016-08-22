@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.41823"
+      ], 
+      [
+        "scale", 
+        "0.32011"
+      ], 
+      [
+        "remote control", 
+        "0.07343"
+      ], 
+      [
+        "switch", 
+        "0.07213"
+      ], 
+      [
+        "soap dispenser", 
+        "0.01249"
+      ]
+    ], 
+    [
+      [
+        "iPod", 
+        "0.74439"
+      ], 
+      [
+        "stereo", 
+        "0.73345"
+      ], 
+      [
+        "reproducer", 
+        "0.72252"
+      ], 
+      [
+        "electronic equipment", 
+        "0.71775"
+      ], 
+      [
+        "audio system", 
+        "0.71158"
+      ]
+    ], 
+    "15.963"
+  ]
+}

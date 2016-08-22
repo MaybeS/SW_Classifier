@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "miniskirt", 
+        "0.80309"
+      ], 
+      [
+        "hoopskirt", 
+        "0.01459"
+      ], 
+      [
+        "soap dispenser", 
+        "0.00864"
+      ], 
+      [
+        "paper towel", 
+        "0.00823"
+      ], 
+      [
+        "sandal", 
+        "0.00771"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.02490"
+      ], 
+      [
+        "garment", 
+        "0.97999"
+      ], 
+      [
+        "consumer goods", 
+        "0.92423"
+      ], 
+      [
+        "commodity", 
+        "0.87747"
+      ], 
+      [
+        "covering", 
+        "0.84453"
+      ]
+    ], 
+    "7.147"
+  ]
+}

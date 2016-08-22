@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.43559"
+      ], 
+      [
+        "combination lock", 
+        "0.36517"
+      ], 
+      [
+        "switch", 
+        "0.04884"
+      ], 
+      [
+        "modem", 
+        "0.03829"
+      ], 
+      [
+        "hand-held computer", 
+        "0.01688"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.85109"
+      ], 
+      [
+        "device", 
+        "0.50568"
+      ], 
+      [
+        "combination lock", 
+        "0.45744"
+      ], 
+      [
+        "lock", 
+        "0.45744"
+      ], 
+      [
+        "fastener", 
+        "0.40093"
+      ]
+    ], 
+    "5.511"
+  ]
+}

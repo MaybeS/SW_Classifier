@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.22278"
+      ], 
+      [
+        "tape player", 
+        "0.21634"
+      ], 
+      [
+        "radio", 
+        "0.15324"
+      ], 
+      [
+        "cassette player", 
+        "0.10257"
+      ], 
+      [
+        "stove", 
+        "0.09801"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.89252"
+      ], 
+      [
+        "equipment", 
+        "0.75918"
+      ], 
+      [
+        "cassette player", 
+        "0.42189"
+      ], 
+      [
+        "CD player", 
+        "0.37897"
+      ], 
+      [
+        "radio", 
+        "0.34179"
+      ]
+    ], 
+    "9.248"
+  ]
+}

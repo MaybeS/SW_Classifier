@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.85665"
+      ], 
+      [
+        "vacuum", 
+        "0.01537"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.01041"
+      ], 
+      [
+        "lawn mower", 
+        "0.01012"
+      ], 
+      [
+        "spotlight", 
+        "0.01003"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.98122"
+      ], 
+      [
+        "photographic equipment", 
+        "1.94828"
+      ], 
+      [
+        "reflex camera", 
+        "1.91602"
+      ], 
+      [
+        "equipment", 
+        "0.99736"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.32646"
+      ]
+    ], 
+    "10.700"
+  ]
+}

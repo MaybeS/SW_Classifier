@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.15055"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.08062"
+      ], 
+      [
+        "binder", 
+        "0.07203"
+      ], 
+      [
+        "screwdriver", 
+        "0.07077"
+      ], 
+      [
+        "analog clock", 
+        "0.06775"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33513"
+      ], 
+      [
+        "implement", 
+        "0.28452"
+      ], 
+      [
+        "instrument", 
+        "0.27947"
+      ], 
+      [
+        "measuring instrument", 
+        "0.27883"
+      ], 
+      [
+        "equipment", 
+        "0.24617"
+      ]
+    ], 
+    "12.061"
+  ]
+}

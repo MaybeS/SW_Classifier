@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.16015"
+      ], 
+      [
+        "hand-held computer", 
+        "0.13810"
+      ], 
+      [
+        "joystick", 
+        "0.06496"
+      ], 
+      [
+        "printer", 
+        "0.04263"
+      ], 
+      [
+        "remote control", 
+        "0.04168"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.89836"
+      ], 
+      [
+        "machine", 
+        "0.80086"
+      ], 
+      [
+        "web site", 
+        "0.63992"
+      ], 
+      [
+        "personal computer", 
+        "0.51150"
+      ], 
+      [
+        "digital computer", 
+        "0.50170"
+      ]
+    ], 
+    "6.351"
+  ]
+}

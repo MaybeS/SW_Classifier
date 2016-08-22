@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screen", 
+        "0.23790"
+      ], 
+      [
+        "loudspeaker", 
+        "0.21097"
+      ], 
+      [
+        "desktop computer", 
+        "0.19431"
+      ], 
+      [
+        "mailbag", 
+        "0.10002"
+      ], 
+      [
+        "monitor", 
+        "0.08206"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.55275"
+      ], 
+      [
+        "digital computer", 
+        "0.54216"
+      ], 
+      [
+        "computer", 
+        "0.50736"
+      ], 
+      [
+        "machine", 
+        "0.48028"
+      ], 
+      [
+        "desktop computer", 
+        "0.44260"
+      ]
+    ], 
+    "5.897"
+  ]
+}

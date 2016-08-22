@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.44889"
+      ], 
+      [
+        "spotlight", 
+        "0.05464"
+      ], 
+      [
+        "projector", 
+        "0.05314"
+      ], 
+      [
+        "loupe", 
+        "0.04745"
+      ], 
+      [
+        "radio", 
+        "0.03156"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.68062"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.62538"
+      ], 
+      [
+        "transducer", 
+        "0.61498"
+      ], 
+      [
+        "electrical device", 
+        "0.60459"
+      ], 
+      [
+        "device", 
+        "0.42617"
+      ]
+    ], 
+    "10.304"
+  ]
+}

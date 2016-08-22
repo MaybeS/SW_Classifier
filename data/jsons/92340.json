@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.31107"
+      ], 
+      [
+        "packet", 
+        "0.17823"
+      ], 
+      [
+        "rubber eraser", 
+        "0.14059"
+      ], 
+      [
+        "digital watch", 
+        "0.06303"
+      ], 
+      [
+        "scale", 
+        "0.04768"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.55725"
+      ], 
+      [
+        "magnetic disk", 
+        "0.54906"
+      ], 
+      [
+        "memory device", 
+        "0.54088"
+      ], 
+      [
+        "device", 
+        "0.37588"
+      ], 
+      [
+        "container", 
+        "0.28388"
+      ]
+    ], 
+    "7.695"
+  ]
+}

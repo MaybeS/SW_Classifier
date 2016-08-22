@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.93871"
+      ], 
+      [
+        "digital clock", 
+        "0.04700"
+      ], 
+      [
+        "digital watch", 
+        "0.00248"
+      ], 
+      [
+        "odometer", 
+        "0.00200"
+      ], 
+      [
+        "street sign", 
+        "0.00123"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "2.89470"
+      ], 
+      [
+        "signboard", 
+        "2.85218"
+      ], 
+      [
+        "board", 
+        "2.85218"
+      ], 
+      [
+        "sheet", 
+        "2.47327"
+      ], 
+      [
+        "structure", 
+        "1.21627"
+      ]
+    ], 
+    "4.827"
+  ]
+}

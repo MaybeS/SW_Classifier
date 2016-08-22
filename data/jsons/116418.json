@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.96506"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.01018"
+      ], 
+      [
+        "can opener", 
+        "0.00821"
+      ], 
+      [
+        "water jug", 
+        "0.00293"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00271"
+      ]
+    ], 
+    [
+      [
+        "oil filter", 
+        "1.25427"
+      ], 
+      [
+        "filter", 
+        "1.12109"
+      ], 
+      [
+        "device", 
+        "0.39225"
+      ], 
+      [
+        "container", 
+        "0.35014"
+      ], 
+      [
+        "vessel", 
+        "0.25349"
+      ]
+    ], 
+    "6.759"
+  ]
+}

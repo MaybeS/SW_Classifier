@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "plate rack", 
+        "0.51882"
+      ], 
+      [
+        "studio couch", 
+        "0.20224"
+      ], 
+      [
+        "rotisserie", 
+        "0.07928"
+      ], 
+      [
+        "cradle", 
+        "0.03922"
+      ], 
+      [
+        "park bench", 
+        "0.03216"
+      ]
+    ], 
+    [
+      [
+        "plate rack", 
+        "0.88906"
+      ], 
+      [
+        "rack", 
+        "0.87600"
+      ], 
+      [
+        "framework", 
+        "0.77366"
+      ], 
+      [
+        "supporting structure", 
+        "0.71112"
+      ], 
+      [
+        "furniture", 
+        "0.68528"
+      ]
+    ], 
+    "8.663"
+  ]
+}

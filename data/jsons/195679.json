@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.37914"
+      ], 
+      [
+        "modem", 
+        "0.26291"
+      ], 
+      [
+        "envelope", 
+        "0.12239"
+      ], 
+      [
+        "switch", 
+        "0.05811"
+      ], 
+      [
+        "remote control", 
+        "0.04808"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.42015"
+      ], 
+      [
+        "electronic equipment", 
+        "0.40428"
+      ], 
+      [
+        "instrument", 
+        "0.40004"
+      ], 
+      [
+        "device", 
+        "0.38315"
+      ], 
+      [
+        "equipment", 
+        "0.37365"
+      ]
+    ], 
+    "8.443"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.29023"
+      ], 
+      [
+        "mouse", 
+        "0.25505"
+      ], 
+      [
+        "modem", 
+        "0.20435"
+      ], 
+      [
+        "soap dispenser", 
+        "0.08355"
+      ], 
+      [
+        "can opener", 
+        "0.06305"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.38423"
+      ], 
+      [
+        "device", 
+        "0.36021"
+      ], 
+      [
+        "space heater", 
+        "0.35945"
+      ], 
+      [
+        "equipment", 
+        "0.35240"
+      ], 
+      [
+        "heater", 
+        "0.33265"
+      ]
+    ], 
+    "14.172"
+  ]
+}

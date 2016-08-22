@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "power drill", 
+        "0.32944"
+      ], 
+      [
+        "dumbbell", 
+        "0.15727"
+      ], 
+      [
+        "screwdriver", 
+        "0.13870"
+      ], 
+      [
+        "barbell", 
+        "0.06370"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.05246"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.42239"
+      ], 
+      [
+        "weight", 
+        "0.38568"
+      ], 
+      [
+        "implement", 
+        "0.35081"
+      ], 
+      [
+        "sports equipment", 
+        "0.33659"
+      ], 
+      [
+        "tool", 
+        "0.33241"
+      ]
+    ], 
+    "7.120"
+  ]
+}

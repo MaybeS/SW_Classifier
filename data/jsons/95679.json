@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fire screen", 
+        "0.31553"
+      ], 
+      [
+        "pedestal", 
+        "0.08579"
+      ], 
+      [
+        "medicine chest", 
+        "0.06890"
+      ], 
+      [
+        "plate rack", 
+        "0.05604"
+      ], 
+      [
+        "hamper", 
+        "0.05119"
+      ]
+    ], 
+    [
+      [
+        "fire screen", 
+        "0.69426"
+      ], 
+      [
+        "screen", 
+        "0.61205"
+      ], 
+      [
+        "furniture", 
+        "0.49741"
+      ], 
+      [
+        "furnishing", 
+        "0.49311"
+      ], 
+      [
+        "protective covering", 
+        "0.47107"
+      ]
+    ], 
+    "6.623"
+  ]
+}

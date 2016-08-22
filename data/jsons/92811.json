@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.58183"
+      ], 
+      [
+        "wallet", 
+        "0.13283"
+      ], 
+      [
+        "magnetic compass", 
+        "0.04365"
+      ], 
+      [
+        "book jacket", 
+        "0.02259"
+      ], 
+      [
+        "mousetrap", 
+        "0.02173"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.58748"
+      ], 
+      [
+        "protective covering", 
+        "0.36761"
+      ], 
+      [
+        "covering", 
+        "0.34910"
+      ], 
+      [
+        "container", 
+        "0.33787"
+      ], 
+      [
+        "wallet", 
+        "0.25986"
+      ]
+    ], 
+    "7.020"
+  ]
+}

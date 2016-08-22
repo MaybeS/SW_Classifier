@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.55876"
+      ], 
+      [
+        "hair slide", 
+        "0.09464"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04647"
+      ], 
+      [
+        "hook", 
+        "0.04300"
+      ], 
+      [
+        "stethoscope", 
+        "0.02505"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.61506"
+      ], 
+      [
+        "signaling device", 
+        "0.60602"
+      ], 
+      [
+        "acoustic device", 
+        "0.60602"
+      ], 
+      [
+        "device", 
+        "0.37083"
+      ], 
+      [
+        "implement", 
+        "0.31409"
+      ]
+    ], 
+    "7.955"
+  ]
+}

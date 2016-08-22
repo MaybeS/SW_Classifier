@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.47942"
+      ], 
+      [
+        "electric fan", 
+        "0.13611"
+      ], 
+      [
+        "bolo tie", 
+        "0.10345"
+      ], 
+      [
+        "spotlight", 
+        "0.04374"
+      ], 
+      [
+        "hand blower", 
+        "0.04188"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.41050"
+      ], 
+      [
+        "stethoscope", 
+        "0.39637"
+      ], 
+      [
+        "medical instrument", 
+        "0.37071"
+      ], 
+      [
+        "bolo tie", 
+        "0.36887"
+      ], 
+      [
+        "instrument", 
+        "0.36028"
+      ]
+    ], 
+    "6.594"
+  ]
+}

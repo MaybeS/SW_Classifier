@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.34655"
+      ], 
+      [
+        "stove", 
+        "0.13599"
+      ], 
+      [
+        "washer", 
+        "0.12871"
+      ], 
+      [
+        "sewing machine", 
+        "0.05507"
+      ], 
+      [
+        "rifle", 
+        "0.02713"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.44829"
+      ], 
+      [
+        "home appliance", 
+        "0.42532"
+      ], 
+      [
+        "appliance", 
+        "0.41731"
+      ], 
+      [
+        "durables", 
+        "0.40645"
+      ], 
+      [
+        "optical instrument", 
+        "0.38939"
+      ]
+    ], 
+    "6.842"
+  ]
+}

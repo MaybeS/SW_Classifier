@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.26286"
+      ], 
+      [
+        "switch", 
+        "0.10310"
+      ], 
+      [
+        "stretcher", 
+        "0.06752"
+      ], 
+      [
+        "tape player", 
+        "0.05761"
+      ], 
+      [
+        "radio", 
+        "0.04286"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43791"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.34527"
+      ], 
+      [
+        "kit", 
+        "0.34020"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30711"
+      ], 
+      [
+        "device", 
+        "0.30273"
+      ]
+    ], 
+    "12.637"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "file", 
+        "0.43186"
+      ], 
+      [
+        "desktop computer", 
+        "0.09612"
+      ], 
+      [
+        "remote control", 
+        "0.03905"
+      ], 
+      [
+        "iPod", 
+        "0.03012"
+      ], 
+      [
+        "safe", 
+        "0.03000"
+      ]
+    ], 
+    [
+      [
+        "file", 
+        "1.04562"
+      ], 
+      [
+        "office furniture", 
+        "1.03026"
+      ], 
+      [
+        "furniture", 
+        "0.82225"
+      ], 
+      [
+        "furnishing", 
+        "0.77154"
+      ], 
+      [
+        "electronic equipment", 
+        "0.36932"
+      ]
+    ], 
+    "5.651"
+  ]
+}

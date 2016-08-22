@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.24745"
+      ], 
+      [
+        "modem", 
+        "0.11031"
+      ], 
+      [
+        "cleaver", 
+        "0.10038"
+      ], 
+      [
+        "can opener", 
+        "0.09274"
+      ], 
+      [
+        "hair slide", 
+        "0.08973"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "0.47770"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.40912"
+      ], 
+      [
+        "home appliance", 
+        "0.39951"
+      ], 
+      [
+        "appliance", 
+        "0.39456"
+      ], 
+      [
+        "durables", 
+        "0.38429"
+      ]
+    ], 
+    "6.056"
+  ]
+}

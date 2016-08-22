@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.14114"
+      ], 
+      [
+        "loudspeaker", 
+        "0.10245"
+      ], 
+      [
+        "solar dish", 
+        "0.08314"
+      ], 
+      [
+        "wallet", 
+        "0.08047"
+      ], 
+      [
+        "soap dispenser", 
+        "0.04579"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.29729"
+      ], 
+      [
+        "container", 
+        "0.26959"
+      ], 
+      [
+        "covering", 
+        "0.23640"
+      ], 
+      [
+        "protective covering", 
+        "0.19678"
+      ], 
+      [
+        "equipment", 
+        "0.18083"
+      ]
+    ], 
+    "11.638"
+  ]
+}

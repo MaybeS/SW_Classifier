@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.31454"
+      ], 
+      [
+        "washer", 
+        "0.16225"
+      ], 
+      [
+        "oscilloscope", 
+        "0.13532"
+      ], 
+      [
+        "iPod", 
+        "0.05201"
+      ], 
+      [
+        "microwave", 
+        "0.03753"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52439"
+      ], 
+      [
+        "loudspeaker", 
+        "0.47985"
+      ], 
+      [
+        "equipment", 
+        "0.47942"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.43379"
+      ], 
+      [
+        "oscilloscope", 
+        "0.42990"
+      ]
+    ], 
+    "5.532"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.83814"
+      ], 
+      [
+        "sewing machine", 
+        "0.12887"
+      ], 
+      [
+        "microwave", 
+        "0.00731"
+      ], 
+      [
+        "can opener", 
+        "0.00274"
+      ], 
+      [
+        "stove", 
+        "0.00226"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "1.22468"
+      ], 
+      [
+        "coffee maker", 
+        "1.20669"
+      ], 
+      [
+        "home appliance", 
+        "0.94955"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.92153"
+      ], 
+      [
+        "appliance", 
+        "0.91763"
+      ]
+    ], 
+    "8.293"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mousetrap", 
+        "0.17393"
+      ], 
+      [
+        "web site", 
+        "0.06007"
+      ], 
+      [
+        "moving van", 
+        "0.05864"
+      ], 
+      [
+        "oscilloscope", 
+        "0.05305"
+      ], 
+      [
+        "monitor", 
+        "0.04197"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.37239"
+      ], 
+      [
+        "computer", 
+        "0.35009"
+      ], 
+      [
+        "device", 
+        "0.32595"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30632"
+      ], 
+      [
+        "equipment", 
+        "0.29409"
+      ]
+    ], 
+    "7.675"
+  ]
+}

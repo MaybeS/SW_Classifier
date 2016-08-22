@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.32814"
+      ], 
+      [
+        "iPod", 
+        "0.11667"
+      ], 
+      [
+        "oil filter", 
+        "0.06084"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04819"
+      ], 
+      [
+        "gas pump", 
+        "0.03519"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.34933"
+      ], 
+      [
+        "device", 
+        "0.34165"
+      ], 
+      [
+        "equipment", 
+        "0.32362"
+      ], 
+      [
+        "lighter", 
+        "0.23697"
+      ], 
+      [
+        "container", 
+        "0.23219"
+      ]
+    ], 
+    "5.812"
+  ]
+}

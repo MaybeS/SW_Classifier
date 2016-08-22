@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cuirass", 
+        "0.25008"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.19908"
+      ], 
+      [
+        "breastplate", 
+        "0.17669"
+      ], 
+      [
+        "holster", 
+        "0.08432"
+      ], 
+      [
+        "backpack", 
+        "0.06343"
+      ]
+    ], 
+    [
+      [
+        "protective covering", 
+        "0.90445"
+      ], 
+      [
+        "body armor", 
+        "0.87694"
+      ], 
+      [
+        "armor", 
+        "0.84062"
+      ], 
+      [
+        "covering", 
+        "0.83650"
+      ], 
+      [
+        "cuirass", 
+        "0.57400"
+      ]
+    ], 
+    "9.011"
+  ]
+}

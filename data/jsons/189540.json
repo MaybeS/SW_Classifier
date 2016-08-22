@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "shopping basket", 
+        "0.53669"
+      ], 
+      [
+        "combination lock", 
+        "0.08121"
+      ], 
+      [
+        "washbasin", 
+        "0.06568"
+      ], 
+      [
+        "binder", 
+        "0.06507"
+      ], 
+      [
+        "chest", 
+        "0.05439"
+      ]
+    ], 
+    [
+      [
+        "basket", 
+        "1.16123"
+      ], 
+      [
+        "shopping basket", 
+        "0.95778"
+      ], 
+      [
+        "container", 
+        "0.61330"
+      ], 
+      [
+        "hamper", 
+        "0.35659"
+      ], 
+      [
+        "vessel", 
+        "0.22529"
+      ]
+    ], 
+    "6.531"
+  ]
+}

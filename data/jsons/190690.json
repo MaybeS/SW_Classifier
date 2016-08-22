@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.15983"
+      ], 
+      [
+        "puck", 
+        "0.07466"
+      ], 
+      [
+        "pick", 
+        "0.04702"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04432"
+      ], 
+      [
+        "face powder", 
+        "0.04423"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.49110"
+      ], 
+      [
+        "timepiece", 
+        "0.44082"
+      ], 
+      [
+        "instrument", 
+        "0.41192"
+      ], 
+      [
+        "clock", 
+        "0.39060"
+      ], 
+      [
+        "device", 
+        "0.38136"
+      ]
+    ], 
+    "5.213"
+  ]
+}

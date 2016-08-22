@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.43296"
+      ], 
+      [
+        "projector", 
+        "0.35656"
+      ], 
+      [
+        "hard disc", 
+        "0.14411"
+      ], 
+      [
+        "binder", 
+        "0.01656"
+      ], 
+      [
+        "safe", 
+        "0.00860"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.54421"
+      ], 
+      [
+        "equipment", 
+        "0.51355"
+      ], 
+      [
+        "projector", 
+        "0.50945"
+      ], 
+      [
+        "optical instrument", 
+        "0.43005"
+      ], 
+      [
+        "modem", 
+        "0.42522"
+      ]
+    ], 
+    "7.007"
+  ]
+}

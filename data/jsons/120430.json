@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.19068"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.16128"
+      ], 
+      [
+        "combination lock", 
+        "0.12420"
+      ], 
+      [
+        "radio", 
+        "0.07728"
+      ], 
+      [
+        "assault rifle", 
+        "0.06406"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.40514"
+      ], 
+      [
+        "device", 
+        "0.35993"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34192"
+      ], 
+      [
+        "instrument", 
+        "0.24403"
+      ], 
+      [
+        "implement", 
+        "0.22697"
+      ]
+    ], 
+    "6.782"
+  ]
+}

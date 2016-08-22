@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.12342"
+      ], 
+      [
+        "radio", 
+        "0.10547"
+      ], 
+      [
+        "oscilloscope", 
+        "0.09121"
+      ], 
+      [
+        "digital clock", 
+        "0.07721"
+      ], 
+      [
+        "switch", 
+        "0.06988"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.67377"
+      ], 
+      [
+        "equipment", 
+        "0.59756"
+      ], 
+      [
+        "machine", 
+        "0.42786"
+      ], 
+      [
+        "device", 
+        "0.36126"
+      ], 
+      [
+        "computer", 
+        "0.34152"
+      ]
+    ], 
+    "5.296"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter's kit", 
+        "0.20260"
+      ], 
+      [
+        "screwdriver", 
+        "0.12929"
+      ], 
+      [
+        "mailbag", 
+        "0.11759"
+      ], 
+      [
+        "swimming trunks", 
+        "0.05918"
+      ], 
+      [
+        "knee pad", 
+        "0.05646"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.36034"
+      ], 
+      [
+        "clothing", 
+        "0.35797"
+      ], 
+      [
+        "consumer goods", 
+        "0.34776"
+      ], 
+      [
+        "commodity", 
+        "0.33427"
+      ], 
+      [
+        "bag", 
+        "0.30241"
+      ]
+    ], 
+    "5.611"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.20986"
+      ], 
+      [
+        "space heater", 
+        "0.16532"
+      ], 
+      [
+        "loudspeaker", 
+        "0.14949"
+      ], 
+      [
+        "cassette player", 
+        "0.10949"
+      ], 
+      [
+        "tape player", 
+        "0.08381"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.59854"
+      ], 
+      [
+        "equipment", 
+        "0.50655"
+      ], 
+      [
+        "device", 
+        "0.37490"
+      ], 
+      [
+        "personal computer", 
+        "0.36868"
+      ], 
+      [
+        "digital computer", 
+        "0.36162"
+      ]
+    ], 
+    "6.795"
+  ]
+}

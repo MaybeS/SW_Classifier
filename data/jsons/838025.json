@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bathing cap", 
+        "0.30684"
+      ], 
+      [
+        "rugby ball", 
+        "0.25643"
+      ], 
+      [
+        "volleyball", 
+        "0.14113"
+      ], 
+      [
+        "crash helmet", 
+        "0.12515"
+      ], 
+      [
+        "soccer ball", 
+        "0.06898"
+      ]
+    ], 
+    [
+      [
+        "ball", 
+        "1.15593"
+      ], 
+      [
+        "game equipment", 
+        "1.04183"
+      ], 
+      [
+        "rugby ball", 
+        "0.79774"
+      ], 
+      [
+        "equipment", 
+        "0.75694"
+      ], 
+      [
+        "headdress", 
+        "0.62062"
+      ]
+    ], 
+    "6.878"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "computer keyboard", 
+        "0.29558"
+      ], 
+      [
+        "mousetrap", 
+        "0.08042"
+      ], 
+      [
+        "slide rule", 
+        "0.07997"
+      ], 
+      [
+        "Band Aid", 
+        "0.07699"
+      ], 
+      [
+        "buckle", 
+        "0.05810"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "0.54821"
+      ], 
+      [
+        "computer keyboard", 
+        "0.48284"
+      ], 
+      [
+        "data input device", 
+        "0.44683"
+      ], 
+      [
+        "device", 
+        "0.42763"
+      ], 
+      [
+        "peripheral", 
+        "0.42170"
+      ]
+    ], 
+    "7.649"
+  ]
+}

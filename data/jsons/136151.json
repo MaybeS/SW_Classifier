@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.28428"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08675"
+      ], 
+      [
+        "sunglass", 
+        "0.08487"
+      ], 
+      [
+        "radio", 
+        "0.06890"
+      ], 
+      [
+        "remote control", 
+        "0.03242"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.50941"
+      ], 
+      [
+        "equipment", 
+        "0.46778"
+      ], 
+      [
+        "device", 
+        "0.37016"
+      ], 
+      [
+        "modem", 
+        "0.28401"
+      ], 
+      [
+        "instrument", 
+        "0.23597"
+      ]
+    ], 
+    "5.258"
+  ]
+}

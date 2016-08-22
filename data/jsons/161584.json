@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.11912"
+      ], 
+      [
+        "loupe", 
+        "0.11911"
+      ], 
+      [
+        "analog clock", 
+        "0.10259"
+      ], 
+      [
+        "television", 
+        "0.08654"
+      ], 
+      [
+        "mouse", 
+        "0.05935"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.40649"
+      ], 
+      [
+        "device", 
+        "0.40220"
+      ], 
+      [
+        "instrument", 
+        "0.40091"
+      ], 
+      [
+        "timepiece", 
+        "0.37907"
+      ], 
+      [
+        "equipment", 
+        "0.25983"
+      ]
+    ], 
+    "6.057"
+  ]
+}

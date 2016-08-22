@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pay-phone", 
+        "0.44635"
+      ], 
+      [
+        "cash machine", 
+        "0.37649"
+      ], 
+      [
+        "gas pump", 
+        "0.12887"
+      ], 
+      [
+        "vending machine", 
+        "0.01804"
+      ], 
+      [
+        "safe", 
+        "0.00533"
+      ]
+    ], 
+    [
+      [
+        "pay-phone", 
+        "1.07748"
+      ], 
+      [
+        "telephone", 
+        "0.90186"
+      ], 
+      [
+        "electronic equipment", 
+        "0.77438"
+      ], 
+      [
+        "equipment", 
+        "0.58539"
+      ], 
+      [
+        "cash machine", 
+        "0.58198"
+      ]
+    ], 
+    "5.811"
+  ]
+}

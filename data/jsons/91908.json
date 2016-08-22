@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.14383"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.07394"
+      ], 
+      [
+        "radio", 
+        "0.05041"
+      ], 
+      [
+        "steel drum", 
+        "0.04493"
+      ], 
+      [
+        "electric fan", 
+        "0.03632"
+      ]
+    ], 
+    [
+      [
+        "wheeled vehicle", 
+        "0.43880"
+      ], 
+      [
+        "vehicle", 
+        "0.41338"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.39891"
+      ], 
+      [
+        "conveyance", 
+        "0.39704"
+      ], 
+      [
+        "container", 
+        "0.36935"
+      ]
+    ], 
+    "6.074"
+  ]
+}

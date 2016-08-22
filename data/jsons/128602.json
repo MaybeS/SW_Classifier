@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.29538"
+      ], 
+      [
+        "rule", 
+        "0.20254"
+      ], 
+      [
+        "modem", 
+        "0.11470"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03158"
+      ], 
+      [
+        "harmonica", 
+        "0.02955"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.59017"
+      ], 
+      [
+        "device", 
+        "0.43043"
+      ], 
+      [
+        "electronic equipment", 
+        "0.40392"
+      ], 
+      [
+        "equipment", 
+        "0.36616"
+      ], 
+      [
+        "measuring instrument", 
+        "0.29718"
+      ]
+    ], 
+    "10.233"
+  ]
+}

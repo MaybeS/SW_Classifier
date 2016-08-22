@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "aircraft carrier", 
+        "0.28699"
+      ], 
+      [
+        "analog clock", 
+        "0.09168"
+      ], 
+      [
+        "bell cote", 
+        "0.08140"
+      ], 
+      [
+        "castle", 
+        "0.06998"
+      ], 
+      [
+        "book jacket", 
+        "0.02641"
+      ]
+    ], 
+    [
+      [
+        "aircraft carrier", 
+        "0.84688"
+      ], 
+      [
+        "warship", 
+        "0.82499"
+      ], 
+      [
+        "military vehicle", 
+        "0.79256"
+      ], 
+      [
+        "ship", 
+        "0.77961"
+      ], 
+      [
+        "craft", 
+        "0.74405"
+      ]
+    ], 
+    "5.629"
+  ]
+}

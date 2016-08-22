@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.53546"
+      ], 
+      [
+        "projector", 
+        "0.06311"
+      ], 
+      [
+        "traffic light", 
+        "0.04999"
+      ], 
+      [
+        "cassette player", 
+        "0.03552"
+      ], 
+      [
+        "chain saw", 
+        "0.03487"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.55553"
+      ], 
+      [
+        "radio", 
+        "0.51069"
+      ], 
+      [
+        "equipment", 
+        "0.50581"
+      ], 
+      [
+        "communication system", 
+        "0.46445"
+      ], 
+      [
+        "system", 
+        "0.42354"
+      ]
+    ], 
+    "11.353"
+  ]
+}

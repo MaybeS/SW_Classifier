@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.59430"
+      ], 
+      [
+        "digital clock", 
+        "0.06550"
+      ], 
+      [
+        "modem", 
+        "0.04206"
+      ], 
+      [
+        "web site", 
+        "0.02348"
+      ], 
+      [
+        "remote control", 
+        "0.02347"
+      ]
+    ], 
+    [
+      [
+        "rule", 
+        "0.74260"
+      ], 
+      [
+        "measuring stick", 
+        "0.73169"
+      ], 
+      [
+        "measuring instrument", 
+        "0.58586"
+      ], 
+      [
+        "instrument", 
+        "0.46395"
+      ], 
+      [
+        "device", 
+        "0.39702"
+      ]
+    ], 
+    "5.016"
+  ]
+}

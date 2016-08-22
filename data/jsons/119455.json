@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.35371"
+      ], 
+      [
+        "stethoscope", 
+        "0.10141"
+      ], 
+      [
+        "street sign", 
+        "0.06614"
+      ], 
+      [
+        "web site", 
+        "0.05697"
+      ], 
+      [
+        "cassette", 
+        "0.02852"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40969"
+      ], 
+      [
+        "microphone", 
+        "0.27455"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.25888"
+      ], 
+      [
+        "transducer", 
+        "0.25457"
+      ], 
+      [
+        "electrical device", 
+        "0.25027"
+      ]
+    ], 
+    "8.891"
+  ]
+}

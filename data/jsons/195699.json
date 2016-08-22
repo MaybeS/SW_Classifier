@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.25041"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.22353"
+      ], 
+      [
+        "pencil box", 
+        "0.10013"
+      ], 
+      [
+        "safety pin", 
+        "0.06522"
+      ], 
+      [
+        "shopping basket", 
+        "0.03856"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.38654"
+      ], 
+      [
+        "carpenter's kit", 
+        "0.31820"
+      ], 
+      [
+        "kit", 
+        "0.31352"
+      ], 
+      [
+        "container", 
+        "0.30310"
+      ], 
+      [
+        "gear", 
+        "0.27430"
+      ]
+    ], 
+    "5.201"
+  ]
+}

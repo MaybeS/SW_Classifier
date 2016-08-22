@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand blower", 
+        "0.08221"
+      ], 
+      [
+        "miniskirt", 
+        "0.06741"
+      ], 
+      [
+        "binoculars", 
+        "0.06065"
+      ], 
+      [
+        "stole", 
+        "0.05516"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04844"
+      ]
+    ], 
+    [
+      [
+        "consumer goods", 
+        "0.55071"
+      ], 
+      [
+        "clothing", 
+        "0.53765"
+      ], 
+      [
+        "commodity", 
+        "0.52505"
+      ], 
+      [
+        "covering", 
+        "0.49031"
+      ], 
+      [
+        "garment", 
+        "0.47658"
+      ]
+    ], 
+    "6.841"
+  ]
+}

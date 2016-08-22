@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.69099"
+      ], 
+      [
+        "washer", 
+        "0.07723"
+      ], 
+      [
+        "reflex camera", 
+        "0.04552"
+      ], 
+      [
+        "CD player", 
+        "0.04416"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04357"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.03654"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.93010"
+      ], 
+      [
+        "transducer", 
+        "0.91463"
+      ], 
+      [
+        "electrical device", 
+        "0.89917"
+      ], 
+      [
+        "equipment", 
+        "0.46937"
+      ]
+    ], 
+    "7.588"
+  ]
+}

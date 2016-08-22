@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.81993"
+      ], 
+      [
+        "joystick", 
+        "0.15310"
+      ], 
+      [
+        "sunglass", 
+        "0.00806"
+      ], 
+      [
+        "sunglasses", 
+        "0.00447"
+      ], 
+      [
+        "loupe", 
+        "0.00393"
+      ]
+    ], 
+    [
+      [
+        "binoculars", 
+        "0.80031"
+      ], 
+      [
+        "optical instrument", 
+        "0.71011"
+      ], 
+      [
+        "instrument", 
+        "0.46887"
+      ], 
+      [
+        "device", 
+        "0.41674"
+      ], 
+      [
+        "covering", 
+        "0.27852"
+      ]
+    ], 
+    "8.213"
+  ]
+}

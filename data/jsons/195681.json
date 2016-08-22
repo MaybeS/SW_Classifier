@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.25022"
+      ], 
+      [
+        "crash helmet", 
+        "0.12075"
+      ], 
+      [
+        "soap dispenser", 
+        "0.08563"
+      ], 
+      [
+        "spotlight", 
+        "0.07044"
+      ], 
+      [
+        "bucket", 
+        "0.06395"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.35125"
+      ], 
+      [
+        "vessel", 
+        "0.32319"
+      ], 
+      [
+        "consumer goods", 
+        "0.29756"
+      ], 
+      [
+        "crash helmet", 
+        "0.29266"
+      ], 
+      [
+        "commodity", 
+        "0.28258"
+      ]
+    ], 
+    "6.129"
+  ]
+}

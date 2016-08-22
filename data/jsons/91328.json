@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.26169"
+      ], 
+      [
+        "oxygen mask", 
+        "0.18077"
+      ], 
+      [
+        "magnetic compass", 
+        "0.14134"
+      ], 
+      [
+        "spotlight", 
+        "0.04034"
+      ], 
+      [
+        "bolo tie", 
+        "0.03869"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.42291"
+      ], 
+      [
+        "instrument", 
+        "0.40432"
+      ], 
+      [
+        "magnetic compass", 
+        "0.35734"
+      ], 
+      [
+        "compass", 
+        "0.35209"
+      ], 
+      [
+        "navigational instrument", 
+        "0.34685"
+      ]
+    ], 
+    "7.466"
+  ]
+}

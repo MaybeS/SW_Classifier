@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.65141"
+      ], 
+      [
+        "lens cap", 
+        "0.08395"
+      ], 
+      [
+        "waffle iron", 
+        "0.07367"
+      ], 
+      [
+        "rugby ball", 
+        "0.04580"
+      ], 
+      [
+        "loupe", 
+        "0.03796"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.78450"
+      ], 
+      [
+        "equipment", 
+        "0.73367"
+      ], 
+      [
+        "CD player", 
+        "0.50922"
+      ], 
+      [
+        "cassette player", 
+        "0.31891"
+      ], 
+      [
+        "device", 
+        "0.27371"
+      ]
+    ], 
+    "8.490"
+  ]
+}

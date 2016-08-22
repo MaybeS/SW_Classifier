@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "punching bag", 
+        "0.19334"
+      ], 
+      [
+        "power drill", 
+        "0.13423"
+      ], 
+      [
+        "dumbbell", 
+        "0.09442"
+      ], 
+      [
+        "barbell", 
+        "0.07749"
+      ], 
+      [
+        "backpack", 
+        "0.06177"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.37861"
+      ], 
+      [
+        "consumer goods", 
+        "0.37824"
+      ], 
+      [
+        "covering", 
+        "0.37638"
+      ], 
+      [
+        "clothing", 
+        "0.37224"
+      ], 
+      [
+        "commodity", 
+        "0.35935"
+      ]
+    ], 
+    "6.466"
+  ]
+}

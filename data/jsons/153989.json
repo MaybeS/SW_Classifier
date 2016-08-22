@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "packet", 
+        "0.10509"
+      ], 
+      [
+        "oscilloscope", 
+        "0.07913"
+      ], 
+      [
+        "binder", 
+        "0.05616"
+      ], 
+      [
+        "analog clock", 
+        "0.05071"
+      ], 
+      [
+        "syringe", 
+        "0.04239"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.32157"
+      ], 
+      [
+        "equipment", 
+        "0.30908"
+      ], 
+      [
+        "device", 
+        "0.30839"
+      ], 
+      [
+        "oscilloscope", 
+        "0.26147"
+      ], 
+      [
+        "container", 
+        "0.24688"
+      ]
+    ], 
+    "5.990"
+  ]
+}

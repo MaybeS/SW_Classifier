@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.54084"
+      ], 
+      [
+        "sunglasses", 
+        "0.07540"
+      ], 
+      [
+        "sunglass", 
+        "0.06172"
+      ], 
+      [
+        "mouse", 
+        "0.04200"
+      ], 
+      [
+        "frying pan", 
+        "0.03353"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.41104"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.38702"
+      ], 
+      [
+        "device", 
+        "0.38356"
+      ], 
+      [
+        "transducer", 
+        "0.38058"
+      ], 
+      [
+        "electrical device", 
+        "0.37415"
+      ]
+    ], 
+    "4.996"
+  ]
+}
