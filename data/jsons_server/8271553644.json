@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.30197"
+      ], 
+      [
+        "radio", 
+        "0.13597"
+      ], 
+      [
+        "modem", 
+        "0.11305"
+      ], 
+      [
+        "cassette player", 
+        "0.06366"
+      ], 
+      [
+        "sunscreen", 
+        "0.05772"
+      ]
+    ], 
+    [
+      [
+        "oil filter", 
+        "0.41151"
+      ], 
+      [
+        "equipment", 
+        "0.38051"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37598"
+      ], 
+      [
+        "filter", 
+        "0.37109"
+      ], 
+      [
+        "device", 
+        "0.33014"
+      ]
+    ], 
+    "5.301"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.35394"
+      ], 
+      [
+        "loudspeaker", 
+        "0.20567"
+      ], 
+      [
+        "hard disc", 
+        "0.08825"
+      ], 
+      [
+        "iPod", 
+        "0.07774"
+      ], 
+      [
+        "remote control", 
+        "0.02989"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.65427"
+      ], 
+      [
+        "equipment", 
+        "0.56038"
+      ], 
+      [
+        "device", 
+        "0.39727"
+      ], 
+      [
+        "modem", 
+        "0.36066"
+      ], 
+      [
+        "loudspeaker", 
+        "0.34160"
+      ]
+    ], 
+    "12.521"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.08958"
+      ], 
+      [
+        "remote control", 
+        "0.08736"
+      ], 
+      [
+        "electric guitar", 
+        "0.08265"
+      ], 
+      [
+        "hair spray", 
+        "0.04528"
+      ], 
+      [
+        "dumbbell", 
+        "0.04025"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31251"
+      ], 
+      [
+        "covering", 
+        "0.29012"
+      ], 
+      [
+        "musical instrument", 
+        "0.27344"
+      ], 
+      [
+        "equipment", 
+        "0.26167"
+      ], 
+      [
+        "consumer goods", 
+        "0.25307"
+      ]
+    ], 
+    "5.157"
+  ]
+}

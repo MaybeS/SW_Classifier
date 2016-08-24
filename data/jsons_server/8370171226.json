@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.14966"
+      ], 
+      [
+        "mouse", 
+        "0.13416"
+      ], 
+      [
+        "modem", 
+        "0.09190"
+      ], 
+      [
+        "racer", 
+        "0.04704"
+      ], 
+      [
+        "bobsled", 
+        "0.04413"
+      ]
+    ], 
+    [
+      [
+        "motor vehicle", 
+        "0.50471"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.48376"
+      ], 
+      [
+        "car", 
+        "0.47036"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45390"
+      ], 
+      [
+        "equipment", 
+        "0.44113"
+      ]
+    ], 
+    "5.866"
+  ]
+}

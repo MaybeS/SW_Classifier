@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.38844"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07906"
+      ], 
+      [
+        "analog clock", 
+        "0.05340"
+      ], 
+      [
+        "envelope", 
+        "0.03934"
+      ], 
+      [
+        "piggy bank", 
+        "0.03670"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "1.08296"
+      ], 
+      [
+        "wind instrument", 
+        "0.67136"
+      ], 
+      [
+        "musical instrument", 
+        "0.57041"
+      ], 
+      [
+        "device", 
+        "0.40203"
+      ], 
+      [
+        "covering", 
+        "0.22052"
+      ]
+    ], 
+    "6.003"
+  ]
+}

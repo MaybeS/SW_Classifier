@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.71051"
+      ], 
+      [
+        "oil filter", 
+        "0.04479"
+      ], 
+      [
+        "matchstick", 
+        "0.04282"
+      ], 
+      [
+        "buckle", 
+        "0.02857"
+      ], 
+      [
+        "broom", 
+        "0.02638"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.53441"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.48607"
+      ], 
+      [
+        "transducer", 
+        "0.47799"
+      ], 
+      [
+        "electrical device", 
+        "0.46991"
+      ], 
+      [
+        "device", 
+        "0.40965"
+      ]
+    ], 
+    "5.456"
+  ]
+}

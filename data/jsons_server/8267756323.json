@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.26206"
+      ], 
+      [
+        "soap dispenser", 
+        "0.18541"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.08015"
+      ], 
+      [
+        "can opener", 
+        "0.05757"
+      ], 
+      [
+        "screwdriver", 
+        "0.05387"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.40963"
+      ], 
+      [
+        "coffee maker", 
+        "0.40361"
+      ], 
+      [
+        "container", 
+        "0.36685"
+      ], 
+      [
+        "home appliance", 
+        "0.36521"
+      ], 
+      [
+        "appliance", 
+        "0.36389"
+      ]
+    ], 
+    "6.443"
+  ]
+}

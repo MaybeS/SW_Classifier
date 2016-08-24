@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.32040"
+      ], 
+      [
+        "hard disc", 
+        "0.16066"
+      ], 
+      [
+        "switch", 
+        "0.12294"
+      ], 
+      [
+        "combination lock", 
+        "0.10683"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05786"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.49520"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.45087"
+      ], 
+      [
+        "transducer", 
+        "0.44337"
+      ], 
+      [
+        "electrical device", 
+        "0.43588"
+      ], 
+      [
+        "device", 
+        "0.43380"
+      ]
+    ], 
+    "6.182"
+  ]
+}

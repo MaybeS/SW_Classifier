@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.34816"
+      ], 
+      [
+        "water jug", 
+        "0.13969"
+      ], 
+      [
+        "espresso maker", 
+        "0.05521"
+      ], 
+      [
+        "mouse", 
+        "0.03757"
+      ], 
+      [
+        "coffeepot", 
+        "0.03540"
+      ]
+    ], 
+    [
+      [
+        "vessel", 
+        "0.48786"
+      ], 
+      [
+        "container", 
+        "0.45962"
+      ], 
+      [
+        "soap dispenser", 
+        "0.25721"
+      ], 
+      [
+        "dispenser", 
+        "0.25343"
+      ], 
+      [
+        "device", 
+        "0.22519"
+      ]
+    ], 
+    "5.264"
+  ]
+}

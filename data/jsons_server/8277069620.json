@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space bar", 
+        "0.27045"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.21058"
+      ], 
+      [
+        "modem", 
+        "0.06011"
+      ], 
+      [
+        "tape player", 
+        "0.05092"
+      ], 
+      [
+        "cassette player", 
+        "0.03562"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "0.87812"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.74734"
+      ], 
+      [
+        "space bar", 
+        "0.70462"
+      ], 
+      [
+        "key", 
+        "0.69427"
+      ], 
+      [
+        "lever", 
+        "0.68392"
+      ]
+    ], 
+    "5.679"
+  ]
+}

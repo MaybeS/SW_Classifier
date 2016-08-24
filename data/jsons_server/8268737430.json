@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.87927"
+      ], 
+      [
+        "joystick", 
+        "0.02246"
+      ], 
+      [
+        "home theater", 
+        "0.02149"
+      ], 
+      [
+        "radio", 
+        "0.01500"
+      ], 
+      [
+        "switch", 
+        "0.01351"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.30346"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.16850"
+      ], 
+      [
+        "transducer", 
+        "1.14908"
+      ], 
+      [
+        "electrical device", 
+        "1.12965"
+      ], 
+      [
+        "device", 
+        "0.47219"
+      ]
+    ], 
+    "6.414"
+  ]
+}

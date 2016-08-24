@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.34029"
+      ], 
+      [
+        "joystick", 
+        "0.31716"
+      ], 
+      [
+        "loudspeaker", 
+        "0.22832"
+      ], 
+      [
+        "tape player", 
+        "0.03081"
+      ], 
+      [
+        "radio", 
+        "0.02031"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.77636"
+      ], 
+      [
+        "equipment", 
+        "0.68672"
+      ], 
+      [
+        "joystick", 
+        "0.38876"
+      ], 
+      [
+        "control", 
+        "0.38616"
+      ], 
+      [
+        "device", 
+        "0.38359"
+      ]
+    ], 
+    "5.254"
+  ]
+}

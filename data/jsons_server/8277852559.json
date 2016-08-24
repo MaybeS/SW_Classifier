@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "typewriter keyboard", 
+        "0.52798"
+      ], 
+      [
+        "espresso maker", 
+        "0.12470"
+      ], 
+      [
+        "printer", 
+        "0.09235"
+      ], 
+      [
+        "space bar", 
+        "0.06171"
+      ], 
+      [
+        "rotisserie", 
+        "0.05627"
+      ]
+    ], 
+    [
+      [
+        "typewriter keyboard", 
+        "1.21632"
+      ], 
+      [
+        "keyboard", 
+        "1.21448"
+      ], 
+      [
+        "space bar", 
+        "0.62249"
+      ], 
+      [
+        "key", 
+        "0.61335"
+      ], 
+      [
+        "lever", 
+        "0.60420"
+      ]
+    ], 
+    "5.594"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.19319"
+      ], 
+      [
+        "miniskirt", 
+        "0.14009"
+      ], 
+      [
+        "jean", 
+        "0.08282"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.07310"
+      ], 
+      [
+        "breastplate", 
+        "0.06445"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.98881"
+      ], 
+      [
+        "covering", 
+        "0.92210"
+      ], 
+      [
+        "consumer goods", 
+        "0.87763"
+      ], 
+      [
+        "commodity", 
+        "0.83333"
+      ], 
+      [
+        "garment", 
+        "0.81820"
+      ]
+    ], 
+    "9.228"
+  ]
+}

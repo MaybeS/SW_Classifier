@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "apron", 
+        "0.92703"
+      ], 
+      [
+        "bib", 
+        "0.04839"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.01341"
+      ], 
+      [
+        "envelope", 
+        "0.00395"
+      ], 
+      [
+        "plastic bag", 
+        "0.00172"
+      ]
+    ], 
+    [
+      [
+        "apron", 
+        "1.36987"
+      ], 
+      [
+        "protective garment", 
+        "1.21780"
+      ], 
+      [
+        "clothing", 
+        "1.18254"
+      ], 
+      [
+        "consumer goods", 
+        "1.03751"
+      ], 
+      [
+        "commodity", 
+        "0.98605"
+      ]
+    ], 
+    "8.148"
+  ]
+}

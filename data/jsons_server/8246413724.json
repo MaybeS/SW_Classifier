@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.43328"
+      ], 
+      [
+        "cassette", 
+        "0.14560"
+      ], 
+      [
+        "tape player", 
+        "0.10330"
+      ], 
+      [
+        "CD player", 
+        "0.04700"
+      ], 
+      [
+        "cassette player", 
+        "0.04673"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52502"
+      ], 
+      [
+        "switch", 
+        "0.47802"
+      ], 
+      [
+        "control", 
+        "0.47777"
+      ], 
+      [
+        "equipment", 
+        "0.46000"
+      ], 
+      [
+        "mechanism", 
+        "0.35066"
+      ]
+    ], 
+    "9.032"
+  ]
+}

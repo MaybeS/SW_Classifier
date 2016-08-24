@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.18003"
+      ], 
+      [
+        "digital clock", 
+        "0.10048"
+      ], 
+      [
+        "safe", 
+        "0.06815"
+      ], 
+      [
+        "remote control", 
+        "0.06753"
+      ], 
+      [
+        "gas pump", 
+        "0.06722"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.43594"
+      ], 
+      [
+        "equipment", 
+        "0.38380"
+      ], 
+      [
+        "machine", 
+        "0.38241"
+      ], 
+      [
+        "device", 
+        "0.37990"
+      ], 
+      [
+        "computer", 
+        "0.31817"
+      ]
+    ], 
+    "6.165"
+  ]
+}

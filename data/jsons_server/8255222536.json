@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.24985"
+      ], 
+      [
+        "television", 
+        "0.18784"
+      ], 
+      [
+        "screen", 
+        "0.07998"
+      ], 
+      [
+        "digital clock", 
+        "0.06816"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06325"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "0.78175"
+      ], 
+      [
+        "signboard", 
+        "0.77026"
+      ], 
+      [
+        "board", 
+        "0.77026"
+      ], 
+      [
+        "sheet", 
+        "0.67017"
+      ], 
+      [
+        "structure", 
+        "0.42952"
+      ]
+    ], 
+    "6.598"
+  ]
+}

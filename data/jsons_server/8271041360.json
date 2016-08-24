@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.42260"
+      ], 
+      [
+        "combination lock", 
+        "0.11779"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.05745"
+      ], 
+      [
+        "cassette player", 
+        "0.04909"
+      ], 
+      [
+        "reel", 
+        "0.03975"
+      ]
+    ], 
+    [
+      [
+        "oil filter", 
+        "0.56923"
+      ], 
+      [
+        "filter", 
+        "0.51335"
+      ], 
+      [
+        "device", 
+        "0.38587"
+      ], 
+      [
+        "container", 
+        "0.30898"
+      ], 
+      [
+        "restraint", 
+        "0.27096"
+      ]
+    ], 
+    "6.095"
+  ]
+}

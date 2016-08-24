@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.43224"
+      ], 
+      [
+        "spatula", 
+        "0.08977"
+      ], 
+      [
+        "whistle", 
+        "0.06703"
+      ], 
+      [
+        "mousetrap", 
+        "0.06587"
+      ], 
+      [
+        "loupe", 
+        "0.05353"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33746"
+      ], 
+      [
+        "implement", 
+        "0.25155"
+      ], 
+      [
+        "container", 
+        "0.24543"
+      ], 
+      [
+        "spotlight", 
+        "0.22079"
+      ], 
+      [
+        "source of illumination", 
+        "0.20777"
+      ]
+    ], 
+    "9.641"
+  ]
+}

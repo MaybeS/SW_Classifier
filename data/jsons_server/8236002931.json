@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.19004"
+      ], 
+      [
+        "spotlight", 
+        "0.18763"
+      ], 
+      [
+        "space heater", 
+        "0.15497"
+      ], 
+      [
+        "projector", 
+        "0.07857"
+      ], 
+      [
+        "electric fan", 
+        "0.07346"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38142"
+      ], 
+      [
+        "appliance", 
+        "0.24823"
+      ], 
+      [
+        "durables", 
+        "0.24178"
+      ], 
+      [
+        "equipment", 
+        "0.23497"
+      ], 
+      [
+        "home appliance", 
+        "0.23210"
+      ]
+    ], 
+    "7.778"
+  ]
+}

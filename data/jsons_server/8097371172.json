@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pajama", 
+        "0.77511"
+      ], 
+      [
+        "military uniform", 
+        "0.11749"
+      ], 
+      [
+        "trench coat", 
+        "0.07049"
+      ], 
+      [
+        "cardigan", 
+        "0.00888"
+      ], 
+      [
+        "kimono", 
+        "0.00624"
+      ]
+    ], 
+    [
+      [
+        "pajama", 
+        "1.46200"
+      ], 
+      [
+        "nightwear", 
+        "1.44052"
+      ], 
+      [
+        "clothing", 
+        "1.30174"
+      ], 
+      [
+        "consumer goods", 
+        "1.14195"
+      ], 
+      [
+        "commodity", 
+        "1.08895"
+      ]
+    ], 
+    "5.673"
+  ]
+}

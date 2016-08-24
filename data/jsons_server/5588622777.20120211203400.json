@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.15315"
+      ], 
+      [
+        "loudspeaker", 
+        "0.11355"
+      ], 
+      [
+        "wallet", 
+        "0.09022"
+      ], 
+      [
+        "file", 
+        "0.05978"
+      ], 
+      [
+        "desktop computer", 
+        "0.05642"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.29539"
+      ], 
+      [
+        "device", 
+        "0.29488"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27937"
+      ], 
+      [
+        "container", 
+        "0.27253"
+      ], 
+      [
+        "furnishing", 
+        "0.25263"
+      ]
+    ], 
+    "12.935"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.19051"
+      ], 
+      [
+        "mousetrap", 
+        "0.08969"
+      ], 
+      [
+        "scale", 
+        "0.07615"
+      ], 
+      [
+        "guillotine", 
+        "0.05240"
+      ], 
+      [
+        "matchstick", 
+        "0.04246"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33906"
+      ], 
+      [
+        "equipment", 
+        "0.31310"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30380"
+      ], 
+      [
+        "implement", 
+        "0.24308"
+      ], 
+      [
+        "instrument", 
+        "0.23886"
+      ]
+    ], 
+    "4.324"
+  ]
+}

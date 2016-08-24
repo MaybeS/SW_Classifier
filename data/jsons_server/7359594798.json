@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.23626"
+      ], 
+      [
+        "switch", 
+        "0.23313"
+      ], 
+      [
+        "digital watch", 
+        "0.09659"
+      ], 
+      [
+        "safe", 
+        "0.07972"
+      ], 
+      [
+        "modem", 
+        "0.04082"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.42670"
+      ], 
+      [
+        "measuring instrument", 
+        "0.38923"
+      ], 
+      [
+        "timepiece", 
+        "0.38065"
+      ], 
+      [
+        "instrument", 
+        "0.35063"
+      ], 
+      [
+        "lock", 
+        "0.32022"
+      ]
+    ], 
+    "5.227"
+  ]
+}

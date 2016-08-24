@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lens cap", 
+        "0.30223"
+      ], 
+      [
+        "reflex camera", 
+        "0.21146"
+      ], 
+      [
+        "binoculars", 
+        "0.16267"
+      ], 
+      [
+        "wine bottle", 
+        "0.05016"
+      ], 
+      [
+        "projector", 
+        "0.03727"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.64432"
+      ], 
+      [
+        "photographic equipment", 
+        "0.63361"
+      ], 
+      [
+        "reflex camera", 
+        "0.58852"
+      ], 
+      [
+        "lens cap", 
+        "0.55257"
+      ], 
+      [
+        "cap", 
+        "0.49838"
+      ]
+    ], 
+    "9.498"
+  ]
+}

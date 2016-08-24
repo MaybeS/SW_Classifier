@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.38401"
+      ], 
+      [
+        "container ship", 
+        "0.13908"
+      ], 
+      [
+        "scoreboard", 
+        "0.06997"
+      ], 
+      [
+        "screen", 
+        "0.06945"
+      ], 
+      [
+        "crossword puzzle", 
+        "0.04709"
+      ]
+    ], 
+    [
+      [
+        "oscilloscope", 
+        "1.21102"
+      ], 
+      [
+        "electronic equipment", 
+        "0.88550"
+      ], 
+      [
+        "equipment", 
+        "0.72709"
+      ], 
+      [
+        "container ship", 
+        "0.45382"
+      ], 
+      [
+        "cargo ship", 
+        "0.44715"
+      ]
+    ], 
+    "5.485"
+  ]
+}

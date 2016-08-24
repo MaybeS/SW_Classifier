@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.31294"
+      ], 
+      [
+        "digital watch", 
+        "0.16223"
+      ], 
+      [
+        "digital clock", 
+        "0.13279"
+      ], 
+      [
+        "spotlight", 
+        "0.08517"
+      ], 
+      [
+        "whistle", 
+        "0.06036"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "0.63684"
+      ], 
+      [
+        "measuring instrument", 
+        "0.62226"
+      ], 
+      [
+        "instrument", 
+        "0.49502"
+      ], 
+      [
+        "device", 
+        "0.46019"
+      ], 
+      [
+        "digital watch", 
+        "0.37110"
+      ]
+    ], 
+    "6.025"
+  ]
+}

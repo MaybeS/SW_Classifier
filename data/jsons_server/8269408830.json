@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.17540"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.16360"
+      ], 
+      [
+        "radio", 
+        "0.16129"
+      ], 
+      [
+        "space bar", 
+        "0.10859"
+      ], 
+      [
+        "cassette", 
+        "0.06829"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "0.52069"
+      ], 
+      [
+        "equipment", 
+        "0.49593"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.48135"
+      ], 
+      [
+        "electronic equipment", 
+        "0.47154"
+      ], 
+      [
+        "space bar", 
+        "0.36852"
+      ]
+    ], 
+    "6.866"
+  ]
+}

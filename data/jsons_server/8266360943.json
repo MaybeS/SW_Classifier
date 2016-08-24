@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.99337"
+      ], 
+      [
+        "reflex camera", 
+        "0.00168"
+      ], 
+      [
+        "lipstick", 
+        "0.00092"
+      ], 
+      [
+        "perfume", 
+        "0.00072"
+      ], 
+      [
+        "lotion", 
+        "0.00070"
+      ]
+    ], 
+    [
+      [
+        "binoculars", 
+        "0.95758"
+      ], 
+      [
+        "optical instrument", 
+        "0.83228"
+      ], 
+      [
+        "instrument", 
+        "0.53328"
+      ], 
+      [
+        "device", 
+        "0.41043"
+      ], 
+      [
+        "covering", 
+        "0.29389"
+      ]
+    ], 
+    "9.174"
+  ]
+}

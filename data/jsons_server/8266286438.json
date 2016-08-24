@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.57106"
+      ], 
+      [
+        "combination lock", 
+        "0.24095"
+      ], 
+      [
+        "spotlight", 
+        "0.10321"
+      ], 
+      [
+        "microphone", 
+        "0.03348"
+      ], 
+      [
+        "switch", 
+        "0.02277"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.32505"
+      ], 
+      [
+        "photographic equipment", 
+        "1.30302"
+      ], 
+      [
+        "reflex camera", 
+        "1.29365"
+      ], 
+      [
+        "equipment", 
+        "0.71282"
+      ], 
+      [
+        "device", 
+        "0.36586"
+      ]
+    ], 
+    "10.927"
+  ]
+}

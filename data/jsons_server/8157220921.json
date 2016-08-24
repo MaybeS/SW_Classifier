@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.14481"
+      ], 
+      [
+        "analog clock", 
+        "0.10862"
+      ], 
+      [
+        "digital clock", 
+        "0.10736"
+      ], 
+      [
+        "digital watch", 
+        "0.08116"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06746"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.75107"
+      ], 
+      [
+        "timepiece", 
+        "0.72970"
+      ], 
+      [
+        "instrument", 
+        "0.60028"
+      ], 
+      [
+        "clock", 
+        "0.47772"
+      ], 
+      [
+        "device", 
+        "0.46890"
+      ]
+    ], 
+    "4.930"
+  ]
+}

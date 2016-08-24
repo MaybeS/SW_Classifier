@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "monitor", 
+        "0.42951"
+      ], 
+      [
+        "screen", 
+        "0.27734"
+      ], 
+      [
+        "laptop", 
+        "0.03374"
+      ], 
+      [
+        "kit fox", 
+        "0.02600"
+      ], 
+      [
+        "red fox", 
+        "0.02424"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.64685"
+      ], 
+      [
+        "computer", 
+        "0.63955"
+      ], 
+      [
+        "digital computer", 
+        "0.63446"
+      ], 
+      [
+        "electronic device", 
+        "0.62383"
+      ], 
+      [
+        "screen", 
+        "0.61448"
+      ]
+    ], 
+    "5.514"
+  ]
+}

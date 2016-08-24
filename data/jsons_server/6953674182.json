@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.52173"
+      ], 
+      [
+        "stopwatch", 
+        "0.08333"
+      ], 
+      [
+        "spotlight", 
+        "0.03353"
+      ], 
+      [
+        "sunglass", 
+        "0.03304"
+      ], 
+      [
+        "digital watch", 
+        "0.03111"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.45106"
+      ], 
+      [
+        "device", 
+        "0.40718"
+      ], 
+      [
+        "measuring instrument", 
+        "0.34942"
+      ], 
+      [
+        "timepiece", 
+        "0.32997"
+      ], 
+      [
+        "loupe", 
+        "0.25500"
+      ]
+    ], 
+    "9.552"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "comic book", 
+        "0.18501"
+      ], 
+      [
+        "rifle", 
+        "0.17362"
+      ], 
+      [
+        "assault rifle", 
+        "0.09679"
+      ], 
+      [
+        "chain saw", 
+        "0.06518"
+      ], 
+      [
+        "snowmobile", 
+        "0.04918"
+      ]
+    ], 
+    [
+      [
+        "wheeled vehicle", 
+        "0.47717"
+      ], 
+      [
+        "vehicle", 
+        "0.47556"
+      ], 
+      [
+        "conveyance", 
+        "0.45269"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.42029"
+      ], 
+      [
+        "container", 
+        "0.35411"
+      ]
+    ], 
+    "6.352"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "brassiere", 
+        "0.32278"
+      ], 
+      [
+        "swimming trunks", 
+        "0.22158"
+      ], 
+      [
+        "neck brace", 
+        "0.07376"
+      ], 
+      [
+        "maillot", 
+        "0.02556"
+      ], 
+      [
+        "lampshade", 
+        "0.02183"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.96080"
+      ], 
+      [
+        "garment", 
+        "0.90969"
+      ], 
+      [
+        "consumer goods", 
+        "0.85280"
+      ], 
+      [
+        "commodity", 
+        "0.81029"
+      ], 
+      [
+        "covering", 
+        "0.78061"
+      ]
+    ], 
+    "6.682"
+  ]
+}

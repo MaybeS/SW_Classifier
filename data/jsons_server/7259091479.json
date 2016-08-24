@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.42491"
+      ], 
+      [
+        "loudspeaker", 
+        "0.14243"
+      ], 
+      [
+        "reflex camera", 
+        "0.05454"
+      ], 
+      [
+        "combination lock", 
+        "0.03069"
+      ], 
+      [
+        "radio", 
+        "0.02877"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39518"
+      ], 
+      [
+        "equipment", 
+        "0.31066"
+      ], 
+      [
+        "instrument", 
+        "0.29295"
+      ], 
+      [
+        "loudspeaker", 
+        "0.23140"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.23119"
+      ]
+    ], 
+    "11.666"
+  ]
+}

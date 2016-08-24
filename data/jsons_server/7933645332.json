@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.32667"
+      ], 
+      [
+        "spotlight", 
+        "0.11470"
+      ], 
+      [
+        "knee pad", 
+        "0.11331"
+      ], 
+      [
+        "backpack", 
+        "0.10822"
+      ], 
+      [
+        "barbell", 
+        "0.03804"
+      ]
+    ], 
+    [
+      [
+        "weight", 
+        "0.53868"
+      ], 
+      [
+        "sports equipment", 
+        "0.46802"
+      ], 
+      [
+        "equipment", 
+        "0.41871"
+      ], 
+      [
+        "covering", 
+        "0.39921"
+      ], 
+      [
+        "consumer goods", 
+        "0.38745"
+      ]
+    ], 
+    "7.957"
+  ]
+}

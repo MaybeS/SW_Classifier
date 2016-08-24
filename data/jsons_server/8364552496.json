@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.28931"
+      ], 
+      [
+        "cassette player", 
+        "0.17293"
+      ], 
+      [
+        "tape player", 
+        "0.08169"
+      ], 
+      [
+        "toaster", 
+        "0.06658"
+      ], 
+      [
+        "cassette", 
+        "0.05135"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.46504"
+      ], 
+      [
+        "equipment", 
+        "0.42028"
+      ], 
+      [
+        "container", 
+        "0.30481"
+      ], 
+      [
+        "device", 
+        "0.26857"
+      ], 
+      [
+        "cassette player", 
+        "0.26694"
+      ]
+    ], 
+    "5.647"
+  ]
+}

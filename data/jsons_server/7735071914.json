@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vacuum", 
+        "0.25157"
+      ], 
+      [
+        "book jacket", 
+        "0.14392"
+      ], 
+      [
+        "gasmask", 
+        "0.13714"
+      ], 
+      [
+        "comic book", 
+        "0.07873"
+      ], 
+      [
+        "traffic light", 
+        "0.05938"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.34579"
+      ], 
+      [
+        "consumer goods", 
+        "0.28709"
+      ], 
+      [
+        "commodity", 
+        "0.27213"
+      ], 
+      [
+        "device", 
+        "0.25010"
+      ], 
+      [
+        "book jacket", 
+        "0.24589"
+      ]
+    ], 
+    "5.332"
+  ]
+}

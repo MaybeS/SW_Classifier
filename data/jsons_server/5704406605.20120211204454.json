@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.73300"
+      ], 
+      [
+        "book jacket", 
+        "0.03597"
+      ], 
+      [
+        "monitor", 
+        "0.02534"
+      ], 
+      [
+        "desktop computer", 
+        "0.02413"
+      ], 
+      [
+        "rubber eraser", 
+        "0.01616"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.71217"
+      ], 
+      [
+        "protective covering", 
+        "0.40839"
+      ], 
+      [
+        "covering", 
+        "0.35988"
+      ], 
+      [
+        "container", 
+        "0.27899"
+      ], 
+      [
+        "device", 
+        "0.22783"
+      ]
+    ], 
+    "8.883"
+  ]
+}

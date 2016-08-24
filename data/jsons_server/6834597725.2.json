@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.31833"
+      ], 
+      [
+        "monitor", 
+        "0.10802"
+      ], 
+      [
+        "wallet", 
+        "0.07236"
+      ], 
+      [
+        "binder", 
+        "0.05316"
+      ], 
+      [
+        "screen", 
+        "0.05205"
+      ]
+    ], 
+    [
+      [
+        "television", 
+        "0.51836"
+      ], 
+      [
+        "telecommunication system", 
+        "0.51074"
+      ], 
+      [
+        "communication system", 
+        "0.47254"
+      ], 
+      [
+        "system", 
+        "0.47193"
+      ], 
+      [
+        "electronic equipment", 
+        "0.36243"
+      ]
+    ], 
+    "7.605"
+  ]
+}

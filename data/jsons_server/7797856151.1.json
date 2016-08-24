@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stopwatch", 
+        "0.49865"
+      ], 
+      [
+        "digital watch", 
+        "0.26711"
+      ], 
+      [
+        "buckle", 
+        "0.02615"
+      ], 
+      [
+        "cassette player", 
+        "0.02454"
+      ], 
+      [
+        "digital clock", 
+        "0.02106"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "1.59676"
+      ], 
+      [
+        "measuring instrument", 
+        "1.56659"
+      ], 
+      [
+        "stopwatch", 
+        "1.24091"
+      ], 
+      [
+        "instrument", 
+        "1.16206"
+      ], 
+      [
+        "timer", 
+        "1.11161"
+      ]
+    ], 
+    "10.492"
+  ]
+}

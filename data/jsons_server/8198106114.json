@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.98134"
+      ], 
+      [
+        "switch", 
+        "0.01536"
+      ], 
+      [
+        "Band Aid", 
+        "0.00059"
+      ], 
+      [
+        "digital clock", 
+        "0.00053"
+      ], 
+      [
+        "combination lock", 
+        "0.00026"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.88059"
+      ], 
+      [
+        "device", 
+        "0.57453"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48329"
+      ], 
+      [
+        "equipment", 
+        "0.41770"
+      ], 
+      [
+        "cellular telephone", 
+        "0.33397"
+      ]
+    ], 
+    "9.313"
+  ]
+}

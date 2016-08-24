@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.47135"
+      ], 
+      [
+        "reflex camera", 
+        "0.09290"
+      ], 
+      [
+        "analog clock", 
+        "0.06330"
+      ], 
+      [
+        "book jacket", 
+        "0.06312"
+      ], 
+      [
+        "barometer", 
+        "0.05195"
+      ]
+    ], 
+    [
+      [
+        "washer", 
+        "1.01996"
+      ], 
+      [
+        "white goods", 
+        "0.88558"
+      ], 
+      [
+        "home appliance", 
+        "0.74615"
+      ], 
+      [
+        "appliance", 
+        "0.71856"
+      ], 
+      [
+        "durables", 
+        "0.69986"
+      ]
+    ], 
+    "6.377"
+  ]
+}

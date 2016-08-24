@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pedestal", 
+        "0.94848"
+      ], 
+      [
+        "table lamp", 
+        "0.01015"
+      ], 
+      [
+        "vase", 
+        "0.00589"
+      ], 
+      [
+        "saltshaker", 
+        "0.00444"
+      ], 
+      [
+        "soap dispenser", 
+        "0.00418"
+      ]
+    ], 
+    [
+      [
+        "pedestal", 
+        "1.53588"
+      ], 
+      [
+        "support", 
+        "1.51332"
+      ], 
+      [
+        "supporting structure", 
+        "1.22419"
+      ], 
+      [
+        "structure", 
+        "0.87456"
+      ], 
+      [
+        "container", 
+        "0.23126"
+      ]
+    ], 
+    "7.692"
+  ]
+}

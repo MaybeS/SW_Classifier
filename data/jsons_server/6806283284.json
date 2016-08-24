@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tape player", 
+        "0.16060"
+      ], 
+      [
+        "space bar", 
+        "0.13479"
+      ], 
+      [
+        "joystick", 
+        "0.09867"
+      ], 
+      [
+        "photocopier", 
+        "0.09529"
+      ], 
+      [
+        "cassette player", 
+        "0.08802"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.72429"
+      ], 
+      [
+        "equipment", 
+        "0.68589"
+      ], 
+      [
+        "keyboard", 
+        "0.48932"
+      ], 
+      [
+        "peripheral", 
+        "0.38328"
+      ], 
+      [
+        "device", 
+        "0.37542"
+      ]
+    ], 
+    "5.351"
+  ]
+}

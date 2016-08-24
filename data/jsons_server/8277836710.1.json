@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.09898"
+      ], 
+      [
+        "monitor", 
+        "0.07366"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06945"
+      ], 
+      [
+        "desktop computer", 
+        "0.06440"
+      ], 
+      [
+        "perfume", 
+        "0.05776"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.36472"
+      ], 
+      [
+        "device", 
+        "0.35202"
+      ], 
+      [
+        "equipment", 
+        "0.33786"
+      ], 
+      [
+        "personal computer", 
+        "0.32477"
+      ], 
+      [
+        "digital computer", 
+        "0.31855"
+      ]
+    ], 
+    "7.669"
+  ]
+}

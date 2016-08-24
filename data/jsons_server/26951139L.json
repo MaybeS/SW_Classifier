@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "umbrella", 
+        "0.67423"
+      ], 
+      [
+        "mountain tent", 
+        "0.05579"
+      ], 
+      [
+        "mortarboard", 
+        "0.04304"
+      ], 
+      [
+        "sleeping bag", 
+        "0.04292"
+      ], 
+      [
+        "mailbag", 
+        "0.02403"
+      ]
+    ], 
+    [
+      [
+        "umbrella", 
+        "0.56325"
+      ], 
+      [
+        "canopy", 
+        "0.55498"
+      ], 
+      [
+        "covering", 
+        "0.48025"
+      ], 
+      [
+        "shelter", 
+        "0.46526"
+      ], 
+      [
+        "protective covering", 
+        "0.35111"
+      ]
+    ], 
+    "7.181"
+  ]
+}

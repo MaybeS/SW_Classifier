@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.53987"
+      ], 
+      [
+        "joystick", 
+        "0.29163"
+      ], 
+      [
+        "croquet ball", 
+        "0.05226"
+      ], 
+      [
+        "mousetrap", 
+        "0.04903"
+      ], 
+      [
+        "hand-held computer", 
+        "0.01002"
+      ]
+    ], 
+    [
+      [
+        "control", 
+        "0.85297"
+      ], 
+      [
+        "mechanism", 
+        "0.59842"
+      ], 
+      [
+        "switch", 
+        "0.59283"
+      ], 
+      [
+        "equipment", 
+        "0.45076"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41324"
+      ]
+    ], 
+    "6.149"
+  ]
+}

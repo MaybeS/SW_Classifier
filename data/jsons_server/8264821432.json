@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.46560"
+      ], 
+      [
+        "spotlight", 
+        "0.10614"
+      ], 
+      [
+        "vacuum", 
+        "0.07124"
+      ], 
+      [
+        "combination lock", 
+        "0.04124"
+      ], 
+      [
+        "magnetic compass", 
+        "0.03870"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38116"
+      ], 
+      [
+        "instrument", 
+        "0.31568"
+      ], 
+      [
+        "loupe", 
+        "0.22450"
+      ], 
+      [
+        "hand glass", 
+        "0.22121"
+      ], 
+      [
+        "light microscope", 
+        "0.21791"
+      ]
+    ], 
+    "8.436"
+  ]
+}

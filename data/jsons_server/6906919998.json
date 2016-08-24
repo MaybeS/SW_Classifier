@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.07767"
+      ], 
+      [
+        "backpack", 
+        "0.06506"
+      ], 
+      [
+        "punching bag", 
+        "0.05799"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03920"
+      ], 
+      [
+        "dumbbell", 
+        "0.03235"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.39675"
+      ], 
+      [
+        "clothing", 
+        "0.39052"
+      ], 
+      [
+        "consumer goods", 
+        "0.38455"
+      ], 
+      [
+        "commodity", 
+        "0.36706"
+      ], 
+      [
+        "garment", 
+        "0.29211"
+      ]
+    ], 
+    "5.794"
+  ]
+}

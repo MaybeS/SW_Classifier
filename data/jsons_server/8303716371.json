@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.99692"
+      ], 
+      [
+        "lens cap", 
+        "0.00192"
+      ], 
+      [
+        "tripod", 
+        "0.00042"
+      ], 
+      [
+        "digital watch", 
+        "0.00024"
+      ], 
+      [
+        "binoculars", 
+        "0.00020"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.26861"
+      ], 
+      [
+        "photographic equipment", 
+        "2.23090"
+      ], 
+      [
+        "reflex camera", 
+        "2.22115"
+      ], 
+      [
+        "equipment", 
+        "1.10501"
+      ], 
+      [
+        "lens cap", 
+        "0.36333"
+      ]
+    ], 
+    "6.661"
+  ]
+}

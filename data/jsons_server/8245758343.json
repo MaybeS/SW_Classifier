@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.33792"
+      ], 
+      [
+        "remote control", 
+        "0.16520"
+      ], 
+      [
+        "hand-held computer", 
+        "0.09992"
+      ], 
+      [
+        "computer keyboard", 
+        "0.04951"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04855"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.50646"
+      ], 
+      [
+        "personal computer", 
+        "0.48496"
+      ], 
+      [
+        "digital computer", 
+        "0.47567"
+      ], 
+      [
+        "computer", 
+        "0.46455"
+      ], 
+      [
+        "device", 
+        "0.45589"
+      ]
+    ], 
+    "9.073"
+  ]
+}

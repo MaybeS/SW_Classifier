@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.35987"
+      ], 
+      [
+        "sewing machine", 
+        "0.13596"
+      ], 
+      [
+        "carton", 
+        "0.10041"
+      ], 
+      [
+        "printer", 
+        "0.07552"
+      ], 
+      [
+        "switch", 
+        "0.04008"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.45409"
+      ], 
+      [
+        "optical instrument", 
+        "0.38821"
+      ], 
+      [
+        "device", 
+        "0.35576"
+      ], 
+      [
+        "equipment", 
+        "0.34721"
+      ], 
+      [
+        "container", 
+        "0.30620"
+      ]
+    ], 
+    "6.341"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.28796"
+      ], 
+      [
+        "radio", 
+        "0.18460"
+      ], 
+      [
+        "analog clock", 
+        "0.08282"
+      ], 
+      [
+        "cassette", 
+        "0.08031"
+      ], 
+      [
+        "loupe", 
+        "0.03871"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.45101"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.41275"
+      ], 
+      [
+        "transducer", 
+        "0.40588"
+      ], 
+      [
+        "device", 
+        "0.40135"
+      ], 
+      [
+        "electrical device", 
+        "0.39902"
+      ]
+    ], 
+    "7.541"
+  ]
+}

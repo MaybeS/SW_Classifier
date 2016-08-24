@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "syringe", 
+        "0.12821"
+      ], 
+      [
+        "sewing machine", 
+        "0.10426"
+      ], 
+      [
+        "perfume", 
+        "0.08359"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06224"
+      ], 
+      [
+        "lighter", 
+        "0.06212"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30799"
+      ], 
+      [
+        "implement", 
+        "0.28485"
+      ], 
+      [
+        "container", 
+        "0.24403"
+      ], 
+      [
+        "consumer goods", 
+        "0.21520"
+      ], 
+      [
+        "commodity", 
+        "0.20591"
+      ]
+    ], 
+    "5.697"
+  ]
+}

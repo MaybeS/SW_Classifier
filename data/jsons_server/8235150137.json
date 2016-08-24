@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.31387"
+      ], 
+      [
+        "oscilloscope", 
+        "0.19686"
+      ], 
+      [
+        "digital clock", 
+        "0.09258"
+      ], 
+      [
+        "web site", 
+        "0.03908"
+      ], 
+      [
+        "radio", 
+        "0.03214"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.65834"
+      ], 
+      [
+        "oscilloscope", 
+        "0.62966"
+      ], 
+      [
+        "equipment", 
+        "0.57023"
+      ], 
+      [
+        "loudspeaker", 
+        "0.47923"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.43401"
+      ]
+    ], 
+    "5.887"
+  ]
+}

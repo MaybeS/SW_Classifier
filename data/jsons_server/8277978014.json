@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ballpoint", 
+        "0.22980"
+      ], 
+      [
+        "can opener", 
+        "0.22040"
+      ], 
+      [
+        "screwdriver", 
+        "0.10028"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07466"
+      ], 
+      [
+        "letter opener", 
+        "0.06907"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.61912"
+      ], 
+      [
+        "pen", 
+        "0.41859"
+      ], 
+      [
+        "writing implement", 
+        "0.41113"
+      ], 
+      [
+        "tool", 
+        "0.39433"
+      ], 
+      [
+        "hand tool", 
+        "0.35437"
+      ]
+    ], 
+    "5.969"
+  ]
+}

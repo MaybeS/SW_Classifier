@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.66520"
+      ], 
+      [
+        "file", 
+        "0.18189"
+      ], 
+      [
+        "safe", 
+        "0.06763"
+      ], 
+      [
+        "printer", 
+        "0.01057"
+      ], 
+      [
+        "loudspeaker", 
+        "0.00663"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.91516"
+      ], 
+      [
+        "digital computer", 
+        "0.89763"
+      ], 
+      [
+        "computer", 
+        "0.82437"
+      ], 
+      [
+        "desktop computer", 
+        "0.80018"
+      ], 
+      [
+        "machine", 
+        "0.73476"
+      ]
+    ], 
+    "6.117"
+  ]
+}

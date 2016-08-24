@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.09633"
+      ], 
+      [
+        "electric fan", 
+        "0.08387"
+      ], 
+      [
+        "radio", 
+        "0.06978"
+      ], 
+      [
+        "steam locomotive", 
+        "0.05596"
+      ], 
+      [
+        "racer", 
+        "0.05022"
+      ]
+    ], 
+    [
+      [
+        "self-propelled vehicle", 
+        "0.48792"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.47865"
+      ], 
+      [
+        "vehicle", 
+        "0.42680"
+      ], 
+      [
+        "conveyance", 
+        "0.40653"
+      ], 
+      [
+        "container", 
+        "0.40231"
+      ]
+    ], 
+    "5.574"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "syringe", 
+        "0.26238"
+      ], 
+      [
+        "whistle", 
+        "0.21802"
+      ], 
+      [
+        "rubber eraser", 
+        "0.11608"
+      ], 
+      [
+        "hair slide", 
+        "0.10688"
+      ], 
+      [
+        "stethoscope", 
+        "0.09097"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.37570"
+      ], 
+      [
+        "device", 
+        "0.34387"
+      ], 
+      [
+        "whistle", 
+        "0.27938"
+      ], 
+      [
+        "signaling device", 
+        "0.27527"
+      ], 
+      [
+        "acoustic device", 
+        "0.27527"
+      ]
+    ], 
+    "5.393"
+  ]
+}

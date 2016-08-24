@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crutch", 
+        "0.17556"
+      ], 
+      [
+        "turnstile", 
+        "0.14000"
+      ], 
+      [
+        "accordion", 
+        "0.13200"
+      ], 
+      [
+        "military uniform", 
+        "0.03572"
+      ], 
+      [
+        "electric guitar", 
+        "0.03549"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.46007"
+      ], 
+      [
+        "consumer goods", 
+        "0.42706"
+      ], 
+      [
+        "covering", 
+        "0.42161"
+      ], 
+      [
+        "musical instrument", 
+        "0.41404"
+      ], 
+      [
+        "garment", 
+        "0.40905"
+      ]
+    ], 
+    "5.224"
+  ]
+}

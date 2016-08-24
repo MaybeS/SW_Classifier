@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.10106"
+      ], 
+      [
+        "buckle", 
+        "0.09878"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09722"
+      ], 
+      [
+        "safety pin", 
+        "0.07524"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.06060"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34015"
+      ], 
+      [
+        "machine", 
+        "0.27225"
+      ], 
+      [
+        "equipment", 
+        "0.26399"
+      ], 
+      [
+        "portable computer", 
+        "0.26115"
+      ], 
+      [
+        "personal computer", 
+        "0.25777"
+      ]
+    ], 
+    "6.889"
+  ]
+}

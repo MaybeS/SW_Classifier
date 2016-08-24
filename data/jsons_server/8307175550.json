@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.40155"
+      ], 
+      [
+        "can opener", 
+        "0.20280"
+      ], 
+      [
+        "hair slide", 
+        "0.07813"
+      ], 
+      [
+        "corkscrew", 
+        "0.04694"
+      ], 
+      [
+        "nematode", 
+        "0.04116"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.46791"
+      ], 
+      [
+        "signaling device", 
+        "0.46103"
+      ], 
+      [
+        "acoustic device", 
+        "0.46103"
+      ], 
+      [
+        "opener", 
+        "0.40175"
+      ], 
+      [
+        "implement", 
+        "0.39860"
+      ]
+    ], 
+    "9.419"
+  ]
+}

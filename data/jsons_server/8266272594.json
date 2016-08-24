@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "chime", 
+        "0.12630"
+      ], 
+      [
+        "switch", 
+        "0.10231"
+      ], 
+      [
+        "nail", 
+        "0.08430"
+      ], 
+      [
+        "marimba", 
+        "0.04667"
+      ], 
+      [
+        "park bench", 
+        "0.04155"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31532"
+      ], 
+      [
+        "implement", 
+        "0.25140"
+      ], 
+      [
+        "musical instrument", 
+        "0.23504"
+      ], 
+      [
+        "percussion instrument", 
+        "0.21061"
+      ], 
+      [
+        "fastener", 
+        "0.19109"
+      ]
+    ], 
+    "9.005"
+  ]
+}

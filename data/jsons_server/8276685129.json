@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.51274"
+      ], 
+      [
+        "digital clock", 
+        "0.07778"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05737"
+      ], 
+      [
+        "Band Aid", 
+        "0.05613"
+      ], 
+      [
+        "pick", 
+        "0.03391"
+      ]
+    ], 
+    [
+      [
+        "street sign", 
+        "1.01487"
+      ], 
+      [
+        "sign", 
+        "0.99996"
+      ], 
+      [
+        "communication", 
+        "0.89806"
+      ], 
+      [
+        "abstraction", 
+        "0.60834"
+      ], 
+      [
+        "structure", 
+        "0.26600"
+      ]
+    ], 
+    "5.124"
+  ]
+}

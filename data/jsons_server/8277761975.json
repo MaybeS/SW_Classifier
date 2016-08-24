@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vending machine", 
+        "0.46369"
+      ], 
+      [
+        "refrigerator", 
+        "0.13640"
+      ], 
+      [
+        "iPod", 
+        "0.06414"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03519"
+      ], 
+      [
+        "slot", 
+        "0.02497"
+      ]
+    ], 
+    [
+      [
+        "vending machine", 
+        "1.47005"
+      ], 
+      [
+        "slot machine", 
+        "1.44071"
+      ], 
+      [
+        "machine", 
+        "1.02579"
+      ], 
+      [
+        "device", 
+        "0.42307"
+      ], 
+      [
+        "mercantile establishment", 
+        "0.27283"
+      ]
+    ], 
+    "6.390"
+  ]
+}

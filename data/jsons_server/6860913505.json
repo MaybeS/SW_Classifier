@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.41551"
+      ], 
+      [
+        "stopwatch", 
+        "0.20125"
+      ], 
+      [
+        "digital watch", 
+        "0.03679"
+      ], 
+      [
+        "combination lock", 
+        "0.03014"
+      ], 
+      [
+        "switch", 
+        "0.02785"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.98814"
+      ], 
+      [
+        "photographic equipment", 
+        "0.97171"
+      ], 
+      [
+        "reflex camera", 
+        "0.94862"
+      ], 
+      [
+        "measuring instrument", 
+        "0.62438"
+      ], 
+      [
+        "timepiece", 
+        "0.62013"
+      ]
+    ], 
+    "5.674"
+  ]
+}

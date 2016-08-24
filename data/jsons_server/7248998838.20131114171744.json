@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.27138"
+      ], 
+      [
+        "digital clock", 
+        "0.17520"
+      ], 
+      [
+        "CD player", 
+        "0.12112"
+      ], 
+      [
+        "cassette player", 
+        "0.03858"
+      ], 
+      [
+        "scale", 
+        "0.03340"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.41283"
+      ], 
+      [
+        "equipment", 
+        "0.39455"
+      ], 
+      [
+        "measuring instrument", 
+        "0.38193"
+      ], 
+      [
+        "timepiece", 
+        "0.35447"
+      ], 
+      [
+        "instrument", 
+        "0.33255"
+      ]
+    ], 
+    "9.973"
+  ]
+}

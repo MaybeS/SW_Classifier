@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vacuum", 
+        "0.44890"
+      ], 
+      [
+        "stethoscope", 
+        "0.23515"
+      ], 
+      [
+        "modem", 
+        "0.09342"
+      ], 
+      [
+        "oxygen mask", 
+        "0.05413"
+      ], 
+      [
+        "cassette player", 
+        "0.01763"
+      ]
+    ], 
+    [
+      [
+        "vacuum", 
+        "0.39467"
+      ], 
+      [
+        "appliance", 
+        "0.36334"
+      ], 
+      [
+        "durables", 
+        "0.35388"
+      ], 
+      [
+        "home appliance", 
+        "0.34559"
+      ], 
+      [
+        "consumer goods", 
+        "0.34436"
+      ]
+    ], 
+    "7.996"
+  ]
+}

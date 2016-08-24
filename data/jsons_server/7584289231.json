@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.18038"
+      ], 
+      [
+        "web site", 
+        "0.08328"
+      ], 
+      [
+        "digital clock", 
+        "0.07028"
+      ], 
+      [
+        "scoreboard", 
+        "0.06294"
+      ], 
+      [
+        "oil filter", 
+        "0.05642"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.65652"
+      ], 
+      [
+        "machine", 
+        "0.59083"
+      ], 
+      [
+        "personal computer", 
+        "0.46561"
+      ], 
+      [
+        "digital computer", 
+        "0.45669"
+      ], 
+      [
+        "portable computer", 
+        "0.45286"
+      ]
+    ], 
+    "7.758"
+  ]
+}

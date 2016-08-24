@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radiator", 
+        "0.14488"
+      ], 
+      [
+        "space heater", 
+        "0.08847"
+      ], 
+      [
+        "accordion", 
+        "0.08515"
+      ], 
+      [
+        "plate rack", 
+        "0.07343"
+      ], 
+      [
+        "crib", 
+        "0.06740"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31478"
+      ], 
+      [
+        "furnishing", 
+        "0.30483"
+      ], 
+      [
+        "furniture", 
+        "0.29662"
+      ], 
+      [
+        "radiator", 
+        "0.27542"
+      ], 
+      [
+        "musical instrument", 
+        "0.26886"
+      ]
+    ], 
+    "8.925"
+  ]
+}

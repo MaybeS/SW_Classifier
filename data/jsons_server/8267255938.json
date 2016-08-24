@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "slot", 
+        "0.34308"
+      ], 
+      [
+        "comic book", 
+        "0.20274"
+      ], 
+      [
+        "cash machine", 
+        "0.10420"
+      ], 
+      [
+        "barbershop", 
+        "0.09743"
+      ], 
+      [
+        "vending machine", 
+        "0.04108"
+      ]
+    ], 
+    [
+      [
+        "slot machine", 
+        "1.38135"
+      ], 
+      [
+        "slot", 
+        "1.29559"
+      ], 
+      [
+        "machine", 
+        "1.00302"
+      ], 
+      [
+        "mercantile establishment", 
+        "0.41544"
+      ], 
+      [
+        "device", 
+        "0.41204"
+      ]
+    ], 
+    "4.771"
+  ]
+}

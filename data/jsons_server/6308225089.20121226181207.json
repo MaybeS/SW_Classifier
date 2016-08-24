@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.99101"
+      ], 
+      [
+        "hand-held computer", 
+        "0.00227"
+      ], 
+      [
+        "cassette", 
+        "0.00180"
+      ], 
+      [
+        "slide rule", 
+        "0.00117"
+      ], 
+      [
+        "mousetrap", 
+        "0.00051"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.69550"
+      ], 
+      [
+        "magnetic disk", 
+        "1.67060"
+      ], 
+      [
+        "memory device", 
+        "1.64569"
+      ], 
+      [
+        "device", 
+        "0.52197"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41712"
+      ]
+    ], 
+    "5.423"
+  ]
+}

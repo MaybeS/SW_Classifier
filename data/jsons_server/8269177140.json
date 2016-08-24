@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.25114"
+      ], 
+      [
+        "joystick", 
+        "0.22637"
+      ], 
+      [
+        "rubber eraser", 
+        "0.09802"
+      ], 
+      [
+        "pencil box", 
+        "0.03685"
+      ], 
+      [
+        "face powder", 
+        "0.02807"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.42302"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.33591"
+      ], 
+      [
+        "kit", 
+        "0.33097"
+      ], 
+      [
+        "device", 
+        "0.31279"
+      ], 
+      [
+        "implement", 
+        "0.30811"
+      ]
+    ], 
+    "4.975"
+  ]
+}

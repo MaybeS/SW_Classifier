@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space bar", 
+        "0.71923"
+      ], 
+      [
+        "computer keyboard", 
+        "0.14196"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.13744"
+      ], 
+      [
+        "waffle iron", 
+        "0.00042"
+      ], 
+      [
+        "hand-held computer", 
+        "0.00030"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "1.50062"
+      ], 
+      [
+        "space bar", 
+        "1.46395"
+      ], 
+      [
+        "key", 
+        "1.44245"
+      ], 
+      [
+        "lever", 
+        "1.42094"
+      ], 
+      [
+        "bar", 
+        "1.39944"
+      ]
+    ], 
+    "5.478"
+  ]
+}

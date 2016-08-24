@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.79979"
+      ], 
+      [
+        "radio", 
+        "0.03310"
+      ], 
+      [
+        "home theater", 
+        "0.02718"
+      ], 
+      [
+        "combination lock", 
+        "0.02198"
+      ], 
+      [
+        "iPod", 
+        "0.01775"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.18825"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.06555"
+      ], 
+      [
+        "transducer", 
+        "1.04784"
+      ], 
+      [
+        "electrical device", 
+        "1.03012"
+      ], 
+      [
+        "device", 
+        "0.46215"
+      ]
+    ], 
+    "6.044"
+  ]
+}

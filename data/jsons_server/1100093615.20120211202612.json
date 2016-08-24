@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.98712"
+      ], 
+      [
+        "scale", 
+        "0.00781"
+      ], 
+      [
+        "hard disc", 
+        "0.00185"
+      ], 
+      [
+        "cassette player", 
+        "0.00067"
+      ], 
+      [
+        "puck", 
+        "0.00032"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "1.11365"
+      ], 
+      [
+        "equipment", 
+        "0.90372"
+      ], 
+      [
+        "CD player", 
+        "0.75692"
+      ], 
+      [
+        "cassette player", 
+        "0.47108"
+      ], 
+      [
+        "motor vehicle", 
+        "0.35928"
+      ]
+    ], 
+    "6.029"
+  ]
+}

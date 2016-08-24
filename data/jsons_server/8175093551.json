@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sleeping bag", 
+        "0.80449"
+      ], 
+      [
+        "backpack", 
+        "0.14819"
+      ], 
+      [
+        "mailbag", 
+        "0.04010"
+      ], 
+      [
+        "punching bag", 
+        "0.00412"
+      ], 
+      [
+        "shopping basket", 
+        "0.00075"
+      ]
+    ], 
+    [
+      [
+        "bag", 
+        "1.13409"
+      ], 
+      [
+        "sleeping bag", 
+        "1.13115"
+      ], 
+      [
+        "container", 
+        "0.44012"
+      ], 
+      [
+        "covering", 
+        "0.42420"
+      ], 
+      [
+        "clothing", 
+        "0.36453"
+      ]
+    ], 
+    "6.493"
+  ]
+}

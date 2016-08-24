@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.73818"
+      ], 
+      [
+        "binder", 
+        "0.12781"
+      ], 
+      [
+        "wallet", 
+        "0.05221"
+      ], 
+      [
+        "lighter", 
+        "0.01133"
+      ], 
+      [
+        "book jacket", 
+        "0.00774"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.09346"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.98120"
+      ], 
+      [
+        "transducer", 
+        "0.96489"
+      ], 
+      [
+        "electrical device", 
+        "0.94857"
+      ], 
+      [
+        "device", 
+        "0.42150"
+      ]
+    ], 
+    "9.725"
+  ]
+}

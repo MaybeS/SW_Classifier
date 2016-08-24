@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "measuring cup", 
+        "0.20272"
+      ], 
+      [
+        "soap dispenser", 
+        "0.17686"
+      ], 
+      [
+        "beaker", 
+        "0.07098"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.06840"
+      ], 
+      [
+        "hook", 
+        "0.05816"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.44634"
+      ], 
+      [
+        "vessel", 
+        "0.35504"
+      ], 
+      [
+        "measuring cup", 
+        "0.33369"
+      ], 
+      [
+        "measure", 
+        "0.32879"
+      ], 
+      [
+        "implement", 
+        "0.24385"
+      ]
+    ], 
+    "7.292"
+  ]
+}

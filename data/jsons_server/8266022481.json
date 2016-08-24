@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pedestal", 
+        "0.94222"
+      ], 
+      [
+        "scale", 
+        "0.01866"
+      ], 
+      [
+        "table lamp", 
+        "0.00466"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00421"
+      ], 
+      [
+        "candle", 
+        "0.00379"
+      ]
+    ], 
+    [
+      [
+        "pedestal", 
+        "1.52594"
+      ], 
+      [
+        "support", 
+        "1.50353"
+      ], 
+      [
+        "supporting structure", 
+        "1.21621"
+      ], 
+      [
+        "structure", 
+        "0.87140"
+      ], 
+      [
+        "container", 
+        "0.22194"
+      ]
+    ], 
+    "6.295"
+  ]
+}

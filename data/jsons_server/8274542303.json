@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.39603"
+      ], 
+      [
+        "modem", 
+        "0.36891"
+      ], 
+      [
+        "radio", 
+        "0.12488"
+      ], 
+      [
+        "notebook", 
+        "0.03905"
+      ], 
+      [
+        "laptop", 
+        "0.01459"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.53871"
+      ], 
+      [
+        "equipment", 
+        "0.48403"
+      ], 
+      [
+        "measuring instrument", 
+        "0.44778"
+      ], 
+      [
+        "instrument", 
+        "0.42538"
+      ], 
+      [
+        "device", 
+        "0.39180"
+      ]
+    ], 
+    "10.602"
+  ]
+}

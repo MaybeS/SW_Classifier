@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.10121"
+      ], 
+      [
+        "chain saw", 
+        "0.07925"
+      ], 
+      [
+        "balance beam", 
+        "0.06244"
+      ], 
+      [
+        "television", 
+        "0.04681"
+      ], 
+      [
+        "hand-held computer", 
+        "0.03879"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.41386"
+      ], 
+      [
+        "device", 
+        "0.29507"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28893"
+      ], 
+      [
+        "machine", 
+        "0.27304"
+      ], 
+      [
+        "implement", 
+        "0.26708"
+      ]
+    ], 
+    "5.662"
+  ]
+}

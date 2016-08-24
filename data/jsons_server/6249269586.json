@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rugby ball", 
+        "0.08102"
+      ], 
+      [
+        "basketball", 
+        "0.06708"
+      ], 
+      [
+        "hand blower", 
+        "0.06683"
+      ], 
+      [
+        "tennis ball", 
+        "0.05171"
+      ], 
+      [
+        "microphone", 
+        "0.05084"
+      ]
+    ], 
+    [
+      [
+        "ball", 
+        "0.76378"
+      ], 
+      [
+        "game equipment", 
+        "0.69462"
+      ], 
+      [
+        "equipment", 
+        "0.56215"
+      ], 
+      [
+        "sports equipment", 
+        "0.33539"
+      ], 
+      [
+        "covering", 
+        "0.28042"
+      ]
+    ], 
+    "5.518"
+  ]
+}

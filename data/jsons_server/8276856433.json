@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.31106"
+      ], 
+      [
+        "hook", 
+        "0.07860"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05496"
+      ], 
+      [
+        "whistle", 
+        "0.04758"
+      ], 
+      [
+        "screwdriver", 
+        "0.04563"
+      ]
+    ], 
+    [
+      [
+        "weight", 
+        "0.51250"
+      ], 
+      [
+        "sports equipment", 
+        "0.45492"
+      ], 
+      [
+        "equipment", 
+        "0.42418"
+      ], 
+      [
+        "barbell", 
+        "0.31956"
+      ], 
+      [
+        "implement", 
+        "0.30003"
+      ]
+    ], 
+    "6.741"
+  ]
+}

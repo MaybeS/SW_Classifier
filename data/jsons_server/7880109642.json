@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.30896"
+      ], 
+      [
+        "remote control", 
+        "0.16339"
+      ], 
+      [
+        "digital clock", 
+        "0.14140"
+      ], 
+      [
+        "book jacket", 
+        "0.04733"
+      ], 
+      [
+        "cassette", 
+        "0.03392"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "0.96370"
+      ], 
+      [
+        "board", 
+        "0.94955"
+      ], 
+      [
+        "signboard", 
+        "0.94955"
+      ], 
+      [
+        "sheet", 
+        "0.82666"
+      ], 
+      [
+        "structure", 
+        "0.46552"
+      ]
+    ], 
+    "5.113"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "prison", 
+        "0.40882"
+      ], 
+      [
+        "turnstile", 
+        "0.09207"
+      ], 
+      [
+        "miniskirt", 
+        "0.07574"
+      ], 
+      [
+        "bannister", 
+        "0.04034"
+      ], 
+      [
+        "jean", 
+        "0.03873"
+      ]
+    ], 
+    [
+      [
+        "prison", 
+        "0.59780"
+      ], 
+      [
+        "correctional institution", 
+        "0.58902"
+      ], 
+      [
+        "penal institution", 
+        "0.58024"
+      ], 
+      [
+        "institution", 
+        "0.57146"
+      ], 
+      [
+        "structure", 
+        "0.50337"
+      ]
+    ], 
+    "5.445"
+  ]
+}

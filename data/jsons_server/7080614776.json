@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.27791"
+      ], 
+      [
+        "power drill", 
+        "0.27168"
+      ], 
+      [
+        "switch", 
+        "0.14967"
+      ], 
+      [
+        "combination lock", 
+        "0.11231"
+      ], 
+      [
+        "vacuum", 
+        "0.01902"
+      ]
+    ], 
+    [
+      [
+        "control", 
+        "0.49722"
+      ], 
+      [
+        "device", 
+        "0.40712"
+      ], 
+      [
+        "equipment", 
+        "0.40003"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37160"
+      ], 
+      [
+        "mechanism", 
+        "0.37127"
+      ]
+    ], 
+    "7.946"
+  ]
+}

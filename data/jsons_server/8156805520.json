@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screen", 
+        "0.17436"
+      ], 
+      [
+        "modem", 
+        "0.16023"
+      ], 
+      [
+        "binder", 
+        "0.15243"
+      ], 
+      [
+        "notebook", 
+        "0.13997"
+      ], 
+      [
+        "hard disc", 
+        "0.09386"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.64263"
+      ], 
+      [
+        "digital computer", 
+        "0.63032"
+      ], 
+      [
+        "computer", 
+        "0.60277"
+      ], 
+      [
+        "machine", 
+        "0.57038"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48417"
+      ]
+    ], 
+    "8.665"
+  ]
+}

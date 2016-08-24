@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.77228"
+      ], 
+      [
+        "hook", 
+        "0.07007"
+      ], 
+      [
+        "can opener", 
+        "0.02907"
+      ], 
+      [
+        "combination lock", 
+        "0.02475"
+      ], 
+      [
+        "neck brace", 
+        "0.02361"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.48193"
+      ], 
+      [
+        "device", 
+        "0.52208"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41082"
+      ], 
+      [
+        "equipment", 
+        "0.37024"
+      ], 
+      [
+        "cellular telephone", 
+        "0.26529"
+      ]
+    ], 
+    "5.588"
+  ]
+}

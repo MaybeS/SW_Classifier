@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stove", 
+        "0.64272"
+      ], 
+      [
+        "tape player", 
+        "0.18394"
+      ], 
+      [
+        "cassette player", 
+        "0.06225"
+      ], 
+      [
+        "waffle iron", 
+        "0.02577"
+      ], 
+      [
+        "CD player", 
+        "0.01233"
+      ]
+    ], 
+    [
+      [
+        "stove", 
+        "0.69054"
+      ], 
+      [
+        "heater", 
+        "0.64120"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46322"
+      ], 
+      [
+        "equipment", 
+        "0.41552"
+      ], 
+      [
+        "device", 
+        "0.31156"
+      ]
+    ], 
+    "5.589"
+  ]
+}

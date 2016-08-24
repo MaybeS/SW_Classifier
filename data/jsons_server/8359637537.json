@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.38368"
+      ], 
+      [
+        "cellular telephone", 
+        "0.23287"
+      ], 
+      [
+        "modem", 
+        "0.17628"
+      ], 
+      [
+        "waffle iron", 
+        "0.06528"
+      ], 
+      [
+        "CD player", 
+        "0.03827"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.79632"
+      ], 
+      [
+        "electronic equipment", 
+        "0.73900"
+      ], 
+      [
+        "equipment", 
+        "0.59961"
+      ], 
+      [
+        "cellular telephone", 
+        "0.54953"
+      ], 
+      [
+        "radiotelephone", 
+        "0.54145"
+      ]
+    ], 
+    "10.668"
+  ]
+}

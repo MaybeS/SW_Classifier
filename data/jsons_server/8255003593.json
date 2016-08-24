@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.27273"
+      ], 
+      [
+        "notebook", 
+        "0.16772"
+      ], 
+      [
+        "remote control", 
+        "0.09354"
+      ], 
+      [
+        "laptop", 
+        "0.07270"
+      ], 
+      [
+        "bathtub", 
+        "0.06603"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.42949"
+      ], 
+      [
+        "digital computer", 
+        "0.42126"
+      ], 
+      [
+        "portable computer", 
+        "0.41617"
+      ], 
+      [
+        "computer", 
+        "0.40144"
+      ], 
+      [
+        "device", 
+        "0.39787"
+      ]
+    ], 
+    "8.039"
+  ]
+}

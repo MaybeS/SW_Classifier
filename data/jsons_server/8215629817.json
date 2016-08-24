@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.29791"
+      ], 
+      [
+        "digital clock", 
+        "0.22173"
+      ], 
+      [
+        "digital watch", 
+        "0.09338"
+      ], 
+      [
+        "combination lock", 
+        "0.08464"
+      ], 
+      [
+        "remote control", 
+        "0.08027"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.70179"
+      ], 
+      [
+        "timepiece", 
+        "0.69788"
+      ], 
+      [
+        "instrument", 
+        "0.54207"
+      ], 
+      [
+        "device", 
+        "0.49001"
+      ], 
+      [
+        "clock", 
+        "0.38955"
+      ]
+    ], 
+    "7.871"
+  ]
+}

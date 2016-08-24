@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.12970"
+      ], 
+      [
+        "rubber eraser", 
+        "0.09352"
+      ], 
+      [
+        "notebook", 
+        "0.06930"
+      ], 
+      [
+        "printer", 
+        "0.06179"
+      ], 
+      [
+        "modem", 
+        "0.05999"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.52324"
+      ], 
+      [
+        "equipment", 
+        "0.48273"
+      ], 
+      [
+        "machine", 
+        "0.36233"
+      ], 
+      [
+        "device", 
+        "0.35634"
+      ], 
+      [
+        "personal computer", 
+        "0.33778"
+      ]
+    ], 
+    "5.657"
+  ]
+}

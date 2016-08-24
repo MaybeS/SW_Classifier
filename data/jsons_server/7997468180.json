@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.51236"
+      ], 
+      [
+        "CD player", 
+        "0.25912"
+      ], 
+      [
+        "projector", 
+        "0.06484"
+      ], 
+      [
+        "mouse", 
+        "0.01556"
+      ], 
+      [
+        "lens cap", 
+        "0.01463"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.78197"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.70478"
+      ], 
+      [
+        "transducer", 
+        "0.69306"
+      ], 
+      [
+        "electrical device", 
+        "0.68135"
+      ], 
+      [
+        "equipment", 
+        "0.52577"
+      ]
+    ], 
+    "8.164"
+  ]
+}

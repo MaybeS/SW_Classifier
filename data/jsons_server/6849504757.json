@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.99113"
+      ], 
+      [
+        "holster", 
+        "0.00253"
+      ], 
+      [
+        "tripod", 
+        "0.00204"
+      ], 
+      [
+        "reflex camera", 
+        "0.00095"
+      ], 
+      [
+        "buckle", 
+        "0.00082"
+      ]
+    ], 
+    [
+      [
+        "binoculars", 
+        "0.95558"
+      ], 
+      [
+        "optical instrument", 
+        "0.83054"
+      ], 
+      [
+        "instrument", 
+        "0.53277"
+      ], 
+      [
+        "device", 
+        "0.41077"
+      ], 
+      [
+        "covering", 
+        "0.29498"
+      ]
+    ], 
+    "6.867"
+  ]
+}

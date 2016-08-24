@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.20568"
+      ], 
+      [
+        "microphone", 
+        "0.12640"
+      ], 
+      [
+        "syringe", 
+        "0.12268"
+      ], 
+      [
+        "toilet tissue", 
+        "0.04471"
+      ], 
+      [
+        "screwdriver", 
+        "0.04079"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35209"
+      ], 
+      [
+        "implement", 
+        "0.34562"
+      ], 
+      [
+        "whistle", 
+        "0.25126"
+      ], 
+      [
+        "signaling device", 
+        "0.24757"
+      ], 
+      [
+        "acoustic device", 
+        "0.24757"
+      ]
+    ], 
+    "7.366"
+  ]
+}

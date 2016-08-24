@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.37915"
+      ], 
+      [
+        "puck", 
+        "0.15864"
+      ], 
+      [
+        "switch", 
+        "0.05639"
+      ], 
+      [
+        "joystick", 
+        "0.04355"
+      ], 
+      [
+        "CD player", 
+        "0.03480"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.57339"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.52295"
+      ], 
+      [
+        "transducer", 
+        "0.51425"
+      ], 
+      [
+        "electrical device", 
+        "0.50556"
+      ], 
+      [
+        "puck", 
+        "0.50334"
+      ]
+    ], 
+    "5.971"
+  ]
+}

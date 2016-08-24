@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "brassiere", 
+        "0.76570"
+      ], 
+      [
+        "bow tie", 
+        "0.23253"
+      ], 
+      [
+        "custard apple", 
+        "0.00046"
+      ], 
+      [
+        "hair slide", 
+        "0.00036"
+      ], 
+      [
+        "Windsor tie", 
+        "0.00017"
+      ]
+    ], 
+    [
+      [
+        "brassiere", 
+        "1.15597"
+      ], 
+      [
+        "undergarment", 
+        "1.13899"
+      ], 
+      [
+        "garment", 
+        "1.09252"
+      ], 
+      [
+        "clothing", 
+        "1.07051"
+      ], 
+      [
+        "woman\'s clothing", 
+        "1.05201"
+      ]
+    ], 
+    "8.427"
+  ]
+}

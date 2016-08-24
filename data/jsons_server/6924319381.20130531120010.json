@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.15187"
+      ], 
+      [
+        "fire screen", 
+        "0.13664"
+      ], 
+      [
+        "loudspeaker", 
+        "0.13392"
+      ], 
+      [
+        "binder", 
+        "0.12555"
+      ], 
+      [
+        "lighter", 
+        "0.07334"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.35098"
+      ], 
+      [
+        "protective covering", 
+        "0.32647"
+      ], 
+      [
+        "fire screen", 
+        "0.31141"
+      ], 
+      [
+        "screen", 
+        "0.27716"
+      ], 
+      [
+        "device", 
+        "0.26052"
+      ]
+    ], 
+    "6.624"
+  ]
+}

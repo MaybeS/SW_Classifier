@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.41092"
+      ], 
+      [
+        "photocopier", 
+        "0.20817"
+      ], 
+      [
+        "modem", 
+        "0.10398"
+      ], 
+      [
+        "CD player", 
+        "0.04146"
+      ], 
+      [
+        "screen", 
+        "0.03225"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.85882"
+      ], 
+      [
+        "photocopier", 
+        "0.76597"
+      ], 
+      [
+        "duplicator", 
+        "0.75471"
+      ], 
+      [
+        "apparatus", 
+        "0.74346"
+      ], 
+      [
+        "electronic equipment", 
+        "0.72022"
+      ]
+    ], 
+    "6.824"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.70348"
+      ], 
+      [
+        "screen", 
+        "0.10165"
+      ], 
+      [
+        "television", 
+        "0.02431"
+      ], 
+      [
+        "safety pin", 
+        "0.01258"
+      ], 
+      [
+        "modem", 
+        "0.01157"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "1.46439"
+      ], 
+      [
+        "personal computer", 
+        "1.46328"
+      ], 
+      [
+        "digital computer", 
+        "1.43526"
+      ], 
+      [
+        "hand-held computer", 
+        "1.42855"
+      ], 
+      [
+        "computer", 
+        "1.33120"
+      ]
+    ], 
+    "8.536"
+  ]
+}

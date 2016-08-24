@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.37375"
+      ], 
+      [
+        "modem", 
+        "0.25620"
+      ], 
+      [
+        "binder", 
+        "0.07793"
+      ], 
+      [
+        "desktop computer", 
+        "0.06727"
+      ], 
+      [
+        "medicine chest", 
+        "0.05389"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.44231"
+      ], 
+      [
+        "switch", 
+        "0.41735"
+      ], 
+      [
+        "control", 
+        "0.40788"
+      ], 
+      [
+        "equipment", 
+        "0.39022"
+      ], 
+      [
+        "device", 
+        "0.34884"
+      ]
+    ], 
+    "5.921"
+  ]
+}

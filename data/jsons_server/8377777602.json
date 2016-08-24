@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.71760"
+      ], 
+      [
+        "hand blower", 
+        "0.12295"
+      ], 
+      [
+        "can opener", 
+        "0.04794"
+      ], 
+      [
+        "corkscrew", 
+        "0.04644"
+      ], 
+      [
+        "screwdriver", 
+        "0.00783"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.54166"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.49702"
+      ], 
+      [
+        "transducer", 
+        "0.48876"
+      ], 
+      [
+        "electrical device", 
+        "0.48050"
+      ], 
+      [
+        "device", 
+        "0.40968"
+      ]
+    ], 
+    "10.316"
+  ]
+}

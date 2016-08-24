@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.38422"
+      ], 
+      [
+        "space heater", 
+        "0.14844"
+      ], 
+      [
+        "screen", 
+        "0.12331"
+      ], 
+      [
+        "desktop computer", 
+        "0.10606"
+      ], 
+      [
+        "monitor", 
+        "0.07732"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.60455"
+      ], 
+      [
+        "equipment", 
+        "0.49595"
+      ], 
+      [
+        "personal computer", 
+        "0.43829"
+      ], 
+      [
+        "machine", 
+        "0.43630"
+      ], 
+      [
+        "digital computer", 
+        "0.42990"
+      ]
+    ], 
+    "9.007"
+  ]
+}

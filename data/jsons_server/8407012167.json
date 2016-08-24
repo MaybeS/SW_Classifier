@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.12858"
+      ], 
+      [
+        "radio", 
+        "0.10521"
+      ], 
+      [
+        "spotlight", 
+        "0.05253"
+      ], 
+      [
+        "microphone", 
+        "0.04003"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03628"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32223"
+      ], 
+      [
+        "equipment", 
+        "0.29634"
+      ], 
+      [
+        "conveyance", 
+        "0.25963"
+      ], 
+      [
+        "vehicle", 
+        "0.25835"
+      ], 
+      [
+        "electronic equipment", 
+        "0.23079"
+      ]
+    ], 
+    "9.121"
+  ]
+}

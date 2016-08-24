@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "unicycle", 
+        "0.27467"
+      ], 
+      [
+        "punching bag", 
+        "0.15741"
+      ], 
+      [
+        "swimming trunks", 
+        "0.12308"
+      ], 
+      [
+        "binoculars", 
+        "0.10096"
+      ], 
+      [
+        "knee pad", 
+        "0.07196"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.48978"
+      ], 
+      [
+        "unicycle", 
+        "0.47470"
+      ], 
+      [
+        "consumer goods", 
+        "0.44693"
+      ], 
+      [
+        "covering", 
+        "0.44440"
+      ], 
+      [
+        "commodity", 
+        "0.42344"
+      ]
+    ], 
+    "5.399"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.23023"
+      ], 
+      [
+        "combination lock", 
+        "0.10933"
+      ], 
+      [
+        "magnetic compass", 
+        "0.10076"
+      ], 
+      [
+        "projector", 
+        "0.09934"
+      ], 
+      [
+        "spotlight", 
+        "0.06183"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.51242"
+      ], 
+      [
+        "fan", 
+        "0.50490"
+      ], 
+      [
+        "device", 
+        "0.46126"
+      ], 
+      [
+        "instrument", 
+        "0.44613"
+      ], 
+      [
+        "measuring instrument", 
+        "0.33165"
+      ]
+    ], 
+    "5.458"
+  ]
+}

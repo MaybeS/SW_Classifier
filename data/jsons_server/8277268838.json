@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "trench coat", 
+        "0.19209"
+      ], 
+      [
+        "bearskin", 
+        "0.09320"
+      ], 
+      [
+        "mortarboard", 
+        "0.05597"
+      ], 
+      [
+        "military uniform", 
+        "0.04978"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.04843"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.95952"
+      ], 
+      [
+        "consumer goods", 
+        "0.85242"
+      ], 
+      [
+        "covering", 
+        "0.82852"
+      ], 
+      [
+        "commodity", 
+        "0.80893"
+      ], 
+      [
+        "garment", 
+        "0.74271"
+      ]
+    ], 
+    "5.437"
+  ]
+}

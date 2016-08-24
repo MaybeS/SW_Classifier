@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ballpoint", 
+        "0.58075"
+      ], 
+      [
+        "fountain pen", 
+        "0.16808"
+      ], 
+      [
+        "digital clock", 
+        "0.12843"
+      ], 
+      [
+        "analog clock", 
+        "0.01228"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.00993"
+      ]
+    ], 
+    [
+      [
+        "pen", 
+        "1.03739"
+      ], 
+      [
+        "writing implement", 
+        "1.01890"
+      ], 
+      [
+        "implement", 
+        "0.85269"
+      ], 
+      [
+        "ballpoint", 
+        "0.64956"
+      ], 
+      [
+        "fountain pen", 
+        "0.58006"
+      ]
+    ], 
+    "10.762"
+  ]
+}

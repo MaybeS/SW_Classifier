@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.35281"
+      ], 
+      [
+        "stopwatch", 
+        "0.32693"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07956"
+      ], 
+      [
+        "scale", 
+        "0.03340"
+      ], 
+      [
+        "scoreboard", 
+        "0.03284"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "1.22108"
+      ], 
+      [
+        "timepiece", 
+        "1.20287"
+      ], 
+      [
+        "instrument", 
+        "0.89417"
+      ], 
+      [
+        "stopwatch", 
+        "0.72417"
+      ], 
+      [
+        "timer", 
+        "0.65337"
+      ]
+    ], 
+    "5.073"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "monitor", 
+        "0.16691"
+      ], 
+      [
+        "scoreboard", 
+        "0.14820"
+      ], 
+      [
+        "digital clock", 
+        "0.09671"
+      ], 
+      [
+        "radio", 
+        "0.08963"
+      ], 
+      [
+        "modem", 
+        "0.07373"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51059"
+      ], 
+      [
+        "scoreboard", 
+        "0.47327"
+      ], 
+      [
+        "board", 
+        "0.46631"
+      ], 
+      [
+        "signboard", 
+        "0.46631"
+      ], 
+      [
+        "equipment", 
+        "0.43247"
+      ]
+    ], 
+    "6.695"
+  ]
+}

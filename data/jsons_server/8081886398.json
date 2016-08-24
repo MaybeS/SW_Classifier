@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "punching bag", 
+        "0.24586"
+      ], 
+      [
+        "jean", 
+        "0.18092"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.12462"
+      ], 
+      [
+        "knee pad", 
+        "0.10029"
+      ], 
+      [
+        "dumbbell", 
+        "0.06674"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.68385"
+      ], 
+      [
+        "covering", 
+        "0.65740"
+      ], 
+      [
+        "consumer goods", 
+        "0.61992"
+      ], 
+      [
+        "garment", 
+        "0.60691"
+      ], 
+      [
+        "commodity", 
+        "0.59126"
+      ]
+    ], 
+    "5.995"
+  ]
+}

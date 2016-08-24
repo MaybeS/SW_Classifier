@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.47543"
+      ], 
+      [
+        "microphone", 
+        "0.30732"
+      ], 
+      [
+        "hook", 
+        "0.06120"
+      ], 
+      [
+        "vacuum", 
+        "0.03240"
+      ], 
+      [
+        "combination lock", 
+        "0.02196"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.41244"
+      ], 
+      [
+        "stethoscope", 
+        "0.39641"
+      ], 
+      [
+        "medical instrument", 
+        "0.37134"
+      ], 
+      [
+        "instrument", 
+        "0.30373"
+      ], 
+      [
+        "covering", 
+        "0.26220"
+      ]
+    ], 
+    "8.259"
+  ]
+}

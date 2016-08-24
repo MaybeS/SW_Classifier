@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pay-phone", 
+        "0.25284"
+      ], 
+      [
+        "scale", 
+        "0.12213"
+      ], 
+      [
+        "switch", 
+        "0.10739"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07277"
+      ], 
+      [
+        "web site", 
+        "0.05710"
+      ]
+    ], 
+    [
+      [
+        "telephone", 
+        "0.58518"
+      ], 
+      [
+        "pay-phone", 
+        "0.56297"
+      ], 
+      [
+        "electronic equipment", 
+        "0.55238"
+      ], 
+      [
+        "equipment", 
+        "0.45194"
+      ], 
+      [
+        "machine", 
+        "0.44121"
+      ]
+    ], 
+    "9.148"
+  ]
+}

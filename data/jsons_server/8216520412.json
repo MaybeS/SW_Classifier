@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.13857"
+      ], 
+      [
+        "lighter", 
+        "0.08482"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07613"
+      ], 
+      [
+        "web site", 
+        "0.06843"
+      ], 
+      [
+        "switch", 
+        "0.05115"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.46080"
+      ], 
+      [
+        "computer", 
+        "0.43667"
+      ], 
+      [
+        "device", 
+        "0.36225"
+      ], 
+      [
+        "web site", 
+        "0.28481"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27514"
+      ]
+    ], 
+    "5.703"
+  ]
+}

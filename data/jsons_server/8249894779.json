@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.44401"
+      ], 
+      [
+        "hand-held computer", 
+        "0.39106"
+      ], 
+      [
+        "cellular telephone", 
+        "0.02450"
+      ], 
+      [
+        "printer", 
+        "0.02180"
+      ], 
+      [
+        "joystick", 
+        "0.01053"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.84128"
+      ], 
+      [
+        "personal computer", 
+        "0.81406"
+      ], 
+      [
+        "hand-held computer", 
+        "0.80431"
+      ], 
+      [
+        "digital computer", 
+        "0.79847"
+      ], 
+      [
+        "computer", 
+        "0.75846"
+      ]
+    ], 
+    "7.547"
+  ]
+}

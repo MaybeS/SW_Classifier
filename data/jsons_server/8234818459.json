@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.99095"
+      ], 
+      [
+        "switch", 
+        "0.00170"
+      ], 
+      [
+        "holster", 
+        "0.00062"
+      ], 
+      [
+        "knee pad", 
+        "0.00061"
+      ], 
+      [
+        "corkscrew", 
+        "0.00055"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.12177"
+      ], 
+      [
+        "control", 
+        "1.04309"
+      ], 
+      [
+        "data input device", 
+        "1.03791"
+      ], 
+      [
+        "peripheral", 
+        "0.96956"
+      ], 
+      [
+        "electronic equipment", 
+        "0.80886"
+      ]
+    ], 
+    "12.795"
+  ]
+}

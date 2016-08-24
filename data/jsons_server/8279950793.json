@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.34394"
+      ], 
+      [
+        "cassette", 
+        "0.18445"
+      ], 
+      [
+        "cassette player", 
+        "0.04947"
+      ], 
+      [
+        "web site", 
+        "0.04823"
+      ], 
+      [
+        "oscilloscope", 
+        "0.04368"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.71463"
+      ], 
+      [
+        "electronic equipment", 
+        "0.53610"
+      ], 
+      [
+        "cash machine", 
+        "0.50647"
+      ], 
+      [
+        "equipment", 
+        "0.44619"
+      ], 
+      [
+        "device", 
+        "0.38752"
+      ]
+    ], 
+    "9.714"
+  ]
+}

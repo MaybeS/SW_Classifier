@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.17727"
+      ], 
+      [
+        "digital clock", 
+        "0.10952"
+      ], 
+      [
+        "radio", 
+        "0.07311"
+      ], 
+      [
+        "scale", 
+        "0.07150"
+      ], 
+      [
+        "stopwatch", 
+        "0.06860"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.70721"
+      ], 
+      [
+        "instrument", 
+        "0.58982"
+      ], 
+      [
+        "timepiece", 
+        "0.53845"
+      ], 
+      [
+        "device", 
+        "0.45146"
+      ], 
+      [
+        "equipment", 
+        "0.36436"
+      ]
+    ], 
+    "5.315"
+  ]
+}

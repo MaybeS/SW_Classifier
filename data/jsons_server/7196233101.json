@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "brassiere", 
+        "0.99705"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.00117"
+      ], 
+      [
+        "breastplate", 
+        "0.00045"
+      ], 
+      [
+        "maillot", 
+        "0.00025"
+      ], 
+      [
+        "Windsor tie", 
+        "0.00019"
+      ]
+    ], 
+    [
+      [
+        "brassiere", 
+        "1.47610"
+      ], 
+      [
+        "undergarment", 
+        "1.45441"
+      ], 
+      [
+        "woman\'s clothing", 
+        "1.33757"
+      ], 
+      [
+        "garment", 
+        "1.14206"
+      ], 
+      [
+        "clothing", 
+        "1.10318"
+      ]
+    ], 
+    "5.871"
+  ]
+}

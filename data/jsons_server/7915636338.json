@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stove", 
+        "0.33346"
+      ], 
+      [
+        "tape player", 
+        "0.29896"
+      ], 
+      [
+        "cassette player", 
+        "0.17342"
+      ], 
+      [
+        "oscilloscope", 
+        "0.04706"
+      ], 
+      [
+        "radio", 
+        "0.03894"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.79959"
+      ], 
+      [
+        "equipment", 
+        "0.65094"
+      ], 
+      [
+        "cassette player", 
+        "0.42912"
+      ], 
+      [
+        "stove", 
+        "0.38750"
+      ], 
+      [
+        "heater", 
+        "0.37746"
+      ]
+    ], 
+    "7.516"
+  ]
+}

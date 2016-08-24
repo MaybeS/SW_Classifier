@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "miniskirt", 
+        "0.31674"
+      ], 
+      [
+        "velvet", 
+        "0.17376"
+      ], 
+      [
+        "swimming trunks", 
+        "0.13995"
+      ], 
+      [
+        "sarong", 
+        "0.08508"
+      ], 
+      [
+        "theater curtain", 
+        "0.08499"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.97934"
+      ], 
+      [
+        "garment", 
+        "0.92415"
+      ], 
+      [
+        "covering", 
+        "0.88953"
+      ], 
+      [
+        "consumer goods", 
+        "0.86521"
+      ], 
+      [
+        "commodity", 
+        "0.82477"
+      ]
+    ], 
+    "5.643"
+  ]
+}

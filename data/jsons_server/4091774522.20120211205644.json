@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.24121"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.17640"
+      ], 
+      [
+        "hard disc", 
+        "0.08120"
+      ], 
+      [
+        "stretcher", 
+        "0.07930"
+      ], 
+      [
+        "oscilloscope", 
+        "0.07109"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.50104"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48382"
+      ], 
+      [
+        "device", 
+        "0.29798"
+      ], 
+      [
+        "container", 
+        "0.28768"
+      ], 
+      [
+        "oscilloscope", 
+        "0.24335"
+      ]
+    ], 
+    "9.111"
+  ]
+}

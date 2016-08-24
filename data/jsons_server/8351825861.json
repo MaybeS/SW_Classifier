@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "balance beam", 
+        "0.65243"
+      ], 
+      [
+        "rule", 
+        "0.06679"
+      ], 
+      [
+        "stretcher", 
+        "0.04171"
+      ], 
+      [
+        "studio couch", 
+        "0.02803"
+      ], 
+      [
+        "slide rule", 
+        "0.02713"
+      ]
+    ], 
+    [
+      [
+        "gymnastic apparatus", 
+        "1.29445"
+      ], 
+      [
+        "sports equipment", 
+        "1.14819"
+      ], 
+      [
+        "balance beam", 
+        "1.08647"
+      ], 
+      [
+        "equipment", 
+        "0.84091"
+      ], 
+      [
+        "horizontal bar", 
+        "0.31030"
+      ]
+    ], 
+    "14.523"
+  ]
+}

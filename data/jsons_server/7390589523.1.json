@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.57083"
+      ], 
+      [
+        "loudspeaker", 
+        "0.09715"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05377"
+      ], 
+      [
+        "crash helmet", 
+        "0.04755"
+      ], 
+      [
+        "loupe", 
+        "0.04418"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "1.05958"
+      ], 
+      [
+        "protective garment", 
+        "0.94279"
+      ], 
+      [
+        "clothing", 
+        "0.75061"
+      ], 
+      [
+        "covering", 
+        "0.68958"
+      ], 
+      [
+        "consumer goods", 
+        "0.68645"
+      ]
+    ], 
+    "8.270"
+  ]
+}

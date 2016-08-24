@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ski mask", 
+        "0.17116"
+      ], 
+      [
+        "sunglass", 
+        "0.15611"
+      ], 
+      [
+        "sunglasses", 
+        "0.11404"
+      ], 
+      [
+        "sleeping bag", 
+        "0.07482"
+      ], 
+      [
+        "bathing cap", 
+        "0.05367"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.56345"
+      ], 
+      [
+        "clothing", 
+        "0.49466"
+      ], 
+      [
+        "consumer goods", 
+        "0.45499"
+      ], 
+      [
+        "commodity", 
+        "0.43888"
+      ], 
+      [
+        "ski mask", 
+        "0.35529"
+      ]
+    ], 
+    "9.267"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.98713"
+      ], 
+      [
+        "lens cap", 
+        "0.00379"
+      ], 
+      [
+        "digital watch", 
+        "0.00171"
+      ], 
+      [
+        "loudspeaker", 
+        "0.00145"
+      ], 
+      [
+        "CD player", 
+        "0.00077"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "2.24908"
+      ], 
+      [
+        "photographic equipment", 
+        "2.21168"
+      ], 
+      [
+        "reflex camera", 
+        "2.20062"
+      ], 
+      [
+        "equipment", 
+        "1.09841"
+      ], 
+      [
+        "lens cap", 
+        "0.36296"
+      ]
+    ], 
+    "6.623"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.28368"
+      ], 
+      [
+        "joystick", 
+        "0.17272"
+      ], 
+      [
+        "binoculars", 
+        "0.11304"
+      ], 
+      [
+        "loudspeaker", 
+        "0.07248"
+      ], 
+      [
+        "modem", 
+        "0.04443"
+      ]
+    ], 
+    [
+      [
+        "optical instrument", 
+        "0.43313"
+      ], 
+      [
+        "equipment", 
+        "0.41649"
+      ], 
+      [
+        "device", 
+        "0.41018"
+      ], 
+      [
+        "projector", 
+        "0.38972"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35873"
+      ]
+    ], 
+    "9.829"
+  ]
+}

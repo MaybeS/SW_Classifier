@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.90671"
+      ], 
+      [
+        "vacuum", 
+        "0.01753"
+      ], 
+      [
+        "espresso maker", 
+        "0.01360"
+      ], 
+      [
+        "soap dispenser", 
+        "0.00904"
+      ], 
+      [
+        "spotlight", 
+        "0.00472"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.67706"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.61408"
+      ], 
+      [
+        "transducer", 
+        "0.60387"
+      ], 
+      [
+        "electrical device", 
+        "0.59366"
+      ], 
+      [
+        "device", 
+        "0.43131"
+      ]
+    ], 
+    "12.161"
+  ]
+}

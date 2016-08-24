@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.81768"
+      ], 
+      [
+        "nipple", 
+        "0.04668"
+      ], 
+      [
+        "sunscreen", 
+        "0.02421"
+      ], 
+      [
+        "web site", 
+        "0.00969"
+      ], 
+      [
+        "lotion", 
+        "0.00793"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.57058"
+      ], 
+      [
+        "device", 
+        "0.52048"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42588"
+      ], 
+      [
+        "equipment", 
+        "0.37494"
+      ], 
+      [
+        "cellular telephone", 
+        "0.29013"
+      ]
+    ], 
+    "5.187"
+  ]
+}

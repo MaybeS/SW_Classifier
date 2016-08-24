@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.71760"
+      ], 
+      [
+        "switch", 
+        "0.06212"
+      ], 
+      [
+        "joystick", 
+        "0.02479"
+      ], 
+      [
+        "radio", 
+        "0.02219"
+      ], 
+      [
+        "hand-held computer", 
+        "0.01729"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.84109"
+      ], 
+      [
+        "combination lock", 
+        "0.83820"
+      ], 
+      [
+        "fastener", 
+        "0.70185"
+      ], 
+      [
+        "restraint", 
+        "0.64754"
+      ], 
+      [
+        "device", 
+        "0.48343"
+      ]
+    ], 
+    "11.706"
+  ]
+}

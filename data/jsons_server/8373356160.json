@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.17663"
+      ], 
+      [
+        "lighter", 
+        "0.15528"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05828"
+      ], 
+      [
+        "punching bag", 
+        "0.05083"
+      ], 
+      [
+        "monitor", 
+        "0.04415"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32249"
+      ], 
+      [
+        "television", 
+        "0.28538"
+      ], 
+      [
+        "telecommunication system", 
+        "0.28119"
+      ], 
+      [
+        "machine", 
+        "0.27135"
+      ], 
+      [
+        "equipment", 
+        "0.26797"
+      ]
+    ], 
+    "7.577"
+  ]
+}

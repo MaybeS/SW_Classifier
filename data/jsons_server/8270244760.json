@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.40534"
+      ], 
+      [
+        "oxygen mask", 
+        "0.18756"
+      ], 
+      [
+        "combination lock", 
+        "0.13338"
+      ], 
+      [
+        "can opener", 
+        "0.05894"
+      ], 
+      [
+        "switch", 
+        "0.03792"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35710"
+      ], 
+      [
+        "container", 
+        "0.23378"
+      ], 
+      [
+        "covering", 
+        "0.20858"
+      ], 
+      [
+        "spotlight", 
+        "0.20496"
+      ], 
+      [
+        "restraint", 
+        "0.19496"
+      ]
+    ], 
+    "8.524"
+  ]
+}

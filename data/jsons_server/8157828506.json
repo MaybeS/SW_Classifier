@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.23294"
+      ], 
+      [
+        "refrigerator", 
+        "0.19246"
+      ], 
+      [
+        "envelope", 
+        "0.14021"
+      ], 
+      [
+        "sliding door", 
+        "0.04102"
+      ], 
+      [
+        "medicine chest", 
+        "0.03870"
+      ]
+    ], 
+    [
+      [
+        "furnishing", 
+        "0.34584"
+      ], 
+      [
+        "furniture", 
+        "0.33339"
+      ], 
+      [
+        "white goods", 
+        "0.32380"
+      ], 
+      [
+        "refrigerator", 
+        "0.32322"
+      ], 
+      [
+        "home appliance", 
+        "0.30764"
+      ]
+    ], 
+    "6.609"
+  ]
+}

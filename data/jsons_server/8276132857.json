@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.41245"
+      ], 
+      [
+        "hand-held computer", 
+        "0.38831"
+      ], 
+      [
+        "slot", 
+        "0.05644"
+      ], 
+      [
+        "abacus", 
+        "0.02451"
+      ], 
+      [
+        "radio", 
+        "0.01775"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.91053"
+      ], 
+      [
+        "hand-held computer", 
+        "0.90390"
+      ], 
+      [
+        "personal computer", 
+        "0.87473"
+      ], 
+      [
+        "remote control", 
+        "0.86459"
+      ], 
+      [
+        "digital computer", 
+        "0.85798"
+      ]
+    ], 
+    "4.919"
+  ]
+}

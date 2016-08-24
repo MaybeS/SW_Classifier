@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "military uniform", 
+        "0.42290"
+      ], 
+      [
+        "lab coat", 
+        "0.09192"
+      ], 
+      [
+        "suit", 
+        "0.09190"
+      ], 
+      [
+        "bearskin", 
+        "0.04914"
+      ], 
+      [
+        "mortarboard", 
+        "0.04175"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.97246"
+      ], 
+      [
+        "consumer goods", 
+        "0.85746"
+      ], 
+      [
+        "covering", 
+        "0.83312"
+      ], 
+      [
+        "commodity", 
+        "0.81287"
+      ], 
+      [
+        "garment", 
+        "0.59873"
+      ]
+    ], 
+    "8.571"
+  ]
+}

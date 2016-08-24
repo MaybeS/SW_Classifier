@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rotisserie", 
+        "0.39915"
+      ], 
+      [
+        "space heater", 
+        "0.11591"
+      ], 
+      [
+        "switch", 
+        "0.08662"
+      ], 
+      [
+        "radio", 
+        "0.05790"
+      ], 
+      [
+        "guillotine", 
+        "0.03957"
+      ]
+    ], 
+    [
+      [
+        "rotisserie", 
+        "1.15015"
+      ], 
+      [
+        "oven", 
+        "1.03430"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.92331"
+      ], 
+      [
+        "home appliance", 
+        "0.83050"
+      ], 
+      [
+        "appliance", 
+        "0.80151"
+      ]
+    ], 
+    "5.631"
+  ]
+}

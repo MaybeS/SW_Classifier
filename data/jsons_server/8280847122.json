@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.38232"
+      ], 
+      [
+        "soap dispenser", 
+        "0.12110"
+      ], 
+      [
+        "switch", 
+        "0.11489"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05252"
+      ], 
+      [
+        "iPod", 
+        "0.04104"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.57794"
+      ], 
+      [
+        "equipment", 
+        "0.48819"
+      ], 
+      [
+        "modem", 
+        "0.37914"
+      ], 
+      [
+        "device", 
+        "0.33798"
+      ], 
+      [
+        "container", 
+        "0.24098"
+      ]
+    ], 
+    "13.701"
+  ]
+}

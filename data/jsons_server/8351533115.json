@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.65388"
+      ], 
+      [
+        "backpack", 
+        "0.17218"
+      ], 
+      [
+        "mailbag", 
+        "0.03960"
+      ], 
+      [
+        "vacuum", 
+        "0.01066"
+      ], 
+      [
+        "rubber eraser", 
+        "0.00751"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.34542"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.32603"
+      ], 
+      [
+        "sharpener", 
+        "0.32124"
+      ], 
+      [
+        "container", 
+        "0.29470"
+      ], 
+      [
+        "consumer goods", 
+        "0.28508"
+      ]
+    ], 
+    "9.116"
+  ]
+}

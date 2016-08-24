@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette player", 
+        "0.32985"
+      ], 
+      [
+        "CD player", 
+        "0.12785"
+      ], 
+      [
+        "entertainment center", 
+        "0.08034"
+      ], 
+      [
+        "safe", 
+        "0.06561"
+      ], 
+      [
+        "printer", 
+        "0.05005"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.77834"
+      ], 
+      [
+        "equipment", 
+        "0.64660"
+      ], 
+      [
+        "cassette player", 
+        "0.44352"
+      ], 
+      [
+        "furniture", 
+        "0.37337"
+      ], 
+      [
+        "entertainment center", 
+        "0.37318"
+      ]
+    ], 
+    "6.240"
+  ]
+}

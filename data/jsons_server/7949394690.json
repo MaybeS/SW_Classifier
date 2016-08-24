@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.51809"
+      ], 
+      [
+        "cellular telephone", 
+        "0.17020"
+      ], 
+      [
+        "hand-held computer", 
+        "0.09036"
+      ], 
+      [
+        "switch", 
+        "0.08106"
+      ], 
+      [
+        "iPod", 
+        "0.05715"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.05410"
+      ], 
+      [
+        "electronic equipment", 
+        "0.67363"
+      ], 
+      [
+        "equipment", 
+        "0.54702"
+      ], 
+      [
+        "cellular telephone", 
+        "0.52507"
+      ], 
+      [
+        "radiotelephone", 
+        "0.51736"
+      ]
+    ], 
+    "7.764"
+  ]
+}

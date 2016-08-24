@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital watch", 
+        "0.96452"
+      ], 
+      [
+        "digital clock", 
+        "0.03076"
+      ], 
+      [
+        "stopwatch", 
+        "0.00377"
+      ], 
+      [
+        "analog clock", 
+        "0.00044"
+      ], 
+      [
+        "barometer", 
+        "0.00018"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "2.00454"
+      ], 
+      [
+        "measuring instrument", 
+        "1.83154"
+      ], 
+      [
+        "digital watch", 
+        "1.71345"
+      ], 
+      [
+        "watch", 
+        "1.68828"
+      ], 
+      [
+        "instrument", 
+        "1.29759"
+      ]
+    ], 
+    "5.685"
+  ]
+}

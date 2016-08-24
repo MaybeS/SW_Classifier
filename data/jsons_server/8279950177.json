@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mountain bike", 
+        "0.21551"
+      ], 
+      [
+        "ski", 
+        "0.08927"
+      ], 
+      [
+        "chain saw", 
+        "0.08103"
+      ], 
+      [
+        "can opener", 
+        "0.07604"
+      ], 
+      [
+        "corkscrew", 
+        "0.05803"
+      ]
+    ], 
+    [
+      [
+        "bicycle", 
+        "0.51218"
+      ], 
+      [
+        "mountain bike", 
+        "0.48076"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.47890"
+      ], 
+      [
+        "vehicle", 
+        "0.43824"
+      ], 
+      [
+        "conveyance", 
+        "0.41348"
+      ]
+    ], 
+    "5.663"
+  ]
+}

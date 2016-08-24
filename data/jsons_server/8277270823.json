@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.20420"
+      ], 
+      [
+        "modem", 
+        "0.13955"
+      ], 
+      [
+        "wallet", 
+        "0.06521"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05874"
+      ], 
+      [
+        "combination lock", 
+        "0.04675"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.36111"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35546"
+      ], 
+      [
+        "device", 
+        "0.35008"
+      ], 
+      [
+        "container", 
+        "0.26621"
+      ], 
+      [
+        "control", 
+        "0.24749"
+      ]
+    ], 
+    "5.969"
+  ]
+}

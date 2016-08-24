@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.28054"
+      ], 
+      [
+        "oscilloscope", 
+        "0.27118"
+      ], 
+      [
+        "web site", 
+        "0.20380"
+      ], 
+      [
+        "hard disc", 
+        "0.06074"
+      ], 
+      [
+        "switch", 
+        "0.02097"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.87397"
+      ], 
+      [
+        "oscilloscope", 
+        "0.86349"
+      ], 
+      [
+        "web site", 
+        "0.81419"
+      ], 
+      [
+        "computer", 
+        "0.76981"
+      ], 
+      [
+        "machine", 
+        "0.69475"
+      ]
+    ], 
+    "6.191"
+  ]
+}

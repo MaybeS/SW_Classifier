@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.29967"
+      ], 
+      [
+        "switch", 
+        "0.21594"
+      ], 
+      [
+        "projector", 
+        "0.19749"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.18256"
+      ], 
+      [
+        "combination lock", 
+        "0.02427"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.20137"
+      ], 
+      [
+        "photographic equipment", 
+        "1.18139"
+      ], 
+      [
+        "reflex camera", 
+        "0.75841"
+      ], 
+      [
+        "equipment", 
+        "0.71840"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.60139"
+      ]
+    ], 
+    "7.353"
+  ]
+}

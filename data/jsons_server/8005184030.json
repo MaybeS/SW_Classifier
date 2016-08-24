@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.49969"
+      ], 
+      [
+        "can opener", 
+        "0.10724"
+      ], 
+      [
+        "letter opener", 
+        "0.08908"
+      ], 
+      [
+        "stretcher", 
+        "0.04834"
+      ], 
+      [
+        "rotisserie", 
+        "0.02826"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.58048"
+      ], 
+      [
+        "electronic equipment", 
+        "0.52745"
+      ], 
+      [
+        "printer", 
+        "0.51260"
+      ], 
+      [
+        "printer", 
+        "0.50507"
+      ], 
+      [
+        "machine", 
+        "0.47358"
+      ]
+    ], 
+    "8.760"
+  ]
+}

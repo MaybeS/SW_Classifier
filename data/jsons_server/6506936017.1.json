@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "comic book", 
+        "0.38031"
+      ], 
+      [
+        "toyshop", 
+        "0.35007"
+      ], 
+      [
+        "safety pin", 
+        "0.06180"
+      ], 
+      [
+        "packet", 
+        "0.03665"
+      ], 
+      [
+        "rubber eraser", 
+        "0.02572"
+      ]
+    ], 
+    [
+      [
+        "mercantile establishment", 
+        "0.79400"
+      ], 
+      [
+        "place of business", 
+        "0.77599"
+      ], 
+      [
+        "shop", 
+        "0.75081"
+      ], 
+      [
+        "establishment", 
+        "0.74116"
+      ], 
+      [
+        "comic book", 
+        "0.72139"
+      ]
+    ], 
+    "4.680"
+  ]
+}

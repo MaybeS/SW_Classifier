@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pill bottle", 
+        "0.43183"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.19276"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06540"
+      ], 
+      [
+        "screwdriver", 
+        "0.06064"
+      ], 
+      [
+        "sunscreen", 
+        "0.02105"
+      ]
+    ], 
+    [
+      [
+        "pill bottle", 
+        "0.60567"
+      ], 
+      [
+        "bottle", 
+        "0.52035"
+      ], 
+      [
+        "vessel", 
+        "0.47167"
+      ], 
+      [
+        "container", 
+        "0.40387"
+      ], 
+      [
+        "implement", 
+        "0.27279"
+      ]
+    ], 
+    "4.916"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.21911"
+      ], 
+      [
+        "packet", 
+        "0.16199"
+      ], 
+      [
+        "street sign", 
+        "0.04423"
+      ], 
+      [
+        "tobacco shop", 
+        "0.04421"
+      ], 
+      [
+        "cash machine", 
+        "0.04197"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30174"
+      ], 
+      [
+        "container", 
+        "0.26131"
+      ], 
+      [
+        "musical instrument", 
+        "0.22420"
+      ], 
+      [
+        "harmonica", 
+        "0.20916"
+      ], 
+      [
+        "mercantile establishment", 
+        "0.20816"
+      ]
+    ], 
+    "4.670"
+  ]
+}

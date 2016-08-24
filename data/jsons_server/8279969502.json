@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tennis ball", 
+        "0.70173"
+      ], 
+      [
+        "Granny Smith", 
+        "0.08243"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.03990"
+      ], 
+      [
+        "maraca", 
+        "0.02583"
+      ], 
+      [
+        "croquet ball", 
+        "0.02187"
+      ]
+    ], 
+    [
+      [
+        "tennis ball", 
+        "2.27498"
+      ], 
+      [
+        "ball", 
+        "1.74308"
+      ], 
+      [
+        "game equipment", 
+        "1.57119"
+      ], 
+      [
+        "equipment", 
+        "1.10773"
+      ], 
+      [
+        "produce", 
+        "0.37269"
+      ]
+    ], 
+    "9.704"
+  ]
+}

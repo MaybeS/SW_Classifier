@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hook", 
+        "0.36956"
+      ], 
+      [
+        "stretcher", 
+        "0.27162"
+      ], 
+      [
+        "parallel bars", 
+        "0.08208"
+      ], 
+      [
+        "nail", 
+        "0.05159"
+      ], 
+      [
+        "horizontal bar", 
+        "0.04832"
+      ]
+    ], 
+    [
+      [
+        "sports equipment", 
+        "0.30419"
+      ], 
+      [
+        "equipment", 
+        "0.28629"
+      ], 
+      [
+        "gymnastic apparatus", 
+        "0.27964"
+      ], 
+      [
+        "conveyance", 
+        "0.27544"
+      ], 
+      [
+        "vehicle", 
+        "0.26249"
+      ]
+    ], 
+    "10.016"
+  ]
+}

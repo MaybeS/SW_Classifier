@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.16550"
+      ], 
+      [
+        "digital clock", 
+        "0.16338"
+      ], 
+      [
+        "remote control", 
+        "0.11257"
+      ], 
+      [
+        "hand-held computer", 
+        "0.10260"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05886"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "0.52627"
+      ], 
+      [
+        "signboard", 
+        "0.51854"
+      ], 
+      [
+        "board", 
+        "0.51854"
+      ], 
+      [
+        "sheet", 
+        "0.45278"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44578"
+      ]
+    ], 
+    "5.647"
+  ]
+}

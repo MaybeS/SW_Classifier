@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.31502"
+      ], 
+      [
+        "rule", 
+        "0.29085"
+      ], 
+      [
+        "digital clock", 
+        "0.14321"
+      ], 
+      [
+        "rubber eraser", 
+        "0.04358"
+      ], 
+      [
+        "switch", 
+        "0.03660"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.48692"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42336"
+      ], 
+      [
+        "instrument", 
+        "0.40978"
+      ], 
+      [
+        "device", 
+        "0.38754"
+      ], 
+      [
+        "equipment", 
+        "0.38065"
+      ]
+    ], 
+    "8.278"
+  ]
+}

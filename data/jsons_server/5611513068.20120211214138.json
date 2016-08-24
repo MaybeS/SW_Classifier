@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.99321"
+      ], 
+      [
+        "binoculars", 
+        "0.00667"
+      ], 
+      [
+        "breastplate", 
+        "0.00001"
+      ], 
+      [
+        "power drill", 
+        "0.00001"
+      ], 
+      [
+        "plunger", 
+        "0.00001"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.12435"
+      ], 
+      [
+        "control", 
+        "1.04384"
+      ], 
+      [
+        "data input device", 
+        "1.04027"
+      ], 
+      [
+        "peripheral", 
+        "0.97166"
+      ], 
+      [
+        "electronic equipment", 
+        "0.80983"
+      ]
+    ], 
+    "9.168"
+  ]
+}

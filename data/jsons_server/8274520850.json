@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "maraca", 
+        "0.41825"
+      ], 
+      [
+        "clog", 
+        "0.05597"
+      ], 
+      [
+        "banana", 
+        "0.05063"
+      ], 
+      [
+        "toyshop", 
+        "0.04636"
+      ], 
+      [
+        "crash helmet", 
+        "0.03016"
+      ]
+    ], 
+    [
+      [
+        "maraca", 
+        "0.53123"
+      ], 
+      [
+        "percussion instrument", 
+        "0.39951"
+      ], 
+      [
+        "musical instrument", 
+        "0.36214"
+      ], 
+      [
+        "covering", 
+        "0.27900"
+      ], 
+      [
+        "produce", 
+        "0.25086"
+      ]
+    ], 
+    "9.904"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "corn", 
+        "0.20042"
+      ], 
+      [
+        "table lamp", 
+        "0.18094"
+      ], 
+      [
+        "lampshade", 
+        "0.12159"
+      ], 
+      [
+        "paper towel", 
+        "0.07899"
+      ], 
+      [
+        "hamper", 
+        "0.04517"
+      ]
+    ], 
+    [
+      [
+        "fruit", 
+        "0.49435"
+      ], 
+      [
+        "reproductive structure", 
+        "0.48075"
+      ], 
+      [
+        "plant organ", 
+        "0.46715"
+      ], 
+      [
+        "plant part", 
+        "0.45355"
+      ], 
+      [
+        "natural object", 
+        "0.43253"
+      ]
+    ], 
+    "7.776"
+  ]
+}

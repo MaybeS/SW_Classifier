@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.13401"
+      ], 
+      [
+        "computer keyboard", 
+        "0.11926"
+      ], 
+      [
+        "scoreboard", 
+        "0.08757"
+      ], 
+      [
+        "space bar", 
+        "0.08435"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07482"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.59181"
+      ], 
+      [
+        "computer", 
+        "0.55302"
+      ], 
+      [
+        "machine", 
+        "0.53530"
+      ], 
+      [
+        "equipment", 
+        "0.52381"
+      ], 
+      [
+        "oscilloscope", 
+        "0.44467"
+      ]
+    ], 
+    "4.934"
+  ]
+}

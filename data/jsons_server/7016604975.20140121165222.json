@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.25394"
+      ], 
+      [
+        "packet", 
+        "0.13806"
+      ], 
+      [
+        "hard disc", 
+        "0.10375"
+      ], 
+      [
+        "oscilloscope", 
+        "0.08520"
+      ], 
+      [
+        "scoreboard", 
+        "0.05269"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.39121"
+      ], 
+      [
+        "equipment", 
+        "0.34560"
+      ], 
+      [
+        "cassette", 
+        "0.33465"
+      ], 
+      [
+        "container", 
+        "0.32256"
+      ], 
+      [
+        "machine", 
+        "0.30413"
+      ]
+    ], 
+    "5.305"
+  ]
+}

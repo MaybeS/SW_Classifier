@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "accordion", 
+        "0.46748"
+      ], 
+      [
+        "modem", 
+        "0.24101"
+      ], 
+      [
+        "radio", 
+        "0.11868"
+      ], 
+      [
+        "harmonica", 
+        "0.06543"
+      ], 
+      [
+        "space heater", 
+        "0.01578"
+      ]
+    ], 
+    [
+      [
+        "free-reed instrument", 
+        "0.90668"
+      ], 
+      [
+        "accordion", 
+        "0.90578"
+      ], 
+      [
+        "keyboard instrument", 
+        "0.80145"
+      ], 
+      [
+        "wind instrument", 
+        "0.71650"
+      ], 
+      [
+        "musical instrument", 
+        "0.70122"
+      ]
+    ], 
+    "7.593"
+  ]
+}

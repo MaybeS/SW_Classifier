@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.64404"
+      ], 
+      [
+        "radio", 
+        "0.05925"
+      ], 
+      [
+        "mousetrap", 
+        "0.05658"
+      ], 
+      [
+        "plate rack", 
+        "0.03668"
+      ], 
+      [
+        "modem", 
+        "0.03389"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "0.74334"
+      ], 
+      [
+        "heater", 
+        "0.70977"
+      ], 
+      [
+        "device", 
+        "0.37286"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27676"
+      ], 
+      [
+        "equipment", 
+        "0.25958"
+      ]
+    ], 
+    "6.562"
+  ]
+}

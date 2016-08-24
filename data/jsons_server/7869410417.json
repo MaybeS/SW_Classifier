@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.11982"
+      ], 
+      [
+        "soap dispenser", 
+        "0.09890"
+      ], 
+      [
+        "refrigerator", 
+        "0.04472"
+      ], 
+      [
+        "envelope", 
+        "0.03421"
+      ], 
+      [
+        "lotion", 
+        "0.03306"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.27209"
+      ], 
+      [
+        "covering", 
+        "0.23669"
+      ], 
+      [
+        "consumer goods", 
+        "0.22972"
+      ], 
+      [
+        "device", 
+        "0.22484"
+      ], 
+      [
+        "commodity", 
+        "0.22004"
+      ]
+    ], 
+    "6.004"
+  ]
+}

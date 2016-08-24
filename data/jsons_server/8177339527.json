@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.46534"
+      ], 
+      [
+        "web site", 
+        "0.17908"
+      ], 
+      [
+        "analog clock", 
+        "0.04539"
+      ], 
+      [
+        "screen", 
+        "0.02649"
+      ], 
+      [
+        "modem", 
+        "0.02429"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.77987"
+      ], 
+      [
+        "timepiece", 
+        "0.77257"
+      ], 
+      [
+        "web site", 
+        "0.71609"
+      ], 
+      [
+        "clock", 
+        "0.69803"
+      ], 
+      [
+        "digital clock", 
+        "0.69500"
+      ]
+    ], 
+    "7.594"
+  ]
+}

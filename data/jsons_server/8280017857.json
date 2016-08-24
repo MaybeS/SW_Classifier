@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.11925"
+      ], 
+      [
+        "notebook", 
+        "0.11119"
+      ], 
+      [
+        "modem", 
+        "0.07906"
+      ], 
+      [
+        "analog clock", 
+        "0.05606"
+      ], 
+      [
+        "hard disc", 
+        "0.05360"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39517"
+      ], 
+      [
+        "measuring instrument", 
+        "0.35855"
+      ], 
+      [
+        "equipment", 
+        "0.33462"
+      ], 
+      [
+        "timepiece", 
+        "0.33149"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32638"
+      ]
+    ], 
+    "14.969"
+  ]
+}

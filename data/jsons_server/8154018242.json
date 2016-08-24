@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.58340"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06227"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04823"
+      ], 
+      [
+        "switch", 
+        "0.01891"
+      ], 
+      [
+        "oil filter", 
+        "0.01651"
+      ]
+    ], 
+    [
+      [
+        "lighter", 
+        "0.40000"
+      ], 
+      [
+        "device", 
+        "0.36975"
+      ], 
+      [
+        "implement", 
+        "0.26491"
+      ], 
+      [
+        "equipment", 
+        "0.24496"
+      ], 
+      [
+        "electronic equipment", 
+        "0.22557"
+      ]
+    ], 
+    "6.837"
+  ]
+}

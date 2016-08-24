@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.09703"
+      ], 
+      [
+        "oscilloscope", 
+        "0.08034"
+      ], 
+      [
+        "web site", 
+        "0.07736"
+      ], 
+      [
+        "modem", 
+        "0.06974"
+      ], 
+      [
+        "binder", 
+        "0.05347"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.51241"
+      ], 
+      [
+        "computer", 
+        "0.48341"
+      ], 
+      [
+        "electronic equipment", 
+        "0.45206"
+      ], 
+      [
+        "equipment", 
+        "0.38118"
+      ], 
+      [
+        "device", 
+        "0.34700"
+      ]
+    ], 
+    "10.282"
+  ]
+}

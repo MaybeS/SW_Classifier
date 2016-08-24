@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.14491"
+      ], 
+      [
+        "holster", 
+        "0.13760"
+      ], 
+      [
+        "espresso maker", 
+        "0.11354"
+      ], 
+      [
+        "waffle iron", 
+        "0.08704"
+      ], 
+      [
+        "spotlight", 
+        "0.07222"
+      ]
+    ], 
+    [
+      [
+        "consumer goods", 
+        "0.40133"
+      ], 
+      [
+        "commodity", 
+        "0.38026"
+      ], 
+      [
+        "covering", 
+        "0.36559"
+      ], 
+      [
+        "appliance", 
+        "0.30828"
+      ], 
+      [
+        "home appliance", 
+        "0.30783"
+      ]
+    ], 
+    "5.358"
+  ]
+}

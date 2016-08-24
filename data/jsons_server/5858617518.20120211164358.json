@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital watch", 
+        "0.17418"
+      ], 
+      [
+        "printer", 
+        "0.15671"
+      ], 
+      [
+        "desktop computer", 
+        "0.12237"
+      ], 
+      [
+        "photocopier", 
+        "0.10410"
+      ], 
+      [
+        "tape player", 
+        "0.06240"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.62367"
+      ], 
+      [
+        "electronic equipment", 
+        "0.59454"
+      ], 
+      [
+        "timepiece", 
+        "0.43323"
+      ], 
+      [
+        "machine", 
+        "0.41578"
+      ], 
+      [
+        "measuring instrument", 
+        "0.41557"
+      ]
+    ], 
+    "7.004"
+  ]
+}

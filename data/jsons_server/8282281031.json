@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.15185"
+      ], 
+      [
+        "espresso maker", 
+        "0.15031"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.11997"
+      ], 
+      [
+        "switch", 
+        "0.06554"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05345"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.69547"
+      ], 
+      [
+        "photographic equipment", 
+        "0.68391"
+      ], 
+      [
+        "equipment", 
+        "0.49728"
+      ], 
+      [
+        "reflex camera", 
+        "0.41159"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.37560"
+      ]
+    ], 
+    "9.043"
+  ]
+}

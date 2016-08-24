@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vacuum", 
+        "0.17857"
+      ], 
+      [
+        "desktop computer", 
+        "0.17636"
+      ], 
+      [
+        "stethoscope", 
+        "0.08186"
+      ], 
+      [
+        "mouse", 
+        "0.06739"
+      ], 
+      [
+        "microphone", 
+        "0.05627"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35993"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32674"
+      ], 
+      [
+        "equipment", 
+        "0.31726"
+      ], 
+      [
+        "appliance", 
+        "0.30696"
+      ], 
+      [
+        "durables", 
+        "0.29897"
+      ]
+    ], 
+    "7.448"
+  ]
+}

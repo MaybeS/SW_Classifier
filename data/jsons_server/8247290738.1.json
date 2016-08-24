@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.56305"
+      ], 
+      [
+        "radio", 
+        "0.18159"
+      ], 
+      [
+        "modem", 
+        "0.07871"
+      ], 
+      [
+        "vacuum", 
+        "0.02945"
+      ], 
+      [
+        "whistle", 
+        "0.01514"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.42515"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.40646"
+      ], 
+      [
+        "transducer", 
+        "0.39970"
+      ], 
+      [
+        "electrical device", 
+        "0.39295"
+      ], 
+      [
+        "device", 
+        "0.38968"
+      ]
+    ], 
+    "12.052"
+  ]
+}

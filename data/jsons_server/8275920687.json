@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scoreboard", 
+        "0.22787"
+      ], 
+      [
+        "combination lock", 
+        "0.11931"
+      ], 
+      [
+        "remote control", 
+        "0.08892"
+      ], 
+      [
+        "digital clock", 
+        "0.08116"
+      ], 
+      [
+        "modem", 
+        "0.07250"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "0.71127"
+      ], 
+      [
+        "signboard", 
+        "0.70082"
+      ], 
+      [
+        "board", 
+        "0.70082"
+      ], 
+      [
+        "sheet", 
+        "0.61578"
+      ], 
+      [
+        "structure", 
+        "0.36961"
+      ]
+    ], 
+    "11.624"
+  ]
+}

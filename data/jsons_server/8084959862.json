@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "balance beam", 
+        "0.35850"
+      ], 
+      [
+        "hammer", 
+        "0.11464"
+      ], 
+      [
+        "horizontal bar", 
+        "0.10002"
+      ], 
+      [
+        "parallel bars", 
+        "0.09685"
+      ], 
+      [
+        "paddle", 
+        "0.09169"
+      ]
+    ], 
+    [
+      [
+        "gymnastic apparatus", 
+        "1.04206"
+      ], 
+      [
+        "sports equipment", 
+        "0.93867"
+      ], 
+      [
+        "equipment", 
+        "0.71014"
+      ], 
+      [
+        "balance beam", 
+        "0.67726"
+      ], 
+      [
+        "implement", 
+        "0.33192"
+      ]
+    ], 
+    "5.432"
+  ]
+}

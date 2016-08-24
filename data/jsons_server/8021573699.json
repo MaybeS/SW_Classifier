@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.16795"
+      ], 
+      [
+        "television", 
+        "0.16574"
+      ], 
+      [
+        "laptop", 
+        "0.10615"
+      ], 
+      [
+        "barbell", 
+        "0.04871"
+      ], 
+      [
+        "punching bag", 
+        "0.04499"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.45184"
+      ], 
+      [
+        "sports equipment", 
+        "0.37120"
+      ], 
+      [
+        "weight", 
+        "0.34363"
+      ], 
+      [
+        "machine", 
+        "0.30630"
+      ], 
+      [
+        "personal computer", 
+        "0.29803"
+      ]
+    ], 
+    "5.506"
+  ]
+}

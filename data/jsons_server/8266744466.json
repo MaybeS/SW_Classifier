@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tape player", 
+        "0.23193"
+      ], 
+      [
+        "cassette player", 
+        "0.11338"
+      ], 
+      [
+        "cassette", 
+        "0.10446"
+      ], 
+      [
+        "analog clock", 
+        "0.07466"
+      ], 
+      [
+        "CD player", 
+        "0.06446"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.69907"
+      ], 
+      [
+        "equipment", 
+        "0.58876"
+      ], 
+      [
+        "cassette player", 
+        "0.36616"
+      ], 
+      [
+        "container", 
+        "0.31765"
+      ], 
+      [
+        "device", 
+        "0.31239"
+      ]
+    ], 
+    "8.181"
+  ]
+}

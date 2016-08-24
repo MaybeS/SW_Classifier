@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.56750"
+      ], 
+      [
+        "magnetic compass", 
+        "0.12613"
+      ], 
+      [
+        "scale", 
+        "0.11773"
+      ], 
+      [
+        "digital clock", 
+        "0.04319"
+      ], 
+      [
+        "cassette player", 
+        "0.02715"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.75842"
+      ], 
+      [
+        "equipment", 
+        "0.63382"
+      ], 
+      [
+        "instrument", 
+        "0.54018"
+      ], 
+      [
+        "measuring instrument", 
+        "0.49123"
+      ], 
+      [
+        "CD player", 
+        "0.46385"
+      ]
+    ], 
+    "5.944"
+  ]
+}

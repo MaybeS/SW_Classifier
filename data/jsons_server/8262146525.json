@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.21681"
+      ], 
+      [
+        "reflex camera", 
+        "0.14121"
+      ], 
+      [
+        "projector", 
+        "0.12326"
+      ], 
+      [
+        "washer", 
+        "0.10511"
+      ], 
+      [
+        "pill bottle", 
+        "0.05786"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "0.40932"
+      ], 
+      [
+        "photographic equipment", 
+        "0.40251"
+      ], 
+      [
+        "reflex camera", 
+        "0.35620"
+      ], 
+      [
+        "equipment", 
+        "0.34960"
+      ], 
+      [
+        "oil filter", 
+        "0.31775"
+      ]
+    ], 
+    "5.710"
+  ]
+}

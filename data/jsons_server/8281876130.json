@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.45191"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09603"
+      ], 
+      [
+        "cassette player", 
+        "0.06682"
+      ], 
+      [
+        "modem", 
+        "0.04363"
+      ], 
+      [
+        "switch", 
+        "0.02360"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.99579"
+      ], 
+      [
+        "hand-held computer", 
+        "0.97461"
+      ], 
+      [
+        "personal computer", 
+        "0.97269"
+      ], 
+      [
+        "digital computer", 
+        "0.95406"
+      ], 
+      [
+        "computer", 
+        "0.89438"
+      ]
+    ], 
+    "9.406"
+  ]
+}

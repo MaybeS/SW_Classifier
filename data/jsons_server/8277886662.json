@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.11919"
+      ], 
+      [
+        "joystick", 
+        "0.11588"
+      ], 
+      [
+        "hand blower", 
+        "0.10270"
+      ], 
+      [
+        "switch", 
+        "0.08919"
+      ], 
+      [
+        "whistle", 
+        "0.04441"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33935"
+      ], 
+      [
+        "equipment", 
+        "0.30344"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27849"
+      ], 
+      [
+        "implement", 
+        "0.27060"
+      ], 
+      [
+        "control", 
+        "0.25829"
+      ]
+    ], 
+    "9.087"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.56765"
+      ], 
+      [
+        "loupe", 
+        "0.13115"
+      ], 
+      [
+        "bolo tie", 
+        "0.09404"
+      ], 
+      [
+        "hook", 
+        "0.07553"
+      ], 
+      [
+        "combination lock", 
+        "0.03925"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.47729"
+      ], 
+      [
+        "medical instrument", 
+        "0.44339"
+      ], 
+      [
+        "device", 
+        "0.38443"
+      ], 
+      [
+        "instrument", 
+        "0.36999"
+      ], 
+      [
+        "bolo tie", 
+        "0.34755"
+      ]
+    ], 
+    "6.862"
+  ]
+}

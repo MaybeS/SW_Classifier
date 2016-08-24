@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.60796"
+      ], 
+      [
+        "joystick", 
+        "0.07195"
+      ], 
+      [
+        "reflex camera", 
+        "0.06800"
+      ], 
+      [
+        "spotlight", 
+        "0.03868"
+      ], 
+      [
+        "muzzle", 
+        "0.03227"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.75982"
+      ], 
+      [
+        "optical instrument", 
+        "0.64547"
+      ], 
+      [
+        "instrument", 
+        "0.43301"
+      ], 
+      [
+        "equipment", 
+        "0.41176"
+      ], 
+      [
+        "device", 
+        "0.38201"
+      ]
+    ], 
+    "5.240"
+  ]
+}

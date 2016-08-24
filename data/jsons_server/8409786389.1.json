@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hourglass", 
+        "0.53776"
+      ], 
+      [
+        "red wine", 
+        "0.13177"
+      ], 
+      [
+        "goblet", 
+        "0.12318"
+      ], 
+      [
+        "cocktail shaker", 
+        "0.02692"
+      ], 
+      [
+        "eggnog", 
+        "0.01835"
+      ]
+    ], 
+    [
+      [
+        "hourglass", 
+        "1.60111"
+      ], 
+      [
+        "sandglass", 
+        "1.57759"
+      ], 
+      [
+        "timepiece", 
+        "1.09105"
+      ], 
+      [
+        "measuring instrument", 
+        "1.00280"
+      ], 
+      [
+        "instrument", 
+        "0.72187"
+      ]
+    ], 
+    "10.316"
+  ]
+}

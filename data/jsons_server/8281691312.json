@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.97505"
+      ], 
+      [
+        "radio", 
+        "0.00497"
+      ], 
+      [
+        "desktop computer", 
+        "0.00367"
+      ], 
+      [
+        "safe", 
+        "0.00334"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00294"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.44064"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.28967"
+      ], 
+      [
+        "transducer", 
+        "1.26823"
+      ], 
+      [
+        "electrical device", 
+        "1.24679"
+      ], 
+      [
+        "device", 
+        "0.48953"
+      ]
+    ], 
+    "8.189"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.21785"
+      ], 
+      [
+        "water bottle", 
+        "0.11843"
+      ], 
+      [
+        "water jug", 
+        "0.08544"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05500"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.05146"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.38451"
+      ], 
+      [
+        "vessel", 
+        "0.38308"
+      ], 
+      [
+        "oil filter", 
+        "0.29990"
+      ], 
+      [
+        "device", 
+        "0.28040"
+      ], 
+      [
+        "filter", 
+        "0.27434"
+      ]
+    ], 
+    "5.606"
+  ]
+}

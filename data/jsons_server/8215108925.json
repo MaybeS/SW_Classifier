@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.14708"
+      ], 
+      [
+        "modem", 
+        "0.11110"
+      ], 
+      [
+        "paper towel", 
+        "0.07574"
+      ], 
+      [
+        "soap dispenser", 
+        "0.04249"
+      ], 
+      [
+        "hand blower", 
+        "0.02202"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.42458"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35815"
+      ], 
+      [
+        "machine", 
+        "0.29798"
+      ], 
+      [
+        "device", 
+        "0.28557"
+      ], 
+      [
+        "consumer goods", 
+        "0.24459"
+      ]
+    ], 
+    "7.270"
+  ]
+}

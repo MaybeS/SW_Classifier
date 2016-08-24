@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tape player", 
+        "0.42410"
+      ], 
+      [
+        "stove", 
+        "0.19949"
+      ], 
+      [
+        "cassette player", 
+        "0.18051"
+      ], 
+      [
+        "switch", 
+        "0.04650"
+      ], 
+      [
+        "CD player", 
+        "0.04421"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.87612"
+      ], 
+      [
+        "equipment", 
+        "0.70868"
+      ], 
+      [
+        "cassette player", 
+        "0.54679"
+      ], 
+      [
+        "tape player", 
+        "0.36954"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.33750"
+      ]
+    ], 
+    "8.885"
+  ]
+}

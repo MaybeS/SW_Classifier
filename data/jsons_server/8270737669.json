@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.18015"
+      ], 
+      [
+        "magnetic compass", 
+        "0.15309"
+      ], 
+      [
+        "face powder", 
+        "0.09271"
+      ], 
+      [
+        "can opener", 
+        "0.07246"
+      ], 
+      [
+        "pill bottle", 
+        "0.06307"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.42348"
+      ], 
+      [
+        "magnetic compass", 
+        "0.37384"
+      ], 
+      [
+        "compass", 
+        "0.36835"
+      ], 
+      [
+        "device", 
+        "0.36425"
+      ], 
+      [
+        "navigational instrument", 
+        "0.36286"
+      ]
+    ], 
+    "10.842"
+  ]
+}

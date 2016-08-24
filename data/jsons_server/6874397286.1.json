@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.21951"
+      ], 
+      [
+        "can opener", 
+        "0.21623"
+      ], 
+      [
+        "refrigerator", 
+        "0.15296"
+      ], 
+      [
+        "washer", 
+        "0.13162"
+      ], 
+      [
+        "ashcan", 
+        "0.11179"
+      ]
+    ], 
+    [
+      [
+        "white goods", 
+        "0.49382"
+      ], 
+      [
+        "home appliance", 
+        "0.46728"
+      ], 
+      [
+        "appliance", 
+        "0.45757"
+      ], 
+      [
+        "durables", 
+        "0.44567"
+      ], 
+      [
+        "consumer goods", 
+        "0.33116"
+      ]
+    ], 
+    "7.458"
+  ]
+}

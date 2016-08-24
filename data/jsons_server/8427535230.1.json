@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.17710"
+      ], 
+      [
+        "book jacket", 
+        "0.15504"
+      ], 
+      [
+        "modem", 
+        "0.09015"
+      ], 
+      [
+        "hard disc", 
+        "0.07074"
+      ], 
+      [
+        "scale", 
+        "0.04185"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32461"
+      ], 
+      [
+        "equipment", 
+        "0.26190"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24663"
+      ], 
+      [
+        "implement", 
+        "0.24257"
+      ], 
+      [
+        "container", 
+        "0.22907"
+      ]
+    ], 
+    "6.913"
+  ]
+}

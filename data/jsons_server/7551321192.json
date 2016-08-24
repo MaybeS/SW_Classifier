@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.95094"
+      ], 
+      [
+        "projector", 
+        "0.01616"
+      ], 
+      [
+        "microwave", 
+        "0.01148"
+      ], 
+      [
+        "dishwasher", 
+        "0.00545"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.00481"
+      ]
+    ], 
+    [
+      [
+        "washer", 
+        "2.04468"
+      ], 
+      [
+        "white goods", 
+        "1.76524"
+      ], 
+      [
+        "home appliance", 
+        "1.42810"
+      ], 
+      [
+        "appliance", 
+        "1.36681"
+      ], 
+      [
+        "durables", 
+        "1.33124"
+      ]
+    ], 
+    "6.520"
+  ]
+}

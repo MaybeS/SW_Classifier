@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "magnetic compass", 
+        "0.27377"
+      ], 
+      [
+        "spotlight", 
+        "0.23725"
+      ], 
+      [
+        "reel", 
+        "0.10745"
+      ], 
+      [
+        "digital watch", 
+        "0.05479"
+      ], 
+      [
+        "combination lock", 
+        "0.04153"
+      ]
+    ], 
+    [
+      [
+        "magnetic compass", 
+        "0.63939"
+      ], 
+      [
+        "compass", 
+        "0.63000"
+      ], 
+      [
+        "navigational instrument", 
+        "0.62061"
+      ], 
+      [
+        "instrument", 
+        "0.61671"
+      ], 
+      [
+        "device", 
+        "0.47222"
+      ]
+    ], 
+    "11.112"
+  ]
+}

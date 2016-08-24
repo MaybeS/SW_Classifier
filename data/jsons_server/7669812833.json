@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "coffeepot", 
+        "0.30091"
+      ], 
+      [
+        "espresso maker", 
+        "0.20688"
+      ], 
+      [
+        "waffle iron", 
+        "0.17834"
+      ], 
+      [
+        "Crock Pot", 
+        "0.04379"
+      ], 
+      [
+        "can opener", 
+        "0.02809"
+      ]
+    ], 
+    [
+      [
+        "kitchen appliance", 
+        "0.65518"
+      ], 
+      [
+        "home appliance", 
+        "0.61631"
+      ], 
+      [
+        "appliance", 
+        "0.59638"
+      ], 
+      [
+        "durables", 
+        "0.58086"
+      ], 
+      [
+        "vessel", 
+        "0.52967"
+      ]
+    ], 
+    "5.501"
+  ]
+}

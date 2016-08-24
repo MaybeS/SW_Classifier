@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.53878"
+      ], 
+      [
+        "plunger", 
+        "0.17527"
+      ], 
+      [
+        "joystick", 
+        "0.10610"
+      ], 
+      [
+        "table lamp", 
+        "0.08623"
+      ], 
+      [
+        "matchstick", 
+        "0.02268"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.41102"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.37842"
+      ], 
+      [
+        "transducer", 
+        "0.37213"
+      ], 
+      [
+        "device", 
+        "0.37095"
+      ], 
+      [
+        "electrical device", 
+        "0.36584"
+      ]
+    ], 
+    "6.008"
+  ]
+}

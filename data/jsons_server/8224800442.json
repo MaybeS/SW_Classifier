@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.18726"
+      ], 
+      [
+        "hand-held computer", 
+        "0.14840"
+      ], 
+      [
+        "switch", 
+        "0.08075"
+      ], 
+      [
+        "cassette player", 
+        "0.04784"
+      ], 
+      [
+        "safe", 
+        "0.04097"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.62072"
+      ], 
+      [
+        "equipment", 
+        "0.52816"
+      ], 
+      [
+        "machine", 
+        "0.47232"
+      ], 
+      [
+        "personal computer", 
+        "0.45110"
+      ], 
+      [
+        "digital computer", 
+        "0.44246"
+      ]
+    ], 
+    "6.837"
+  ]
+}

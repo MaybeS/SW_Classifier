@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.25031"
+      ], 
+      [
+        "Band Aid", 
+        "0.07489"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06461"
+      ], 
+      [
+        "Windsor tie", 
+        "0.05348"
+      ], 
+      [
+        "binder", 
+        "0.03552"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.35884"
+      ], 
+      [
+        "container", 
+        "0.27424"
+      ], 
+      [
+        "clothing", 
+        "0.25498"
+      ], 
+      [
+        "consumer goods", 
+        "0.25379"
+      ], 
+      [
+        "commodity", 
+        "0.25063"
+      ]
+    ], 
+    "6.368"
+  ]
+}

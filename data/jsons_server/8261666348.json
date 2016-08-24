@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.45521"
+      ], 
+      [
+        "binder", 
+        "0.04901"
+      ], 
+      [
+        "cassette player", 
+        "0.04321"
+      ], 
+      [
+        "harmonica", 
+        "0.03935"
+      ], 
+      [
+        "digital clock", 
+        "0.03241"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.60094"
+      ], 
+      [
+        "equipment", 
+        "0.53147"
+      ], 
+      [
+        "modem", 
+        "0.43535"
+      ], 
+      [
+        "device", 
+        "0.32502"
+      ], 
+      [
+        "machine", 
+        "0.24967"
+      ]
+    ], 
+    "6.415"
+  ]
+}

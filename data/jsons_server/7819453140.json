@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.73255"
+      ], 
+      [
+        "dial telephone", 
+        "0.09062"
+      ], 
+      [
+        "microwave", 
+        "0.06505"
+      ], 
+      [
+        "safe", 
+        "0.03225"
+      ], 
+      [
+        "pay-phone", 
+        "0.02326"
+      ]
+    ], 
+    [
+      [
+        "combination lock", 
+        "0.85377"
+      ], 
+      [
+        "lock", 
+        "0.84916"
+      ], 
+      [
+        "fastener", 
+        "0.70126"
+      ], 
+      [
+        "restraint", 
+        "0.64793"
+      ], 
+      [
+        "device", 
+        "0.45301"
+      ]
+    ], 
+    "7.653"
+  ]
+}

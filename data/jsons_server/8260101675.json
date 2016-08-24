@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spatula", 
+        "0.23746"
+      ], 
+      [
+        "mouse", 
+        "0.14112"
+      ], 
+      [
+        "loupe", 
+        "0.09329"
+      ], 
+      [
+        "frying pan", 
+        "0.06325"
+      ], 
+      [
+        "can opener", 
+        "0.05804"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.35336"
+      ], 
+      [
+        "device", 
+        "0.29662"
+      ], 
+      [
+        "cooking utensil", 
+        "0.23573"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.23067"
+      ], 
+      [
+        "consumer goods", 
+        "0.22572"
+      ]
+    ], 
+    "5.962"
+  ]
+}

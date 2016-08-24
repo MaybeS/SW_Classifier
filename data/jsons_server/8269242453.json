@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.19425"
+      ], 
+      [
+        "switch", 
+        "0.16542"
+      ], 
+      [
+        "hard disc", 
+        "0.09307"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08675"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.07310"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.47494"
+      ], 
+      [
+        "camera", 
+        "0.44720"
+      ], 
+      [
+        "photographic equipment", 
+        "0.43976"
+      ], 
+      [
+        "device", 
+        "0.38606"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32103"
+      ]
+    ], 
+    "5.299"
+  ]
+}

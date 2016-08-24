@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.13714"
+      ], 
+      [
+        "tape player", 
+        "0.10208"
+      ], 
+      [
+        "stove", 
+        "0.08779"
+      ], 
+      [
+        "analog clock", 
+        "0.06094"
+      ], 
+      [
+        "combination lock", 
+        "0.05561"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.40309"
+      ], 
+      [
+        "device", 
+        "0.39361"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39071"
+      ], 
+      [
+        "instrument", 
+        "0.38590"
+      ], 
+      [
+        "equipment", 
+        "0.37406"
+      ]
+    ], 
+    "8.459"
+  ]
+}

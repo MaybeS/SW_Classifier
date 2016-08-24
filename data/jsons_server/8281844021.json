@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.12537"
+      ], 
+      [
+        "pencil box", 
+        "0.07369"
+      ], 
+      [
+        "lighter", 
+        "0.06410"
+      ], 
+      [
+        "soap dispenser", 
+        "0.05434"
+      ], 
+      [
+        "refrigerator", 
+        "0.03956"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.28417"
+      ], 
+      [
+        "device", 
+        "0.26753"
+      ], 
+      [
+        "covering", 
+        "0.23531"
+      ], 
+      [
+        "implement", 
+        "0.22701"
+      ], 
+      [
+        "consumer goods", 
+        "0.21591"
+      ]
+    ], 
+    "7.350"
+  ]
+}

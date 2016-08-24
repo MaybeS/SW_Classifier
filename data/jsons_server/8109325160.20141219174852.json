@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil box", 
+        "0.19381"
+      ], 
+      [
+        "cassette", 
+        "0.14024"
+      ], 
+      [
+        "cassette player", 
+        "0.08843"
+      ], 
+      [
+        "wallet", 
+        "0.07717"
+      ], 
+      [
+        "radio", 
+        "0.07647"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.43315"
+      ], 
+      [
+        "electronic equipment", 
+        "0.38488"
+      ], 
+      [
+        "equipment", 
+        "0.37954"
+      ], 
+      [
+        "box", 
+        "0.34420"
+      ], 
+      [
+        "pencil box", 
+        "0.29356"
+      ]
+    ], 
+    "5.737"
+  ]
+}

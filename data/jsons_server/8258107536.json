@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.64431"
+      ], 
+      [
+        "combination lock", 
+        "0.11716"
+      ], 
+      [
+        "hook", 
+        "0.09968"
+      ], 
+      [
+        "loupe", 
+        "0.05036"
+      ], 
+      [
+        "oxygen mask", 
+        "0.02940"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.53403"
+      ], 
+      [
+        "medical instrument", 
+        "0.49240"
+      ], 
+      [
+        "device", 
+        "0.41914"
+      ], 
+      [
+        "instrument", 
+        "0.39071"
+      ], 
+      [
+        "consumer goods", 
+        "0.24952"
+      ]
+    ], 
+    "7.105"
+  ]
+}

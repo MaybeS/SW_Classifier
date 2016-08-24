@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.83324"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04858"
+      ], 
+      [
+        "tape player", 
+        "0.01431"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.01201"
+      ], 
+      [
+        "projector", 
+        "0.01193"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.89092"
+      ], 
+      [
+        "control", 
+        "0.85486"
+      ], 
+      [
+        "mechanism", 
+        "0.60342"
+      ], 
+      [
+        "device", 
+        "0.39413"
+      ], 
+      [
+        "equipment", 
+        "0.31087"
+      ]
+    ], 
+    "6.725"
+  ]
+}

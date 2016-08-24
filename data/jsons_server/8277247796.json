@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.38451"
+      ], 
+      [
+        "espresso maker", 
+        "0.14744"
+      ], 
+      [
+        "microphone", 
+        "0.12018"
+      ], 
+      [
+        "sewing machine", 
+        "0.07452"
+      ], 
+      [
+        "electric fan", 
+        "0.04744"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35400"
+      ], 
+      [
+        "appliance", 
+        "0.29658"
+      ], 
+      [
+        "home appliance", 
+        "0.29604"
+      ], 
+      [
+        "durables", 
+        "0.28886"
+      ], 
+      [
+        "container", 
+        "0.27321"
+      ]
+    ], 
+    "6.948"
+  ]
+}

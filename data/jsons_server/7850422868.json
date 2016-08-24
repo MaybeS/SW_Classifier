@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "clog", 
+        "0.54711"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.21964"
+      ], 
+      [
+        "Christmas stocking", 
+        "0.05604"
+      ], 
+      [
+        "sleeping bag", 
+        "0.04692"
+      ], 
+      [
+        "sandal", 
+        "0.04445"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.76527"
+      ], 
+      [
+        "footwear", 
+        "0.72383"
+      ], 
+      [
+        "clothing", 
+        "0.58941"
+      ], 
+      [
+        "consumer goods", 
+        "0.53182"
+      ], 
+      [
+        "clog", 
+        "0.53165"
+      ]
+    ], 
+    "5.250"
+  ]
+}

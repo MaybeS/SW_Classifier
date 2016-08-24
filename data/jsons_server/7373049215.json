@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Christmas stocking", 
+        "0.81227"
+      ], 
+      [
+        "Band Aid", 
+        "0.07890"
+      ], 
+      [
+        "kimono", 
+        "0.01344"
+      ], 
+      [
+        "sock", 
+        "0.01202"
+      ], 
+      [
+        "pencil box", 
+        "0.00699"
+      ]
+    ], 
+    [
+      [
+        "Christmas stocking", 
+        "1.77520"
+      ], 
+      [
+        "stocking", 
+        "1.74913"
+      ], 
+      [
+        "hosiery", 
+        "1.61188"
+      ], 
+      [
+        "footwear", 
+        "1.58262"
+      ], 
+      [
+        "clothing", 
+        "1.16779"
+      ]
+    ], 
+    "5.640"
+  ]
+}

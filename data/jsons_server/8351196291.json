@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.22162"
+      ], 
+      [
+        "cash machine", 
+        "0.11555"
+      ], 
+      [
+        "oxygen mask", 
+        "0.07265"
+      ], 
+      [
+        "desktop computer", 
+        "0.03929"
+      ], 
+      [
+        "cassette player", 
+        "0.03470"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.87473"
+      ], 
+      [
+        "machine", 
+        "0.78361"
+      ], 
+      [
+        "computer", 
+        "0.75568"
+      ], 
+      [
+        "device", 
+        "0.40052"
+      ], 
+      [
+        "equipment", 
+        "0.26791"
+      ]
+    ], 
+    "7.761"
+  ]
+}

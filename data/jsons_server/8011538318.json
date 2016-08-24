@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.60116"
+      ], 
+      [
+        "hook", 
+        "0.07913"
+      ], 
+      [
+        "microphone", 
+        "0.06530"
+      ], 
+      [
+        "muzzle", 
+        "0.05429"
+      ], 
+      [
+        "combination lock", 
+        "0.02397"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "0.64907"
+      ], 
+      [
+        "acoustic device", 
+        "0.63953"
+      ], 
+      [
+        "signaling device", 
+        "0.63953"
+      ], 
+      [
+        "device", 
+        "0.38051"
+      ], 
+      [
+        "implement", 
+        "0.30291"
+      ]
+    ], 
+    "10.424"
+  ]
+}

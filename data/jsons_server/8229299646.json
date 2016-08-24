@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.79049"
+      ], 
+      [
+        "lighter", 
+        "0.04448"
+      ], 
+      [
+        "binder", 
+        "0.02280"
+      ], 
+      [
+        "desktop computer", 
+        "0.01675"
+      ], 
+      [
+        "soap dispenser", 
+        "0.01615"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.17230"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.05319"
+      ], 
+      [
+        "transducer", 
+        "1.03568"
+      ], 
+      [
+        "electrical device", 
+        "1.01817"
+      ], 
+      [
+        "device", 
+        "0.45557"
+      ]
+    ], 
+    "10.499"
+  ]
+}

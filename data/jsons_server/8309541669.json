@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric guitar", 
+        "0.26126"
+      ], 
+      [
+        "ski mask", 
+        "0.16535"
+      ], 
+      [
+        "abaya", 
+        "0.09760"
+      ], 
+      [
+        "jersey", 
+        "0.04236"
+      ], 
+      [
+        "punching bag", 
+        "0.03898"
+      ]
+    ], 
+    [
+      [
+        "guitar", 
+        "0.51535"
+      ], 
+      [
+        "covering", 
+        "0.51499"
+      ], 
+      [
+        "stringed instrument", 
+        "0.49775"
+      ], 
+      [
+        "musical instrument", 
+        "0.48868"
+      ], 
+      [
+        "clothing", 
+        "0.46082"
+      ]
+    ], 
+    "5.379"
+  ]
+}

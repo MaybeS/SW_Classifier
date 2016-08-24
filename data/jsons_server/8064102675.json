@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "tape player", 
+        "0.19142"
+      ], 
+      [
+        "modem", 
+        "0.13436"
+      ], 
+      [
+        "cassette player", 
+        "0.12090"
+      ], 
+      [
+        "radio", 
+        "0.10809"
+      ], 
+      [
+        "cassette", 
+        "0.10144"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.66791"
+      ], 
+      [
+        "equipment", 
+        "0.56594"
+      ], 
+      [
+        "cassette player", 
+        "0.33459"
+      ], 
+      [
+        "container", 
+        "0.29454"
+      ], 
+      [
+        "device", 
+        "0.28082"
+      ]
+    ], 
+    "10.021"
+  ]
+}

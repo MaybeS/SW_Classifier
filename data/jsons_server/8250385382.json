@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.14751"
+      ], 
+      [
+        "street sign", 
+        "0.09445"
+      ], 
+      [
+        "lighter", 
+        "0.09278"
+      ], 
+      [
+        "analog clock", 
+        "0.08442"
+      ], 
+      [
+        "binder", 
+        "0.05831"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.44256"
+      ], 
+      [
+        "timepiece", 
+        "0.42038"
+      ], 
+      [
+        "clock", 
+        "0.37125"
+      ], 
+      [
+        "instrument", 
+        "0.36555"
+      ], 
+      [
+        "device", 
+        "0.35931"
+      ]
+    ], 
+    "5.261"
+  ]
+}

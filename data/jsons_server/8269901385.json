@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.93323"
+      ], 
+      [
+        "reflex camera", 
+        "0.03351"
+      ], 
+      [
+        "oil filter", 
+        "0.00621"
+      ], 
+      [
+        "binoculars", 
+        "0.00510"
+      ], 
+      [
+        "pill bottle", 
+        "0.00244"
+      ]
+    ], 
+    [
+      [
+        "loupe", 
+        "0.43167"
+      ], 
+      [
+        "hand glass", 
+        "0.42532"
+      ], 
+      [
+        "light microscope", 
+        "0.41898"
+      ], 
+      [
+        "microscope", 
+        "0.41264"
+      ], 
+      [
+        "device", 
+        "0.38463"
+      ]
+    ], 
+    "7.833"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.20201"
+      ], 
+      [
+        "rubber eraser", 
+        "0.12482"
+      ], 
+      [
+        "loupe", 
+        "0.11603"
+      ], 
+      [
+        "loudspeaker", 
+        "0.10108"
+      ], 
+      [
+        "radio", 
+        "0.05307"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "0.38977"
+      ], 
+      [
+        "covering", 
+        "0.36455"
+      ], 
+      [
+        "protective garment", 
+        "0.35361"
+      ], 
+      [
+        "consumer goods", 
+        "0.34879"
+      ], 
+      [
+        "clothing", 
+        "0.34584"
+      ]
+    ], 
+    "9.291"
+  ]
+}

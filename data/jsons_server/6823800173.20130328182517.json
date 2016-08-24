@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.20539"
+      ], 
+      [
+        "wall clock", 
+        "0.07314"
+      ], 
+      [
+        "binder", 
+        "0.06528"
+      ], 
+      [
+        "envelope", 
+        "0.06517"
+      ], 
+      [
+        "rule", 
+        "0.02636"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.62371"
+      ], 
+      [
+        "clock", 
+        "0.57456"
+      ], 
+      [
+        "timepiece", 
+        "0.56988"
+      ], 
+      [
+        "instrument", 
+        "0.50787"
+      ], 
+      [
+        "analog clock", 
+        "0.40969"
+      ]
+    ], 
+    "11.628"
+  ]
+}

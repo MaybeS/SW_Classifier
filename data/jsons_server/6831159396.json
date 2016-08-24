@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "frying pan", 
+        "0.44465"
+      ], 
+      [
+        "microphone", 
+        "0.04040"
+      ], 
+      [
+        "vacuum", 
+        "0.03832"
+      ], 
+      [
+        "chocolate sauce", 
+        "0.03700"
+      ], 
+      [
+        "wine bottle", 
+        "0.02840"
+      ]
+    ], 
+    [
+      [
+        "cooking utensil", 
+        "0.67201"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.65759"
+      ], 
+      [
+        "pan", 
+        "0.65698"
+      ], 
+      [
+        "utensil", 
+        "0.64318"
+      ], 
+      [
+        "frying pan", 
+        "0.57039"
+      ]
+    ], 
+    "8.017"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "paintbrush", 
+        "0.78116"
+      ], 
+      [
+        "face powder", 
+        "0.20371"
+      ], 
+      [
+        "thimble", 
+        "0.00428"
+      ], 
+      [
+        "matchstick", 
+        "0.00382"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00193"
+      ]
+    ], 
+    [
+      [
+        "paintbrush", 
+        "0.67011"
+      ], 
+      [
+        "brush", 
+        "0.66026"
+      ], 
+      [
+        "applicator", 
+        "0.66026"
+      ], 
+      [
+        "implement", 
+        "0.59880"
+      ], 
+      [
+        "makeup", 
+        "0.49742"
+      ]
+    ], 
+    "13.901"
+  ]
+}

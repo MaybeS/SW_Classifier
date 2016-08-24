@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.23295"
+      ], 
+      [
+        "espresso maker", 
+        "0.10915"
+      ], 
+      [
+        "spotlight", 
+        "0.06717"
+      ], 
+      [
+        "sewing machine", 
+        "0.06383"
+      ], 
+      [
+        "monitor", 
+        "0.04404"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.38339"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37547"
+      ], 
+      [
+        "device", 
+        "0.36977"
+      ], 
+      [
+        "appliance", 
+        "0.29258"
+      ], 
+      [
+        "home appliance", 
+        "0.28868"
+      ]
+    ], 
+    "11.760"
+  ]
+}

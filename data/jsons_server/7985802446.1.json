@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.93075"
+      ], 
+      [
+        "washbasin", 
+        "0.01280"
+      ], 
+      [
+        "mousetrap", 
+        "0.00737"
+      ], 
+      [
+        "dishwasher", 
+        "0.00654"
+      ], 
+      [
+        "toilet seat", 
+        "0.00518"
+      ]
+    ], 
+    [
+      [
+        "washer", 
+        "2.00115"
+      ], 
+      [
+        "white goods", 
+        "1.72852"
+      ], 
+      [
+        "home appliance", 
+        "1.39203"
+      ], 
+      [
+        "appliance", 
+        "1.33226"
+      ], 
+      [
+        "durables", 
+        "1.29759"
+      ]
+    ], 
+    "4.287"
+  ]
+}

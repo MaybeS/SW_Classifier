@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.61315"
+      ], 
+      [
+        "digital clock", 
+        "0.11393"
+      ], 
+      [
+        "combination lock", 
+        "0.06794"
+      ], 
+      [
+        "whistle", 
+        "0.04089"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.03604"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.67315"
+      ], 
+      [
+        "control", 
+        "0.64143"
+      ], 
+      [
+        "mechanism", 
+        "0.46839"
+      ], 
+      [
+        "device", 
+        "0.42198"
+      ], 
+      [
+        "measuring instrument", 
+        "0.30708"
+      ]
+    ], 
+    "5.535"
+  ]
+}

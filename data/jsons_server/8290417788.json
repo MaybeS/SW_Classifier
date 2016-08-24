@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "slot", 
+        "0.69680"
+      ], 
+      [
+        "cash machine", 
+        "0.07412"
+      ], 
+      [
+        "analog clock", 
+        "0.01825"
+      ], 
+      [
+        "scoreboard", 
+        "0.01689"
+      ], 
+      [
+        "cellular telephone", 
+        "0.01621"
+      ]
+    ], 
+    [
+      [
+        "slot", 
+        "2.59153"
+      ], 
+      [
+        "slot machine", 
+        "2.48652"
+      ], 
+      [
+        "machine", 
+        "1.60979"
+      ], 
+      [
+        "device", 
+        "0.60996"
+      ], 
+      [
+        "structure", 
+        "0.29144"
+      ]
+    ], 
+    "4.696"
+  ]
+}

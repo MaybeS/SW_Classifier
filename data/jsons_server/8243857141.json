@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.21685"
+      ], 
+      [
+        "power drill", 
+        "0.09511"
+      ], 
+      [
+        "hand blower", 
+        "0.07985"
+      ], 
+      [
+        "whistle", 
+        "0.06324"
+      ], 
+      [
+        "switch", 
+        "0.06013"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.35434"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34725"
+      ], 
+      [
+        "device", 
+        "0.33606"
+      ], 
+      [
+        "consumer goods", 
+        "0.25374"
+      ], 
+      [
+        "covering", 
+        "0.24840"
+      ]
+    ], 
+    "5.862"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.57328"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.07569"
+      ], 
+      [
+        "radio", 
+        "0.07030"
+      ], 
+      [
+        "modem", 
+        "0.06933"
+      ], 
+      [
+        "tape player", 
+        "0.05344"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.00457"
+      ], 
+      [
+        "magnetic disk", 
+        "0.98981"
+      ], 
+      [
+        "memory device", 
+        "0.97505"
+      ], 
+      [
+        "electronic equipment", 
+        "0.49421"
+      ], 
+      [
+        "equipment", 
+        "0.45727"
+      ]
+    ], 
+    "5.163"
+  ]
+}

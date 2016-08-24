@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oxygen mask", 
+        "0.14084"
+      ], 
+      [
+        "gasmask", 
+        "0.13521"
+      ], 
+      [
+        "mouse", 
+        "0.10015"
+      ], 
+      [
+        "iPod", 
+        "0.05183"
+      ], 
+      [
+        "hair slide", 
+        "0.04932"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30968"
+      ], 
+      [
+        "covering", 
+        "0.29107"
+      ], 
+      [
+        "equipment", 
+        "0.27594"
+      ], 
+      [
+        "consumer goods", 
+        "0.24959"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24393"
+      ]
+    ], 
+    "5.825"
+  ]
+}

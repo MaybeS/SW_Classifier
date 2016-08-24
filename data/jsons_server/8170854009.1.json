@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.34731"
+      ], 
+      [
+        "modem", 
+        "0.21697"
+      ], 
+      [
+        "oil filter", 
+        "0.06810"
+      ], 
+      [
+        "hard disc", 
+        "0.06481"
+      ], 
+      [
+        "binder", 
+        "0.05601"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.53720"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.48765"
+      ], 
+      [
+        "transducer", 
+        "0.47954"
+      ], 
+      [
+        "electrical device", 
+        "0.47144"
+      ], 
+      [
+        "electronic equipment", 
+        "0.40680"
+      ]
+    ], 
+    "10.576"
+  ]
+}

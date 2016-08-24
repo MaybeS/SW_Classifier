@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "notebook", 
+        "0.53490"
+      ], 
+      [
+        "laptop", 
+        "0.08794"
+      ], 
+      [
+        "digital clock", 
+        "0.03393"
+      ], 
+      [
+        "hand-held computer", 
+        "0.03382"
+      ], 
+      [
+        "web site", 
+        "0.03252"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "1.09185"
+      ], 
+      [
+        "computer", 
+        "1.08893"
+      ], 
+      [
+        "digital computer", 
+        "1.07094"
+      ], 
+      [
+        "portable computer", 
+        "1.05101"
+      ], 
+      [
+        "machine", 
+        "0.91506"
+      ]
+    ], 
+    "14.920"
+  ]
+}

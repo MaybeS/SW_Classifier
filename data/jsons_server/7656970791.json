@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "refrigerator", 
+        "0.12927"
+      ], 
+      [
+        "toaster", 
+        "0.08649"
+      ], 
+      [
+        "laptop", 
+        "0.05661"
+      ], 
+      [
+        "digital clock", 
+        "0.05067"
+      ], 
+      [
+        "modem", 
+        "0.04551"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.38111"
+      ], 
+      [
+        "appliance", 
+        "0.37306"
+      ], 
+      [
+        "durables", 
+        "0.36336"
+      ], 
+      [
+        "device", 
+        "0.31629"
+      ], 
+      [
+        "consumer goods", 
+        "0.28872"
+      ]
+    ], 
+    "7.220"
+  ]
+}

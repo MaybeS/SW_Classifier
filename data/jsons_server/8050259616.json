@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.17598"
+      ], 
+      [
+        "rubber eraser", 
+        "0.16205"
+      ], 
+      [
+        "switch", 
+        "0.06685"
+      ], 
+      [
+        "joystick", 
+        "0.06018"
+      ], 
+      [
+        "remote control", 
+        "0.05785"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.39817"
+      ], 
+      [
+        "equipment", 
+        "0.39455"
+      ], 
+      [
+        "iPod", 
+        "0.32215"
+      ], 
+      [
+        "stereo", 
+        "0.31742"
+      ], 
+      [
+        "reproducer", 
+        "0.31269"
+      ]
+    ], 
+    "6.009"
+  ]
+}

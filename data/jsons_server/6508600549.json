@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.50670"
+      ], 
+      [
+        "binoculars", 
+        "0.14082"
+      ], 
+      [
+        "reflex camera", 
+        "0.08679"
+      ], 
+      [
+        "projector", 
+        "0.04284"
+      ], 
+      [
+        "magnetic compass", 
+        "0.02764"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.41032"
+      ], 
+      [
+        "device", 
+        "0.39390"
+      ], 
+      [
+        "camera", 
+        "0.29799"
+      ], 
+      [
+        "photographic equipment", 
+        "0.29304"
+      ], 
+      [
+        "equipment", 
+        "0.28439"
+      ]
+    ], 
+    "6.964"
+  ]
+}

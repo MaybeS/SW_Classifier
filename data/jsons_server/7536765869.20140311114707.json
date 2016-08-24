@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.42735"
+      ], 
+      [
+        "modem", 
+        "0.21561"
+      ], 
+      [
+        "digital clock", 
+        "0.10213"
+      ], 
+      [
+        "envelope", 
+        "0.02548"
+      ], 
+      [
+        "street sign", 
+        "0.02211"
+      ]
+    ], 
+    [
+      [
+        "book jacket", 
+        "0.56942"
+      ], 
+      [
+        "jacket", 
+        "0.56105"
+      ], 
+      [
+        "wrapping", 
+        "0.55269"
+      ], 
+      [
+        "covering", 
+        "0.31135"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29765"
+      ]
+    ], 
+    "4.907"
+  ]
+}

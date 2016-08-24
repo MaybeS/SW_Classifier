@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.32657"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.18332"
+      ], 
+      [
+        "sewing machine", 
+        "0.10721"
+      ], 
+      [
+        "projector", 
+        "0.07222"
+      ], 
+      [
+        "printer", 
+        "0.06130"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.64389"
+      ], 
+      [
+        "electronic equipment", 
+        "0.50024"
+      ], 
+      [
+        "camera", 
+        "0.49798"
+      ], 
+      [
+        "photographic equipment", 
+        "0.48970"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.48660"
+      ]
+    ], 
+    "5.436"
+  ]
+}

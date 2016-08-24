@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.41329"
+      ], 
+      [
+        "modem", 
+        "0.20593"
+      ], 
+      [
+        "cassette player", 
+        "0.03951"
+      ], 
+      [
+        "cassette", 
+        "0.03464"
+      ], 
+      [
+        "bookcase", 
+        "0.02803"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.42154"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39458"
+      ], 
+      [
+        "equipment", 
+        "0.35977"
+      ], 
+      [
+        "protective covering", 
+        "0.26623"
+      ], 
+      [
+        "container", 
+        "0.26455"
+      ]
+    ], 
+    "8.231"
+  ]
+}

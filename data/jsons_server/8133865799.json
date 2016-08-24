@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.30361"
+      ], 
+      [
+        "knee pad", 
+        "0.12755"
+      ], 
+      [
+        "Windsor tie", 
+        "0.04493"
+      ], 
+      [
+        "sweatshirt", 
+        "0.03805"
+      ], 
+      [
+        "oxygen mask", 
+        "0.03003"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.80378"
+      ], 
+      [
+        "covering", 
+        "0.72629"
+      ], 
+      [
+        "consumer goods", 
+        "0.71906"
+      ], 
+      [
+        "garment", 
+        "0.70402"
+      ], 
+      [
+        "commodity", 
+        "0.68185"
+      ]
+    ], 
+    "5.353"
+  ]
+}

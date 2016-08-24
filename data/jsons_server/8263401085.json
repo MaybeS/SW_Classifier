@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Band Aid", 
+        "0.67212"
+      ], 
+      [
+        "oil filter", 
+        "0.11536"
+      ], 
+      [
+        "rubber eraser", 
+        "0.10220"
+      ], 
+      [
+        "face powder", 
+        "0.01221"
+      ], 
+      [
+        "knee pad", 
+        "0.01134"
+      ]
+    ], 
+    [
+      [
+        "Band Aid", 
+        "0.62390"
+      ], 
+      [
+        "adhesive bandage", 
+        "0.61473"
+      ], 
+      [
+        "bandage", 
+        "0.60557"
+      ], 
+      [
+        "dressing", 
+        "0.59640"
+      ], 
+      [
+        "cloth covering", 
+        "0.53393"
+      ]
+    ], 
+    "9.176"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.25779"
+      ], 
+      [
+        "Crock Pot", 
+        "0.10920"
+      ], 
+      [
+        "cellular telephone", 
+        "0.08966"
+      ], 
+      [
+        "oil filter", 
+        "0.07332"
+      ], 
+      [
+        "space heater", 
+        "0.06625"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.45247"
+      ], 
+      [
+        "appliance", 
+        "0.44635"
+      ], 
+      [
+        "durables", 
+        "0.43474"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.37077"
+      ], 
+      [
+        "toaster", 
+        "0.36159"
+      ]
+    ], 
+    "9.126"
+  ]
+}

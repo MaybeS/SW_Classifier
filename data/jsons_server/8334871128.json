@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.25768"
+      ], 
+      [
+        "refrigerator", 
+        "0.12115"
+      ], 
+      [
+        "web site", 
+        "0.08670"
+      ], 
+      [
+        "oscilloscope", 
+        "0.04716"
+      ], 
+      [
+        "photocopier", 
+        "0.04426"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.63049"
+      ], 
+      [
+        "equipment", 
+        "0.52844"
+      ], 
+      [
+        "electronic equipment", 
+        "0.52789"
+      ], 
+      [
+        "computer", 
+        "0.46018"
+      ], 
+      [
+        "web site", 
+        "0.35487"
+      ]
+    ], 
+    "5.502"
+  ]
+}

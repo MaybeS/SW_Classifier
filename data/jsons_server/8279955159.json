@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.24918"
+      ], 
+      [
+        "can opener", 
+        "0.15875"
+      ], 
+      [
+        "web site", 
+        "0.15747"
+      ], 
+      [
+        "binder", 
+        "0.03987"
+      ], 
+      [
+        "oil filter", 
+        "0.03788"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.94641"
+      ], 
+      [
+        "machine", 
+        "0.81004"
+      ], 
+      [
+        "web site", 
+        "0.62823"
+      ], 
+      [
+        "personal computer", 
+        "0.57650"
+      ], 
+      [
+        "portable computer", 
+        "0.56617"
+      ]
+    ], 
+    "6.338"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spatula", 
+        "0.13567"
+      ], 
+      [
+        "loupe", 
+        "0.12692"
+      ], 
+      [
+        "strainer", 
+        "0.10110"
+      ], 
+      [
+        "frying pan", 
+        "0.09216"
+      ], 
+      [
+        "measuring cup", 
+        "0.07926"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.31303"
+      ], 
+      [
+        "device", 
+        "0.28341"
+      ], 
+      [
+        "container", 
+        "0.25912"
+      ], 
+      [
+        "cooking utensil", 
+        "0.24056"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.23540"
+      ]
+    ], 
+    "7.572"
+  ]
+}

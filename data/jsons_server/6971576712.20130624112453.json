@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.23233"
+      ], 
+      [
+        "loudspeaker", 
+        "0.13520"
+      ], 
+      [
+        "cassette player", 
+        "0.06823"
+      ], 
+      [
+        "reflex camera", 
+        "0.05942"
+      ], 
+      [
+        "tape player", 
+        "0.04028"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.48697"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46343"
+      ], 
+      [
+        "personal computer", 
+        "0.39628"
+      ], 
+      [
+        "digital computer", 
+        "0.38869"
+      ], 
+      [
+        "device", 
+        "0.36825"
+      ]
+    ], 
+    "5.650"
+  ]
+}

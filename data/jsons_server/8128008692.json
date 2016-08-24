@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.98543"
+      ], 
+      [
+        "electric fan", 
+        "0.00447"
+      ], 
+      [
+        "modem", 
+        "0.00208"
+      ], 
+      [
+        "projector", 
+        "0.00195"
+      ], 
+      [
+        "vacuum", 
+        "0.00152"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "1.11626"
+      ], 
+      [
+        "heater", 
+        "1.00716"
+      ], 
+      [
+        "device", 
+        "0.41657"
+      ], 
+      [
+        "covering", 
+        "0.21668"
+      ], 
+      [
+        "protective covering", 
+        "0.19768"
+      ]
+    ], 
+    "7.774"
+  ]
+}

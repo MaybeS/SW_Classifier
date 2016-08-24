@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "turnstile", 
+        "0.10197"
+      ], 
+      [
+        "passenger car", 
+        "0.07387"
+      ], 
+      [
+        "fire screen", 
+        "0.05484"
+      ], 
+      [
+        "book jacket", 
+        "0.05339"
+      ], 
+      [
+        "prison", 
+        "0.04064"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.35915"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.34632"
+      ], 
+      [
+        "structure", 
+        "0.33553"
+      ], 
+      [
+        "container", 
+        "0.32973"
+      ], 
+      [
+        "vehicle", 
+        "0.31916"
+      ]
+    ], 
+    "5.287"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "slug", 
+        "0.13937"
+      ], 
+      [
+        "rhinoceros beetle", 
+        "0.11404"
+      ], 
+      [
+        "neck brace", 
+        "0.10904"
+      ], 
+      [
+        "spotted salamander", 
+        "0.08979"
+      ], 
+      [
+        "caldron", 
+        "0.08023"
+      ]
+    ], 
+    [
+      [
+        "invertebrate", 
+        "0.41652"
+      ], 
+      [
+        "salamander", 
+        "0.37783"
+      ], 
+      [
+        "rhinoceros beetle", 
+        "0.36532"
+      ], 
+      [
+        "beetle", 
+        "0.36468"
+      ], 
+      [
+        "scarabaeid beetle", 
+        "0.36311"
+      ]
+    ], 
+    "7.267"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "disk brake", 
+        "0.27280"
+      ], 
+      [
+        "car wheel", 
+        "0.13215"
+      ], 
+      [
+        "electric fan", 
+        "0.11788"
+      ], 
+      [
+        "spotlight", 
+        "0.09540"
+      ], 
+      [
+        "buckle", 
+        "0.06701"
+      ]
+    ], 
+    [
+      [
+        "disk brake", 
+        "0.72596"
+      ], 
+      [
+        "hydraulic brake", 
+        "0.71530"
+      ], 
+      [
+        "brake system", 
+        "0.70464"
+      ], 
+      [
+        "brake", 
+        "0.69397"
+      ], 
+      [
+        "restraint", 
+        "0.52110"
+      ]
+    ], 
+    "6.567"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.28906"
+      ], 
+      [
+        "binder", 
+        "0.17182"
+      ], 
+      [
+        "hard disc", 
+        "0.14762"
+      ], 
+      [
+        "modem", 
+        "0.11558"
+      ], 
+      [
+        "switch", 
+        "0.03877"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36509"
+      ], 
+      [
+        "measuring instrument", 
+        "0.34570"
+      ], 
+      [
+        "instrument", 
+        "0.32881"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30973"
+      ], 
+      [
+        "equipment", 
+        "0.30255"
+      ]
+    ], 
+    "6.749"
+  ]
+}

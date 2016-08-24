@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.22118"
+      ], 
+      [
+        "cassette", 
+        "0.17388"
+      ], 
+      [
+        "tape player", 
+        "0.07690"
+      ], 
+      [
+        "remote control", 
+        "0.05333"
+      ], 
+      [
+        "modem", 
+        "0.05259"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.38709"
+      ], 
+      [
+        "equipment", 
+        "0.35805"
+      ], 
+      [
+        "device", 
+        "0.33164"
+      ], 
+      [
+        "rule", 
+        "0.28889"
+      ], 
+      [
+        "measuring stick", 
+        "0.28464"
+      ]
+    ], 
+    "5.789"
+  ]
+}

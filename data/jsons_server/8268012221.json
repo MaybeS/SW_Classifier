@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.33436"
+      ], 
+      [
+        "space heater", 
+        "0.13252"
+      ], 
+      [
+        "oil filter", 
+        "0.08743"
+      ], 
+      [
+        "accordion", 
+        "0.05001"
+      ], 
+      [
+        "power drill", 
+        "0.04793"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.42546"
+      ], 
+      [
+        "lock", 
+        "0.42168"
+      ], 
+      [
+        "combination lock", 
+        "0.40371"
+      ], 
+      [
+        "fastener", 
+        "0.37001"
+      ], 
+      [
+        "restraint", 
+        "0.35298"
+      ]
+    ], 
+    "10.842"
+  ]
+}

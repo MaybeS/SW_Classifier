@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.32111"
+      ], 
+      [
+        "scoreboard", 
+        "0.09276"
+      ], 
+      [
+        "shoji", 
+        "0.05338"
+      ], 
+      [
+        "window shade", 
+        "0.04785"
+      ], 
+      [
+        "envelope", 
+        "0.04164"
+      ]
+    ], 
+    [
+      [
+        "digital clock", 
+        "0.48451"
+      ], 
+      [
+        "measuring instrument", 
+        "0.47846"
+      ], 
+      [
+        "timepiece", 
+        "0.46739"
+      ], 
+      [
+        "clock", 
+        "0.43880"
+      ], 
+      [
+        "instrument", 
+        "0.35967"
+      ]
+    ], 
+    "7.832"
+  ]
+}

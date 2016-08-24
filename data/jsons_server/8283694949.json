@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.48702"
+      ], 
+      [
+        "switch", 
+        "0.28468"
+      ], 
+      [
+        "analog clock", 
+        "0.03193"
+      ], 
+      [
+        "iPod", 
+        "0.02383"
+      ], 
+      [
+        "remote control", 
+        "0.02301"
+      ]
+    ], 
+    [
+      [
+        "cassette", 
+        "0.63912"
+      ], 
+      [
+        "electronic equipment", 
+        "0.38108"
+      ], 
+      [
+        "container", 
+        "0.37742"
+      ], 
+      [
+        "equipment", 
+        "0.35531"
+      ], 
+      [
+        "device", 
+        "0.32434"
+      ]
+    ], 
+    "15.691"
+  ]
+}

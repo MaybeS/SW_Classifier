@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Band Aid", 
+        "0.31847"
+      ], 
+      [
+        "Windsor tie", 
+        "0.14606"
+      ], 
+      [
+        "remote control", 
+        "0.11405"
+      ], 
+      [
+        "digital clock", 
+        "0.05805"
+      ], 
+      [
+        "hair slide", 
+        "0.03028"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.43076"
+      ], 
+      [
+        "clothing", 
+        "0.35722"
+      ], 
+      [
+        "consumer goods", 
+        "0.34415"
+      ], 
+      [
+        "commodity", 
+        "0.33507"
+      ], 
+      [
+        "Band Aid", 
+        "0.30128"
+      ]
+    ], 
+    "9.888"
+  ]
+}

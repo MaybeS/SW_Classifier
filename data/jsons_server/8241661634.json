@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.47800"
+      ], 
+      [
+        "ballpoint", 
+        "0.34559"
+      ], 
+      [
+        "screwdriver", 
+        "0.09499"
+      ], 
+      [
+        "fountain pen", 
+        "0.02987"
+      ], 
+      [
+        "lighter", 
+        "0.00841"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.64610"
+      ], 
+      [
+        "whistle", 
+        "0.56901"
+      ], 
+      [
+        "acoustic device", 
+        "0.56065"
+      ], 
+      [
+        "signaling device", 
+        "0.56065"
+      ], 
+      [
+        "pen", 
+        "0.54348"
+      ]
+    ], 
+    "9.389"
+  ]
+}

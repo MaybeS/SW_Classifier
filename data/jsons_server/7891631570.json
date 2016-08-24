@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "croquet ball", 
+        "0.21191"
+      ], 
+      [
+        "plunger", 
+        "0.12233"
+      ], 
+      [
+        "barbell", 
+        "0.06520"
+      ], 
+      [
+        "espresso maker", 
+        "0.05793"
+      ], 
+      [
+        "hourglass", 
+        "0.05583"
+      ]
+    ], 
+    [
+      [
+        "sports equipment", 
+        "0.54685"
+      ], 
+      [
+        "croquet ball", 
+        "0.54126"
+      ], 
+      [
+        "croquet equipment", 
+        "0.53331"
+      ], 
+      [
+        "ball", 
+        "0.45214"
+      ], 
+      [
+        "equipment", 
+        "0.44488"
+      ]
+    ], 
+    "5.029"
+  ]
+}

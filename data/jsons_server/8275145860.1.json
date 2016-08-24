@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sweatshirt", 
+        "0.57802"
+      ], 
+      [
+        "sleeping bag", 
+        "0.28714"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.07017"
+      ], 
+      [
+        "backpack", 
+        "0.02266"
+      ], 
+      [
+        "mailbag", 
+        "0.01581"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "0.93568"
+      ], 
+      [
+        "clothing", 
+        "0.92143"
+      ], 
+      [
+        "sweatshirt", 
+        "0.86074"
+      ], 
+      [
+        "pullover", 
+        "0.84810"
+      ], 
+      [
+        "sweater", 
+        "0.81293"
+      ]
+    ], 
+    "5.478"
+  ]
+}

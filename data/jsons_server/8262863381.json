@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "theater curtain", 
+        "0.33984"
+      ], 
+      [
+        "cinema", 
+        "0.16935"
+      ], 
+      [
+        "prayer rug", 
+        "0.08243"
+      ], 
+      [
+        "palace", 
+        "0.05598"
+      ], 
+      [
+        "mosque", 
+        "0.04013"
+      ]
+    ], 
+    [
+      [
+        "theater curtain", 
+        "1.09967"
+      ], 
+      [
+        "curtain", 
+        "0.97960"
+      ], 
+      [
+        "blind", 
+        "0.90934"
+      ], 
+      [
+        "furnishing", 
+        "0.80904"
+      ], 
+      [
+        "protective covering", 
+        "0.66412"
+      ]
+    ], 
+    "5.379"
+  ]
+}

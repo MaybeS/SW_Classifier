@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.68186"
+      ], 
+      [
+        "perfume", 
+        "0.02725"
+      ], 
+      [
+        "espresso maker", 
+        "0.02669"
+      ], 
+      [
+        "modem", 
+        "0.02023"
+      ], 
+      [
+        "ashcan", 
+        "0.01695"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.93317"
+      ], 
+      [
+        "digital computer", 
+        "0.91529"
+      ], 
+      [
+        "computer", 
+        "0.84055"
+      ], 
+      [
+        "desktop computer", 
+        "0.81724"
+      ], 
+      [
+        "machine", 
+        "0.74612"
+      ]
+    ], 
+    "5.725"
+  ]
+}

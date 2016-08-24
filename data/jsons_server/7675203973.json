@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mortarboard", 
+        "0.64512"
+      ], 
+      [
+        "umbrella", 
+        "0.11485"
+      ], 
+      [
+        "mountain tent", 
+        "0.05095"
+      ], 
+      [
+        "academic gown", 
+        "0.03928"
+      ], 
+      [
+        "backpack", 
+        "0.01334"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.77912"
+      ], 
+      [
+        "consumer goods", 
+        "0.70667"
+      ], 
+      [
+        "mortarboard", 
+        "0.70047"
+      ], 
+      [
+        "commodity", 
+        "0.66880"
+      ], 
+      [
+        "covering", 
+        "0.66742"
+      ]
+    ], 
+    "10.996"
+  ]
+}

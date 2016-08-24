@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.24925"
+      ], 
+      [
+        "digital watch", 
+        "0.21458"
+      ], 
+      [
+        "hard disc", 
+        "0.07672"
+      ], 
+      [
+        "modem", 
+        "0.05770"
+      ], 
+      [
+        "radio", 
+        "0.05426"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.60906"
+      ], 
+      [
+        "timepiece", 
+        "0.60594"
+      ], 
+      [
+        "measuring instrument", 
+        "0.60582"
+      ], 
+      [
+        "portable computer", 
+        "0.60155"
+      ], 
+      [
+        "digital computer", 
+        "0.59740"
+      ]
+    ], 
+    "5.348"
+  ]
+}

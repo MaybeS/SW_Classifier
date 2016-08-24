@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mosquito net", 
+        "0.76479"
+      ], 
+      [
+        "plastic bag", 
+        "0.04406"
+      ], 
+      [
+        "gown", 
+        "0.03330"
+      ], 
+      [
+        "handkerchief", 
+        "0.03215"
+      ], 
+      [
+        "brassiere", 
+        "0.02649"
+      ]
+    ], 
+    [
+      [
+        "mosquito net", 
+        "2.33832"
+      ], 
+      [
+        "screen", 
+        "1.98523"
+      ], 
+      [
+        "protective covering", 
+        "1.22873"
+      ], 
+      [
+        "covering", 
+        "0.95287"
+      ], 
+      [
+        "furnishing", 
+        "0.32793"
+      ]
+    ], 
+    "5.696"
+  ]
+}

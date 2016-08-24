@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vacuum", 
+        "0.12249"
+      ], 
+      [
+        "whistle", 
+        "0.11013"
+      ], 
+      [
+        "power drill", 
+        "0.09136"
+      ], 
+      [
+        "stopwatch", 
+        "0.07361"
+      ], 
+      [
+        "joystick", 
+        "0.06883"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.39550"
+      ], 
+      [
+        "instrument", 
+        "0.32984"
+      ], 
+      [
+        "measuring instrument", 
+        "0.32940"
+      ], 
+      [
+        "equipment", 
+        "0.29014"
+      ], 
+      [
+        "timepiece", 
+        "0.28162"
+      ]
+    ], 
+    "8.715"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.25201"
+      ], 
+      [
+        "frying pan", 
+        "0.09346"
+      ], 
+      [
+        "chocolate sauce", 
+        "0.07656"
+      ], 
+      [
+        "spatula", 
+        "0.06937"
+      ], 
+      [
+        "trifle", 
+        "0.05326"
+      ]
+    ], 
+    [
+      [
+        "kitchen appliance", 
+        "0.53307"
+      ], 
+      [
+        "food", 
+        "0.50818"
+      ], 
+      [
+        "waffle iron", 
+        "0.49944"
+      ], 
+      [
+        "substance", 
+        "0.49483"
+      ], 
+      [
+        "home appliance", 
+        "0.48710"
+      ]
+    ], 
+    "6.616"
+  ]
+}

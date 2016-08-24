@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.17741"
+      ], 
+      [
+        "modem", 
+        "0.17570"
+      ], 
+      [
+        "lighter", 
+        "0.13309"
+      ], 
+      [
+        "whistle", 
+        "0.09668"
+      ], 
+      [
+        "combination lock", 
+        "0.02890"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.37157"
+      ], 
+      [
+        "device", 
+        "0.36713"
+      ], 
+      [
+        "equipment", 
+        "0.36339"
+      ], 
+      [
+        "implement", 
+        "0.22937"
+      ], 
+      [
+        "control", 
+        "0.21639"
+      ]
+    ], 
+    "6.071"
+  ]
+}

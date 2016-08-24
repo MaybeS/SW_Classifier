@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pedestal", 
+        "0.20706"
+      ], 
+      [
+        "printer", 
+        "0.08759"
+      ], 
+      [
+        "washbasin", 
+        "0.07715"
+      ], 
+      [
+        "medicine chest", 
+        "0.05955"
+      ], 
+      [
+        "refrigerator", 
+        "0.05531"
+      ]
+    ], 
+    [
+      [
+        "pedestal", 
+        "0.34443"
+      ], 
+      [
+        "furniture", 
+        "0.34250"
+      ], 
+      [
+        "support", 
+        "0.33937"
+      ], 
+      [
+        "furnishing", 
+        "0.33251"
+      ], 
+      [
+        "structure", 
+        "0.32812"
+      ]
+    ], 
+    "10.313"
+  ]
+}

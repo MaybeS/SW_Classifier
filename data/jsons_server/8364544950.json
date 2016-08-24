@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dial telephone", 
+        "0.29172"
+      ], 
+      [
+        "teapot", 
+        "0.25379"
+      ], 
+      [
+        "sewing machine", 
+        "0.17890"
+      ], 
+      [
+        "tray", 
+        "0.04326"
+      ], 
+      [
+        "coffeepot", 
+        "0.03216"
+      ]
+    ], 
+    [
+      [
+        "dial telephone", 
+        "0.67654"
+      ], 
+      [
+        "telephone", 
+        "0.57815"
+      ], 
+      [
+        "vessel", 
+        "0.50498"
+      ], 
+      [
+        "electronic equipment", 
+        "0.47195"
+      ], 
+      [
+        "pot", 
+        "0.46681"
+      ]
+    ], 
+    "5.285"
+  ]
+}

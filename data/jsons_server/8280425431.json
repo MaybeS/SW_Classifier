@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.27555"
+      ], 
+      [
+        "wallet", 
+        "0.06826"
+      ], 
+      [
+        "pencil box", 
+        "0.05657"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04310"
+      ], 
+      [
+        "bath towel", 
+        "0.04252"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.33591"
+      ], 
+      [
+        "binder", 
+        "0.30281"
+      ], 
+      [
+        "container", 
+        "0.28975"
+      ], 
+      [
+        "protective covering", 
+        "0.25365"
+      ], 
+      [
+        "commodity", 
+        "0.23130"
+      ]
+    ], 
+    "9.361"
+  ]
+}

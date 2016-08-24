@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.94111"
+      ], 
+      [
+        "rubber eraser", 
+        "0.00751"
+      ], 
+      [
+        "soap dispenser", 
+        "0.00640"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00619"
+      ], 
+      [
+        "perfume", 
+        "0.00339"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "1.00256"
+      ], 
+      [
+        "control", 
+        "0.94893"
+      ], 
+      [
+        "mechanism", 
+        "0.66570"
+      ], 
+      [
+        "device", 
+        "0.40281"
+      ], 
+      [
+        "equipment", 
+        "0.26913"
+      ]
+    ], 
+    "8.608"
+  ]
+}

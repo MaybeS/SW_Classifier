@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.45969"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07426"
+      ], 
+      [
+        "cash machine", 
+        "0.06492"
+      ], 
+      [
+        "nipple", 
+        "0.02804"
+      ], 
+      [
+        "Band Aid", 
+        "0.02486"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "1.80514"
+      ], 
+      [
+        "computer", 
+        "1.47509"
+      ], 
+      [
+        "machine", 
+        "1.31154"
+      ], 
+      [
+        "device", 
+        "0.51527"
+      ], 
+      [
+        "personal computer", 
+        "0.26469"
+      ]
+    ], 
+    "7.477"
+  ]
+}

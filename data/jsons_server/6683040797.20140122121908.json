@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.45785"
+      ], 
+      [
+        "binder", 
+        "0.37184"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03496"
+      ], 
+      [
+        "book jacket", 
+        "0.01864"
+      ], 
+      [
+        "pencil box", 
+        "0.01808"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.48454"
+      ], 
+      [
+        "envelope", 
+        "0.40732"
+      ], 
+      [
+        "container", 
+        "0.36917"
+      ], 
+      [
+        "covering", 
+        "0.34119"
+      ], 
+      [
+        "protective covering", 
+        "0.30682"
+      ]
+    ], 
+    "6.214"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.53210"
+      ], 
+      [
+        "analog clock", 
+        "0.06071"
+      ], 
+      [
+        "soap dispenser", 
+        "0.03987"
+      ], 
+      [
+        "backpack", 
+        "0.03505"
+      ], 
+      [
+        "digital watch", 
+        "0.03077"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30326"
+      ], 
+      [
+        "implement", 
+        "0.29824"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.27014"
+      ], 
+      [
+        "container", 
+        "0.26808"
+      ], 
+      [
+        "sharpener", 
+        "0.26617"
+      ]
+    ], 
+    "7.281"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microwave", 
+        "0.18538"
+      ], 
+      [
+        "stove", 
+        "0.10640"
+      ], 
+      [
+        "photocopier", 
+        "0.09859"
+      ], 
+      [
+        "toaster", 
+        "0.06638"
+      ], 
+      [
+        "refrigerator", 
+        "0.06323"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.52777"
+      ], 
+      [
+        "appliance", 
+        "0.50816"
+      ], 
+      [
+        "durables", 
+        "0.49494"
+      ], 
+      [
+        "furniture", 
+        "0.37268"
+      ], 
+      [
+        "furnishing", 
+        "0.36124"
+      ]
+    ], 
+    "6.694"
+  ]
+}

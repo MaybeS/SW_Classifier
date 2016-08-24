@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette player", 
+        "0.46901"
+      ], 
+      [
+        "cassette", 
+        "0.33481"
+      ], 
+      [
+        "tape player", 
+        "0.04467"
+      ], 
+      [
+        "analog clock", 
+        "0.01255"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00920"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.82455"
+      ], 
+      [
+        "equipment", 
+        "0.67626"
+      ], 
+      [
+        "cassette player", 
+        "0.58534"
+      ], 
+      [
+        "cassette", 
+        "0.54480"
+      ], 
+      [
+        "container", 
+        "0.38453"
+      ]
+    ], 
+    "5.378"
+  ]
+}

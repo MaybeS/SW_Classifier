@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "miniskirt", 
+        "0.14911"
+      ], 
+      [
+        "shoji", 
+        "0.14516"
+      ], 
+      [
+        "window shade", 
+        "0.08903"
+      ], 
+      [
+        "brassiere", 
+        "0.07860"
+      ], 
+      [
+        "sliding door", 
+        "0.04138"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.69255"
+      ], 
+      [
+        "clothing", 
+        "0.58213"
+      ], 
+      [
+        "consumer goods", 
+        "0.54165"
+      ], 
+      [
+        "commodity", 
+        "0.51602"
+      ], 
+      [
+        "garment", 
+        "0.51286"
+      ]
+    ], 
+    "5.454"
+  ]
+}

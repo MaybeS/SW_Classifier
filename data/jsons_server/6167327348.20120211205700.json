@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.46134"
+      ], 
+      [
+        "refrigerator", 
+        "0.11727"
+      ], 
+      [
+        "space heater", 
+        "0.06096"
+      ], 
+      [
+        "modem", 
+        "0.05046"
+      ], 
+      [
+        "soap dispenser", 
+        "0.03656"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.72853"
+      ], 
+      [
+        "appliance", 
+        "0.70719"
+      ], 
+      [
+        "durables", 
+        "0.68879"
+      ], 
+      [
+        "toaster", 
+        "0.61382"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.55178"
+      ]
+    ], 
+    "8.532"
+  ]
+}

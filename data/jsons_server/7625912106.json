@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.49145"
+      ], 
+      [
+        "container ship", 
+        "0.15305"
+      ], 
+      [
+        "digital clock", 
+        "0.14195"
+      ], 
+      [
+        "rule", 
+        "0.04968"
+      ], 
+      [
+        "scoreboard", 
+        "0.04076"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.55986"
+      ], 
+      [
+        "container ship", 
+        "0.49417"
+      ], 
+      [
+        "cargo ship", 
+        "0.48691"
+      ], 
+      [
+        "equipment", 
+        "0.47937"
+      ], 
+      [
+        "modem", 
+        "0.46101"
+      ]
+    ], 
+    "11.993"
+  ]
+}

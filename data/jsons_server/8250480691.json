@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.47223"
+      ], 
+      [
+        "projector", 
+        "0.27438"
+      ], 
+      [
+        "microphone", 
+        "0.12810"
+      ], 
+      [
+        "electric fan", 
+        "0.06358"
+      ], 
+      [
+        "spotlight", 
+        "0.01066"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "0.55616"
+      ], 
+      [
+        "heater", 
+        "0.50894"
+      ], 
+      [
+        "device", 
+        "0.41999"
+      ], 
+      [
+        "projector", 
+        "0.36788"
+      ], 
+      [
+        "optical instrument", 
+        "0.31172"
+      ]
+    ], 
+    "7.586"
+  ]
+}

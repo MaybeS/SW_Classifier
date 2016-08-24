@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.20331"
+      ], 
+      [
+        "book jacket", 
+        "0.17025"
+      ], 
+      [
+        "modem", 
+        "0.08051"
+      ], 
+      [
+        "hard disc", 
+        "0.06246"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03314"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32239"
+      ], 
+      [
+        "implement", 
+        "0.26036"
+      ], 
+      [
+        "equipment", 
+        "0.25083"
+      ], 
+      [
+        "book jacket", 
+        "0.23352"
+      ], 
+      [
+        "electronic equipment", 
+        "0.23258"
+      ]
+    ], 
+    "6.687"
+  ]
+}

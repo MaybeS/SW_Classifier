@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.22051"
+      ], 
+      [
+        "modem", 
+        "0.12414"
+      ], 
+      [
+        "tray", 
+        "0.09176"
+      ], 
+      [
+        "envelope", 
+        "0.05236"
+      ], 
+      [
+        "brass", 
+        "0.04673"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.29105"
+      ], 
+      [
+        "device", 
+        "0.29044"
+      ], 
+      [
+        "container", 
+        "0.27636"
+      ], 
+      [
+        "instrument", 
+        "0.27308"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26618"
+      ]
+    ], 
+    "6.185"
+  ]
+}

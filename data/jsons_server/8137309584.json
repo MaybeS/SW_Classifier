@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fur coat", 
+        "0.25065"
+      ], 
+      [
+        "trench coat", 
+        "0.17039"
+      ], 
+      [
+        "sweatshirt", 
+        "0.08706"
+      ], 
+      [
+        "pretzel", 
+        "0.04711"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.03631"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "0.90510"
+      ], 
+      [
+        "clothing", 
+        "0.88060"
+      ], 
+      [
+        "coat", 
+        "0.80856"
+      ], 
+      [
+        "overgarment", 
+        "0.78120"
+      ], 
+      [
+        "consumer goods", 
+        "0.77841"
+      ]
+    ], 
+    "4.967"
+  ]
+}

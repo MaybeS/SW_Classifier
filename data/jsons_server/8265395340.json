@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.15260"
+      ], 
+      [
+        "screen", 
+        "0.14672"
+      ], 
+      [
+        "modem", 
+        "0.13424"
+      ], 
+      [
+        "desktop computer", 
+        "0.10429"
+      ], 
+      [
+        "space heater", 
+        "0.08646"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.47469"
+      ], 
+      [
+        "digital computer", 
+        "0.46560"
+      ], 
+      [
+        "computer", 
+        "0.44931"
+      ], 
+      [
+        "machine", 
+        "0.44023"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42714"
+      ]
+    ], 
+    "6.098"
+  ]
+}

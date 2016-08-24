@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.26238"
+      ], 
+      [
+        "space heater", 
+        "0.23540"
+      ], 
+      [
+        "modem", 
+        "0.14669"
+      ], 
+      [
+        "desktop computer", 
+        "0.14660"
+      ], 
+      [
+        "CD player", 
+        "0.03429"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.48790"
+      ], 
+      [
+        "equipment", 
+        "0.44401"
+      ], 
+      [
+        "loudspeaker", 
+        "0.43108"
+      ], 
+      [
+        "device", 
+        "0.41766"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.39109"
+      ]
+    ], 
+    "6.144"
+  ]
+}

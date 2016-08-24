@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sunscreen", 
+        "0.25861"
+      ], 
+      [
+        "ballpoint", 
+        "0.22051"
+      ], 
+      [
+        "letter opener", 
+        "0.10211"
+      ], 
+      [
+        "packet", 
+        "0.07647"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05771"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.46953"
+      ], 
+      [
+        "toiletry", 
+        "0.44229"
+      ], 
+      [
+        "pen", 
+        "0.35697"
+      ], 
+      [
+        "writing implement", 
+        "0.35061"
+      ], 
+      [
+        "ballpoint", 
+        "0.28400"
+      ]
+    ], 
+    "8.644"
+  ]
+}

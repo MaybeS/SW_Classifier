@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.22796"
+      ], 
+      [
+        "scale", 
+        "0.13793"
+      ], 
+      [
+        "analog clock", 
+        "0.07923"
+      ], 
+      [
+        "cellular telephone", 
+        "0.04736"
+      ], 
+      [
+        "joystick", 
+        "0.04729"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.52835"
+      ], 
+      [
+        "instrument", 
+        "0.46411"
+      ], 
+      [
+        "timepiece", 
+        "0.39558"
+      ], 
+      [
+        "device", 
+        "0.38981"
+      ], 
+      [
+        "equipment", 
+        "0.36228"
+      ]
+    ], 
+    "9.342"
+  ]
+}

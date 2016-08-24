@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "guillotine", 
+        "0.16073"
+      ], 
+      [
+        "binder", 
+        "0.13125"
+      ], 
+      [
+        "printer", 
+        "0.07810"
+      ], 
+      [
+        "hook", 
+        "0.05776"
+      ], 
+      [
+        "stretcher", 
+        "0.04601"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.29248"
+      ], 
+      [
+        "guillotine", 
+        "0.29109"
+      ], 
+      [
+        "instrument of execution", 
+        "0.28681"
+      ], 
+      [
+        "equipment", 
+        "0.28336"
+      ], 
+      [
+        "instrument", 
+        "0.23558"
+      ]
+    ], 
+    "6.938"
+  ]
+}

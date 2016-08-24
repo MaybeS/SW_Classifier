@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.19564"
+      ], 
+      [
+        "switch", 
+        "0.08872"
+      ], 
+      [
+        "knee pad", 
+        "0.06440"
+      ], 
+      [
+        "digital clock", 
+        "0.05384"
+      ], 
+      [
+        "folding chair", 
+        "0.03809"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33170"
+      ], 
+      [
+        "loudspeaker", 
+        "0.30101"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.27590"
+      ], 
+      [
+        "transducer", 
+        "0.27132"
+      ], 
+      [
+        "electrical device", 
+        "0.26673"
+      ]
+    ], 
+    "5.967"
+  ]
+}

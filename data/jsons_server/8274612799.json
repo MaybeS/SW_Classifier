@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.65210"
+      ], 
+      [
+        "radio", 
+        "0.07618"
+      ], 
+      [
+        "iPod", 
+        "0.04579"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04409"
+      ], 
+      [
+        "modem", 
+        "0.03543"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.98044"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.88081"
+      ], 
+      [
+        "transducer", 
+        "0.86616"
+      ], 
+      [
+        "electrical device", 
+        "0.85152"
+      ], 
+      [
+        "equipment", 
+        "0.47454"
+      ]
+    ], 
+    "5.603"
+  ]
+}

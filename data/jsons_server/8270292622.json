@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.47552"
+      ], 
+      [
+        "can opener", 
+        "0.13353"
+      ], 
+      [
+        "whistle", 
+        "0.06430"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.03418"
+      ], 
+      [
+        "switch", 
+        "0.03228"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.57586"
+      ], 
+      [
+        "combination lock", 
+        "0.56438"
+      ], 
+      [
+        "fastener", 
+        "0.53256"
+      ], 
+      [
+        "restraint", 
+        "0.49559"
+      ], 
+      [
+        "device", 
+        "0.41608"
+      ]
+    ], 
+    "8.605"
+  ]
+}

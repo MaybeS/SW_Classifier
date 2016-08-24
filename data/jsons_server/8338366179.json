@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "envelope", 
+        "0.35312"
+      ], 
+      [
+        "plastic bag", 
+        "0.11951"
+      ], 
+      [
+        "handkerchief", 
+        "0.10280"
+      ], 
+      [
+        "jersey", 
+        "0.05764"
+      ], 
+      [
+        "umbrella", 
+        "0.03541"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.44745"
+      ], 
+      [
+        "clothing", 
+        "0.40917"
+      ], 
+      [
+        "consumer goods", 
+        "0.37915"
+      ], 
+      [
+        "commodity", 
+        "0.37371"
+      ], 
+      [
+        "piece of cloth", 
+        "0.36213"
+      ]
+    ], 
+    "6.818"
+  ]
+}

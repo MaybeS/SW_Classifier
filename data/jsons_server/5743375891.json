@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.13258"
+      ], 
+      [
+        "loupe", 
+        "0.09557"
+      ], 
+      [
+        "mousetrap", 
+        "0.08390"
+      ], 
+      [
+        "magnetic compass", 
+        "0.07604"
+      ], 
+      [
+        "comic book", 
+        "0.07238"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36493"
+      ], 
+      [
+        "instrument", 
+        "0.27331"
+      ], 
+      [
+        "equipment", 
+        "0.26672"
+      ], 
+      [
+        "implement", 
+        "0.24292"
+      ], 
+      [
+        "container", 
+        "0.22596"
+      ]
+    ], 
+    "7.063"
+  ]
+}

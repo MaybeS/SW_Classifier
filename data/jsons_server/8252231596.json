@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "comic book", 
+        "0.26963"
+      ], 
+      [
+        "book jacket", 
+        "0.12927"
+      ], 
+      [
+        "screwdriver", 
+        "0.11483"
+      ], 
+      [
+        "spatula", 
+        "0.10767"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.05248"
+      ]
+    ], 
+    [
+      [
+        "comic book", 
+        "0.48764"
+      ], 
+      [
+        "magazine", 
+        "0.48048"
+      ], 
+      [
+        "publication", 
+        "0.47331"
+      ], 
+      [
+        "press", 
+        "0.47331"
+      ], 
+      [
+        "print media", 
+        "0.46615"
+      ]
+    ], 
+    "4.904"
+  ]
+}

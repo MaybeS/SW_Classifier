@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "shield", 
+        "0.58561"
+      ], 
+      [
+        "breastplate", 
+        "0.20834"
+      ], 
+      [
+        "cuirass", 
+        "0.09964"
+      ], 
+      [
+        "bib", 
+        "0.01230"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.00926"
+      ]
+    ], 
+    [
+      [
+        "protective covering", 
+        "0.79015"
+      ], 
+      [
+        "armor", 
+        "0.75986"
+      ], 
+      [
+        "covering", 
+        "0.63825"
+      ], 
+      [
+        "shield", 
+        "0.51858"
+      ], 
+      [
+        "breastplate", 
+        "0.48777"
+      ]
+    ], 
+    "7.843"
+  ]
+}

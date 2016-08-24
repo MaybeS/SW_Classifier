@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.96993"
+      ], 
+      [
+        "remote control", 
+        "0.01097"
+      ], 
+      [
+        "mouse", 
+        "0.00488"
+      ], 
+      [
+        "switch", 
+        "0.00241"
+      ], 
+      [
+        "hair slide", 
+        "0.00205"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "2.67098"
+      ], 
+      [
+        "wind instrument", 
+        "1.59568"
+      ], 
+      [
+        "musical instrument", 
+        "1.27976"
+      ], 
+      [
+        "device", 
+        "0.56483"
+      ], 
+      [
+        "covering", 
+        "0.21741"
+      ]
+    ], 
+    "5.951"
+  ]
+}

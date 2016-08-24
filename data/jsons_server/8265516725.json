@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.49192"
+      ], 
+      [
+        "letter opener", 
+        "0.08772"
+      ], 
+      [
+        "rubber eraser", 
+        "0.07657"
+      ], 
+      [
+        "ballpoint", 
+        "0.03897"
+      ], 
+      [
+        "mortarboard", 
+        "0.02682"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.49400"
+      ], 
+      [
+        "implement", 
+        "0.33334"
+      ], 
+      [
+        "covering", 
+        "0.32212"
+      ], 
+      [
+        "protective covering", 
+        "0.32101"
+      ], 
+      [
+        "container", 
+        "0.25089"
+      ]
+    ], 
+    "9.099"
+  ]
+}

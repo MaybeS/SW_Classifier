@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oxygen mask", 
+        "0.42707"
+      ], 
+      [
+        "loupe", 
+        "0.09644"
+      ], 
+      [
+        "Petri dish", 
+        "0.08006"
+      ], 
+      [
+        "can opener", 
+        "0.07847"
+      ], 
+      [
+        "stethoscope", 
+        "0.05689"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.32244"
+      ], 
+      [
+        "breathing device", 
+        "0.31155"
+      ], 
+      [
+        "oxygen mask", 
+        "0.30749"
+      ], 
+      [
+        "covering", 
+        "0.28266"
+      ], 
+      [
+        "consumer goods", 
+        "0.25024"
+      ]
+    ], 
+    "5.370"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.13451"
+      ], 
+      [
+        "photocopier", 
+        "0.13163"
+      ], 
+      [
+        "printer", 
+        "0.12044"
+      ], 
+      [
+        "scale", 
+        "0.08423"
+      ], 
+      [
+        "modem", 
+        "0.07914"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.69614"
+      ], 
+      [
+        "electronic equipment", 
+        "0.67085"
+      ], 
+      [
+        "machine", 
+        "0.49882"
+      ], 
+      [
+        "personal computer", 
+        "0.41411"
+      ], 
+      [
+        "computer", 
+        "0.40935"
+      ]
+    ], 
+    "5.655"
+  ]
+}

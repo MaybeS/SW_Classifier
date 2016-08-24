@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.30665"
+      ], 
+      [
+        "cash machine", 
+        "0.11440"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06364"
+      ], 
+      [
+        "switch", 
+        "0.06332"
+      ], 
+      [
+        "safe", 
+        "0.04218"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "1.21037"
+      ], 
+      [
+        "computer", 
+        "1.04173"
+      ], 
+      [
+        "machine", 
+        "0.99565"
+      ], 
+      [
+        "device", 
+        "0.48305"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35624"
+      ]
+    ], 
+    "7.610"
+  ]
+}

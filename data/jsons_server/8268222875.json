@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.26854"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06417"
+      ], 
+      [
+        "ballpoint", 
+        "0.05174"
+      ], 
+      [
+        "pencil box", 
+        "0.04074"
+      ], 
+      [
+        "screwdriver", 
+        "0.03845"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.39980"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.35098"
+      ], 
+      [
+        "kit", 
+        "0.34582"
+      ], 
+      [
+        "equipment", 
+        "0.31320"
+      ], 
+      [
+        "gear", 
+        "0.30270"
+      ]
+    ], 
+    "7.362"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.11306"
+      ], 
+      [
+        "Windsor tie", 
+        "0.07969"
+      ], 
+      [
+        "lighter", 
+        "0.06591"
+      ], 
+      [
+        "safety pin", 
+        "0.06195"
+      ], 
+      [
+        "oil filter", 
+        "0.03339"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.33513"
+      ], 
+      [
+        "device", 
+        "0.28465"
+      ], 
+      [
+        "consumer goods", 
+        "0.22615"
+      ], 
+      [
+        "container", 
+        "0.21819"
+      ], 
+      [
+        "protective covering", 
+        "0.21740"
+      ]
+    ], 
+    "7.891"
+  ]
+}

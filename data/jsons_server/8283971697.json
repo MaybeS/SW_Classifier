@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.29067"
+      ], 
+      [
+        "toaster", 
+        "0.20284"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.12043"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.05762"
+      ], 
+      [
+        "mousetrap", 
+        "0.03741"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.34403"
+      ], 
+      [
+        "appliance", 
+        "0.34139"
+      ], 
+      [
+        "durables", 
+        "0.33251"
+      ], 
+      [
+        "switch", 
+        "0.33189"
+      ], 
+      [
+        "device", 
+        "0.32569"
+      ]
+    ], 
+    "8.588"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.74231"
+      ], 
+      [
+        "cassette player", 
+        "0.06786"
+      ], 
+      [
+        "gasmask", 
+        "0.02712"
+      ], 
+      [
+        "space heater", 
+        "0.02654"
+      ], 
+      [
+        "spotlight", 
+        "0.02306"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.10729"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.99388"
+      ], 
+      [
+        "transducer", 
+        "0.97735"
+      ], 
+      [
+        "electrical device", 
+        "0.96083"
+      ], 
+      [
+        "device", 
+        "0.43754"
+      ]
+    ], 
+    "7.864"
+  ]
+}

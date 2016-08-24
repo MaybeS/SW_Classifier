@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.27474"
+      ], 
+      [
+        "notebook", 
+        "0.17544"
+      ], 
+      [
+        "scale", 
+        "0.09176"
+      ], 
+      [
+        "modem", 
+        "0.07149"
+      ], 
+      [
+        "folding chair", 
+        "0.05642"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.39578"
+      ], 
+      [
+        "digital computer", 
+        "0.38820"
+      ], 
+      [
+        "computer", 
+        "0.38309"
+      ], 
+      [
+        "portable computer", 
+        "0.37796"
+      ], 
+      [
+        "machine", 
+        "0.35586"
+      ]
+    ], 
+    "5.969"
+  ]
+}

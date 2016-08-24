@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.98381"
+      ], 
+      [
+        "printer", 
+        "0.01231"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.00099"
+      ], 
+      [
+        "switch", 
+        "0.00069"
+      ], 
+      [
+        "photocopier", 
+        "0.00019"
+      ]
+    ], 
+    [
+      [
+        "toaster", 
+        "1.27638"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.08064"
+      ], 
+      [
+        "home appliance", 
+        "1.05248"
+      ], 
+      [
+        "appliance", 
+        "1.01810"
+      ], 
+      [
+        "durables", 
+        "0.99161"
+      ]
+    ], 
+    "5.373"
+  ]
+}

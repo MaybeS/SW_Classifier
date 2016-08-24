@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sweatshirt", 
+        "0.47936"
+      ], 
+      [
+        "sleeping bag", 
+        "0.27522"
+      ], 
+      [
+        "pug", 
+        "0.05376"
+      ], 
+      [
+        "Brabancon griffon", 
+        "0.04882"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.03935"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "0.79106"
+      ], 
+      [
+        "clothing", 
+        "0.78743"
+      ], 
+      [
+        "sweatshirt", 
+        "0.72668"
+      ], 
+      [
+        "pullover", 
+        "0.71601"
+      ], 
+      [
+        "consumer goods", 
+        "0.69388"
+      ]
+    ], 
+    "6.070"
+  ]
+}

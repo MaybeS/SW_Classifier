@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.70159"
+      ], 
+      [
+        "tripod", 
+        "0.08732"
+      ], 
+      [
+        "projector", 
+        "0.04196"
+      ], 
+      [
+        "binoculars", 
+        "0.04136"
+      ], 
+      [
+        "spotlight", 
+        "0.03030"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.66938"
+      ], 
+      [
+        "photographic equipment", 
+        "1.64162"
+      ], 
+      [
+        "reflex camera", 
+        "1.59277"
+      ], 
+      [
+        "equipment", 
+        "0.86746"
+      ], 
+      [
+        "device", 
+        "0.33359"
+      ]
+    ], 
+    "9.968"
+  ]
+}

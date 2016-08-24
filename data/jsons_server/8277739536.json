@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.26789"
+      ], 
+      [
+        "oxygen mask", 
+        "0.12827"
+      ], 
+      [
+        "spotlight", 
+        "0.10888"
+      ], 
+      [
+        "combination lock", 
+        "0.09967"
+      ], 
+      [
+        "stethoscope", 
+        "0.07281"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36476"
+      ], 
+      [
+        "instrument", 
+        "0.24121"
+      ], 
+      [
+        "covering", 
+        "0.24101"
+      ], 
+      [
+        "consumer goods", 
+        "0.22296"
+      ], 
+      [
+        "commodity", 
+        "0.21292"
+      ]
+    ], 
+    "8.568"
+  ]
+}

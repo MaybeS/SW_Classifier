@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "shopping basket", 
+        "0.30356"
+      ], 
+      [
+        "hamper", 
+        "0.21567"
+      ], 
+      [
+        "sunscreen", 
+        "0.05624"
+      ], 
+      [
+        "mailbag", 
+        "0.04425"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03965"
+      ]
+    ], 
+    [
+      [
+        "basket", 
+        "1.05289"
+      ], 
+      [
+        "shopping basket", 
+        "0.60563"
+      ], 
+      [
+        "hamper", 
+        "0.58611"
+      ], 
+      [
+        "container", 
+        "0.50468"
+      ], 
+      [
+        "covering", 
+        "0.24227"
+      ]
+    ], 
+    "7.359"
+  ]
+}

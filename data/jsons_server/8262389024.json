@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.44824"
+      ], 
+      [
+        "desktop computer", 
+        "0.10415"
+      ], 
+      [
+        "safe", 
+        "0.06400"
+      ], 
+      [
+        "cassette player", 
+        "0.04131"
+      ], 
+      [
+        "file", 
+        "0.04035"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.49542"
+      ], 
+      [
+        "control", 
+        "0.48155"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41708"
+      ], 
+      [
+        "equipment", 
+        "0.41027"
+      ], 
+      [
+        "device", 
+        "0.36008"
+      ]
+    ], 
+    "6.733"
+  ]
+}

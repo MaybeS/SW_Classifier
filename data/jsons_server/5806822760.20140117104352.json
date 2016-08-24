@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "can opener", 
+        "0.14982"
+      ], 
+      [
+        "modem", 
+        "0.12963"
+      ], 
+      [
+        "limousine", 
+        "0.11258"
+      ], 
+      [
+        "speedboat", 
+        "0.07941"
+      ], 
+      [
+        "bathtub", 
+        "0.07611"
+      ]
+    ], 
+    [
+      [
+        "vehicle", 
+        "0.41413"
+      ], 
+      [
+        "conveyance", 
+        "0.39731"
+      ], 
+      [
+        "motor vehicle", 
+        "0.35186"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.34286"
+      ], 
+      [
+        "car", 
+        "0.33957"
+      ]
+    ], 
+    "6.665"
+  ]
+}

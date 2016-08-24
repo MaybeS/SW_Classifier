@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.35433"
+      ], 
+      [
+        "switch", 
+        "0.27128"
+      ], 
+      [
+        "modem", 
+        "0.10025"
+      ], 
+      [
+        "scoreboard", 
+        "0.04496"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.03500"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.44864"
+      ], 
+      [
+        "combination lock", 
+        "0.43468"
+      ], 
+      [
+        "device", 
+        "0.41382"
+      ], 
+      [
+        "fastener", 
+        "0.39341"
+      ], 
+      [
+        "restraint", 
+        "0.36494"
+      ]
+    ], 
+    "9.296"
+  ]
+}

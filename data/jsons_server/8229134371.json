@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.69129"
+      ], 
+      [
+        "vacuum", 
+        "0.07675"
+      ], 
+      [
+        "tricycle", 
+        "0.05464"
+      ], 
+      [
+        "lawn mower", 
+        "0.01890"
+      ], 
+      [
+        "racer", 
+        "0.01173"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.55989"
+      ], 
+      [
+        "medical instrument", 
+        "0.51308"
+      ], 
+      [
+        "instrument", 
+        "0.37695"
+      ], 
+      [
+        "device", 
+        "0.37583"
+      ], 
+      [
+        "consumer goods", 
+        "0.27303"
+      ]
+    ], 
+    "5.367"
+  ]
+}

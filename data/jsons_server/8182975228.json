@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "packet", 
+        "0.14656"
+      ], 
+      [
+        "modem", 
+        "0.08185"
+      ], 
+      [
+        "rubber eraser", 
+        "0.07761"
+      ], 
+      [
+        "analog clock", 
+        "0.05439"
+      ], 
+      [
+        "digital clock", 
+        "0.04094"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30858"
+      ], 
+      [
+        "measuring instrument", 
+        "0.26083"
+      ], 
+      [
+        "container", 
+        "0.24758"
+      ], 
+      [
+        "instrument", 
+        "0.24262"
+      ], 
+      [
+        "equipment", 
+        "0.23232"
+      ]
+    ], 
+    "5.986"
+  ]
+}

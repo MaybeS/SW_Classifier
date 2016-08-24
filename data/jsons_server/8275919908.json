@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.06763"
+      ], 
+      [
+        "wallet", 
+        "0.06418"
+      ], 
+      [
+        "binder", 
+        "0.04291"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03699"
+      ], 
+      [
+        "cassette player", 
+        "0.03201"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.27827"
+      ], 
+      [
+        "equipment", 
+        "0.27283"
+      ], 
+      [
+        "container", 
+        "0.25433"
+      ], 
+      [
+        "electronic equipment", 
+        "0.23470"
+      ], 
+      [
+        "covering", 
+        "0.21831"
+      ]
+    ], 
+    "5.636"
+  ]
+}

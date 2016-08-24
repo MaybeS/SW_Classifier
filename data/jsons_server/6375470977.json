@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.22391"
+      ], 
+      [
+        "photocopier", 
+        "0.19370"
+      ], 
+      [
+        "desk", 
+        "0.11685"
+      ], 
+      [
+        "file", 
+        "0.04826"
+      ], 
+      [
+        "monitor", 
+        "0.02831"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.67306"
+      ], 
+      [
+        "photocopier", 
+        "0.62296"
+      ], 
+      [
+        "duplicator", 
+        "0.61381"
+      ], 
+      [
+        "apparatus", 
+        "0.60466"
+      ], 
+      [
+        "electronic equipment", 
+        "0.50804"
+      ]
+    ], 
+    "5.602"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.95847"
+      ], 
+      [
+        "ladle", 
+        "0.01491"
+      ], 
+      [
+        "microphone", 
+        "0.00662"
+      ], 
+      [
+        "scale", 
+        "0.00493"
+      ], 
+      [
+        "hook", 
+        "0.00323"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.77081"
+      ], 
+      [
+        "medical instrument", 
+        "0.70384"
+      ], 
+      [
+        "instrument", 
+        "0.47331"
+      ], 
+      [
+        "device", 
+        "0.42816"
+      ], 
+      [
+        "consumer goods", 
+        "0.28732"
+      ]
+    ], 
+    "12.549"
+  ]
+}

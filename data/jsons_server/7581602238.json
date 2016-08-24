@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "computer keyboard", 
+        "0.26270"
+      ], 
+      [
+        "space bar", 
+        "0.16609"
+      ], 
+      [
+        "cellular telephone", 
+        "0.10614"
+      ], 
+      [
+        "mouse", 
+        "0.09159"
+      ], 
+      [
+        "combination lock", 
+        "0.03955"
+      ]
+    ], 
+    [
+      [
+        "keyboard", 
+        "0.75248"
+      ], 
+      [
+        "electronic equipment", 
+        "0.62778"
+      ], 
+      [
+        "computer keyboard", 
+        "0.52248"
+      ], 
+      [
+        "space bar", 
+        "0.51302"
+      ], 
+      [
+        "equipment", 
+        "0.50855"
+      ]
+    ], 
+    "5.064"
+  ]
+}

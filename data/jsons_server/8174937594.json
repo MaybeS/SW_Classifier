@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bakery", 
+        "0.29843"
+      ], 
+      [
+        "confectionery", 
+        "0.08900"
+      ], 
+      [
+        "grocery store", 
+        "0.07371"
+      ], 
+      [
+        "jean", 
+        "0.06667"
+      ], 
+      [
+        "tobacco shop", 
+        "0.04959"
+      ]
+    ], 
+    [
+      [
+        "mercantile establishment", 
+        "0.77860"
+      ], 
+      [
+        "place of business", 
+        "0.76094"
+      ], 
+      [
+        "establishment", 
+        "0.72726"
+      ], 
+      [
+        "shop", 
+        "0.67249"
+      ], 
+      [
+        "structure", 
+        "0.51254"
+      ]
+    ], 
+    "5.044"
+  ]
+}

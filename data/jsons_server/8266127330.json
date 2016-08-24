@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.24677"
+      ], 
+      [
+        "loudspeaker", 
+        "0.10774"
+      ], 
+      [
+        "lighter", 
+        "0.07427"
+      ], 
+      [
+        "modem", 
+        "0.07300"
+      ], 
+      [
+        "remote control", 
+        "0.04464"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30537"
+      ], 
+      [
+        "equipment", 
+        "0.28680"
+      ], 
+      [
+        "binder", 
+        "0.27705"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27298"
+      ], 
+      [
+        "container", 
+        "0.23955"
+      ]
+    ], 
+    "5.900"
+  ]
+}

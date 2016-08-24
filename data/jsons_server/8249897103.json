@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.65325"
+      ], 
+      [
+        "switch", 
+        "0.17826"
+      ], 
+      [
+        "safe", 
+        "0.04292"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.01882"
+      ], 
+      [
+        "combination lock", 
+        "0.01682"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.63359"
+      ], 
+      [
+        "protective covering", 
+        "0.37670"
+      ], 
+      [
+        "covering", 
+        "0.31561"
+      ], 
+      [
+        "container", 
+        "0.29561"
+      ], 
+      [
+        "device", 
+        "0.24647"
+      ]
+    ], 
+    "8.394"
+  ]
+}

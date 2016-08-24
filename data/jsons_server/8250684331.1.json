@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bell cote", 
+        "0.23760"
+      ], 
+      [
+        "guillotine", 
+        "0.19949"
+      ], 
+      [
+        "stove", 
+        "0.07716"
+      ], 
+      [
+        "plate rack", 
+        "0.06867"
+      ], 
+      [
+        "entertainment center", 
+        "0.06019"
+      ]
+    ], 
+    [
+      [
+        "bell cote", 
+        "0.56460"
+      ], 
+      [
+        "shelter", 
+        "0.50985"
+      ], 
+      [
+        "furniture", 
+        "0.47018"
+      ], 
+      [
+        "furnishing", 
+        "0.44684"
+      ], 
+      [
+        "structure", 
+        "0.39207"
+      ]
+    ], 
+    "6.238"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.13470"
+      ], 
+      [
+        "loudspeaker", 
+        "0.12615"
+      ], 
+      [
+        "desktop computer", 
+        "0.09482"
+      ], 
+      [
+        "refrigerator", 
+        "0.07869"
+      ], 
+      [
+        "punching bag", 
+        "0.07044"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.42017"
+      ], 
+      [
+        "equipment", 
+        "0.40918"
+      ], 
+      [
+        "personal computer", 
+        "0.35348"
+      ], 
+      [
+        "device", 
+        "0.34992"
+      ], 
+      [
+        "digital computer", 
+        "0.34671"
+      ]
+    ], 
+    "9.751"
+  ]
+}

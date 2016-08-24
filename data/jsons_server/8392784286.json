@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.28422"
+      ], 
+      [
+        "bathtub", 
+        "0.24465"
+      ], 
+      [
+        "photocopier", 
+        "0.18496"
+      ], 
+      [
+        "tub", 
+        "0.04554"
+      ], 
+      [
+        "can opener", 
+        "0.03383"
+      ]
+    ], 
+    [
+      [
+        "photocopier", 
+        "0.63313"
+      ], 
+      [
+        "duplicator", 
+        "0.62383"
+      ], 
+      [
+        "apparatus", 
+        "0.61453"
+      ], 
+      [
+        "equipment", 
+        "0.58960"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41583"
+      ]
+    ], 
+    "13.396"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.14159"
+      ], 
+      [
+        "modem", 
+        "0.11100"
+      ], 
+      [
+        "rubber eraser", 
+        "0.08876"
+      ], 
+      [
+        "switch", 
+        "0.07568"
+      ], 
+      [
+        "screwdriver", 
+        "0.06862"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.35075"
+      ], 
+      [
+        "implement", 
+        "0.34406"
+      ], 
+      [
+        "device", 
+        "0.30551"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28656"
+      ], 
+      [
+        "container", 
+        "0.22655"
+      ]
+    ], 
+    "8.472"
+  ]
+}

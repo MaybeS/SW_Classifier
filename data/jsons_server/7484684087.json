@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.29793"
+      ], 
+      [
+        "radio", 
+        "0.06566"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06458"
+      ], 
+      [
+        "switch", 
+        "0.05743"
+      ], 
+      [
+        "cassette player", 
+        "0.04511"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.46484"
+      ], 
+      [
+        "home appliance", 
+        "0.44100"
+      ], 
+      [
+        "appliance", 
+        "0.43211"
+      ], 
+      [
+        "equipment", 
+        "0.42476"
+      ], 
+      [
+        "durables", 
+        "0.42086"
+      ]
+    ], 
+    "7.809"
+  ]
+}

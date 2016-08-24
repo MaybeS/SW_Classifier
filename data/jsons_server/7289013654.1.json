@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.88189"
+      ], 
+      [
+        "photocopier", 
+        "0.03059"
+      ], 
+      [
+        "CD player", 
+        "0.01893"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.01153"
+      ], 
+      [
+        "projector", 
+        "0.01099"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.93538"
+      ], 
+      [
+        "electronic equipment", 
+        "0.90275"
+      ], 
+      [
+        "printer", 
+        "0.89295"
+      ], 
+      [
+        "printer", 
+        "0.87984"
+      ], 
+      [
+        "peripheral", 
+        "0.77582"
+      ]
+    ], 
+    "5.741"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.49384"
+      ], 
+      [
+        "digital clock", 
+        "0.06403"
+      ], 
+      [
+        "television", 
+        "0.05888"
+      ], 
+      [
+        "screen", 
+        "0.03910"
+      ], 
+      [
+        "digital watch", 
+        "0.02799"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.54530"
+      ], 
+      [
+        "control", 
+        "0.52235"
+      ], 
+      [
+        "device", 
+        "0.42168"
+      ], 
+      [
+        "mechanism", 
+        "0.38749"
+      ], 
+      [
+        "measuring instrument", 
+        "0.38721"
+      ]
+    ], 
+    "5.327"
+  ]
+}

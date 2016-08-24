@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.62692"
+      ], 
+      [
+        "frying pan", 
+        "0.32093"
+      ], 
+      [
+        "lens cap", 
+        "0.02480"
+      ], 
+      [
+        "can opener", 
+        "0.00446"
+      ], 
+      [
+        "CD player", 
+        "0.00367"
+      ]
+    ], 
+    [
+      [
+        "waffle iron", 
+        "1.21577"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.05248"
+      ], 
+      [
+        "home appliance", 
+        "0.92512"
+      ], 
+      [
+        "appliance", 
+        "0.89151"
+      ], 
+      [
+        "durables", 
+        "0.86831"
+      ]
+    ], 
+    "10.493"
+  ]
+}

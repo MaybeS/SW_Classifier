@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.48173"
+      ], 
+      [
+        "modem", 
+        "0.23085"
+      ], 
+      [
+        "microphone", 
+        "0.17507"
+      ], 
+      [
+        "remote control", 
+        "0.01536"
+      ], 
+      [
+        "combination lock", 
+        "0.01317"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.61843"
+      ], 
+      [
+        "equipment", 
+        "0.54114"
+      ], 
+      [
+        "radio", 
+        "0.44915"
+      ], 
+      [
+        "communication system", 
+        "0.40806"
+      ], 
+      [
+        "system", 
+        "0.38232"
+      ]
+    ], 
+    "7.237"
+  ]
+}

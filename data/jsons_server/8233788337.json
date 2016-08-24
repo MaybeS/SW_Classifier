@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Dutch oven", 
+        "0.81865"
+      ], 
+      [
+        "caldron", 
+        "0.06854"
+      ], 
+      [
+        "loupe", 
+        "0.02724"
+      ], 
+      [
+        "loudspeaker", 
+        "0.01102"
+      ], 
+      [
+        "coffeepot", 
+        "0.01021"
+      ]
+    ], 
+    [
+      [
+        "Dutch oven", 
+        "1.64874"
+      ], 
+      [
+        "oven", 
+        "1.47808"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.23121"
+      ], 
+      [
+        "home appliance", 
+        "1.04253"
+      ], 
+      [
+        "appliance", 
+        "0.99732"
+      ]
+    ], 
+    "7.387"
+  ]
+}

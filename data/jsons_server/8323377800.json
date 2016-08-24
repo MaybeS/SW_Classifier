@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.33338"
+      ], 
+      [
+        "stopwatch", 
+        "0.17403"
+      ], 
+      [
+        "digital clock", 
+        "0.11783"
+      ], 
+      [
+        "remote control", 
+        "0.08339"
+      ], 
+      [
+        "hand-held computer", 
+        "0.08181"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.87306"
+      ], 
+      [
+        "instrument", 
+        "0.68754"
+      ], 
+      [
+        "timepiece", 
+        "0.65981"
+      ], 
+      [
+        "device", 
+        "0.49398"
+      ], 
+      [
+        "stopwatch", 
+        "0.41581"
+      ]
+    ], 
+    "6.739"
+  ]
+}

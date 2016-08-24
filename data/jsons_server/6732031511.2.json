@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "punching bag", 
+        "0.23464"
+      ], 
+      [
+        "Windsor tie", 
+        "0.19881"
+      ], 
+      [
+        "theater curtain", 
+        "0.11085"
+      ], 
+      [
+        "horizontal bar", 
+        "0.03590"
+      ], 
+      [
+        "pole", 
+        "0.02417"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.55148"
+      ], 
+      [
+        "clothing", 
+        "0.49170"
+      ], 
+      [
+        "consumer goods", 
+        "0.45312"
+      ], 
+      [
+        "commodity", 
+        "0.43096"
+      ], 
+      [
+        "garment", 
+        "0.40351"
+      ]
+    ], 
+    "5.286"
+  ]
+}

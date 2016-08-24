@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.23437"
+      ], 
+      [
+        "radio", 
+        "0.18986"
+      ], 
+      [
+        "switch", 
+        "0.12669"
+      ], 
+      [
+        "waffle iron", 
+        "0.07125"
+      ], 
+      [
+        "oscilloscope", 
+        "0.03366"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.36874"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35718"
+      ], 
+      [
+        "device", 
+        "0.33468"
+      ], 
+      [
+        "projector", 
+        "0.32848"
+      ], 
+      [
+        "instrument", 
+        "0.28713"
+      ]
+    ], 
+    "5.371"
+  ]
+}

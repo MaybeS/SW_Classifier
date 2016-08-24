@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iron", 
+        "0.19606"
+      ], 
+      [
+        "printer", 
+        "0.12050"
+      ], 
+      [
+        "switch", 
+        "0.11067"
+      ], 
+      [
+        "vacuum", 
+        "0.09092"
+      ], 
+      [
+        "projector", 
+        "0.06584"
+      ]
+    ], 
+    [
+      [
+        "appliance", 
+        "0.41728"
+      ], 
+      [
+        "home appliance", 
+        "0.41420"
+      ], 
+      [
+        "durables", 
+        "0.40642"
+      ], 
+      [
+        "equipment", 
+        "0.39545"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39408"
+      ]
+    ], 
+    "9.110"
+  ]
+}

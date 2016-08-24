@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.26980"
+      ], 
+      [
+        "tape player", 
+        "0.15199"
+      ], 
+      [
+        "radio", 
+        "0.10776"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.07755"
+      ], 
+      [
+        "space bar", 
+        "0.06735"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.65969"
+      ], 
+      [
+        "equipment", 
+        "0.55690"
+      ], 
+      [
+        "remote control", 
+        "0.54829"
+      ], 
+      [
+        "device", 
+        "0.40401"
+      ], 
+      [
+        "keyboard", 
+        "0.30406"
+      ]
+    ], 
+    "5.823"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand blower", 
+        "0.52715"
+      ], 
+      [
+        "espresso maker", 
+        "0.19231"
+      ], 
+      [
+        "coffeepot", 
+        "0.12507"
+      ], 
+      [
+        "water jug", 
+        "0.03074"
+      ], 
+      [
+        "soap dispenser", 
+        "0.01536"
+      ]
+    ], 
+    [
+      [
+        "appliance", 
+        "0.52034"
+      ], 
+      [
+        "durables", 
+        "0.50680"
+      ], 
+      [
+        "consumer goods", 
+        "0.41409"
+      ], 
+      [
+        "commodity", 
+        "0.39247"
+      ], 
+      [
+        "vessel", 
+        "0.37300"
+      ]
+    ], 
+    "6.333"
+  ]
+}

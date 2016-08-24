@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.21340"
+      ], 
+      [
+        "electric fan", 
+        "0.10933"
+      ], 
+      [
+        "tape player", 
+        "0.07810"
+      ], 
+      [
+        "reflex camera", 
+        "0.07249"
+      ], 
+      [
+        "radio", 
+        "0.06410"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.50821"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33729"
+      ], 
+      [
+        "device", 
+        "0.29744"
+      ], 
+      [
+        "container", 
+        "0.29307"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.28588"
+      ]
+    ], 
+    "5.609"
+  ]
+}

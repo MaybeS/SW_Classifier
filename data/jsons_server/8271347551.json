@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.36885"
+      ], 
+      [
+        "oscilloscope", 
+        "0.25579"
+      ], 
+      [
+        "radio", 
+        "0.15717"
+      ], 
+      [
+        "remote control", 
+        "0.04285"
+      ], 
+      [
+        "screen", 
+        "0.04263"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.95523"
+      ], 
+      [
+        "personal computer", 
+        "0.88325"
+      ], 
+      [
+        "digital computer", 
+        "0.86634"
+      ], 
+      [
+        "portable computer", 
+        "0.85542"
+      ], 
+      [
+        "oscilloscope", 
+        "0.84982"
+      ]
+    ], 
+    "7.343"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.26269"
+      ], 
+      [
+        "modem", 
+        "0.14400"
+      ], 
+      [
+        "cassette", 
+        "0.14399"
+      ], 
+      [
+        "combination lock", 
+        "0.10811"
+      ], 
+      [
+        "cassette player", 
+        "0.07762"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.51982"
+      ], 
+      [
+        "equipment", 
+        "0.45039"
+      ], 
+      [
+        "device", 
+        "0.32765"
+      ], 
+      [
+        "switch", 
+        "0.31223"
+      ], 
+      [
+        "control", 
+        "0.30586"
+      ]
+    ], 
+    "8.689"
+  ]
+}

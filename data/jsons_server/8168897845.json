@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.46321"
+      ], 
+      [
+        "fountain pen", 
+        "0.10618"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.08295"
+      ], 
+      [
+        "ballpoint", 
+        "0.07586"
+      ], 
+      [
+        "whistle", 
+        "0.06144"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.65470"
+      ], 
+      [
+        "pen", 
+        "0.45071"
+      ], 
+      [
+        "writing implement", 
+        "0.44267"
+      ], 
+      [
+        "tool", 
+        "0.41578"
+      ], 
+      [
+        "hand tool", 
+        "0.33713"
+      ]
+    ], 
+    "7.316"
+  ]
+}

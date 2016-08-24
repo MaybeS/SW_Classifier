@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.42279"
+      ], 
+      [
+        "face powder", 
+        "0.07010"
+      ], 
+      [
+        "puck", 
+        "0.06374"
+      ], 
+      [
+        "switch", 
+        "0.05952"
+      ], 
+      [
+        "wall clock", 
+        "0.03864"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.55179"
+      ], 
+      [
+        "equipment", 
+        "0.50095"
+      ], 
+      [
+        "CD player", 
+        "0.33240"
+      ], 
+      [
+        "device", 
+        "0.30607"
+      ], 
+      [
+        "measuring instrument", 
+        "0.27546"
+      ]
+    ], 
+    "5.966"
+  ]
+}

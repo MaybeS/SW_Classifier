@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.22064"
+      ], 
+      [
+        "nipple", 
+        "0.19474"
+      ], 
+      [
+        "web site", 
+        "0.17149"
+      ], 
+      [
+        "oscilloscope", 
+        "0.12154"
+      ], 
+      [
+        "joystick", 
+        "0.04459"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.67760"
+      ], 
+      [
+        "computer", 
+        "0.55517"
+      ], 
+      [
+        "machine", 
+        "0.50970"
+      ], 
+      [
+        "oscilloscope", 
+        "0.39155"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37686"
+      ]
+    ], 
+    "5.716"
+  ]
+}

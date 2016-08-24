@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "swimming trunks", 
+        "0.41728"
+      ], 
+      [
+        "Windsor tie", 
+        "0.17724"
+      ], 
+      [
+        "lab coat", 
+        "0.09645"
+      ], 
+      [
+        "pajama", 
+        "0.05393"
+      ], 
+      [
+        "hoopskirt", 
+        "0.04047"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.22325"
+      ], 
+      [
+        "garment", 
+        "1.18921"
+      ], 
+      [
+        "consumer goods", 
+        "1.07131"
+      ], 
+      [
+        "commodity", 
+        "1.01746"
+      ], 
+      [
+        "covering", 
+        "0.95588"
+      ]
+    ], 
+    "6.689"
+  ]
+}

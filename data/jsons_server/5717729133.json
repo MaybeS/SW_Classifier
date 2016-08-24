@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.15114"
+      ], 
+      [
+        "remote control", 
+        "0.12056"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.11010"
+      ], 
+      [
+        "switch", 
+        "0.08367"
+      ], 
+      [
+        "combination lock", 
+        "0.06207"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.48531"
+      ], 
+      [
+        "equipment", 
+        "0.46976"
+      ], 
+      [
+        "device", 
+        "0.37611"
+      ], 
+      [
+        "telephone", 
+        "0.34327"
+      ], 
+      [
+        "cellular telephone", 
+        "0.33180"
+      ]
+    ], 
+    "10.331"
+  ]
+}

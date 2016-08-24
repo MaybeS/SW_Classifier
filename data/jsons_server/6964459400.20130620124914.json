@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.89791"
+      ], 
+      [
+        "soap dispenser", 
+        "0.02568"
+      ], 
+      [
+        "vacuum", 
+        "0.01598"
+      ], 
+      [
+        "space heater", 
+        "0.01272"
+      ], 
+      [
+        "remote control", 
+        "0.00758"
+      ]
+    ], 
+    [
+      [
+        "electronic device", 
+        "0.39508"
+      ], 
+      [
+        "mouse", 
+        "0.39490"
+      ], 
+      [
+        "device", 
+        "0.37543"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33039"
+      ], 
+      [
+        "equipment", 
+        "0.31661"
+      ]
+    ], 
+    "5.859"
+  ]
+}

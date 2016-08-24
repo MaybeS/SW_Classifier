@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.99927"
+      ], 
+      [
+        "loupe", 
+        "0.00051"
+      ], 
+      [
+        "spotlight", 
+        "0.00005"
+      ], 
+      [
+        "torch", 
+        "0.00003"
+      ], 
+      [
+        "reflex camera", 
+        "0.00003"
+      ]
+    ], 
+    [
+      [
+        "binoculars", 
+        "0.96317"
+      ], 
+      [
+        "optical instrument", 
+        "0.83681"
+      ], 
+      [
+        "instrument", 
+        "0.53563"
+      ], 
+      [
+        "device", 
+        "0.41151"
+      ], 
+      [
+        "covering", 
+        "0.29438"
+      ]
+    ], 
+    "10.749"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.46582"
+      ], 
+      [
+        "jersey", 
+        "0.26146"
+      ], 
+      [
+        "barbell", 
+        "0.12139"
+      ], 
+      [
+        "balance beam", 
+        "0.05332"
+      ], 
+      [
+        "horizontal bar", 
+        "0.02438"
+      ]
+    ], 
+    [
+      [
+        "weight", 
+        "0.88919"
+      ], 
+      [
+        "sports equipment", 
+        "0.88537"
+      ], 
+      [
+        "equipment", 
+        "0.67107"
+      ], 
+      [
+        "barbell", 
+        "0.57317"
+      ], 
+      [
+        "clothing", 
+        "0.50712"
+      ]
+    ], 
+    "5.500"
+  ]
+}

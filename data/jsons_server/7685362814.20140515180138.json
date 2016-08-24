@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.60874"
+      ], 
+      [
+        "tape player", 
+        "0.06205"
+      ], 
+      [
+        "cassette player", 
+        "0.04967"
+      ], 
+      [
+        "radio", 
+        "0.03971"
+      ], 
+      [
+        "power drill", 
+        "0.03847"
+      ]
+    ], 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.76228"
+      ], 
+      [
+        "kit", 
+        "0.75108"
+      ], 
+      [
+        "gear", 
+        "0.65214"
+      ], 
+      [
+        "equipment", 
+        "0.58294"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.34176"
+      ]
+    ], 
+    "5.495"
+  ]
+}

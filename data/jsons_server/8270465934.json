@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.19340"
+      ], 
+      [
+        "nipple", 
+        "0.17298"
+      ], 
+      [
+        "screwdriver", 
+        "0.08128"
+      ], 
+      [
+        "can opener", 
+        "0.07710"
+      ], 
+      [
+        "letter opener", 
+        "0.04870"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "0.38111"
+      ], 
+      [
+        "implement", 
+        "0.32392"
+      ], 
+      [
+        "device", 
+        "0.30865"
+      ], 
+      [
+        "covering", 
+        "0.25107"
+      ], 
+      [
+        "tool", 
+        "0.24201"
+      ]
+    ], 
+    "13.995"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "washer", 
+        "0.48491"
+      ], 
+      [
+        "loudspeaker", 
+        "0.40836"
+      ], 
+      [
+        "switch", 
+        "0.01871"
+      ], 
+      [
+        "projector", 
+        "0.01458"
+      ], 
+      [
+        "traffic light", 
+        "0.00654"
+      ]
+    ], 
+    [
+      [
+        "washer", 
+        "1.05424"
+      ], 
+      [
+        "white goods", 
+        "0.91699"
+      ], 
+      [
+        "home appliance", 
+        "0.78675"
+      ], 
+      [
+        "appliance", 
+        "0.75557"
+      ], 
+      [
+        "durables", 
+        "0.73591"
+      ]
+    ], 
+    "5.673"
+  ]
+}

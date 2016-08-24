@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.29513"
+      ], 
+      [
+        "padlock", 
+        "0.23110"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.19645"
+      ], 
+      [
+        "switch", 
+        "0.03015"
+      ], 
+      [
+        "rubber eraser", 
+        "0.02984"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.62289"
+      ], 
+      [
+        "fastener", 
+        "0.56805"
+      ], 
+      [
+        "restraint", 
+        "0.52657"
+      ], 
+      [
+        "combination lock", 
+        "0.39498"
+      ], 
+      [
+        "device", 
+        "0.37229"
+      ]
+    ], 
+    "5.195"
+  ]
+}

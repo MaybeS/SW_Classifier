@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.12547"
+      ], 
+      [
+        "barbell", 
+        "0.11189"
+      ], 
+      [
+        "swimming trunks", 
+        "0.04946"
+      ], 
+      [
+        "shower curtain", 
+        "0.03689"
+      ], 
+      [
+        "punching bag", 
+        "0.03432"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.40848"
+      ], 
+      [
+        "weight", 
+        "0.40816"
+      ], 
+      [
+        "clothing", 
+        "0.39516"
+      ], 
+      [
+        "sports equipment", 
+        "0.39330"
+      ], 
+      [
+        "consumer goods", 
+        "0.38618"
+      ]
+    ], 
+    "5.218"
+  ]
+}

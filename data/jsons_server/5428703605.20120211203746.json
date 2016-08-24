@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dial telephone", 
+        "0.38430"
+      ], 
+      [
+        "remote control", 
+        "0.30473"
+      ], 
+      [
+        "joystick", 
+        "0.23184"
+      ], 
+      [
+        "switch", 
+        "0.04818"
+      ], 
+      [
+        "combination lock", 
+        "0.01226"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.90874"
+      ], 
+      [
+        "dial telephone", 
+        "0.88105"
+      ], 
+      [
+        "telephone", 
+        "0.84920"
+      ], 
+      [
+        "equipment", 
+        "0.72515"
+      ], 
+      [
+        "remote control", 
+        "0.61483"
+      ]
+    ], 
+    "6.469"
+  ]
+}

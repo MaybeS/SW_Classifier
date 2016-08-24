@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.86469"
+      ], 
+      [
+        "fountain pen", 
+        "0.05314"
+      ], 
+      [
+        "radio", 
+        "0.00755"
+      ], 
+      [
+        "screwdriver", 
+        "0.00662"
+      ], 
+      [
+        "hand blower", 
+        "0.00624"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.64729"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.58723"
+      ], 
+      [
+        "transducer", 
+        "0.57747"
+      ], 
+      [
+        "electrical device", 
+        "0.56770"
+      ], 
+      [
+        "device", 
+        "0.42590"
+      ]
+    ], 
+    "6.234"
+  ]
+}

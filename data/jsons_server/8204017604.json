@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.71832"
+      ], 
+      [
+        "modem", 
+        "0.09086"
+      ], 
+      [
+        "soap dispenser", 
+        "0.03626"
+      ], 
+      [
+        "paper towel", 
+        "0.01244"
+      ], 
+      [
+        "refrigerator", 
+        "0.01051"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.77361"
+      ], 
+      [
+        "control", 
+        "0.73718"
+      ], 
+      [
+        "mechanism", 
+        "0.52554"
+      ], 
+      [
+        "device", 
+        "0.37694"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31397"
+      ]
+    ], 
+    "7.023"
+  ]
+}

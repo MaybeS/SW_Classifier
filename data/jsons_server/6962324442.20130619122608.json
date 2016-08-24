@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.32791"
+      ], 
+      [
+        "loudspeaker", 
+        "0.16636"
+      ], 
+      [
+        "oscilloscope", 
+        "0.12328"
+      ], 
+      [
+        "screen", 
+        "0.06515"
+      ], 
+      [
+        "television", 
+        "0.04456"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.65821"
+      ], 
+      [
+        "personal computer", 
+        "0.61298"
+      ], 
+      [
+        "digital computer", 
+        "0.60124"
+      ], 
+      [
+        "computer", 
+        "0.55950"
+      ], 
+      [
+        "equipment", 
+        "0.53222"
+      ]
+    ], 
+    "5.538"
+  ]
+}

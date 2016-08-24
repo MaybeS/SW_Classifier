@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.12631"
+      ], 
+      [
+        "doormat", 
+        "0.10369"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.10184"
+      ], 
+      [
+        "tobacco shop", 
+        "0.07808"
+      ], 
+      [
+        "cassette", 
+        "0.07294"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.28348"
+      ], 
+      [
+        "container", 
+        "0.27070"
+      ], 
+      [
+        "floor cover", 
+        "0.25552"
+      ], 
+      [
+        "structure", 
+        "0.25186"
+      ], 
+      [
+        "mercantile establishment", 
+        "0.24674"
+      ]
+    ], 
+    "5.275"
+  ]
+}

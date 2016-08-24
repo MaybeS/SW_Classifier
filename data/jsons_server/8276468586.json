@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.41583"
+      ], 
+      [
+        "CD player", 
+        "0.12723"
+      ], 
+      [
+        "waffle iron", 
+        "0.05751"
+      ], 
+      [
+        "cassette player", 
+        "0.03727"
+      ], 
+      [
+        "mouse", 
+        "0.03086"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.63703"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.57877"
+      ], 
+      [
+        "transducer", 
+        "0.56915"
+      ], 
+      [
+        "electrical device", 
+        "0.55953"
+      ], 
+      [
+        "equipment", 
+        "0.48127"
+      ]
+    ], 
+    "5.321"
+  ]
+}

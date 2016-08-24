@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screen", 
+        "0.31957"
+      ], 
+      [
+        "digital watch", 
+        "0.18882"
+      ], 
+      [
+        "hand-held computer", 
+        "0.14882"
+      ], 
+      [
+        "digital clock", 
+        "0.14762"
+      ], 
+      [
+        "oscilloscope", 
+        "0.09542"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "0.64974"
+      ], 
+      [
+        "personal computer", 
+        "0.62684"
+      ], 
+      [
+        "measuring instrument", 
+        "0.62530"
+      ], 
+      [
+        "digital computer", 
+        "0.61483"
+      ], 
+      [
+        "computer", 
+        "0.58063"
+      ]
+    ], 
+    "5.333"
+  ]
+}

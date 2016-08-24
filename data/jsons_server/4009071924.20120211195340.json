@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.14083"
+      ], 
+      [
+        "guillotine", 
+        "0.09972"
+      ], 
+      [
+        "hand-held computer", 
+        "0.09901"
+      ], 
+      [
+        "face powder", 
+        "0.06415"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05645"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.35367"
+      ], 
+      [
+        "device", 
+        "0.34627"
+      ], 
+      [
+        "equipment", 
+        "0.33605"
+      ], 
+      [
+        "personal computer", 
+        "0.31570"
+      ], 
+      [
+        "portable computer", 
+        "0.31026"
+      ]
+    ], 
+    "9.418"
+  ]
+}

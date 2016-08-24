@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.15774"
+      ], 
+      [
+        "iPod", 
+        "0.08052"
+      ], 
+      [
+        "vacuum", 
+        "0.06809"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06314"
+      ], 
+      [
+        "radio", 
+        "0.05505"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.33442"
+      ], 
+      [
+        "equipment", 
+        "0.32158"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31920"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.21801"
+      ], 
+      [
+        "implement", 
+        "0.21521"
+      ]
+    ], 
+    "6.067"
+  ]
+}

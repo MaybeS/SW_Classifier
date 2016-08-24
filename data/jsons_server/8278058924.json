@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "maraca", 
+        "0.23335"
+      ], 
+      [
+        "screwdriver", 
+        "0.15240"
+      ], 
+      [
+        "can opener", 
+        "0.08660"
+      ], 
+      [
+        "hand blower", 
+        "0.04852"
+      ], 
+      [
+        "plunger", 
+        "0.04058"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.36974"
+      ], 
+      [
+        "maraca", 
+        "0.31572"
+      ], 
+      [
+        "musical instrument", 
+        "0.29053"
+      ], 
+      [
+        "device", 
+        "0.28751"
+      ], 
+      [
+        "consumer goods", 
+        "0.27054"
+      ]
+    ], 
+    "10.495"
+  ]
+}

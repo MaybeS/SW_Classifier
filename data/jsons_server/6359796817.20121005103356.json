@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sunscreen", 
+        "0.25796"
+      ], 
+      [
+        "digital clock", 
+        "0.14672"
+      ], 
+      [
+        "lotion", 
+        "0.05968"
+      ], 
+      [
+        "packet", 
+        "0.04214"
+      ], 
+      [
+        "binder", 
+        "0.03893"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.54067"
+      ], 
+      [
+        "measuring instrument", 
+        "0.32484"
+      ], 
+      [
+        "timepiece", 
+        "0.28580"
+      ], 
+      [
+        "lotion", 
+        "0.28459"
+      ], 
+      [
+        "instrument", 
+        "0.27538"
+      ]
+    ], 
+    "5.636"
+  ]
+}

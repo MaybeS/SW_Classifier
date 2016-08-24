@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.16190"
+      ], 
+      [
+        "mousetrap", 
+        "0.11388"
+      ], 
+      [
+        "hand-held computer", 
+        "0.10648"
+      ], 
+      [
+        "packet", 
+        "0.09666"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.04044"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37290"
+      ], 
+      [
+        "remote control", 
+        "0.34410"
+      ], 
+      [
+        "machine", 
+        "0.31334"
+      ], 
+      [
+        "portable computer", 
+        "0.30729"
+      ], 
+      [
+        "personal computer", 
+        "0.30149"
+      ]
+    ], 
+    "8.204"
+  ]
+}

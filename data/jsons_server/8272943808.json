@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.25391"
+      ], 
+      [
+        "modem", 
+        "0.14903"
+      ], 
+      [
+        "notebook", 
+        "0.05902"
+      ], 
+      [
+        "photocopier", 
+        "0.05010"
+      ], 
+      [
+        "cassette player", 
+        "0.04202"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.66789"
+      ], 
+      [
+        "equipment", 
+        "0.66657"
+      ], 
+      [
+        "machine", 
+        "0.46759"
+      ], 
+      [
+        "device", 
+        "0.35823"
+      ], 
+      [
+        "peripheral", 
+        "0.33406"
+      ]
+    ], 
+    "5.111"
+  ]
+}

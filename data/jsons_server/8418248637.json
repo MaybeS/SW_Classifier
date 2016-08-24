@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "soap dispenser", 
+        "0.34615"
+      ], 
+      [
+        "can opener", 
+        "0.13674"
+      ], 
+      [
+        "ashcan", 
+        "0.10663"
+      ], 
+      [
+        "water jug", 
+        "0.09068"
+      ], 
+      [
+        "Crock Pot", 
+        "0.05084"
+      ]
+    ], 
+    [
+      [
+        "container", 
+        "0.44806"
+      ], 
+      [
+        "vessel", 
+        "0.43495"
+      ], 
+      [
+        "implement", 
+        "0.29030"
+      ], 
+      [
+        "soap dispenser", 
+        "0.24988"
+      ], 
+      [
+        "dispenser", 
+        "0.24621"
+      ]
+    ], 
+    "6.925"
+  ]
+}

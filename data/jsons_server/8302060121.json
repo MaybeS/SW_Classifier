@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "slot", 
+        "0.09694"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09616"
+      ], 
+      [
+        "packet", 
+        "0.07737"
+      ], 
+      [
+        "remote control", 
+        "0.07390"
+      ], 
+      [
+        "web site", 
+        "0.06534"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.61844"
+      ], 
+      [
+        "slot machine", 
+        "0.49522"
+      ], 
+      [
+        "device", 
+        "0.39861"
+      ], 
+      [
+        "slot", 
+        "0.37487"
+      ], 
+      [
+        "electronic equipment", 
+        "0.37104"
+      ]
+    ], 
+    "9.929"
+  ]
+}

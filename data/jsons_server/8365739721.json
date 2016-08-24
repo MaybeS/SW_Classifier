@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.41061"
+      ], 
+      [
+        "vacuum", 
+        "0.14603"
+      ], 
+      [
+        "joystick", 
+        "0.06113"
+      ], 
+      [
+        "iPod", 
+        "0.04958"
+      ], 
+      [
+        "stopwatch", 
+        "0.03402"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.77144"
+      ], 
+      [
+        "cellular telephone", 
+        "0.74040"
+      ], 
+      [
+        "radiotelephone", 
+        "0.72953"
+      ], 
+      [
+        "telephone", 
+        "0.64444"
+      ], 
+      [
+        "equipment", 
+        "0.62540"
+      ]
+    ], 
+    "5.267"
+  ]
+}

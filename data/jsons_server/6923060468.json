@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.23777"
+      ], 
+      [
+        "modem", 
+        "0.22684"
+      ], 
+      [
+        "harmonica", 
+        "0.20198"
+      ], 
+      [
+        "remote control", 
+        "0.03905"
+      ], 
+      [
+        "digital clock", 
+        "0.03586"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40279"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33943"
+      ], 
+      [
+        "equipment", 
+        "0.31721"
+      ], 
+      [
+        "rule", 
+        "0.30901"
+      ], 
+      [
+        "measuring instrument", 
+        "0.30776"
+      ]
+    ], 
+    "13.466"
+  ]
+}

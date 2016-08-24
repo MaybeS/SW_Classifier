@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.78630"
+      ], 
+      [
+        "oxygen mask", 
+        "0.03532"
+      ], 
+      [
+        "gasmask", 
+        "0.02892"
+      ], 
+      [
+        "magnetic compass", 
+        "0.02494"
+      ], 
+      [
+        "can opener", 
+        "0.01925"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38743"
+      ], 
+      [
+        "loupe", 
+        "0.36699"
+      ], 
+      [
+        "hand glass", 
+        "0.36159"
+      ], 
+      [
+        "light microscope", 
+        "0.35620"
+      ], 
+      [
+        "instrument", 
+        "0.35544"
+      ]
+    ], 
+    "9.071"
+  ]
+}

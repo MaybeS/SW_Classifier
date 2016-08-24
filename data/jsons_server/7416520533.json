@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.23303"
+      ], 
+      [
+        "rubber eraser", 
+        "0.21456"
+      ], 
+      [
+        "oil filter", 
+        "0.07181"
+      ], 
+      [
+        "sunscreen", 
+        "0.04224"
+      ], 
+      [
+        "pencil box", 
+        "0.03723"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.37007"
+      ], 
+      [
+        "container", 
+        "0.26843"
+      ], 
+      [
+        "device", 
+        "0.26108"
+      ], 
+      [
+        "covering", 
+        "0.20800"
+      ], 
+      [
+        "toiletry", 
+        "0.20252"
+      ]
+    ], 
+    "5.324"
+  ]
+}

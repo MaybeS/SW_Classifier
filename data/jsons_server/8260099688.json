@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.60518"
+      ], 
+      [
+        "sewing machine", 
+        "0.11711"
+      ], 
+      [
+        "book jacket", 
+        "0.06498"
+      ], 
+      [
+        "perfume", 
+        "0.02403"
+      ], 
+      [
+        "oil filter", 
+        "0.02246"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "0.89704"
+      ], 
+      [
+        "coffee maker", 
+        "0.88386"
+      ], 
+      [
+        "home appliance", 
+        "0.72732"
+      ], 
+      [
+        "appliance", 
+        "0.70469"
+      ], 
+      [
+        "durables", 
+        "0.68635"
+      ]
+    ], 
+    "5.519"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rule", 
+        "0.10419"
+      ], 
+      [
+        "computer keyboard", 
+        "0.08099"
+      ], 
+      [
+        "whistle", 
+        "0.07056"
+      ], 
+      [
+        "slide rule", 
+        "0.05494"
+      ], 
+      [
+        "web site", 
+        "0.05160"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.43903"
+      ], 
+      [
+        "machine", 
+        "0.40086"
+      ], 
+      [
+        "device", 
+        "0.39187"
+      ], 
+      [
+        "equipment", 
+        "0.25278"
+      ], 
+      [
+        "electronic equipment", 
+        "0.25096"
+      ]
+    ], 
+    "6.107"
+  ]
+}

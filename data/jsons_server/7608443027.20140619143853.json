@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.97786"
+      ], 
+      [
+        "power drill", 
+        "0.00413"
+      ], 
+      [
+        "coffeepot", 
+        "0.00339"
+      ], 
+      [
+        "tripod", 
+        "0.00256"
+      ], 
+      [
+        "stove", 
+        "0.00191"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "1.42630"
+      ], 
+      [
+        "coffee maker", 
+        "1.40535"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.05329"
+      ], 
+      [
+        "home appliance", 
+        "0.97078"
+      ], 
+      [
+        "appliance", 
+        "0.93832"
+      ]
+    ], 
+    "8.546"
+  ]
+}

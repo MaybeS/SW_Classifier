@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.30315"
+      ], 
+      [
+        "switch", 
+        "0.27617"
+      ], 
+      [
+        "radio", 
+        "0.09302"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04509"
+      ], 
+      [
+        "modem", 
+        "0.04363"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43932"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41457"
+      ], 
+      [
+        "device", 
+        "0.40161"
+      ], 
+      [
+        "lock", 
+        "0.39711"
+      ], 
+      [
+        "combination lock", 
+        "0.38285"
+      ]
+    ], 
+    "5.885"
+  ]
+}

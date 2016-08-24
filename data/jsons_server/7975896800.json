@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.56933"
+      ], 
+      [
+        "modem", 
+        "0.36957"
+      ], 
+      [
+        "radio", 
+        "0.02097"
+      ], 
+      [
+        "cassette", 
+        "0.00841"
+      ], 
+      [
+        "lighter", 
+        "0.00390"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.47569"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41022"
+      ], 
+      [
+        "equipment", 
+        "0.37116"
+      ], 
+      [
+        "modem", 
+        "0.34995"
+      ], 
+      [
+        "rubber eraser", 
+        "0.33997"
+      ]
+    ], 
+    "5.578"
+  ]
+}

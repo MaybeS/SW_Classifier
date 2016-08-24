@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "punching bag", 
+        "0.10084"
+      ], 
+      [
+        "umbrella", 
+        "0.08665"
+      ], 
+      [
+        "Christmas stocking", 
+        "0.07519"
+      ], 
+      [
+        "spatula", 
+        "0.04509"
+      ], 
+      [
+        "lampshade", 
+        "0.03752"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.37389"
+      ], 
+      [
+        "clothing", 
+        "0.33800"
+      ], 
+      [
+        "consumer goods", 
+        "0.32700"
+      ], 
+      [
+        "commodity", 
+        "0.31185"
+      ], 
+      [
+        "container", 
+        "0.22718"
+      ]
+    ], 
+    "5.886"
+  ]
+}

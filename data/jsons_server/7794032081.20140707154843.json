@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.32097"
+      ], 
+      [
+        "hard disc", 
+        "0.22523"
+      ], 
+      [
+        "mailbag", 
+        "0.04271"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.03811"
+      ], 
+      [
+        "freight car", 
+        "0.02508"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.69212"
+      ], 
+      [
+        "fan", 
+        "0.68195"
+      ], 
+      [
+        "hard disc", 
+        "0.39613"
+      ], 
+      [
+        "magnetic disk", 
+        "0.39031"
+      ], 
+      [
+        "memory device", 
+        "0.38449"
+      ]
+    ], 
+    "5.433"
+  ]
+}

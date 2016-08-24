@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.49394"
+      ], 
+      [
+        "microphone", 
+        "0.21759"
+      ], 
+      [
+        "lens cap", 
+        "0.08973"
+      ], 
+      [
+        "binoculars", 
+        "0.05932"
+      ], 
+      [
+        "spotlight", 
+        "0.04291"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.17452"
+      ], 
+      [
+        "photographic equipment", 
+        "1.15499"
+      ], 
+      [
+        "reflex camera", 
+        "1.14092"
+      ], 
+      [
+        "equipment", 
+        "0.64799"
+      ], 
+      [
+        "cap", 
+        "0.36729"
+      ]
+    ], 
+    "10.986"
+  ]
+}

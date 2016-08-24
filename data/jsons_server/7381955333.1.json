@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "American alligator", 
+        "0.28815"
+      ], 
+      [
+        "African crocodile", 
+        "0.18172"
+      ], 
+      [
+        "tray", 
+        "0.05933"
+      ], 
+      [
+        "letter opener", 
+        "0.05699"
+      ], 
+      [
+        "bullfrog", 
+        "0.04317"
+      ]
+    ], 
+    [
+      [
+        "crocodilian reptile", 
+        "0.89447"
+      ], 
+      [
+        "diapsid", 
+        "0.68936"
+      ], 
+      [
+        "reptile", 
+        "0.68009"
+      ], 
+      [
+        "American alligator", 
+        "0.52687"
+      ], 
+      [
+        "alligator", 
+        "0.51913"
+      ]
+    ], 
+    "5.990"
+  ]
+}

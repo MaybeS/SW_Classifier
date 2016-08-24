@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand blower", 
+        "0.25951"
+      ], 
+      [
+        "digital watch", 
+        "0.11002"
+      ], 
+      [
+        "mouse", 
+        "0.09562"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06406"
+      ], 
+      [
+        "can opener", 
+        "0.04891"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36412"
+      ], 
+      [
+        "consumer goods", 
+        "0.30137"
+      ], 
+      [
+        "timepiece", 
+        "0.28952"
+      ], 
+      [
+        "measuring instrument", 
+        "0.28858"
+      ], 
+      [
+        "commodity", 
+        "0.28610"
+      ]
+    ], 
+    "6.250"
+  ]
+}

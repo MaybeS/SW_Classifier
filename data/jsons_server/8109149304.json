@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.22542"
+      ], 
+      [
+        "cellular telephone", 
+        "0.11290"
+      ], 
+      [
+        "space heater", 
+        "0.09891"
+      ], 
+      [
+        "toaster", 
+        "0.09773"
+      ], 
+      [
+        "can opener", 
+        "0.08445"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.49091"
+      ], 
+      [
+        "equipment", 
+        "0.42841"
+      ], 
+      [
+        "device", 
+        "0.32262"
+      ], 
+      [
+        "appliance", 
+        "0.29337"
+      ], 
+      [
+        "home appliance", 
+        "0.28705"
+      ]
+    ], 
+    "10.048"
+  ]
+}

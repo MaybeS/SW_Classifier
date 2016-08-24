@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wardrobe", 
+        "0.65884"
+      ], 
+      [
+        "medicine chest", 
+        "0.20119"
+      ], 
+      [
+        "plate rack", 
+        "0.06149"
+      ], 
+      [
+        "china cabinet", 
+        "0.01365"
+      ], 
+      [
+        "window shade", 
+        "0.00995"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "1.50699"
+      ], 
+      [
+        "furnishing", 
+        "1.44156"
+      ], 
+      [
+        "wardrobe", 
+        "1.24488"
+      ], 
+      [
+        "chiffonier", 
+        "0.66968"
+      ], 
+      [
+        "chest of drawers", 
+        "0.65984"
+      ]
+    ], 
+    "7.865"
+  ]
+}

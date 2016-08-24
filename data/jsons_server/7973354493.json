@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "swab", 
+        "0.34591"
+      ], 
+      [
+        "horizontal bar", 
+        "0.19944"
+      ], 
+      [
+        "pole", 
+        "0.18839"
+      ], 
+      [
+        "barbell", 
+        "0.04882"
+      ], 
+      [
+        "parallel bars", 
+        "0.04593"
+      ]
+    ], 
+    [
+      [
+        "sports equipment", 
+        "0.59395"
+      ], 
+      [
+        "gymnastic apparatus", 
+        "0.54508"
+      ], 
+      [
+        "implement", 
+        "0.51360"
+      ], 
+      [
+        "equipment", 
+        "0.47370"
+      ], 
+      [
+        "cleaning implement", 
+        "0.47045"
+      ]
+    ], 
+    "12.221"
+  ]
+}

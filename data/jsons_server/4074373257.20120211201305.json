@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.23457"
+      ], 
+      [
+        "binder", 
+        "0.17735"
+      ], 
+      [
+        "desktop computer", 
+        "0.17613"
+      ], 
+      [
+        "scale", 
+        "0.11624"
+      ], 
+      [
+        "photocopier", 
+        "0.07214"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.52397"
+      ], 
+      [
+        "machine", 
+        "0.49514"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48327"
+      ], 
+      [
+        "personal computer", 
+        "0.38272"
+      ], 
+      [
+        "digital computer", 
+        "0.37539"
+      ]
+    ], 
+    "12.731"
+  ]
+}

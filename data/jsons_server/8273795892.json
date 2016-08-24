@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.91292"
+      ], 
+      [
+        "remote control", 
+        "0.02468"
+      ], 
+      [
+        "clog", 
+        "0.01848"
+      ], 
+      [
+        "sandal", 
+        "0.00650"
+      ], 
+      [
+        "joystick", 
+        "0.00586"
+      ]
+    ], 
+    [
+      [
+        "mouse", 
+        "0.40175"
+      ], 
+      [
+        "electronic device", 
+        "0.40172"
+      ], 
+      [
+        "device", 
+        "0.38221"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34455"
+      ], 
+      [
+        "equipment", 
+        "0.32691"
+      ]
+    ], 
+    "5.687"
+  ]
+}

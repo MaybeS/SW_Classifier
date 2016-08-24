@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.47953"
+      ], 
+      [
+        "modem", 
+        "0.11262"
+      ], 
+      [
+        "measuring cup", 
+        "0.08544"
+      ], 
+      [
+        "rotisserie", 
+        "0.03295"
+      ], 
+      [
+        "toaster", 
+        "0.02378"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "0.56107"
+      ], 
+      [
+        "heater", 
+        "0.52192"
+      ], 
+      [
+        "device", 
+        "0.33198"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26854"
+      ], 
+      [
+        "equipment", 
+        "0.25442"
+      ]
+    ], 
+    "5.591"
+  ]
+}

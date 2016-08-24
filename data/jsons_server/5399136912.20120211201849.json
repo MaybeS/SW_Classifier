@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.92965"
+      ], 
+      [
+        "reel", 
+        "0.02741"
+      ], 
+      [
+        "combination lock", 
+        "0.01015"
+      ], 
+      [
+        "gasmask", 
+        "0.00742"
+      ], 
+      [
+        "spotlight", 
+        "0.00688"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.69445"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.62835"
+      ], 
+      [
+        "transducer", 
+        "0.61790"
+      ], 
+      [
+        "electrical device", 
+        "0.60745"
+      ], 
+      [
+        "device", 
+        "0.44143"
+      ]
+    ], 
+    "9.980"
+  ]
+}

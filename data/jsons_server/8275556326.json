@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.97601"
+      ], 
+      [
+        "remote control", 
+        "0.00809"
+      ], 
+      [
+        "switch", 
+        "0.00352"
+      ], 
+      [
+        "can opener", 
+        "0.00140"
+      ], 
+      [
+        "hook", 
+        "0.00138"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.10630"
+      ], 
+      [
+        "control", 
+        "1.03081"
+      ], 
+      [
+        "data input device", 
+        "1.02427"
+      ], 
+      [
+        "peripheral", 
+        "0.95696"
+      ], 
+      [
+        "electronic equipment", 
+        "0.80191"
+      ]
+    ], 
+    "7.273"
+  ]
+}

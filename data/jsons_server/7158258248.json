@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.42656"
+      ], 
+      [
+        "modem", 
+        "0.27028"
+      ], 
+      [
+        "cellular telephone", 
+        "0.10234"
+      ], 
+      [
+        "perfume", 
+        "0.05066"
+      ], 
+      [
+        "iPod", 
+        "0.04406"
+      ]
+    ], 
+    [
+      [
+        "oil filter", 
+        "0.57341"
+      ], 
+      [
+        "filter", 
+        "0.51368"
+      ], 
+      [
+        "electronic equipment", 
+        "0.50028"
+      ], 
+      [
+        "equipment", 
+        "0.44156"
+      ], 
+      [
+        "device", 
+        "0.35949"
+      ]
+    ], 
+    "5.609"
+  ]
+}

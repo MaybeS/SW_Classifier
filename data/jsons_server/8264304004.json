@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "nipple", 
+        "0.08881"
+      ], 
+      [
+        "hair slide", 
+        "0.07842"
+      ], 
+      [
+        "spotlight", 
+        "0.07021"
+      ], 
+      [
+        "whistle", 
+        "0.06915"
+      ], 
+      [
+        "packet", 
+        "0.06376"
+      ]
+    ], 
+    [
+      [
+        "rock beauty", 
+        "0.29980"
+      ], 
+      [
+        "butterfly fish", 
+        "0.29540"
+      ], 
+      [
+        "percoid fish", 
+        "0.26860"
+      ], 
+      [
+        "device", 
+        "0.24033"
+      ], 
+      [
+        "spiny-finned fish", 
+        "0.23807"
+      ]
+    ], 
+    "5.461"
+  ]
+}

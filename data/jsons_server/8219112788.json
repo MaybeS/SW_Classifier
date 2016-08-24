@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "harmonica", 
+        "0.12432"
+      ], 
+      [
+        "rubber eraser", 
+        "0.10246"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09449"
+      ], 
+      [
+        "lighter", 
+        "0.06933"
+      ], 
+      [
+        "remote control", 
+        "0.06086"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.36556"
+      ], 
+      [
+        "device", 
+        "0.36310"
+      ], 
+      [
+        "equipment", 
+        "0.33635"
+      ], 
+      [
+        "implement", 
+        "0.28167"
+      ], 
+      [
+        "cellular telephone", 
+        "0.21153"
+      ]
+    ], 
+    "6.000"
+  ]
+}

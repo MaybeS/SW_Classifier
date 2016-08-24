@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.94329"
+      ], 
+      [
+        "microwave", 
+        "0.04714"
+      ], 
+      [
+        "printer", 
+        "0.00411"
+      ], 
+      [
+        "scale", 
+        "0.00229"
+      ], 
+      [
+        "coffeepot", 
+        "0.00069"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "1.37452"
+      ], 
+      [
+        "coffee maker", 
+        "1.35433"
+      ], 
+      [
+        "kitchen appliance", 
+        "1.05831"
+      ], 
+      [
+        "home appliance", 
+        "0.98311"
+      ], 
+      [
+        "appliance", 
+        "0.94946"
+      ]
+    ], 
+    "8.378"
+  ]
+}

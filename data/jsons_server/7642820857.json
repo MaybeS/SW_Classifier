@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.23797"
+      ], 
+      [
+        "loupe", 
+        "0.10446"
+      ], 
+      [
+        "face powder", 
+        "0.08078"
+      ], 
+      [
+        "toilet seat", 
+        "0.07927"
+      ], 
+      [
+        "waffle iron", 
+        "0.07113"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.42302"
+      ], 
+      [
+        "measuring instrument", 
+        "0.40710"
+      ], 
+      [
+        "device", 
+        "0.33284"
+      ], 
+      [
+        "toiletry", 
+        "0.26277"
+      ], 
+      [
+        "timepiece", 
+        "0.24556"
+      ]
+    ], 
+    "5.303"
+  ]
+}

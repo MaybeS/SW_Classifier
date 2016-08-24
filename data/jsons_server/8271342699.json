@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "American lobster", 
+        "0.07966"
+      ], 
+      [
+        "Afghan hound", 
+        "0.07449"
+      ], 
+      [
+        "book jacket", 
+        "0.05102"
+      ], 
+      [
+        "snowmobile", 
+        "0.05021"
+      ], 
+      [
+        "comic book", 
+        "0.04628"
+      ]
+    ], 
+    [
+      [
+        "decapod crustacean", 
+        "0.27359"
+      ], 
+      [
+        "crustacean", 
+        "0.26936"
+      ], 
+      [
+        "covering", 
+        "0.25516"
+      ], 
+      [
+        "Afghan hound", 
+        "0.24344"
+      ], 
+      [
+        "consumer goods", 
+        "0.22805"
+      ]
+    ], 
+    "6.460"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.42060"
+      ], 
+      [
+        "switch", 
+        "0.07871"
+      ], 
+      [
+        "paper towel", 
+        "0.06356"
+      ], 
+      [
+        "space heater", 
+        "0.06272"
+      ], 
+      [
+        "photocopier", 
+        "0.05931"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.61475"
+      ], 
+      [
+        "electronic equipment", 
+        "0.56112"
+      ], 
+      [
+        "printer", 
+        "0.47168"
+      ], 
+      [
+        "printer", 
+        "0.46475"
+      ], 
+      [
+        "machine", 
+        "0.45576"
+      ]
+    ], 
+    "7.439"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "street sign", 
+        "0.13463"
+      ], 
+      [
+        "stopwatch", 
+        "0.13279"
+      ], 
+      [
+        "cash machine", 
+        "0.08459"
+      ], 
+      [
+        "police van", 
+        "0.07897"
+      ], 
+      [
+        "combination lock", 
+        "0.05985"
+      ]
+    ], 
+    [
+      [
+        "self-propelled vehicle", 
+        "0.43375"
+      ], 
+      [
+        "motor vehicle", 
+        "0.43204"
+      ], 
+      [
+        "measuring instrument", 
+        "0.42027"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.40839"
+      ], 
+      [
+        "timepiece", 
+        "0.40413"
+      ]
+    ], 
+    "5.128"
+  ]
+}

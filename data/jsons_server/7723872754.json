@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.45904"
+      ], 
+      [
+        "modem", 
+        "0.41933"
+      ], 
+      [
+        "radio", 
+        "0.02117"
+      ], 
+      [
+        "cellular telephone", 
+        "0.01253"
+      ], 
+      [
+        "binder", 
+        "0.01155"
+      ]
+    ], 
+    [
+      [
+        "book jacket", 
+        "0.60407"
+      ], 
+      [
+        "jacket", 
+        "0.59520"
+      ], 
+      [
+        "wrapping", 
+        "0.58633"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46816"
+      ], 
+      [
+        "equipment", 
+        "0.40031"
+      ]
+    ], 
+    "5.309"
+  ]
+}

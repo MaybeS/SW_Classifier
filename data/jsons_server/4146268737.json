@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand blower", 
+        "0.04628"
+      ], 
+      [
+        "basketball", 
+        "0.03726"
+      ], 
+      [
+        "rugby ball", 
+        "0.02834"
+      ], 
+      [
+        "book jacket", 
+        "0.02712"
+      ], 
+      [
+        "medicine chest", 
+        "0.02709"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.33612"
+      ], 
+      [
+        "ball", 
+        "0.33603"
+      ], 
+      [
+        "game equipment", 
+        "0.31421"
+      ], 
+      [
+        "covering", 
+        "0.27938"
+      ], 
+      [
+        "consumer goods", 
+        "0.27824"
+      ]
+    ], 
+    "6.559"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.42437"
+      ], 
+      [
+        "web site", 
+        "0.06116"
+      ], 
+      [
+        "joystick", 
+        "0.05357"
+      ], 
+      [
+        "switch", 
+        "0.03545"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.03521"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.53232"
+      ], 
+      [
+        "optical instrument", 
+        "0.45746"
+      ], 
+      [
+        "device", 
+        "0.39073"
+      ], 
+      [
+        "equipment", 
+        "0.35819"
+      ], 
+      [
+        "machine", 
+        "0.34939"
+      ]
+    ], 
+    "6.470"
+  ]
+}

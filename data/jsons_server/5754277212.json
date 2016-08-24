@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vacuum", 
+        "0.24216"
+      ], 
+      [
+        "switch", 
+        "0.23757"
+      ], 
+      [
+        "radio", 
+        "0.12060"
+      ], 
+      [
+        "combination lock", 
+        "0.06475"
+      ], 
+      [
+        "microphone", 
+        "0.06080"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35432"
+      ], 
+      [
+        "equipment", 
+        "0.31737"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29572"
+      ], 
+      [
+        "control", 
+        "0.29209"
+      ], 
+      [
+        "appliance", 
+        "0.27355"
+      ]
+    ], 
+    "5.769"
+  ]
+}

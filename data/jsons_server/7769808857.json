@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.08024"
+      ], 
+      [
+        "modem", 
+        "0.07000"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.05241"
+      ], 
+      [
+        "binder", 
+        "0.03886"
+      ], 
+      [
+        "pick", 
+        "0.03153"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30333"
+      ], 
+      [
+        "equipment", 
+        "0.27383"
+      ], 
+      [
+        "implement", 
+        "0.26222"
+      ], 
+      [
+        "electronic equipment", 
+        "0.23437"
+      ], 
+      [
+        "container", 
+        "0.22487"
+      ]
+    ], 
+    "5.490"
+  ]
+}

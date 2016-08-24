@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.17019"
+      ], 
+      [
+        "notebook", 
+        "0.10421"
+      ], 
+      [
+        "laptop", 
+        "0.04591"
+      ], 
+      [
+        "cassette", 
+        "0.04303"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.04235"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.40771"
+      ], 
+      [
+        "device", 
+        "0.40437"
+      ], 
+      [
+        "timepiece", 
+        "0.37184"
+      ], 
+      [
+        "computer", 
+        "0.34520"
+      ], 
+      [
+        "instrument", 
+        "0.34365"
+      ]
+    ], 
+    "15.176"
+  ]
+}

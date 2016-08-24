@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "solar dish", 
+        "0.17658"
+      ], 
+      [
+        "folding chair", 
+        "0.09645"
+      ], 
+      [
+        "studio couch", 
+        "0.08154"
+      ], 
+      [
+        "fire screen", 
+        "0.04895"
+      ], 
+      [
+        "window screen", 
+        "0.04715"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.44095"
+      ], 
+      [
+        "furnishing", 
+        "0.43271"
+      ], 
+      [
+        "seat", 
+        "0.33630"
+      ], 
+      [
+        "solar dish", 
+        "0.32563"
+      ], 
+      [
+        "reflector", 
+        "0.28864"
+      ]
+    ], 
+    "5.854"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.46275"
+      ], 
+      [
+        "radio", 
+        "0.15049"
+      ], 
+      [
+        "reflex camera", 
+        "0.06930"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.06665"
+      ], 
+      [
+        "modem", 
+        "0.03071"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.51014"
+      ], 
+      [
+        "control", 
+        "0.50734"
+      ], 
+      [
+        "equipment", 
+        "0.50105"
+      ], 
+      [
+        "camera", 
+        "0.40776"
+      ], 
+      [
+        "photographic equipment", 
+        "0.40098"
+      ]
+    ], 
+    "10.530"
+  ]
+}

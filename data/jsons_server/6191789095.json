@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.99522"
+      ], 
+      [
+        "spotlight", 
+        "0.00443"
+      ], 
+      [
+        "table lamp", 
+        "0.00007"
+      ], 
+      [
+        "goblet", 
+        "0.00006"
+      ], 
+      [
+        "hand blower", 
+        "0.00005"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.74150"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.66978"
+      ], 
+      [
+        "transducer", 
+        "0.65864"
+      ], 
+      [
+        "electrical device", 
+        "0.64751"
+      ], 
+      [
+        "device", 
+        "0.44515"
+      ]
+    ], 
+    "11.259"
+  ]
+}

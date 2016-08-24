@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bulletproof vest", 
+        "0.54823"
+      ], 
+      [
+        "abaya", 
+        "0.18603"
+      ], 
+      [
+        "jersey", 
+        "0.05081"
+      ], 
+      [
+        "swimming trunks", 
+        "0.03703"
+      ], 
+      [
+        "apron", 
+        "0.02968"
+      ]
+    ], 
+    [
+      [
+        "garment", 
+        "1.25693"
+      ], 
+      [
+        "clothing", 
+        "1.23010"
+      ], 
+      [
+        "bulletproof vest", 
+        "1.07825"
+      ], 
+      [
+        "consumer goods", 
+        "1.07590"
+      ], 
+      [
+        "vest", 
+        "1.06241"
+      ]
+    ], 
+    "7.632"
+  ]
+}

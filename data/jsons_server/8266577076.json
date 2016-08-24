@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.28374"
+      ], 
+      [
+        "whistle", 
+        "0.14663"
+      ], 
+      [
+        "vacuum", 
+        "0.07062"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.06888"
+      ], 
+      [
+        "power drill", 
+        "0.06277"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38565"
+      ], 
+      [
+        "lock", 
+        "0.36378"
+      ], 
+      [
+        "fastener", 
+        "0.35118"
+      ], 
+      [
+        "combination lock", 
+        "0.34650"
+      ], 
+      [
+        "restraint", 
+        "0.34159"
+      ]
+    ], 
+    "6.978"
+  ]
+}

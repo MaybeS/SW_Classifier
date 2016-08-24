@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Crock Pot", 
+        "0.33278"
+      ], 
+      [
+        "oil filter", 
+        "0.21572"
+      ], 
+      [
+        "CD player", 
+        "0.20848"
+      ], 
+      [
+        "scale", 
+        "0.08459"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.02343"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "0.81061"
+      ], 
+      [
+        "cooker", 
+        "0.79870"
+      ], 
+      [
+        "cooking utensil", 
+        "0.64858"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.63467"
+      ], 
+      [
+        "utensil", 
+        "0.62076"
+      ]
+    ], 
+    "8.646"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.48377"
+      ], 
+      [
+        "harmonica", 
+        "0.17038"
+      ], 
+      [
+        "radio", 
+        "0.06985"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03859"
+      ], 
+      [
+        "screwdriver", 
+        "0.02169"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37182"
+      ], 
+      [
+        "lighter", 
+        "0.34906"
+      ], 
+      [
+        "implement", 
+        "0.31586"
+      ], 
+      [
+        "container", 
+        "0.21311"
+      ], 
+      [
+        "musical instrument", 
+        "0.21184"
+      ]
+    ], 
+    "12.793"
+  ]
+}

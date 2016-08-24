@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.14933"
+      ], 
+      [
+        "switch", 
+        "0.13479"
+      ], 
+      [
+        "digital clock", 
+        "0.09953"
+      ], 
+      [
+        "printer", 
+        "0.06764"
+      ], 
+      [
+        "medicine chest", 
+        "0.04288"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.40854"
+      ], 
+      [
+        "equipment", 
+        "0.37944"
+      ], 
+      [
+        "device", 
+        "0.34754"
+      ], 
+      [
+        "machine", 
+        "0.27791"
+      ], 
+      [
+        "measuring instrument", 
+        "0.24041"
+      ]
+    ], 
+    "5.326"
+  ]
+}

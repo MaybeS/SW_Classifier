@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.28082"
+      ], 
+      [
+        "cellular telephone", 
+        "0.14156"
+      ], 
+      [
+        "iPod", 
+        "0.13085"
+      ], 
+      [
+        "neck brace", 
+        "0.06033"
+      ], 
+      [
+        "screwdriver", 
+        "0.02530"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.71278"
+      ], 
+      [
+        "personal computer", 
+        "0.69579"
+      ], 
+      [
+        "digital computer", 
+        "0.68247"
+      ], 
+      [
+        "hand-held computer", 
+        "0.67712"
+      ], 
+      [
+        "computer", 
+        "0.65136"
+      ]
+    ], 
+    "6.140"
+  ]
+}

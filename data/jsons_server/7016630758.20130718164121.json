@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.27647"
+      ], 
+      [
+        "envelope", 
+        "0.16300"
+      ], 
+      [
+        "loudspeaker", 
+        "0.09198"
+      ], 
+      [
+        "doormat", 
+        "0.06453"
+      ], 
+      [
+        "window screen", 
+        "0.05057"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.40660"
+      ], 
+      [
+        "protective covering", 
+        "0.34087"
+      ], 
+      [
+        "binder", 
+        "0.33601"
+      ], 
+      [
+        "container", 
+        "0.27432"
+      ], 
+      [
+        "device", 
+        "0.21055"
+      ]
+    ], 
+    "5.579"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vending machine", 
+        "0.14100"
+      ], 
+      [
+        "switch", 
+        "0.11477"
+      ], 
+      [
+        "combination lock", 
+        "0.09675"
+      ], 
+      [
+        "digital clock", 
+        "0.06531"
+      ], 
+      [
+        "lotion", 
+        "0.04935"
+      ]
+    ], 
+    [
+      [
+        "vending machine", 
+        "0.45399"
+      ], 
+      [
+        "slot machine", 
+        "0.42657"
+      ], 
+      [
+        "machine", 
+        "0.38888"
+      ], 
+      [
+        "device", 
+        "0.33812"
+      ], 
+      [
+        "container", 
+        "0.22538"
+      ]
+    ], 
+    "7.431"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "magnetic compass", 
+        "0.24291"
+      ], 
+      [
+        "spotlight", 
+        "0.18156"
+      ], 
+      [
+        "oxygen mask", 
+        "0.08688"
+      ], 
+      [
+        "stethoscope", 
+        "0.08113"
+      ], 
+      [
+        "loupe", 
+        "0.06692"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.67012"
+      ], 
+      [
+        "magnetic compass", 
+        "0.59897"
+      ], 
+      [
+        "compass", 
+        "0.59017"
+      ], 
+      [
+        "navigational instrument", 
+        "0.58137"
+      ], 
+      [
+        "device", 
+        "0.48241"
+      ]
+    ], 
+    "5.997"
+  ]
+}

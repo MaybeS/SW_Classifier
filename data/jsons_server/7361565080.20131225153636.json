@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.30169"
+      ], 
+      [
+        "soap dispenser", 
+        "0.18569"
+      ], 
+      [
+        "envelope", 
+        "0.05472"
+      ], 
+      [
+        "refrigerator", 
+        "0.04999"
+      ], 
+      [
+        "modem", 
+        "0.03877"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.32033"
+      ], 
+      [
+        "container", 
+        "0.31977"
+      ], 
+      [
+        "covering", 
+        "0.25208"
+      ], 
+      [
+        "protective covering", 
+        "0.24828"
+      ], 
+      [
+        "furnishing", 
+        "0.23839"
+      ]
+    ], 
+    "5.910"
+  ]
+}

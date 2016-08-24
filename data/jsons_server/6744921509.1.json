@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.13003"
+      ], 
+      [
+        "combination lock", 
+        "0.06276"
+      ], 
+      [
+        "joystick", 
+        "0.05362"
+      ], 
+      [
+        "modem", 
+        "0.05359"
+      ], 
+      [
+        "puck", 
+        "0.04759"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34642"
+      ], 
+      [
+        "equipment", 
+        "0.31965"
+      ], 
+      [
+        "container", 
+        "0.23317"
+      ], 
+      [
+        "electronic equipment", 
+        "0.22737"
+      ], 
+      [
+        "machine", 
+        "0.22084"
+      ]
+    ], 
+    "9.115"
+  ]
+}

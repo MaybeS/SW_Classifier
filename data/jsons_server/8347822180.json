@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.16140"
+      ], 
+      [
+        "binder", 
+        "0.15450"
+      ], 
+      [
+        "lighter", 
+        "0.12889"
+      ], 
+      [
+        "rubber eraser", 
+        "0.05270"
+      ], 
+      [
+        "whistle", 
+        "0.02703"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.44060"
+      ], 
+      [
+        "machine", 
+        "0.40863"
+      ], 
+      [
+        "personal computer", 
+        "0.40017"
+      ], 
+      [
+        "digital computer", 
+        "0.39251"
+      ], 
+      [
+        "portable computer", 
+        "0.38517"
+      ]
+    ], 
+    "7.600"
+  ]
+}

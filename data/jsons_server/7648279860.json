@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lens cap", 
+        "0.21514"
+      ], 
+      [
+        "microphone", 
+        "0.13112"
+      ], 
+      [
+        "combination lock", 
+        "0.12691"
+      ], 
+      [
+        "loupe", 
+        "0.08855"
+      ], 
+      [
+        "stopwatch", 
+        "0.06707"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.42534"
+      ], 
+      [
+        "instrument", 
+        "0.38868"
+      ], 
+      [
+        "cap", 
+        "0.36453"
+      ], 
+      [
+        "lens cap", 
+        "0.35615"
+      ], 
+      [
+        "measuring instrument", 
+        "0.29635"
+      ]
+    ], 
+    "9.633"
+  ]
+}

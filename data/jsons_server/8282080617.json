@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.47497"
+      ], 
+      [
+        "frying pan", 
+        "0.18383"
+      ], 
+      [
+        "espresso maker", 
+        "0.10080"
+      ], 
+      [
+        "spatula", 
+        "0.04795"
+      ], 
+      [
+        "Dutch oven", 
+        "0.04698"
+      ]
+    ], 
+    [
+      [
+        "kitchen appliance", 
+        "0.96324"
+      ], 
+      [
+        "waffle iron", 
+        "0.92298"
+      ], 
+      [
+        "home appliance", 
+        "0.85445"
+      ], 
+      [
+        "appliance", 
+        "0.82376"
+      ], 
+      [
+        "durables", 
+        "0.80232"
+      ]
+    ], 
+    "5.956"
+  ]
+}

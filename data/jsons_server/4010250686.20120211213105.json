@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Crock Pot", 
+        "0.16130"
+      ], 
+      [
+        "CD player", 
+        "0.11142"
+      ], 
+      [
+        "measuring cup", 
+        "0.09953"
+      ], 
+      [
+        "toilet seat", 
+        "0.05258"
+      ], 
+      [
+        "face powder", 
+        "0.04710"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "0.40337"
+      ], 
+      [
+        "cooker", 
+        "0.39745"
+      ], 
+      [
+        "container", 
+        "0.37493"
+      ], 
+      [
+        "cooking utensil", 
+        "0.36683"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.35896"
+      ]
+    ], 
+    "9.028"
+  ]
+}

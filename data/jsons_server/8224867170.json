@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "gasmask", 
+        "0.33108"
+      ], 
+      [
+        "oxygen mask", 
+        "0.14404"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.10262"
+      ], 
+      [
+        "whistle", 
+        "0.05212"
+      ], 
+      [
+        "buckle", 
+        "0.04322"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.60333"
+      ], 
+      [
+        "mask", 
+        "0.52862"
+      ], 
+      [
+        "protective covering", 
+        "0.51861"
+      ], 
+      [
+        "gasmask", 
+        "0.48594"
+      ], 
+      [
+        "clothing", 
+        "0.45735"
+      ]
+    ], 
+    "8.814"
+  ]
+}

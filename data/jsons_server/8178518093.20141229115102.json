@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "reflex camera", 
+        "0.39851"
+      ], 
+      [
+        "modem", 
+        "0.09763"
+      ], 
+      [
+        "lighter", 
+        "0.05014"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04004"
+      ], 
+      [
+        "hard disc", 
+        "0.03546"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.03289"
+      ], 
+      [
+        "photographic equipment", 
+        "1.01572"
+      ], 
+      [
+        "reflex camera", 
+        "0.91975"
+      ], 
+      [
+        "equipment", 
+        "0.65971"
+      ], 
+      [
+        "device", 
+        "0.34160"
+      ]
+    ], 
+    "5.916"
+  ]
+}

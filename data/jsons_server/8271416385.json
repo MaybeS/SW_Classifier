@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.87841"
+      ], 
+      [
+        "neck brace", 
+        "0.03877"
+      ], 
+      [
+        "book jacket", 
+        "0.02872"
+      ], 
+      [
+        "bakery", 
+        "0.01525"
+      ], 
+      [
+        "Crock Pot", 
+        "0.01236"
+      ]
+    ], 
+    [
+      [
+        "toaster", 
+        "1.14023"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.97604"
+      ], 
+      [
+        "home appliance", 
+        "0.95404"
+      ], 
+      [
+        "appliance", 
+        "0.92345"
+      ], 
+      [
+        "durables", 
+        "0.89942"
+      ]
+    ], 
+    "5.110"
+  ]
+}

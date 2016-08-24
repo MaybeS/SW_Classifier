@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.29329"
+      ], 
+      [
+        "remote control", 
+        "0.17080"
+      ], 
+      [
+        "packet", 
+        "0.04047"
+      ], 
+      [
+        "sunscreen", 
+        "0.03718"
+      ], 
+      [
+        "cassette", 
+        "0.03057"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36331"
+      ], 
+      [
+        "remote control", 
+        "0.35416"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26370"
+      ], 
+      [
+        "equipment", 
+        "0.26366"
+      ], 
+      [
+        "implement", 
+        "0.25447"
+      ]
+    ], 
+    "9.811"
+  ]
+}

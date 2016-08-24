@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toaster", 
+        "0.49361"
+      ], 
+      [
+        "ashcan", 
+        "0.15789"
+      ], 
+      [
+        "washer", 
+        "0.13154"
+      ], 
+      [
+        "can opener", 
+        "0.04247"
+      ], 
+      [
+        "rain barrel", 
+        "0.03250"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.77540"
+      ], 
+      [
+        "appliance", 
+        "0.75030"
+      ], 
+      [
+        "durables", 
+        "0.73078"
+      ], 
+      [
+        "toaster", 
+        "0.65477"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.58784"
+      ]
+    ], 
+    "15.464"
+  ]
+}

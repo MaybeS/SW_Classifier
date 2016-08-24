@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "shower curtain", 
+        "0.98991"
+      ], 
+      [
+        "window shade", 
+        "0.00461"
+      ], 
+      [
+        "bath towel", 
+        "0.00175"
+      ], 
+      [
+        "washbasin", 
+        "0.00139"
+      ], 
+      [
+        "bathtub", 
+        "0.00031"
+      ]
+    ], 
+    [
+      [
+        "shower curtain", 
+        "1.00266"
+      ], 
+      [
+        "blind", 
+        "0.94850"
+      ], 
+      [
+        "curtain", 
+        "0.92638"
+      ], 
+      [
+        "furnishing", 
+        "0.74763"
+      ], 
+      [
+        "protective covering", 
+        "0.74371"
+      ]
+    ], 
+    "6.070"
+  ]
+}

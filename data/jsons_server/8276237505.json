@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.57686"
+      ], 
+      [
+        "binder", 
+        "0.25541"
+      ], 
+      [
+        "tray", 
+        "0.05918"
+      ], 
+      [
+        "modem", 
+        "0.04096"
+      ], 
+      [
+        "face powder", 
+        "0.01320"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.00049"
+      ], 
+      [
+        "magnetic disk", 
+        "0.98579"
+      ], 
+      [
+        "memory device", 
+        "0.97109"
+      ], 
+      [
+        "device", 
+        "0.39631"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33719"
+      ]
+    ], 
+    "8.107"
+  ]
+}

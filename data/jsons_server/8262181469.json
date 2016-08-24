@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.20850"
+      ], 
+      [
+        "hard disc", 
+        "0.16378"
+      ], 
+      [
+        "oscilloscope", 
+        "0.10075"
+      ], 
+      [
+        "tape player", 
+        "0.07970"
+      ], 
+      [
+        "cassette", 
+        "0.06432"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.53210"
+      ], 
+      [
+        "electronic equipment", 
+        "0.50985"
+      ], 
+      [
+        "oscilloscope", 
+        "0.33356"
+      ], 
+      [
+        "hard disc", 
+        "0.31083"
+      ], 
+      [
+        "magnetic disk", 
+        "0.30626"
+      ]
+    ], 
+    "5.010"
+  ]
+}

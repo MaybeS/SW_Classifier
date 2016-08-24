@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "trench coat", 
+        "0.81170"
+      ], 
+      [
+        "swimming trunks", 
+        "0.08867"
+      ], 
+      [
+        "miniskirt", 
+        "0.04563"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.01079"
+      ], 
+      [
+        "suit", 
+        "0.01068"
+      ]
+    ], 
+    [
+      [
+        "trench coat", 
+        "1.65281"
+      ], 
+      [
+        "raincoat", 
+        "1.62853"
+      ], 
+      [
+        "garment", 
+        "1.58959"
+      ], 
+      [
+        "coat", 
+        "1.54556"
+      ], 
+      [
+        "overgarment", 
+        "1.48079"
+      ]
+    ], 
+    "8.722"
+  ]
+}

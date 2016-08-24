@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.83722"
+      ], 
+      [
+        "reel", 
+        "0.02135"
+      ], 
+      [
+        "sewing machine", 
+        "0.01385"
+      ], 
+      [
+        "tripod", 
+        "0.01078"
+      ], 
+      [
+        "rotisserie", 
+        "0.01034"
+      ]
+    ], 
+    [
+      [
+        "espresso maker", 
+        "1.22582"
+      ], 
+      [
+        "coffee maker", 
+        "1.20782"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.94312"
+      ], 
+      [
+        "home appliance", 
+        "0.88739"
+      ], 
+      [
+        "appliance", 
+        "0.85904"
+      ]
+    ], 
+    "8.850"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.26582"
+      ], 
+      [
+        "clog", 
+        "0.10624"
+      ], 
+      [
+        "sandal", 
+        "0.08354"
+      ], 
+      [
+        "whistle", 
+        "0.07060"
+      ], 
+      [
+        "knee pad", 
+        "0.04998"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.57461"
+      ], 
+      [
+        "hand-held computer", 
+        "0.57007"
+      ], 
+      [
+        "personal computer", 
+        "0.55455"
+      ], 
+      [
+        "digital computer", 
+        "0.54393"
+      ], 
+      [
+        "computer", 
+        "0.50364"
+      ]
+    ], 
+    "9.909"
+  ]
+}

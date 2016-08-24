@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.46136"
+      ], 
+      [
+        "guillotine", 
+        "0.10340"
+      ], 
+      [
+        "whistle", 
+        "0.05698"
+      ], 
+      [
+        "spotlight", 
+        "0.03951"
+      ], 
+      [
+        "tennis ball", 
+        "0.03117"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37350"
+      ], 
+      [
+        "microphone", 
+        "0.35432"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.32757"
+      ], 
+      [
+        "transducer", 
+        "0.32212"
+      ], 
+      [
+        "electrical device", 
+        "0.31668"
+      ]
+    ], 
+    "13.055"
+  ]
+}

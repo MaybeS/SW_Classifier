@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.25213"
+      ], 
+      [
+        "screen", 
+        "0.15480"
+      ], 
+      [
+        "solar dish", 
+        "0.11434"
+      ], 
+      [
+        "monitor", 
+        "0.11090"
+      ], 
+      [
+        "mountain tent", 
+        "0.11050"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.60194"
+      ], 
+      [
+        "digital computer", 
+        "0.59041"
+      ], 
+      [
+        "computer", 
+        "0.55117"
+      ], 
+      [
+        "machine", 
+        "0.51110"
+      ], 
+      [
+        "desktop computer", 
+        "0.47510"
+      ]
+    ], 
+    "5.799"
+  ]
+}

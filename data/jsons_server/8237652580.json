@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Petri dish", 
+        "0.24539"
+      ], 
+      [
+        "oscilloscope", 
+        "0.23515"
+      ], 
+      [
+        "loudspeaker", 
+        "0.18733"
+      ], 
+      [
+        "stove", 
+        "0.05777"
+      ], 
+      [
+        "nematode", 
+        "0.04444"
+      ]
+    ], 
+    [
+      [
+        "oscilloscope", 
+        "0.73867"
+      ], 
+      [
+        "electronic equipment", 
+        "0.65791"
+      ], 
+      [
+        "equipment", 
+        "0.53765"
+      ], 
+      [
+        "Petri dish", 
+        "0.44967"
+      ], 
+      [
+        "dish", 
+        "0.40881"
+      ]
+    ], 
+    "7.207"
+  ]
+}

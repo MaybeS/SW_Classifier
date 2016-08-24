@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.46062"
+      ], 
+      [
+        "sunglass", 
+        "0.15562"
+      ], 
+      [
+        "radio", 
+        "0.08216"
+      ], 
+      [
+        "sunglasses", 
+        "0.05186"
+      ], 
+      [
+        "mouse", 
+        "0.04354"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.69477"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.62825"
+      ], 
+      [
+        "transducer", 
+        "0.61781"
+      ], 
+      [
+        "electrical device", 
+        "0.60736"
+      ], 
+      [
+        "device", 
+        "0.40331"
+      ]
+    ], 
+    "9.470"
+  ]
+}

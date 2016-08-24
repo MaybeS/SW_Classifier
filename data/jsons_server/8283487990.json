@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.31918"
+      ], 
+      [
+        "cellular telephone", 
+        "0.28196"
+      ], 
+      [
+        "modem", 
+        "0.05068"
+      ], 
+      [
+        "radio", 
+        "0.05065"
+      ], 
+      [
+        "mouse", 
+        "0.04153"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.89651"
+      ], 
+      [
+        "equipment", 
+        "0.72765"
+      ], 
+      [
+        "telephone", 
+        "0.54935"
+      ], 
+      [
+        "cellular telephone", 
+        "0.52791"
+      ], 
+      [
+        "radiotelephone", 
+        "0.52015"
+      ]
+    ], 
+    "5.740"
+  ]
+}

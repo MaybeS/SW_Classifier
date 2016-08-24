@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "magnetic compass", 
+        "0.23999"
+      ], 
+      [
+        "electric fan", 
+        "0.11885"
+      ], 
+      [
+        "analog clock", 
+        "0.11473"
+      ], 
+      [
+        "puck", 
+        "0.08012"
+      ], 
+      [
+        "wall clock", 
+        "0.04993"
+      ]
+    ], 
+    [
+      [
+        "instrument", 
+        "0.73227"
+      ], 
+      [
+        "measuring instrument", 
+        "0.64789"
+      ], 
+      [
+        "magnetic compass", 
+        "0.60752"
+      ], 
+      [
+        "compass", 
+        "0.59860"
+      ], 
+      [
+        "navigational instrument", 
+        "0.58967"
+      ]
+    ], 
+    "5.243"
+  ]
+}

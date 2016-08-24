@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "perfume", 
+        "0.30738"
+      ], 
+      [
+        "dial telephone", 
+        "0.11479"
+      ], 
+      [
+        "lipstick", 
+        "0.06715"
+      ], 
+      [
+        "wine bottle", 
+        "0.05300"
+      ], 
+      [
+        "lotion", 
+        "0.05270"
+      ]
+    ], 
+    [
+      [
+        "toiletry", 
+        "0.61549"
+      ], 
+      [
+        "perfume", 
+        "0.37790"
+      ], 
+      [
+        "telephone", 
+        "0.31356"
+      ], 
+      [
+        "container", 
+        "0.29274"
+      ], 
+      [
+        "electronic equipment", 
+        "0.28200"
+      ]
+    ], 
+    "5.050"
+  ]
+}

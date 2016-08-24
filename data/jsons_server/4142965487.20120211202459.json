@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.22321"
+      ], 
+      [
+        "modem", 
+        "0.17088"
+      ], 
+      [
+        "wallet", 
+        "0.09792"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.08778"
+      ], 
+      [
+        "shopping cart", 
+        "0.04246"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.35882"
+      ], 
+      [
+        "container", 
+        "0.32287"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32109"
+      ], 
+      [
+        "conveyance", 
+        "0.29636"
+      ], 
+      [
+        "vehicle", 
+        "0.28746"
+      ]
+    ], 
+    "9.301"
+  ]
+}

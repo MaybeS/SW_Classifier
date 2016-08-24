@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.90213"
+      ], 
+      [
+        "radio", 
+        "0.02180"
+      ], 
+      [
+        "home theater", 
+        "0.01114"
+      ], 
+      [
+        "microwave", 
+        "0.00986"
+      ], 
+      [
+        "desktop computer", 
+        "0.00624"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.33745"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.19790"
+      ], 
+      [
+        "transducer", 
+        "1.17798"
+      ], 
+      [
+        "electrical device", 
+        "1.15807"
+      ], 
+      [
+        "device", 
+        "0.47292"
+      ]
+    ], 
+    "5.606"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vacuum", 
+        "0.15775"
+      ], 
+      [
+        "convertible", 
+        "0.09461"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07968"
+      ], 
+      [
+        "car mirror", 
+        "0.07667"
+      ], 
+      [
+        "beach wagon", 
+        "0.04906"
+      ]
+    ], 
+    [
+      [
+        "motor vehicle", 
+        "0.61851"
+      ], 
+      [
+        "car", 
+        "0.60747"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.58328"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.54335"
+      ], 
+      [
+        "vehicle", 
+        "0.46323"
+      ]
+    ], 
+    "5.089"
+  ]
+}

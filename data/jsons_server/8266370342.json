@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binoculars", 
+        "0.87473"
+      ], 
+      [
+        "reflex camera", 
+        "0.02120"
+      ], 
+      [
+        "rain barrel", 
+        "0.01335"
+      ], 
+      [
+        "loupe", 
+        "0.01217"
+      ], 
+      [
+        "barrel", 
+        "0.01192"
+      ]
+    ], 
+    [
+      [
+        "binoculars", 
+        "0.84607"
+      ], 
+      [
+        "optical instrument", 
+        "0.74163"
+      ], 
+      [
+        "instrument", 
+        "0.49594"
+      ], 
+      [
+        "device", 
+        "0.39612"
+      ], 
+      [
+        "covering", 
+        "0.28698"
+      ]
+    ], 
+    "7.978"
+  ]
+}

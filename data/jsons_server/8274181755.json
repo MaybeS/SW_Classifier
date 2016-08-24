@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vacuum", 
+        "0.09526"
+      ], 
+      [
+        "stethoscope", 
+        "0.07507"
+      ], 
+      [
+        "iPod", 
+        "0.07015"
+      ], 
+      [
+        "iron", 
+        "0.04140"
+      ], 
+      [
+        "cellular telephone", 
+        "0.03758"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.32266"
+      ], 
+      [
+        "device", 
+        "0.32261"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30030"
+      ], 
+      [
+        "implement", 
+        "0.25183"
+      ], 
+      [
+        "consumer goods", 
+        "0.24532"
+      ]
+    ], 
+    "5.706"
+  ]
+}

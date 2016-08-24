@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "comic book", 
+        "0.40520"
+      ], 
+      [
+        "football helmet", 
+        "0.08672"
+      ], 
+      [
+        "barbershop", 
+        "0.08504"
+      ], 
+      [
+        "book jacket", 
+        "0.05228"
+      ], 
+      [
+        "street sign", 
+        "0.03180"
+      ]
+    ], 
+    [
+      [
+        "comic book", 
+        "0.68300"
+      ], 
+      [
+        "magazine", 
+        "0.67296"
+      ], 
+      [
+        "press", 
+        "0.66293"
+      ], 
+      [
+        "publication", 
+        "0.66293"
+      ], 
+      [
+        "work", 
+        "0.65290"
+      ]
+    ], 
+    "4.742"
+  ]
+}

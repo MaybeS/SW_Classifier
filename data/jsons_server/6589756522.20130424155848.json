@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.23941"
+      ], 
+      [
+        "radio", 
+        "0.15496"
+      ], 
+      [
+        "switch", 
+        "0.11620"
+      ], 
+      [
+        "modem", 
+        "0.09647"
+      ], 
+      [
+        "combination lock", 
+        "0.06483"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.43005"
+      ], 
+      [
+        "equipment", 
+        "0.42265"
+      ], 
+      [
+        "device", 
+        "0.40092"
+      ], 
+      [
+        "loudspeaker", 
+        "0.38428"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.35605"
+      ]
+    ], 
+    "5.654"
+  ]
+}

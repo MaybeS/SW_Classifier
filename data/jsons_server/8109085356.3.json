@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.25300"
+      ], 
+      [
+        "vending machine", 
+        "0.14497"
+      ], 
+      [
+        "web site", 
+        "0.06705"
+      ], 
+      [
+        "iPod", 
+        "0.04679"
+      ], 
+      [
+        "radio", 
+        "0.03121"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.65583"
+      ], 
+      [
+        "remote control", 
+        "0.51364"
+      ], 
+      [
+        "electronic equipment", 
+        "0.49708"
+      ], 
+      [
+        "vending machine", 
+        "0.46969"
+      ], 
+      [
+        "slot machine", 
+        "0.45074"
+      ]
+    ], 
+    "5.195"
+  ]
+}

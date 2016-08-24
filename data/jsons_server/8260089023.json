@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "waffle iron", 
+        "0.21156"
+      ], 
+      [
+        "barber chair", 
+        "0.19551"
+      ], 
+      [
+        "espresso maker", 
+        "0.19102"
+      ], 
+      [
+        "water jug", 
+        "0.06127"
+      ], 
+      [
+        "coffeepot", 
+        "0.03514"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.58753"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.58550"
+      ], 
+      [
+        "appliance", 
+        "0.57117"
+      ], 
+      [
+        "durables", 
+        "0.55630"
+      ], 
+      [
+        "barber chair", 
+        "0.51138"
+      ]
+    ], 
+    "7.944"
+  ]
+}

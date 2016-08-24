@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.35431"
+      ], 
+      [
+        "remote control", 
+        "0.28210"
+      ], 
+      [
+        "sunscreen", 
+        "0.08417"
+      ], 
+      [
+        "scale", 
+        "0.05661"
+      ], 
+      [
+        "modem", 
+        "0.04205"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.81750"
+      ], 
+      [
+        "hand-held computer", 
+        "0.80466"
+      ], 
+      [
+        "personal computer", 
+        "0.78829"
+      ], 
+      [
+        "digital computer", 
+        "0.77320"
+      ], 
+      [
+        "computer", 
+        "0.72500"
+      ]
+    ], 
+    "8.558"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sunglasses", 
+        "0.10819"
+      ], 
+      [
+        "miniskirt", 
+        "0.10438"
+      ], 
+      [
+        "shoe shop", 
+        "0.08736"
+      ], 
+      [
+        "sunglass", 
+        "0.06013"
+      ], 
+      [
+        "cowboy boot", 
+        "0.05213"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.53949"
+      ], 
+      [
+        "covering", 
+        "0.53037"
+      ], 
+      [
+        "consumer goods", 
+        "0.50145"
+      ], 
+      [
+        "commodity", 
+        "0.47715"
+      ], 
+      [
+        "garment", 
+        "0.41087"
+      ]
+    ], 
+    "5.180"
+  ]
+}

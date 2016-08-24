@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.42283"
+      ], 
+      [
+        "switch", 
+        "0.14442"
+      ], 
+      [
+        "mousetrap", 
+        "0.09099"
+      ], 
+      [
+        "digital clock", 
+        "0.03700"
+      ], 
+      [
+        "digital watch", 
+        "0.02630"
+      ]
+    ], 
+    [
+      [
+        "lock", 
+        "0.51980"
+      ], 
+      [
+        "combination lock", 
+        "0.51107"
+      ], 
+      [
+        "fastener", 
+        "0.45445"
+      ], 
+      [
+        "device", 
+        "0.44891"
+      ], 
+      [
+        "restraint", 
+        "0.42271"
+      ]
+    ], 
+    "11.175"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.15817"
+      ], 
+      [
+        "loupe", 
+        "0.15187"
+      ], 
+      [
+        "reflex camera", 
+        "0.06700"
+      ], 
+      [
+        "stopwatch", 
+        "0.04457"
+      ], 
+      [
+        "microphone", 
+        "0.04258"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40235"
+      ], 
+      [
+        "equipment", 
+        "0.33051"
+      ], 
+      [
+        "instrument", 
+        "0.29017"
+      ], 
+      [
+        "camera", 
+        "0.25140"
+      ], 
+      [
+        "photographic equipment", 
+        "0.24722"
+      ]
+    ], 
+    "5.663"
+  ]
+}

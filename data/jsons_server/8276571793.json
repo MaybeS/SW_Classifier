@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "lighter", 
+        "0.23034"
+      ], 
+      [
+        "buckle", 
+        "0.08473"
+      ], 
+      [
+        "analog clock", 
+        "0.05426"
+      ], 
+      [
+        "television", 
+        "0.04318"
+      ], 
+      [
+        "screen", 
+        "0.04313"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34211"
+      ], 
+      [
+        "measuring instrument", 
+        "0.23734"
+      ], 
+      [
+        "instrument", 
+        "0.23120"
+      ], 
+      [
+        "equipment", 
+        "0.22637"
+      ], 
+      [
+        "timepiece", 
+        "0.22115"
+      ]
+    ], 
+    "6.979"
+  ]
+}

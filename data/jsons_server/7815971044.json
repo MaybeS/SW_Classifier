@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.45438"
+      ], 
+      [
+        "hand blower", 
+        "0.41640"
+      ], 
+      [
+        "vacuum", 
+        "0.02937"
+      ], 
+      [
+        "whistle", 
+        "0.01760"
+      ], 
+      [
+        "joystick", 
+        "0.00935"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38873"
+      ], 
+      [
+        "microphone", 
+        "0.35169"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.33765"
+      ], 
+      [
+        "hand blower", 
+        "0.33208"
+      ], 
+      [
+        "transducer", 
+        "0.33204"
+      ]
+    ], 
+    "6.134"
+  ]
+}

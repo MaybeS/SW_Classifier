@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toyshop", 
+        "0.61594"
+      ], 
+      [
+        "comic book", 
+        "0.30697"
+      ], 
+      [
+        "packet", 
+        "0.02167"
+      ], 
+      [
+        "confectionery", 
+        "0.02008"
+      ], 
+      [
+        "jigsaw puzzle", 
+        "0.00726"
+      ]
+    ], 
+    [
+      [
+        "mercantile establishment", 
+        "1.27556"
+      ], 
+      [
+        "place of business", 
+        "1.24664"
+      ], 
+      [
+        "shop", 
+        "1.21375"
+      ], 
+      [
+        "establishment", 
+        "1.18885"
+      ], 
+      [
+        "toyshop", 
+        "0.88713"
+      ]
+    ], 
+    "5.524"
+  ]
+}

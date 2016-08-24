@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.95009"
+      ], 
+      [
+        "spatula", 
+        "0.01464"
+      ], 
+      [
+        "hair slide", 
+        "0.01289"
+      ], 
+      [
+        "rubber eraser", 
+        "0.00881"
+      ], 
+      [
+        "Band Aid", 
+        "0.00243"
+      ]
+    ], 
+    [
+      [
+        "whistle", 
+        "1.01141"
+      ], 
+      [
+        "signaling device", 
+        "0.99656"
+      ], 
+      [
+        "acoustic device", 
+        "0.99656"
+      ], 
+      [
+        "device", 
+        "0.40902"
+      ], 
+      [
+        "implement", 
+        "0.36299"
+      ]
+    ], 
+    "11.805"
+  ]
+}

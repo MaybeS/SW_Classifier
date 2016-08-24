@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "parallel bars", 
+        "0.74609"
+      ], 
+      [
+        "turnstile", 
+        "0.05926"
+      ], 
+      [
+        "horizontal bar", 
+        "0.05550"
+      ], 
+      [
+        "balance beam", 
+        "0.02811"
+      ], 
+      [
+        "pole", 
+        "0.02786"
+      ]
+    ], 
+    [
+      [
+        "gymnastic apparatus", 
+        "1.32529"
+      ], 
+      [
+        "sports equipment", 
+        "1.16176"
+      ], 
+      [
+        "parallel bars", 
+        "0.93151"
+      ], 
+      [
+        "equipment", 
+        "0.86351"
+      ], 
+      [
+        "balance beam", 
+        "0.34063"
+      ]
+    ], 
+    "12.257"
+  ]
+}

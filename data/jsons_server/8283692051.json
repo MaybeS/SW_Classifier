@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.73316"
+      ], 
+      [
+        "binder", 
+        "0.13203"
+      ], 
+      [
+        "mousetrap", 
+        "0.02207"
+      ], 
+      [
+        "analog clock", 
+        "0.01752"
+      ], 
+      [
+        "cassette", 
+        "0.01732"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.26280"
+      ], 
+      [
+        "magnetic disk", 
+        "1.24425"
+      ], 
+      [
+        "memory device", 
+        "1.22570"
+      ], 
+      [
+        "device", 
+        "0.45564"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35468"
+      ]
+    ], 
+    "9.772"
+  ]
+}

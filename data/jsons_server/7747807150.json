@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand blower", 
+        "0.11905"
+      ], 
+      [
+        "water bottle", 
+        "0.07205"
+      ], 
+      [
+        "missile", 
+        "0.06222"
+      ], 
+      [
+        "microphone", 
+        "0.05308"
+      ], 
+      [
+        "whistle", 
+        "0.04844"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30711"
+      ], 
+      [
+        "implement", 
+        "0.30285"
+      ], 
+      [
+        "container", 
+        "0.23721"
+      ], 
+      [
+        "toiletry", 
+        "0.22982"
+      ], 
+      [
+        "consumer goods", 
+        "0.21339"
+      ]
+    ], 
+    "5.021"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sweatshirt", 
+        "0.59195"
+      ], 
+      [
+        "cloak", 
+        "0.11747"
+      ], 
+      [
+        "swimming trunks", 
+        "0.11041"
+      ], 
+      [
+        "velvet", 
+        "0.05598"
+      ], 
+      [
+        "academic gown", 
+        "0.03298"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.13778"
+      ], 
+      [
+        "garment", 
+        "1.12447"
+      ], 
+      [
+        "consumer goods", 
+        "0.99346"
+      ], 
+      [
+        "covering", 
+        "0.96319"
+      ], 
+      [
+        "commodity", 
+        "0.94593"
+      ]
+    ], 
+    "8.206"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.41545"
+      ], 
+      [
+        "modem", 
+        "0.07064"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.04297"
+      ], 
+      [
+        "harmonica", 
+        "0.04270"
+      ], 
+      [
+        "solar dish", 
+        "0.03688"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.36714"
+      ], 
+      [
+        "vehicle", 
+        "0.34257"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.30738"
+      ], 
+      [
+        "device", 
+        "0.29790"
+      ], 
+      [
+        "container", 
+        "0.28376"
+      ]
+    ], 
+    "9.507"
+  ]
+}

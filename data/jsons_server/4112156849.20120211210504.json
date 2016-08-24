@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.31803"
+      ], 
+      [
+        "reflex camera", 
+        "0.29447"
+      ], 
+      [
+        "binoculars", 
+        "0.13681"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.11394"
+      ], 
+      [
+        "tripod", 
+        "0.07994"
+      ]
+    ], 
+    [
+      [
+        "camera", 
+        "1.06641"
+      ], 
+      [
+        "photographic equipment", 
+        "1.04868"
+      ], 
+      [
+        "reflex camera", 
+        "0.74970"
+      ], 
+      [
+        "equipment", 
+        "0.63517"
+      ], 
+      [
+        "optical instrument", 
+        "0.50799"
+      ]
+    ], 
+    "5.439"
+  ]
+}

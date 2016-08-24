@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "brassiere", 
+        "0.54083"
+      ], 
+      [
+        "strainer", 
+        "0.38138"
+      ], 
+      [
+        "Petri dish", 
+        "0.02985"
+      ], 
+      [
+        "measuring cup", 
+        "0.01716"
+      ], 
+      [
+        "ladle", 
+        "0.00349"
+      ]
+    ], 
+    [
+      [
+        "brassiere", 
+        "0.80408"
+      ], 
+      [
+        "undergarment", 
+        "0.79227"
+      ], 
+      [
+        "woman\'s clothing", 
+        "0.72986"
+      ], 
+      [
+        "clothing", 
+        "0.65123"
+      ], 
+      [
+        "garment", 
+        "0.64901"
+      ]
+    ], 
+    "6.107"
+  ]
+}

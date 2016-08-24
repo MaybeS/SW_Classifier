@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "beaker", 
+        "0.32624"
+      ], 
+      [
+        "cellular telephone", 
+        "0.13876"
+      ], 
+      [
+        "lighter", 
+        "0.09216"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07925"
+      ], 
+      [
+        "measuring cup", 
+        "0.05825"
+      ]
+    ], 
+    [
+      [
+        "vessel", 
+        "0.38976"
+      ], 
+      [
+        "container", 
+        "0.38947"
+      ], 
+      [
+        "device", 
+        "0.26853"
+      ], 
+      [
+        "beaker", 
+        "0.26457"
+      ], 
+      [
+        "cellular telephone", 
+        "0.26165"
+      ]
+    ], 
+    "7.258"
+  ]
+}

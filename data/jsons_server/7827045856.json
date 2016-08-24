@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "comic book", 
+        "0.16976"
+      ], 
+      [
+        "electric guitar", 
+        "0.07822"
+      ], 
+      [
+        "vacuum", 
+        "0.05712"
+      ], 
+      [
+        "ballplayer", 
+        "0.04794"
+      ], 
+      [
+        "jean", 
+        "0.04577"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.37974"
+      ], 
+      [
+        "consumer goods", 
+        "0.34180"
+      ], 
+      [
+        "clothing", 
+        "0.34055"
+      ], 
+      [
+        "commodity", 
+        "0.32504"
+      ], 
+      [
+        "comic book", 
+        "0.29065"
+      ]
+    ], 
+    "5.053"
+  ]
+}

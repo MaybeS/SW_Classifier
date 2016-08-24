@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.24616"
+      ], 
+      [
+        "mousetrap", 
+        "0.20274"
+      ], 
+      [
+        "stretcher", 
+        "0.16736"
+      ], 
+      [
+        "hard disc", 
+        "0.05176"
+      ], 
+      [
+        "typewriter keyboard", 
+        "0.03081"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.34521"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.31861"
+      ], 
+      [
+        "kit", 
+        "0.31393"
+      ], 
+      [
+        "device", 
+        "0.30641"
+      ], 
+      [
+        "conveyance", 
+        "0.29121"
+      ]
+    ], 
+    "12.001"
+  ]
+}

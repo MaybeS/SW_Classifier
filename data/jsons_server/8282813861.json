@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screen", 
+        "0.18768"
+      ], 
+      [
+        "monitor", 
+        "0.16459"
+      ], 
+      [
+        "laptop", 
+        "0.14056"
+      ], 
+      [
+        "desktop computer", 
+        "0.13884"
+      ], 
+      [
+        "notebook", 
+        "0.13587"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.89248"
+      ], 
+      [
+        "digital computer", 
+        "0.87539"
+      ], 
+      [
+        "computer", 
+        "0.82426"
+      ], 
+      [
+        "machine", 
+        "0.73981"
+      ], 
+      [
+        "portable computer", 
+        "0.59723"
+      ]
+    ], 
+    "8.550"
+  ]
+}

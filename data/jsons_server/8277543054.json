@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.17560"
+      ], 
+      [
+        "switch", 
+        "0.10493"
+      ], 
+      [
+        "cash machine", 
+        "0.07094"
+      ], 
+      [
+        "digital clock", 
+        "0.06155"
+      ], 
+      [
+        "modem", 
+        "0.05867"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37784"
+      ], 
+      [
+        "measuring instrument", 
+        "0.36133"
+      ], 
+      [
+        "instrument", 
+        "0.32708"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27771"
+      ], 
+      [
+        "equipment", 
+        "0.27740"
+      ]
+    ], 
+    "7.323"
+  ]
+}

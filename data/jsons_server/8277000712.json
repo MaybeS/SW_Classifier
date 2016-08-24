@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ocarina", 
+        "0.41849"
+      ], 
+      [
+        "remote control", 
+        "0.13378"
+      ], 
+      [
+        "puck", 
+        "0.12344"
+      ], 
+      [
+        "digital clock", 
+        "0.06558"
+      ], 
+      [
+        "chain saw", 
+        "0.04915"
+      ]
+    ], 
+    [
+      [
+        "ocarina", 
+        "1.15510"
+      ], 
+      [
+        "wind instrument", 
+        "0.71362"
+      ], 
+      [
+        "musical instrument", 
+        "0.59594"
+      ], 
+      [
+        "device", 
+        "0.50476"
+      ], 
+      [
+        "puck", 
+        "0.39400"
+      ]
+    ], 
+    "6.195"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "screwdriver", 
+        "0.15250"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.14778"
+      ], 
+      [
+        "cassette", 
+        "0.06962"
+      ], 
+      [
+        "cassette player", 
+        "0.06467"
+      ], 
+      [
+        "tape player", 
+        "0.05395"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.36257"
+      ], 
+      [
+        "implement", 
+        "0.31941"
+      ], 
+      [
+        "device", 
+        "0.29127"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29044"
+      ], 
+      [
+        "container", 
+        "0.28651"
+      ]
+    ], 
+    "5.159"
+  ]
+}

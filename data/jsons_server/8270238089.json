@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.55525"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.04509"
+      ], 
+      [
+        "waffle iron", 
+        "0.04426"
+      ], 
+      [
+        "modem", 
+        "0.03914"
+      ], 
+      [
+        "digital clock", 
+        "0.03262"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "1.14996"
+      ], 
+      [
+        "hand-held computer", 
+        "1.12543"
+      ], 
+      [
+        "personal computer", 
+        "1.11778"
+      ], 
+      [
+        "digital computer", 
+        "1.09638"
+      ], 
+      [
+        "computer", 
+        "1.01328"
+      ]
+    ], 
+    "5.688"
+  ]
+}

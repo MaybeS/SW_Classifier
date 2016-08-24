@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.28871"
+      ], 
+      [
+        "lens cap", 
+        "0.26211"
+      ], 
+      [
+        "Crock Pot", 
+        "0.19971"
+      ], 
+      [
+        "loudspeaker", 
+        "0.10735"
+      ], 
+      [
+        "reflex camera", 
+        "0.06265"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.50495"
+      ], 
+      [
+        "Crock Pot", 
+        "0.48209"
+      ], 
+      [
+        "cooker", 
+        "0.47501"
+      ], 
+      [
+        "lens cap", 
+        "0.44286"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42943"
+      ]
+    ], 
+    "5.951"
+  ]
+}

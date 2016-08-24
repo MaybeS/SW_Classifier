@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "academic gown", 
+        "0.33634"
+      ], 
+      [
+        "bow tie", 
+        "0.14261"
+      ], 
+      [
+        "stethoscope", 
+        "0.06434"
+      ], 
+      [
+        "ping-pong ball", 
+        "0.02890"
+      ], 
+      [
+        "plunger", 
+        "0.02570"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.89436"
+      ], 
+      [
+        "consumer goods", 
+        "0.79625"
+      ], 
+      [
+        "commodity", 
+        "0.75428"
+      ], 
+      [
+        "covering", 
+        "0.72477"
+      ], 
+      [
+        "academic gown", 
+        "0.57288"
+      ]
+    ], 
+    "5.117"
+  ]
+}

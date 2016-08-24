@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sarong", 
+        "0.79601"
+      ], 
+      [
+        "swimming trunks", 
+        "0.04972"
+      ], 
+      [
+        "vase", 
+        "0.02275"
+      ], 
+      [
+        "shower curtain", 
+        "0.01290"
+      ], 
+      [
+        "punching bag", 
+        "0.01235"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "1.12855"
+      ], 
+      [
+        "garment", 
+        "0.98711"
+      ], 
+      [
+        "consumer goods", 
+        "0.98044"
+      ], 
+      [
+        "commodity", 
+        "0.93002"
+      ], 
+      [
+        "covering", 
+        "0.90877"
+      ]
+    ], 
+    "8.640"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stretcher", 
+        "0.67062"
+      ], 
+      [
+        "studio couch", 
+        "0.07022"
+      ], 
+      [
+        "mousetrap", 
+        "0.05162"
+      ], 
+      [
+        "solar dish", 
+        "0.02336"
+      ], 
+      [
+        "plate rack", 
+        "0.01997"
+      ]
+    ], 
+    [
+      [
+        "conveyance", 
+        "0.46627"
+      ], 
+      [
+        "vehicle", 
+        "0.42115"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.38958"
+      ], 
+      [
+        "container", 
+        "0.31687"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.31239"
+      ]
+    ], 
+    "5.939"
+  ]
+}

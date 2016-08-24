@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.32821"
+      ], 
+      [
+        "cassette player", 
+        "0.21271"
+      ], 
+      [
+        "tape player", 
+        "0.12927"
+      ], 
+      [
+        "cassette", 
+        "0.05124"
+      ], 
+      [
+        "iron", 
+        "0.03112"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.54670"
+      ], 
+      [
+        "equipment", 
+        "0.47385"
+      ], 
+      [
+        "cassette player", 
+        "0.34366"
+      ], 
+      [
+        "container", 
+        "0.30164"
+      ], 
+      [
+        "device", 
+        "0.29052"
+      ]
+    ], 
+    "7.106"
+  ]
+}

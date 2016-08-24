@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.50955"
+      ], 
+      [
+        "rule", 
+        "0.20070"
+      ], 
+      [
+        "modem", 
+        "0.07562"
+      ], 
+      [
+        "harmonica", 
+        "0.04204"
+      ], 
+      [
+        "rubber eraser", 
+        "0.03719"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.82523"
+      ], 
+      [
+        "digital clock", 
+        "0.75714"
+      ], 
+      [
+        "timepiece", 
+        "0.68669"
+      ], 
+      [
+        "clock", 
+        "0.65286"
+      ], 
+      [
+        "instrument", 
+        "0.61324"
+      ]
+    ], 
+    "5.763"
+  ]
+}

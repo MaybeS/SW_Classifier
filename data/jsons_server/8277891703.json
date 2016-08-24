@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.29051"
+      ], 
+      [
+        "printer", 
+        "0.09896"
+      ], 
+      [
+        "rubber eraser", 
+        "0.08993"
+      ], 
+      [
+        "modem", 
+        "0.08339"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.06264"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.32385"
+      ], 
+      [
+        "electronic equipment", 
+        "0.31379"
+      ], 
+      [
+        "binder", 
+        "0.31037"
+      ], 
+      [
+        "device", 
+        "0.28916"
+      ], 
+      [
+        "container", 
+        "0.26163"
+      ]
+    ], 
+    "5.471"
+  ]
+}

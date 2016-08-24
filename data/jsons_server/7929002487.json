@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.57056"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09941"
+      ], 
+      [
+        "digital clock", 
+        "0.08461"
+      ], 
+      [
+        "remote control", 
+        "0.04944"
+      ], 
+      [
+        "modem", 
+        "0.04193"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.50761"
+      ], 
+      [
+        "rubber eraser", 
+        "0.35050"
+      ], 
+      [
+        "eraser", 
+        "0.34535"
+      ], 
+      [
+        "device", 
+        "0.33352"
+      ], 
+      [
+        "measuring instrument", 
+        "0.23062"
+      ]
+    ], 
+    "11.275"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.35918"
+      ], 
+      [
+        "modem", 
+        "0.16278"
+      ], 
+      [
+        "rule", 
+        "0.13068"
+      ], 
+      [
+        "airship", 
+        "0.11089"
+      ], 
+      [
+        "remote control", 
+        "0.04110"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.60372"
+      ], 
+      [
+        "digital clock", 
+        "0.54761"
+      ], 
+      [
+        "timepiece", 
+        "0.50992"
+      ], 
+      [
+        "clock", 
+        "0.47878"
+      ], 
+      [
+        "instrument", 
+        "0.47222"
+      ]
+    ], 
+    "10.656"
+  ]
+}

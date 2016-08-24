@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.09315"
+      ], 
+      [
+        "projector", 
+        "0.07518"
+      ], 
+      [
+        "cassette player", 
+        "0.06431"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05835"
+      ], 
+      [
+        "car wheel", 
+        "0.03911"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.46721"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42844"
+      ], 
+      [
+        "device", 
+        "0.34205"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.33721"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.32448"
+      ]
+    ], 
+    "9.043"
+  ]
+}

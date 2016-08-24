@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.44053"
+      ], 
+      [
+        "hair slide", 
+        "0.13477"
+      ], 
+      [
+        "electric fan", 
+        "0.10424"
+      ], 
+      [
+        "buckle", 
+        "0.04985"
+      ], 
+      [
+        "cassette player", 
+        "0.03856"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.47307"
+      ], 
+      [
+        "radio", 
+        "0.42826"
+      ], 
+      [
+        "equipment", 
+        "0.42819"
+      ], 
+      [
+        "communication system", 
+        "0.38916"
+      ], 
+      [
+        "system", 
+        "0.36159"
+      ]
+    ], 
+    "9.968"
+  ]
+}

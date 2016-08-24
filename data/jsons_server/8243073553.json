@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.30440"
+      ], 
+      [
+        "CD player", 
+        "0.25291"
+      ], 
+      [
+        "wall clock", 
+        "0.16704"
+      ], 
+      [
+        "magnetic compass", 
+        "0.07248"
+      ], 
+      [
+        "dial telephone", 
+        "0.01560"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "1.02429"
+      ], 
+      [
+        "clock", 
+        "0.97136"
+      ], 
+      [
+        "timepiece", 
+        "0.96958"
+      ], 
+      [
+        "instrument", 
+        "0.85792"
+      ], 
+      [
+        "analog clock", 
+        "0.68661"
+      ]
+    ], 
+    "7.497"
+  ]
+}

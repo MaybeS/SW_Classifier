@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.23596"
+      ], 
+      [
+        "balance beam", 
+        "0.07253"
+      ], 
+      [
+        "barbell", 
+        "0.05463"
+      ], 
+      [
+        "refrigerator", 
+        "0.05200"
+      ], 
+      [
+        "dishwasher", 
+        "0.03074"
+      ]
+    ], 
+    [
+      [
+        "sports equipment", 
+        "0.54054"
+      ], 
+      [
+        "equipment", 
+        "0.48124"
+      ], 
+      [
+        "weight", 
+        "0.45452"
+      ], 
+      [
+        "consumer goods", 
+        "0.36511"
+      ], 
+      [
+        "commodity", 
+        "0.34894"
+      ]
+    ], 
+    "6.053"
+  ]
+}

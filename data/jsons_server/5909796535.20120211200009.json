@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.22347"
+      ], 
+      [
+        "envelope", 
+        "0.11882"
+      ], 
+      [
+        "scoreboard", 
+        "0.07855"
+      ], 
+      [
+        "modem", 
+        "0.06728"
+      ], 
+      [
+        "wallet", 
+        "0.04448"
+      ]
+    ], 
+    [
+      [
+        "oscilloscope", 
+        "0.70911"
+      ], 
+      [
+        "electronic equipment", 
+        "0.58358"
+      ], 
+      [
+        "equipment", 
+        "0.49701"
+      ], 
+      [
+        "machine", 
+        "0.30301"
+      ], 
+      [
+        "scoreboard", 
+        "0.26196"
+      ]
+    ], 
+    "9.802"
+  ]
+}

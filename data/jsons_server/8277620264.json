@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.20458"
+      ], 
+      [
+        "hard disc", 
+        "0.19876"
+      ], 
+      [
+        "mousetrap", 
+        "0.11812"
+      ], 
+      [
+        "tape player", 
+        "0.06716"
+      ], 
+      [
+        "cassette", 
+        "0.05890"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.41992"
+      ], 
+      [
+        "hard disc", 
+        "0.37248"
+      ], 
+      [
+        "magnetic disk", 
+        "0.36701"
+      ], 
+      [
+        "memory device", 
+        "0.36154"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34411"
+      ]
+    ], 
+    "6.454"
+  ]
+}

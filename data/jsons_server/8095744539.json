@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "frying pan", 
+        "0.17194"
+      ], 
+      [
+        "buckle", 
+        "0.09683"
+      ], 
+      [
+        "chocolate sauce", 
+        "0.06584"
+      ], 
+      [
+        "magnetic compass", 
+        "0.04940"
+      ], 
+      [
+        "spotlight", 
+        "0.04663"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.30404"
+      ], 
+      [
+        "cooking utensil", 
+        "0.29868"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.29228"
+      ], 
+      [
+        "utensil", 
+        "0.28587"
+      ], 
+      [
+        "implement", 
+        "0.27929"
+      ]
+    ], 
+    "5.778"
+  ]
+}

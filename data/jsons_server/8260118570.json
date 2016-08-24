@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "toilet seat", 
+        "0.35165"
+      ], 
+      [
+        "espresso maker", 
+        "0.21180"
+      ], 
+      [
+        "water jug", 
+        "0.07150"
+      ], 
+      [
+        "can opener", 
+        "0.05935"
+      ], 
+      [
+        "potter\'s wheel", 
+        "0.04450"
+      ]
+    ], 
+    [
+      [
+        "vessel", 
+        "0.41308"
+      ], 
+      [
+        "toilet seat", 
+        "0.39858"
+      ], 
+      [
+        "appliance", 
+        "0.35939"
+      ], 
+      [
+        "home appliance", 
+        "0.35569"
+      ], 
+      [
+        "container", 
+        "0.35084"
+      ]
+    ], 
+    "7.701"
+  ]
+}

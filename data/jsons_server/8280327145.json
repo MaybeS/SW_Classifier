@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oscilloscope", 
+        "0.37751"
+      ], 
+      [
+        "switch", 
+        "0.11609"
+      ], 
+      [
+        "remote control", 
+        "0.05327"
+      ], 
+      [
+        "screen", 
+        "0.05225"
+      ], 
+      [
+        "modem", 
+        "0.04343"
+      ]
+    ], 
+    [
+      [
+        "oscilloscope", 
+        "1.19435"
+      ], 
+      [
+        "electronic equipment", 
+        "1.03667"
+      ], 
+      [
+        "equipment", 
+        "0.79072"
+      ], 
+      [
+        "machine", 
+        "0.35416"
+      ], 
+      [
+        "personal computer", 
+        "0.34574"
+      ]
+    ], 
+    "5.506"
+  ]
+}

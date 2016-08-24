@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "whistle", 
+        "0.26164"
+      ], 
+      [
+        "lighter", 
+        "0.10245"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07933"
+      ], 
+      [
+        "screwdriver", 
+        "0.06406"
+      ], 
+      [
+        "ballpoint", 
+        "0.03005"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35573"
+      ], 
+      [
+        "implement", 
+        "0.32074"
+      ], 
+      [
+        "whistle", 
+        "0.30876"
+      ], 
+      [
+        "signaling device", 
+        "0.30423"
+      ], 
+      [
+        "acoustic device", 
+        "0.30423"
+      ]
+    ], 
+    "5.300"
+  ]
+}

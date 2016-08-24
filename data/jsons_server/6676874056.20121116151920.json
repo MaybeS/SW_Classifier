@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "scale", 
+        "0.25371"
+      ], 
+      [
+        "digital clock", 
+        "0.23536"
+      ], 
+      [
+        "cassette", 
+        "0.06875"
+      ], 
+      [
+        "rubber eraser", 
+        "0.06529"
+      ], 
+      [
+        "binder", 
+        "0.04914"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.58788"
+      ], 
+      [
+        "instrument", 
+        "0.47381"
+      ], 
+      [
+        "timepiece", 
+        "0.42357"
+      ], 
+      [
+        "device", 
+        "0.37738"
+      ], 
+      [
+        "clock", 
+        "0.36531"
+      ]
+    ], 
+    "9.089"
+  ]
+}

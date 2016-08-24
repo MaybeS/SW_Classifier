@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wallet", 
+        "0.16837"
+      ], 
+      [
+        "pencil box", 
+        "0.15810"
+      ], 
+      [
+        "cellular telephone", 
+        "0.12890"
+      ], 
+      [
+        "lighter", 
+        "0.07723"
+      ], 
+      [
+        "purse", 
+        "0.06447"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.35176"
+      ], 
+      [
+        "equipment", 
+        "0.33891"
+      ], 
+      [
+        "container", 
+        "0.33684"
+      ], 
+      [
+        "box", 
+        "0.27475"
+      ], 
+      [
+        "pencil box", 
+        "0.26829"
+      ]
+    ], 
+    "7.501"
+  ]
+}

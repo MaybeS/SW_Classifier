@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.99982"
+      ], 
+      [
+        "ocarina", 
+        "0.00010"
+      ], 
+      [
+        "cellular telephone", 
+        "0.00002"
+      ], 
+      [
+        "joystick", 
+        "0.00001"
+      ], 
+      [
+        "clog", 
+        "0.00001"
+      ]
+    ], 
+    [
+      [
+        "remote control", 
+        "1.91533"
+      ], 
+      [
+        "device", 
+        "0.57784"
+      ], 
+      [
+        "electronic equipment", 
+        "0.48711"
+      ], 
+      [
+        "equipment", 
+        "0.42030"
+      ], 
+      [
+        "cellular telephone", 
+        "0.33975"
+      ]
+    ], 
+    "9.935"
+  ]
+}

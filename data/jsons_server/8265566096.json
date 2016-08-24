@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.22391"
+      ], 
+      [
+        "modem", 
+        "0.18654"
+      ], 
+      [
+        "scoreboard", 
+        "0.06846"
+      ], 
+      [
+        "harmonica", 
+        "0.06815"
+      ], 
+      [
+        "gas pump", 
+        "0.06791"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.38437"
+      ], 
+      [
+        "timepiece", 
+        "0.36566"
+      ], 
+      [
+        "device", 
+        "0.36433"
+      ], 
+      [
+        "digital clock", 
+        "0.35949"
+      ], 
+      [
+        "electronic equipment", 
+        "0.34641"
+      ]
+    ], 
+    "5.908"
+  ]
+}

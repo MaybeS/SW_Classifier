@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.57432"
+      ], 
+      [
+        "combination lock", 
+        "0.16657"
+      ], 
+      [
+        "frying pan", 
+        "0.05057"
+      ], 
+      [
+        "face powder", 
+        "0.04387"
+      ], 
+      [
+        "can opener", 
+        "0.02385"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37271"
+      ], 
+      [
+        "instrument", 
+        "0.29300"
+      ], 
+      [
+        "loupe", 
+        "0.27154"
+      ], 
+      [
+        "hand glass", 
+        "0.26755"
+      ], 
+      [
+        "light microscope", 
+        "0.26357"
+      ]
+    ], 
+    "7.218"
+  ]
+}

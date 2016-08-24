@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Band Aid", 
+        "0.05586"
+      ], 
+      [
+        "crossword puzzle", 
+        "0.04375"
+      ], 
+      [
+        "remote control", 
+        "0.03973"
+      ], 
+      [
+        "sock", 
+        "0.03924"
+      ], 
+      [
+        "hammer", 
+        "0.03192"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.38275"
+      ], 
+      [
+        "consumer goods", 
+        "0.34577"
+      ], 
+      [
+        "clothing", 
+        "0.34319"
+      ], 
+      [
+        "commodity", 
+        "0.33229"
+      ], 
+      [
+        "garment", 
+        "0.24442"
+      ]
+    ], 
+    "5.386"
+  ]
+}

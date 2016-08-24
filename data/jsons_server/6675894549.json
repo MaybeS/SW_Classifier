@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.22591"
+      ], 
+      [
+        "radio", 
+        "0.07354"
+      ], 
+      [
+        "monitor", 
+        "0.06163"
+      ], 
+      [
+        "binder", 
+        "0.05670"
+      ], 
+      [
+        "oscilloscope", 
+        "0.04329"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.56440"
+      ], 
+      [
+        "equipment", 
+        "0.49140"
+      ], 
+      [
+        "device", 
+        "0.33309"
+      ], 
+      [
+        "machine", 
+        "0.32378"
+      ], 
+      [
+        "personal computer", 
+        "0.30279"
+      ]
+    ], 
+    "9.252"
+  ]
+}

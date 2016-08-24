@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Crock Pot", 
+        "0.48625"
+      ], 
+      [
+        "bucket", 
+        "0.29099"
+      ], 
+      [
+        "can opener", 
+        "0.06697"
+      ], 
+      [
+        "oil filter", 
+        "0.02796"
+      ], 
+      [
+        "measuring cup", 
+        "0.01548"
+      ]
+    ], 
+    [
+      [
+        "Crock Pot", 
+        "1.16721"
+      ], 
+      [
+        "cooker", 
+        "1.15007"
+      ], 
+      [
+        "cooking utensil", 
+        "0.93858"
+      ], 
+      [
+        "kitchen utensil", 
+        "0.91845"
+      ], 
+      [
+        "utensil", 
+        "0.89832"
+      ]
+    ], 
+    "5.901"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.28580"
+      ], 
+      [
+        "web site", 
+        "0.27992"
+      ], 
+      [
+        "cellular telephone", 
+        "0.14369"
+      ], 
+      [
+        "screen", 
+        "0.02369"
+      ], 
+      [
+        "oscilloscope", 
+        "0.02089"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "1.45705"
+      ], 
+      [
+        "machine", 
+        "1.21489"
+      ], 
+      [
+        "web site", 
+        "1.11056"
+      ], 
+      [
+        "personal computer", 
+        "0.78076"
+      ], 
+      [
+        "portable computer", 
+        "0.77261"
+      ]
+    ], 
+    "9.005"
+  ]
+}

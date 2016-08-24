@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.35852"
+      ], 
+      [
+        "safe", 
+        "0.32166"
+      ], 
+      [
+        "loudspeaker", 
+        "0.09741"
+      ], 
+      [
+        "projector", 
+        "0.04539"
+      ], 
+      [
+        "CD player", 
+        "0.02504"
+      ]
+    ], 
+    [
+      [
+        "safe", 
+        "0.82403"
+      ], 
+      [
+        "strongbox", 
+        "0.81192"
+      ], 
+      [
+        "box", 
+        "0.64752"
+      ], 
+      [
+        "personal computer", 
+        "0.53652"
+      ], 
+      [
+        "digital computer", 
+        "0.52624"
+      ]
+    ], 
+    "6.016"
+  ]
+}

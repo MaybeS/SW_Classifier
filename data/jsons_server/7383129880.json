@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.37213"
+      ], 
+      [
+        "school bus", 
+        "0.14562"
+      ], 
+      [
+        "mouse", 
+        "0.06851"
+      ], 
+      [
+        "monitor", 
+        "0.05815"
+      ], 
+      [
+        "desktop computer", 
+        "0.04370"
+      ]
+    ], 
+    [
+      [
+        "school bus", 
+        "0.56905"
+      ], 
+      [
+        "bus", 
+        "0.54827"
+      ], 
+      [
+        "public transport", 
+        "0.50408"
+      ], 
+      [
+        "electronic equipment", 
+        "0.46680"
+      ], 
+      [
+        "joystick", 
+        "0.43560"
+      ]
+    ], 
+    "5.368"
+  ]
+}

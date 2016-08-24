@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.20992"
+      ], 
+      [
+        "projector", 
+        "0.09560"
+      ], 
+      [
+        "iPod", 
+        "0.07899"
+      ], 
+      [
+        "cellular telephone", 
+        "0.05007"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04436"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.38391"
+      ], 
+      [
+        "device", 
+        "0.33761"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33371"
+      ], 
+      [
+        "oil filter", 
+        "0.29180"
+      ], 
+      [
+        "filter", 
+        "0.26622"
+      ]
+    ], 
+    "6.164"
+  ]
+}

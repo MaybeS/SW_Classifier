@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microwave", 
+        "0.66864"
+      ], 
+      [
+        "stove", 
+        "0.12762"
+      ], 
+      [
+        "rotisserie", 
+        "0.04291"
+      ], 
+      [
+        "printer", 
+        "0.02119"
+      ], 
+      [
+        "oscilloscope", 
+        "0.01873"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.88228"
+      ], 
+      [
+        "microwave", 
+        "0.85080"
+      ], 
+      [
+        "appliance", 
+        "0.84467"
+      ], 
+      [
+        "durables", 
+        "0.82269"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.78988"
+      ]
+    ], 
+    "8.691"
+  ]
+}

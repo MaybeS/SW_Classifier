@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "wallet", 
+        "0.17370"
+      ], 
+      [
+        "pencil box", 
+        "0.10075"
+      ], 
+      [
+        "vending machine", 
+        "0.07846"
+      ], 
+      [
+        "hand-held computer", 
+        "0.05380"
+      ], 
+      [
+        "radio", 
+        "0.03679"
+      ]
+    ], 
+    [
+      [
+        "machine", 
+        "0.44671"
+      ], 
+      [
+        "slot machine", 
+        "0.34649"
+      ], 
+      [
+        "device", 
+        "0.31821"
+      ], 
+      [
+        "container", 
+        "0.31740"
+      ], 
+      [
+        "vending machine", 
+        "0.26013"
+      ]
+    ], 
+    "4.910"
+  ]
+}

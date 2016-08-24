@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.31400"
+      ], 
+      [
+        "microwave", 
+        "0.17234"
+      ], 
+      [
+        "screen", 
+        "0.09683"
+      ], 
+      [
+        "medicine chest", 
+        "0.06971"
+      ], 
+      [
+        "space heater", 
+        "0.05780"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.39772"
+      ], 
+      [
+        "switch", 
+        "0.36408"
+      ], 
+      [
+        "home appliance", 
+        "0.35350"
+      ], 
+      [
+        "control", 
+        "0.35142"
+      ], 
+      [
+        "appliance", 
+        "0.34545"
+      ]
+    ], 
+    "7.853"
+  ]
+}

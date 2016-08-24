@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.32727"
+      ], 
+      [
+        "sunglass", 
+        "0.10538"
+      ], 
+      [
+        "loupe", 
+        "0.06504"
+      ], 
+      [
+        "projector", 
+        "0.06089"
+      ], 
+      [
+        "car mirror", 
+        "0.04444"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37731"
+      ], 
+      [
+        "equipment", 
+        "0.26355"
+      ], 
+      [
+        "consumer goods", 
+        "0.25254"
+      ], 
+      [
+        "commodity", 
+        "0.23998"
+      ], 
+      [
+        "electronic equipment", 
+        "0.23448"
+      ]
+    ], 
+    "5.331"
+  ]
+}

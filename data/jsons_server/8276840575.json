@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "monitor", 
+        "0.41549"
+      ], 
+      [
+        "desktop computer", 
+        "0.09805"
+      ], 
+      [
+        "iron", 
+        "0.09274"
+      ], 
+      [
+        "mouse", 
+        "0.07089"
+      ], 
+      [
+        "screen", 
+        "0.06738"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.60224"
+      ], 
+      [
+        "personal computer", 
+        "0.57794"
+      ], 
+      [
+        "digital computer", 
+        "0.56687"
+      ], 
+      [
+        "machine", 
+        "0.56448"
+      ], 
+      [
+        "electronic device", 
+        "0.53956"
+      ]
+    ], 
+    "5.403"
+  ]
+}

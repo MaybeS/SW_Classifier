@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "ballpoint", 
+        "0.31098"
+      ], 
+      [
+        "fountain pen", 
+        "0.14155"
+      ], 
+      [
+        "notebook", 
+        "0.08676"
+      ], 
+      [
+        "tripod", 
+        "0.06505"
+      ], 
+      [
+        "microphone", 
+        "0.06356"
+      ]
+    ], 
+    [
+      [
+        "pen", 
+        "0.67481"
+      ], 
+      [
+        "writing implement", 
+        "0.66277"
+      ], 
+      [
+        "implement", 
+        "0.60702"
+      ], 
+      [
+        "fountain pen", 
+        "0.41667"
+      ], 
+      [
+        "ballpoint", 
+        "0.36952"
+      ]
+    ], 
+    "9.559"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "dumbbell", 
+        "0.42077"
+      ], 
+      [
+        "jersey", 
+        "0.35346"
+      ], 
+      [
+        "barbell", 
+        "0.08286"
+      ], 
+      [
+        "balance beam", 
+        "0.01933"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.01668"
+      ]
+    ], 
+    [
+      [
+        "weight", 
+        "0.75114"
+      ], 
+      [
+        "sports equipment", 
+        "0.69550"
+      ], 
+      [
+        "clothing", 
+        "0.63887"
+      ], 
+      [
+        "garment", 
+        "0.58961"
+      ], 
+      [
+        "consumer goods", 
+        "0.58718"
+      ]
+    ], 
+    "7.370"
+  ]
+}

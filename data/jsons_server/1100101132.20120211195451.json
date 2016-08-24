@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "pencil sharpener", 
+        "0.88782"
+      ], 
+      [
+        "spotlight", 
+        "0.01564"
+      ], 
+      [
+        "mousetrap", 
+        "0.01343"
+      ], 
+      [
+        "switch", 
+        "0.01325"
+      ], 
+      [
+        "iron", 
+        "0.01037"
+      ]
+    ], 
+    [
+      [
+        "pencil sharpener", 
+        "0.43884"
+      ], 
+      [
+        "sharpener", 
+        "0.43239"
+      ], 
+      [
+        "implement", 
+        "0.40901"
+      ], 
+      [
+        "device", 
+        "0.27310"
+      ], 
+      [
+        "container", 
+        "0.23610"
+      ]
+    ], 
+    "9.285"
+  ]
+}

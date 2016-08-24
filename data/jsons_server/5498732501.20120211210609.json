@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.14584"
+      ], 
+      [
+        "binder", 
+        "0.11678"
+      ], 
+      [
+        "can opener", 
+        "0.08924"
+      ], 
+      [
+        "lighter", 
+        "0.08534"
+      ], 
+      [
+        "modem", 
+        "0.05596"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.34015"
+      ], 
+      [
+        "remote control", 
+        "0.29788"
+      ], 
+      [
+        "implement", 
+        "0.28752"
+      ], 
+      [
+        "electronic equipment", 
+        "0.26651"
+      ], 
+      [
+        "equipment", 
+        "0.26077"
+      ]
+    ], 
+    "5.603"
+  ]
+}

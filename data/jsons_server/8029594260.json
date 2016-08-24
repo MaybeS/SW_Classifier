@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "television", 
+        "0.27127"
+      ], 
+      [
+        "dumbbell", 
+        "0.17429"
+      ], 
+      [
+        "screen", 
+        "0.05016"
+      ], 
+      [
+        "laptop", 
+        "0.04878"
+      ], 
+      [
+        "barbell", 
+        "0.04095"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43699"
+      ], 
+      [
+        "television", 
+        "0.41294"
+      ], 
+      [
+        "telecommunication system", 
+        "0.40687"
+      ], 
+      [
+        "sports equipment", 
+        "0.36938"
+      ], 
+      [
+        "communication system", 
+        "0.36713"
+      ]
+    ], 
+    "5.307"
+  ]
+}

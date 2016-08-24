@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.18841"
+      ], 
+      [
+        "loupe", 
+        "0.11768"
+      ], 
+      [
+        "oxygen mask", 
+        "0.06726"
+      ], 
+      [
+        "screwdriver", 
+        "0.06306"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.05881"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36330"
+      ], 
+      [
+        "implement", 
+        "0.25138"
+      ], 
+      [
+        "instrument", 
+        "0.24474"
+      ], 
+      [
+        "container", 
+        "0.23144"
+      ], 
+      [
+        "equipment", 
+        "0.19863"
+      ]
+    ], 
+    "5.802"
+  ]
+}

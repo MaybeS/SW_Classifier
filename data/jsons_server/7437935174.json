@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.23370"
+      ], 
+      [
+        "radio", 
+        "0.13332"
+      ], 
+      [
+        "joystick", 
+        "0.07459"
+      ], 
+      [
+        "gasmask", 
+        "0.05349"
+      ], 
+      [
+        "cassette player", 
+        "0.05199"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.35497"
+      ], 
+      [
+        "device", 
+        "0.35330"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33648"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.25991"
+      ], 
+      [
+        "transducer", 
+        "0.25559"
+      ]
+    ], 
+    "5.053"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hand-held computer", 
+        "0.21157"
+      ], 
+      [
+        "Band Aid", 
+        "0.17813"
+      ], 
+      [
+        "web site", 
+        "0.12509"
+      ], 
+      [
+        "packet", 
+        "0.11559"
+      ], 
+      [
+        "cellular telephone", 
+        "0.06217"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.80234"
+      ], 
+      [
+        "machine", 
+        "0.76714"
+      ], 
+      [
+        "portable computer", 
+        "0.50950"
+      ], 
+      [
+        "web site", 
+        "0.50894"
+      ], 
+      [
+        "personal computer", 
+        "0.50614"
+      ]
+    ], 
+    "4.865"
+  ]
+}

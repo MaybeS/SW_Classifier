@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vending machine", 
+        "0.24440"
+      ], 
+      [
+        "binder", 
+        "0.09227"
+      ], 
+      [
+        "switch", 
+        "0.07042"
+      ], 
+      [
+        "lipstick", 
+        "0.06903"
+      ], 
+      [
+        "desktop computer", 
+        "0.04799"
+      ]
+    ], 
+    [
+      [
+        "vending machine", 
+        "0.77822"
+      ], 
+      [
+        "slot machine", 
+        "0.73826"
+      ], 
+      [
+        "machine", 
+        "0.72817"
+      ], 
+      [
+        "device", 
+        "0.39466"
+      ], 
+      [
+        "electronic equipment", 
+        "0.29480"
+      ]
+    ], 
+    "5.585"
+  ]
+}

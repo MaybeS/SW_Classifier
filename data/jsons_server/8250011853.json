@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fountain pen", 
+        "0.30569"
+      ], 
+      [
+        "ballpoint", 
+        "0.25202"
+      ], 
+      [
+        "whistle", 
+        "0.15733"
+      ], 
+      [
+        "microphone", 
+        "0.07122"
+      ], 
+      [
+        "screwdriver", 
+        "0.03703"
+      ]
+    ], 
+    [
+      [
+        "pen", 
+        "0.91931"
+      ], 
+      [
+        "writing implement", 
+        "0.90292"
+      ], 
+      [
+        "implement", 
+        "0.78594"
+      ], 
+      [
+        "fountain pen", 
+        "0.71424"
+      ], 
+      [
+        "ballpoint", 
+        "0.36587"
+      ]
+    ], 
+    "8.645"
+  ]
+}

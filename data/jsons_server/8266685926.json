@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.21493"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.11530"
+      ], 
+      [
+        "cellular telephone", 
+        "0.09265"
+      ], 
+      [
+        "loudspeaker", 
+        "0.04556"
+      ], 
+      [
+        "cash machine", 
+        "0.03992"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.67114"
+      ], 
+      [
+        "electronic equipment", 
+        "0.59243"
+      ], 
+      [
+        "machine", 
+        "0.50217"
+      ], 
+      [
+        "device", 
+        "0.37569"
+      ], 
+      [
+        "computer", 
+        "0.35705"
+      ]
+    ], 
+    "8.322"
+  ]
+}

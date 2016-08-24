@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.10937"
+      ], 
+      [
+        "radio", 
+        "0.07083"
+      ], 
+      [
+        "magnetic compass", 
+        "0.05208"
+      ], 
+      [
+        "bow tie", 
+        "0.04453"
+      ], 
+      [
+        "remote control", 
+        "0.04307"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.35635"
+      ], 
+      [
+        "equipment", 
+        "0.33476"
+      ], 
+      [
+        "electronic equipment", 
+        "0.30390"
+      ], 
+      [
+        "instrument", 
+        "0.29716"
+      ], 
+      [
+        "measuring instrument", 
+        "0.23246"
+      ]
+    ], 
+    "6.745"
+  ]
+}

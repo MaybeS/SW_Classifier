@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "fire screen", 
+        "0.38540"
+      ], 
+      [
+        "prison", 
+        "0.22422"
+      ], 
+      [
+        "scoreboard", 
+        "0.03135"
+      ], 
+      [
+        "bannister", 
+        "0.02928"
+      ], 
+      [
+        "steel arch bridge", 
+        "0.02840"
+      ]
+    ], 
+    [
+      [
+        "fire screen", 
+        "0.85491"
+      ], 
+      [
+        "screen", 
+        "0.77219"
+      ], 
+      [
+        "protective covering", 
+        "0.61084"
+      ], 
+      [
+        "structure", 
+        "0.47256"
+      ], 
+      [
+        "covering", 
+        "0.46944"
+      ]
+    ], 
+    "5.523"
+  ]
+}

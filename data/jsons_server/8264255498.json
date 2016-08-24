@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.57041"
+      ], 
+      [
+        "loupe", 
+        "0.10616"
+      ], 
+      [
+        "spotlight", 
+        "0.04286"
+      ], 
+      [
+        "gasmask", 
+        "0.02700"
+      ], 
+      [
+        "face powder", 
+        "0.02646"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.43474"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.42386"
+      ], 
+      [
+        "transducer", 
+        "0.41682"
+      ], 
+      [
+        "electrical device", 
+        "0.40977"
+      ], 
+      [
+        "device", 
+        "0.40048"
+      ]
+    ], 
+    "6.176"
+  ]
+}

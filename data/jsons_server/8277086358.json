@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.42953"
+      ], 
+      [
+        "modem", 
+        "0.39073"
+      ], 
+      [
+        "binder", 
+        "0.10192"
+      ], 
+      [
+        "radio", 
+        "0.03181"
+      ], 
+      [
+        "switch", 
+        "0.02120"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "0.77871"
+      ], 
+      [
+        "magnetic disk", 
+        "0.76727"
+      ], 
+      [
+        "memory device", 
+        "0.75583"
+      ], 
+      [
+        "electronic equipment", 
+        "0.58884"
+      ], 
+      [
+        "equipment", 
+        "0.48996"
+      ]
+    ], 
+    "6.724"
+  ]
+}

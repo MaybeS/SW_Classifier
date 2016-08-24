@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "racket", 
+        "0.64905"
+      ], 
+      [
+        "magnetic compass", 
+        "0.03734"
+      ], 
+      [
+        "rugby ball", 
+        "0.02084"
+      ], 
+      [
+        "mousetrap", 
+        "0.01715"
+      ], 
+      [
+        "sunglass", 
+        "0.01390"
+      ]
+    ], 
+    [
+      [
+        "racket", 
+        "1.25931"
+      ], 
+      [
+        "sports implement", 
+        "1.24081"
+      ], 
+      [
+        "implement", 
+        "0.58651"
+      ], 
+      [
+        "ball", 
+        "0.45108"
+      ], 
+      [
+        "game equipment", 
+        "0.41199"
+      ]
+    ], 
+    "5.350"
+  ]
+}

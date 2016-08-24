@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.85107"
+      ], 
+      [
+        "rotisserie", 
+        "0.13213"
+      ], 
+      [
+        "printer", 
+        "0.00405"
+      ], 
+      [
+        "microwave", 
+        "0.00305"
+      ], 
+      [
+        "projector", 
+        "0.00275"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "0.96523"
+      ], 
+      [
+        "heater", 
+        "0.89588"
+      ], 
+      [
+        "rotisserie", 
+        "0.38708"
+      ], 
+      [
+        "device", 
+        "0.37889"
+      ], 
+      [
+        "home appliance", 
+        "0.37393"
+      ]
+    ], 
+    "6.335"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.21764"
+      ], 
+      [
+        "stopwatch", 
+        "0.10713"
+      ], 
+      [
+        "joystick", 
+        "0.09979"
+      ], 
+      [
+        "cassette player", 
+        "0.08569"
+      ], 
+      [
+        "CD player", 
+        "0.07298"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.58561"
+      ], 
+      [
+        "equipment", 
+        "0.51731"
+      ], 
+      [
+        "device", 
+        "0.39041"
+      ], 
+      [
+        "measuring instrument", 
+        "0.35714"
+      ], 
+      [
+        "instrument", 
+        "0.34649"
+      ]
+    ], 
+    "9.092"
+  ]
+}

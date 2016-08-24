@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.23423"
+      ], 
+      [
+        "refrigerator", 
+        "0.14879"
+      ], 
+      [
+        "can opener", 
+        "0.11694"
+      ], 
+      [
+        "photocopier", 
+        "0.08880"
+      ], 
+      [
+        "switch", 
+        "0.04254"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.48227"
+      ], 
+      [
+        "home appliance", 
+        "0.38986"
+      ], 
+      [
+        "appliance", 
+        "0.38701"
+      ], 
+      [
+        "electronic equipment", 
+        "0.38700"
+      ], 
+      [
+        "durables", 
+        "0.37694"
+      ]
+    ], 
+    "6.010"
+  ]
+}

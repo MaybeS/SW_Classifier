@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.34164"
+      ], 
+      [
+        "combination lock", 
+        "0.11589"
+      ], 
+      [
+        "modem", 
+        "0.10762"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.07553"
+      ], 
+      [
+        "radio", 
+        "0.04244"
+      ]
+    ], 
+    [
+      [
+        "switch", 
+        "0.38687"
+      ], 
+      [
+        "equipment", 
+        "0.38511"
+      ], 
+      [
+        "control", 
+        "0.38394"
+      ], 
+      [
+        "device", 
+        "0.37983"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35118"
+      ]
+    ], 
+    "7.456"
+  ]
+}

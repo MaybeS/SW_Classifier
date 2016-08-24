@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.10636"
+      ], 
+      [
+        "spotlight", 
+        "0.07469"
+      ], 
+      [
+        "spatula", 
+        "0.04947"
+      ], 
+      [
+        "photocopier", 
+        "0.04735"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.04114"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.36640"
+      ], 
+      [
+        "device", 
+        "0.30143"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27072"
+      ], 
+      [
+        "machine", 
+        "0.24560"
+      ], 
+      [
+        "container", 
+        "0.22350"
+      ]
+    ], 
+    "5.869"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "carpenter\'s kit", 
+        "0.11272"
+      ], 
+      [
+        "stove", 
+        "0.07539"
+      ], 
+      [
+        "rifle", 
+        "0.06895"
+      ], 
+      [
+        "modem", 
+        "0.06780"
+      ], 
+      [
+        "projector", 
+        "0.06041"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.37060"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.33754"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.33076"
+      ], 
+      [
+        "device", 
+        "0.32604"
+      ], 
+      [
+        "vehicle", 
+        "0.32202"
+      ]
+    ], 
+    "7.485"
+  ]
+}

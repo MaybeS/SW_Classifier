@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "gasmask", 
+        "0.40381"
+      ], 
+      [
+        "bulletproof vest", 
+        "0.12689"
+      ], 
+      [
+        "oxygen mask", 
+        "0.12036"
+      ], 
+      [
+        "maillot", 
+        "0.04652"
+      ], 
+      [
+        "breastplate", 
+        "0.03164"
+      ]
+    ], 
+    [
+      [
+        "covering", 
+        "0.73419"
+      ], 
+      [
+        "clothing", 
+        "0.60088"
+      ], 
+      [
+        "protective covering", 
+        "0.59675"
+      ], 
+      [
+        "gasmask", 
+        "0.57811"
+      ], 
+      [
+        "consumer goods", 
+        "0.55771"
+      ]
+    ], 
+    "6.389"
+  ]
+}

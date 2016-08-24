@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.41930"
+      ], 
+      [
+        "harmonica", 
+        "0.16064"
+      ], 
+      [
+        "lighter", 
+        "0.07224"
+      ], 
+      [
+        "combination lock", 
+        "0.02425"
+      ], 
+      [
+        "microphone", 
+        "0.02358"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.53144"
+      ], 
+      [
+        "equipment", 
+        "0.46210"
+      ], 
+      [
+        "modem", 
+        "0.40058"
+      ], 
+      [
+        "device", 
+        "0.37463"
+      ], 
+      [
+        "machine", 
+        "0.23500"
+      ]
+    ], 
+    "10.744"
+  ]
+}

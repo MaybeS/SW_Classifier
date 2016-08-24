@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.30353"
+      ], 
+      [
+        "safe", 
+        "0.14097"
+      ], 
+      [
+        "combination lock", 
+        "0.09666"
+      ], 
+      [
+        "tape player", 
+        "0.07391"
+      ], 
+      [
+        "analog clock", 
+        "0.07112"
+      ]
+    ], 
+    [
+      [
+        "safe", 
+        "0.42485"
+      ], 
+      [
+        "strongbox", 
+        "0.41861"
+      ], 
+      [
+        "device", 
+        "0.37219"
+      ], 
+      [
+        "electronic equipment", 
+        "0.36934"
+      ], 
+      [
+        "switch", 
+        "0.36126"
+      ]
+    ], 
+    "6.634"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.53482"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.09469"
+      ], 
+      [
+        "radio", 
+        "0.09396"
+      ], 
+      [
+        "modem", 
+        "0.08666"
+      ], 
+      [
+        "switch", 
+        "0.04481"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.69276"
+      ], 
+      [
+        "optical instrument", 
+        "0.58186"
+      ], 
+      [
+        "equipment", 
+        "0.52415"
+      ], 
+      [
+        "camera", 
+        "0.43091"
+      ], 
+      [
+        "photographic equipment", 
+        "0.42375"
+      ]
+    ], 
+    "5.221"
+  ]
+}

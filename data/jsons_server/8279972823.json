@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.17389"
+      ], 
+      [
+        "packet", 
+        "0.12997"
+      ], 
+      [
+        "hand-held computer", 
+        "0.06722"
+      ], 
+      [
+        "oscilloscope", 
+        "0.06488"
+      ], 
+      [
+        "hard disc", 
+        "0.05620"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.40412"
+      ], 
+      [
+        "machine", 
+        "0.36610"
+      ], 
+      [
+        "equipment", 
+        "0.35454"
+      ], 
+      [
+        "device", 
+        "0.34379"
+      ], 
+      [
+        "computer", 
+        "0.33848"
+      ]
+    ], 
+    "11.210"
+  ]
+}

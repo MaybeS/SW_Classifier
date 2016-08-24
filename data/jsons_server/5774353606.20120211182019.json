@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "electric fan", 
+        "0.34758"
+      ], 
+      [
+        "buckle", 
+        "0.18760"
+      ], 
+      [
+        "magnetic compass", 
+        "0.12306"
+      ], 
+      [
+        "analog clock", 
+        "0.08889"
+      ], 
+      [
+        "puck", 
+        "0.02279"
+      ]
+    ], 
+    [
+      [
+        "electric fan", 
+        "0.75263"
+      ], 
+      [
+        "fan", 
+        "0.74157"
+      ], 
+      [
+        "device", 
+        "0.46833"
+      ], 
+      [
+        "instrument", 
+        "0.45165"
+      ], 
+      [
+        "measuring instrument", 
+        "0.36803"
+      ]
+    ], 
+    "5.176"
+  ]
+}

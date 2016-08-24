@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.36544"
+      ], 
+      [
+        "oil filter", 
+        "0.20893"
+      ], 
+      [
+        "space heater", 
+        "0.19136"
+      ], 
+      [
+        "spatula", 
+        "0.03201"
+      ], 
+      [
+        "hand blower", 
+        "0.02683"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.40732"
+      ], 
+      [
+        "filter", 
+        "0.34927"
+      ], 
+      [
+        "oil filter", 
+        "0.30647"
+      ], 
+      [
+        "microphone", 
+        "0.28399"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.27781"
+      ]
+    ], 
+    "7.072"
+  ]
+}

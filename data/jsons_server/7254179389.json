@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "rubber eraser", 
+        "0.12787"
+      ], 
+      [
+        "matchstick", 
+        "0.07677"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07667"
+      ], 
+      [
+        "ballpoint", 
+        "0.07570"
+      ], 
+      [
+        "remote control", 
+        "0.07304"
+      ]
+    ], 
+    [
+      [
+        "implement", 
+        "0.39607"
+      ], 
+      [
+        "device", 
+        "0.34228"
+      ], 
+      [
+        "machine", 
+        "0.23035"
+      ], 
+      [
+        "equipment", 
+        "0.22902"
+      ], 
+      [
+        "instrument", 
+        "0.21570"
+      ]
+    ], 
+    "5.332"
+  ]
+}

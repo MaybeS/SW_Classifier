@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crash helmet", 
+        "0.17694"
+      ], 
+      [
+        "neck brace", 
+        "0.12220"
+      ], 
+      [
+        "rugby ball", 
+        "0.10888"
+      ], 
+      [
+        "football helmet", 
+        "0.10600"
+      ], 
+      [
+        "waffle iron", 
+        "0.06039"
+      ]
+    ], 
+    [
+      [
+        "helmet", 
+        "0.66399"
+      ], 
+      [
+        "headdress", 
+        "0.56300"
+      ], 
+      [
+        "consumer goods", 
+        "0.46766"
+      ], 
+      [
+        "ball", 
+        "0.46204"
+      ], 
+      [
+        "clothing", 
+        "0.45415"
+      ]
+    ], 
+    "8.947"
+  ]
+}

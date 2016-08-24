@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "printer", 
+        "0.27046"
+      ], 
+      [
+        "rotisserie", 
+        "0.18905"
+      ], 
+      [
+        "stretcher", 
+        "0.07507"
+      ], 
+      [
+        "desk", 
+        "0.04732"
+      ], 
+      [
+        "photocopier", 
+        "0.04380"
+      ]
+    ], 
+    [
+      [
+        "rotisserie", 
+        "0.54933"
+      ], 
+      [
+        "oven", 
+        "0.49581"
+      ], 
+      [
+        "home appliance", 
+        "0.48589"
+      ], 
+      [
+        "kitchen appliance", 
+        "0.47611"
+      ], 
+      [
+        "appliance", 
+        "0.46942"
+      ]
+    ], 
+    "9.654"
+  ]
+}

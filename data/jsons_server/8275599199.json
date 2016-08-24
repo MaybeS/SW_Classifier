@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.22741"
+      ], 
+      [
+        "projector", 
+        "0.17790"
+      ], 
+      [
+        "loudspeaker", 
+        "0.16229"
+      ], 
+      [
+        "radio", 
+        "0.07020"
+      ], 
+      [
+        "remote control", 
+        "0.05603"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.50712"
+      ], 
+      [
+        "equipment", 
+        "0.49548"
+      ], 
+      [
+        "device", 
+        "0.39335"
+      ], 
+      [
+        "projector", 
+        "0.30408"
+      ], 
+      [
+        "optical instrument", 
+        "0.28505"
+      ]
+    ], 
+    "9.358"
+  ]
+}

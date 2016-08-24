@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "file", 
+        "0.36084"
+      ], 
+      [
+        "desktop computer", 
+        "0.16122"
+      ], 
+      [
+        "modem", 
+        "0.11565"
+      ], 
+      [
+        "remote control", 
+        "0.05859"
+      ], 
+      [
+        "rule", 
+        "0.05739"
+      ]
+    ], 
+    [
+      [
+        "file", 
+        "0.87218"
+      ], 
+      [
+        "office furniture", 
+        "0.85936"
+      ], 
+      [
+        "furniture", 
+        "0.69548"
+      ], 
+      [
+        "furnishing", 
+        "0.65402"
+      ], 
+      [
+        "electronic equipment", 
+        "0.39566"
+      ]
+    ], 
+    "11.088"
+  ]
+}

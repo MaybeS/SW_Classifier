@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "stethoscope", 
+        "0.56329"
+      ], 
+      [
+        "hook", 
+        "0.09058"
+      ], 
+      [
+        "analog clock", 
+        "0.07792"
+      ], 
+      [
+        "safety pin", 
+        "0.05468"
+      ], 
+      [
+        "loupe", 
+        "0.02697"
+      ]
+    ], 
+    [
+      [
+        "stethoscope", 
+        "0.46900"
+      ], 
+      [
+        "instrument", 
+        "0.46659"
+      ], 
+      [
+        "medical instrument", 
+        "0.43698"
+      ], 
+      [
+        "device", 
+        "0.41792"
+      ], 
+      [
+        "measuring instrument", 
+        "0.25197"
+      ]
+    ], 
+    "7.422"
+  ]
+}

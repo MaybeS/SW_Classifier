@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.33935"
+      ], 
+      [
+        "switch", 
+        "0.32447"
+      ], 
+      [
+        "soap dispenser", 
+        "0.12836"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.03099"
+      ], 
+      [
+        "hard disc", 
+        "0.02132"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.50560"
+      ], 
+      [
+        "equipment", 
+        "0.44263"
+      ], 
+      [
+        "switch", 
+        "0.37143"
+      ], 
+      [
+        "control", 
+        "0.37023"
+      ], 
+      [
+        "device", 
+        "0.34985"
+      ]
+    ], 
+    "12.015"
+  ]
+}

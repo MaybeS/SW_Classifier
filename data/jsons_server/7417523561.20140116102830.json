@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.28661"
+      ], 
+      [
+        "digital watch", 
+        "0.07661"
+      ], 
+      [
+        "cash machine", 
+        "0.05522"
+      ], 
+      [
+        "packet", 
+        "0.05209"
+      ], 
+      [
+        "binder", 
+        "0.04560"
+      ]
+    ], 
+    [
+      [
+        "timepiece", 
+        "0.63018"
+      ], 
+      [
+        "measuring instrument", 
+        "0.62256"
+      ], 
+      [
+        "instrument", 
+        "0.46745"
+      ], 
+      [
+        "digital clock", 
+        "0.45921"
+      ], 
+      [
+        "clock", 
+        "0.43211"
+      ]
+    ], 
+    "5.269"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radio", 
+        "0.28754"
+      ], 
+      [
+        "electric fan", 
+        "0.18063"
+      ], 
+      [
+        "carpenter\'s kit", 
+        "0.09109"
+      ], 
+      [
+        "cassette player", 
+        "0.04402"
+      ], 
+      [
+        "modem", 
+        "0.03989"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.45495"
+      ], 
+      [
+        "electronic equipment", 
+        "0.43948"
+      ], 
+      [
+        "electric fan", 
+        "0.39882"
+      ], 
+      [
+        "fan", 
+        "0.39296"
+      ], 
+      [
+        "device", 
+        "0.35208"
+      ]
+    ], 
+    "5.356"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.26029"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.11519"
+      ], 
+      [
+        "spotlight", 
+        "0.07903"
+      ], 
+      [
+        "dumbbell", 
+        "0.05504"
+      ], 
+      [
+        "sunglass", 
+        "0.03449"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "0.39719"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.36988"
+      ], 
+      [
+        "transducer", 
+        "0.36373"
+      ], 
+      [
+        "device", 
+        "0.36062"
+      ], 
+      [
+        "electrical device", 
+        "0.35758"
+      ]
+    ], 
+    "7.302"
+  ]
+}

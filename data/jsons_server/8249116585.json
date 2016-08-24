@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "remote control", 
+        "0.18622"
+      ], 
+      [
+        "switch", 
+        "0.12728"
+      ], 
+      [
+        "screwdriver", 
+        "0.08773"
+      ], 
+      [
+        "hand-held computer", 
+        "0.07702"
+      ], 
+      [
+        "digital clock", 
+        "0.06839"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.43358"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42043"
+      ], 
+      [
+        "remote control", 
+        "0.39235"
+      ], 
+      [
+        "equipment", 
+        "0.38394"
+      ], 
+      [
+        "machine", 
+        "0.29449"
+      ]
+    ], 
+    "8.850"
+  ]
+}

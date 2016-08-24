@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.27156"
+      ], 
+      [
+        "monitor", 
+        "0.10345"
+      ], 
+      [
+        "joystick", 
+        "0.05147"
+      ], 
+      [
+        "loudspeaker", 
+        "0.05063"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05001"
+      ]
+    ], 
+    [
+      [
+        "computer", 
+        "0.53256"
+      ], 
+      [
+        "personal computer", 
+        "0.51722"
+      ], 
+      [
+        "digital computer", 
+        "0.50731"
+      ], 
+      [
+        "machine", 
+        "0.50349"
+      ], 
+      [
+        "equipment", 
+        "0.43657"
+      ]
+    ], 
+    "8.905"
+  ]
+}

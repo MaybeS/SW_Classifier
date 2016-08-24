@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "combination lock", 
+        "0.28984"
+      ], 
+      [
+        "analog clock", 
+        "0.19526"
+      ], 
+      [
+        "magnetic compass", 
+        "0.16370"
+      ], 
+      [
+        "barometer", 
+        "0.05577"
+      ], 
+      [
+        "safe", 
+        "0.04605"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.86525"
+      ], 
+      [
+        "instrument", 
+        "0.83064"
+      ], 
+      [
+        "timepiece", 
+        "0.70187"
+      ], 
+      [
+        "clock", 
+        "0.54969"
+      ], 
+      [
+        "device", 
+        "0.54717"
+      ]
+    ], 
+    "6.846"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.18600"
+      ], 
+      [
+        "hard disc", 
+        "0.15402"
+      ], 
+      [
+        "analog clock", 
+        "0.13608"
+      ], 
+      [
+        "tape player", 
+        "0.04616"
+      ], 
+      [
+        "web site", 
+        "0.03286"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.44612"
+      ], 
+      [
+        "device", 
+        "0.41820"
+      ], 
+      [
+        "instrument", 
+        "0.40972"
+      ], 
+      [
+        "timepiece", 
+        "0.39950"
+      ], 
+      [
+        "clock", 
+        "0.35691"
+      ]
+    ], 
+    "6.290"
+  ]
+}

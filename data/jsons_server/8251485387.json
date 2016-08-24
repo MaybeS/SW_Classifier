@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "projector", 
+        "0.38774"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.12282"
+      ], 
+      [
+        "iPod", 
+        "0.07680"
+      ], 
+      [
+        "switch", 
+        "0.06937"
+      ], 
+      [
+        "toaster", 
+        "0.04666"
+      ]
+    ], 
+    [
+      [
+        "projector", 
+        "0.50565"
+      ], 
+      [
+        "equipment", 
+        "0.50128"
+      ], 
+      [
+        "camera", 
+        "0.43528"
+      ], 
+      [
+        "optical instrument", 
+        "0.43198"
+      ], 
+      [
+        "photographic equipment", 
+        "0.42804"
+      ]
+    ], 
+    "6.110"
+  ]
+}

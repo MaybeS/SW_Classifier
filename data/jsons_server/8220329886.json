@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.56094"
+      ], 
+      [
+        "scoreboard", 
+        "0.05335"
+      ], 
+      [
+        "screen", 
+        "0.04250"
+      ], 
+      [
+        "television", 
+        "0.03135"
+      ], 
+      [
+        "cellular telephone", 
+        "0.02555"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "2.20597"
+      ], 
+      [
+        "computer", 
+        "1.70387"
+      ], 
+      [
+        "machine", 
+        "1.40731"
+      ], 
+      [
+        "device", 
+        "0.53246"
+      ], 
+      [
+        "personal computer", 
+        "0.21657"
+      ]
+    ], 
+    "6.103"
+  ]
+}

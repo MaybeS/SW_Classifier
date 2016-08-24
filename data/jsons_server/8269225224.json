@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "radiator", 
+        "0.97673"
+      ], 
+      [
+        "space heater", 
+        "0.00983"
+      ], 
+      [
+        "modem", 
+        "0.00481"
+      ], 
+      [
+        "mousetrap", 
+        "0.00147"
+      ], 
+      [
+        "solar dish", 
+        "0.00095"
+      ]
+    ], 
+    [
+      [
+        "radiator", 
+        "1.59130"
+      ], 
+      [
+        "mechanism", 
+        "0.95832"
+      ], 
+      [
+        "device", 
+        "0.45345"
+      ], 
+      [
+        "protective covering", 
+        "0.26631"
+      ], 
+      [
+        "space heater", 
+        "0.24190"
+      ]
+    ], 
+    "6.962"
+  ]
+}

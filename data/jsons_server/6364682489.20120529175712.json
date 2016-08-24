@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "bobsled", 
+        "0.12919"
+      ], 
+      [
+        "projector", 
+        "0.08342"
+      ], 
+      [
+        "racer", 
+        "0.07185"
+      ], 
+      [
+        "magnetic compass", 
+        "0.05283"
+      ], 
+      [
+        "buckle", 
+        "0.03263"
+      ]
+    ], 
+    [
+      [
+        "vehicle", 
+        "0.52242"
+      ], 
+      [
+        "conveyance", 
+        "0.49512"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.48481"
+      ], 
+      [
+        "wheeled vehicle", 
+        "0.47509"
+      ], 
+      [
+        "motor vehicle", 
+        "0.47100"
+      ]
+    ], 
+    "8.452"
+  ]
+}

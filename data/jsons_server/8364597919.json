@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.64921"
+      ], 
+      [
+        "hand-held computer", 
+        "0.12459"
+      ], 
+      [
+        "web site", 
+        "0.04077"
+      ], 
+      [
+        "digital clock", 
+        "0.02113"
+      ], 
+      [
+        "remote control", 
+        "0.02110"
+      ]
+    ], 
+    [
+      [
+        "cellular telephone", 
+        "1.18038"
+      ], 
+      [
+        "radiotelephone", 
+        "1.16304"
+      ], 
+      [
+        "telephone", 
+        "1.00025"
+      ], 
+      [
+        "electronic equipment", 
+        "0.94177"
+      ], 
+      [
+        "equipment", 
+        "0.72055"
+      ]
+    ], 
+    "5.294"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "sleeping bag", 
+        "0.37512"
+      ], 
+      [
+        "sweatshirt", 
+        "0.10562"
+      ], 
+      [
+        "knee pad", 
+        "0.08844"
+      ], 
+      [
+        "cowboy boot", 
+        "0.05803"
+      ], 
+      [
+        "pajama", 
+        "0.05562"
+      ]
+    ], 
+    [
+      [
+        "clothing", 
+        "0.63486"
+      ], 
+      [
+        "covering", 
+        "0.63153"
+      ], 
+      [
+        "consumer goods", 
+        "0.56842"
+      ], 
+      [
+        "commodity", 
+        "0.54961"
+      ], 
+      [
+        "sleeping bag", 
+        "0.54395"
+      ]
+    ], 
+    "4.912"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "analog clock", 
+        "0.26388"
+      ], 
+      [
+        "bell cote", 
+        "0.18697"
+      ], 
+      [
+        "scoreboard", 
+        "0.10700"
+      ], 
+      [
+        "book jacket", 
+        "0.05872"
+      ], 
+      [
+        "street sign", 
+        "0.03904"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.62217"
+      ], 
+      [
+        "clock", 
+        "0.59309"
+      ], 
+      [
+        "timepiece", 
+        "0.58633"
+      ], 
+      [
+        "instrument", 
+        "0.50944"
+      ], 
+      [
+        "bell cote", 
+        "0.45794"
+      ]
+    ], 
+    "5.157"
+  ]
+}

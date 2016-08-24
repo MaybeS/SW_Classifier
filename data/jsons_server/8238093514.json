@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "medicine chest", 
+        "0.25947"
+      ], 
+      [
+        "switch", 
+        "0.24394"
+      ], 
+      [
+        "screen", 
+        "0.14872"
+      ], 
+      [
+        "microwave", 
+        "0.09988"
+      ], 
+      [
+        "monitor", 
+        "0.05321"
+      ]
+    ], 
+    [
+      [
+        "furniture", 
+        "0.49588"
+      ], 
+      [
+        "furnishing", 
+        "0.47258"
+      ], 
+      [
+        "cabinet", 
+        "0.38935"
+      ], 
+      [
+        "medicine chest", 
+        "0.35498"
+      ], 
+      [
+        "home appliance", 
+        "0.32820"
+      ]
+    ], 
+    "7.471"
+  ]
+}

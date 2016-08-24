@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.29311"
+      ], 
+      [
+        "modem", 
+        "0.08878"
+      ], 
+      [
+        "oscilloscope", 
+        "0.06366"
+      ], 
+      [
+        "vending machine", 
+        "0.05931"
+      ], 
+      [
+        "remote control", 
+        "0.05515"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "1.15751"
+      ], 
+      [
+        "computer", 
+        "0.95245"
+      ], 
+      [
+        "machine", 
+        "0.95028"
+      ], 
+      [
+        "device", 
+        "0.46284"
+      ], 
+      [
+        "electronic equipment", 
+        "0.35509"
+      ]
+    ], 
+    "6.499"
+  ]
+}

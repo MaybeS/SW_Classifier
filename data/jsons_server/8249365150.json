@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cassette", 
+        "0.85189"
+      ], 
+      [
+        "cassette player", 
+        "0.07566"
+      ], 
+      [
+        "tape player", 
+        "0.03326"
+      ], 
+      [
+        "radio", 
+        "0.01097"
+      ], 
+      [
+        "analog clock", 
+        "0.00440"
+      ]
+    ], 
+    [
+      [
+        "cassette", 
+        "1.08596"
+      ], 
+      [
+        "container", 
+        "0.51445"
+      ], 
+      [
+        "electronic equipment", 
+        "0.50359"
+      ], 
+      [
+        "equipment", 
+        "0.44946"
+      ], 
+      [
+        "self-propelled vehicle", 
+        "0.31791"
+      ]
+    ], 
+    "11.078"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "monitor", 
+        "0.27451"
+      ], 
+      [
+        "television", 
+        "0.23704"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.13419"
+      ], 
+      [
+        "screen", 
+        "0.11253"
+      ], 
+      [
+        "radio", 
+        "0.06553"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.57475"
+      ], 
+      [
+        "screen", 
+        "0.48655"
+      ], 
+      [
+        "electronic device", 
+        "0.47957"
+      ], 
+      [
+        "display", 
+        "0.47940"
+      ], 
+      [
+        "electronic equipment", 
+        "0.47247"
+      ]
+    ], 
+    "9.208"
+  ]
+}

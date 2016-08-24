@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "switch", 
+        "0.24446"
+      ], 
+      [
+        "whistle", 
+        "0.05727"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.05554"
+      ], 
+      [
+        "photocopier", 
+        "0.04497"
+      ], 
+      [
+        "printer", 
+        "0.03854"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.43458"
+      ], 
+      [
+        "device", 
+        "0.34364"
+      ], 
+      [
+        "electronic equipment", 
+        "0.32649"
+      ], 
+      [
+        "control", 
+        "0.30157"
+      ], 
+      [
+        "switch", 
+        "0.27460"
+      ]
+    ], 
+    "5.922"
+  ]
+}

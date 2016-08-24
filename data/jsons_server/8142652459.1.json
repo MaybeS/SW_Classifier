@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microwave", 
+        "0.26764"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08792"
+      ], 
+      [
+        "entertainment center", 
+        "0.08206"
+      ], 
+      [
+        "safe", 
+        "0.07581"
+      ], 
+      [
+        "washer", 
+        "0.06917"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.51964"
+      ], 
+      [
+        "furniture", 
+        "0.50412"
+      ], 
+      [
+        "appliance", 
+        "0.49984"
+      ], 
+      [
+        "durables", 
+        "0.48683"
+      ], 
+      [
+        "furnishing", 
+        "0.47764"
+      ]
+    ], 
+    "5.592"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.17084"
+      ], 
+      [
+        "binder", 
+        "0.15769"
+      ], 
+      [
+        "street sign", 
+        "0.05165"
+      ], 
+      [
+        "scoreboard", 
+        "0.04587"
+      ], 
+      [
+        "book jacket", 
+        "0.03212"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.36129"
+      ], 
+      [
+        "timepiece", 
+        "0.33597"
+      ], 
+      [
+        "device", 
+        "0.31603"
+      ], 
+      [
+        "clock", 
+        "0.30059"
+      ], 
+      [
+        "instrument", 
+        "0.29764"
+      ]
+    ], 
+    "7.379"
+  ]
+}

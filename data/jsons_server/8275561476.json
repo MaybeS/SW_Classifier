@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.98116"
+      ], 
+      [
+        "remote control", 
+        "0.00796"
+      ], 
+      [
+        "loudspeaker", 
+        "0.00242"
+      ], 
+      [
+        "switch", 
+        "0.00133"
+      ], 
+      [
+        "odometer", 
+        "0.00126"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "1.11191"
+      ], 
+      [
+        "control", 
+        "1.03394"
+      ], 
+      [
+        "data input device", 
+        "1.02943"
+      ], 
+      [
+        "peripheral", 
+        "0.96184"
+      ], 
+      [
+        "electronic equipment", 
+        "0.80821"
+      ]
+    ], 
+    "5.153"
+  ]
+}

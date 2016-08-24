@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "magnetic compass", 
+        "0.32320"
+      ], 
+      [
+        "analog clock", 
+        "0.23222"
+      ], 
+      [
+        "digital watch", 
+        "0.12848"
+      ], 
+      [
+        "stopwatch", 
+        "0.06854"
+      ], 
+      [
+        "hard disc", 
+        "0.03163"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "1.17213"
+      ], 
+      [
+        "instrument", 
+        "1.16544"
+      ], 
+      [
+        "timepiece", 
+        "1.08118"
+      ], 
+      [
+        "magnetic compass", 
+        "0.83510"
+      ], 
+      [
+        "compass", 
+        "0.82284"
+      ]
+    ], 
+    "12.069"
+  ]
+}

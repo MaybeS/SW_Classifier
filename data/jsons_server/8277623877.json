@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "binder", 
+        "0.86228"
+      ], 
+      [
+        "wallet", 
+        "0.05984"
+      ], 
+      [
+        "desktop computer", 
+        "0.02173"
+      ], 
+      [
+        "hard disc", 
+        "0.01405"
+      ], 
+      [
+        "book jacket", 
+        "0.00664"
+      ]
+    ], 
+    [
+      [
+        "binder", 
+        "0.83442"
+      ], 
+      [
+        "protective covering", 
+        "0.47069"
+      ], 
+      [
+        "covering", 
+        "0.38741"
+      ], 
+      [
+        "container", 
+        "0.30275"
+      ], 
+      [
+        "wallet", 
+        "0.26227"
+      ]
+    ], 
+    "5.730"
+  ]
+}

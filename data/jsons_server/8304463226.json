@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microwave", 
+        "0.34773"
+      ], 
+      [
+        "desk", 
+        "0.20080"
+      ], 
+      [
+        "desktop computer", 
+        "0.09458"
+      ], 
+      [
+        "mouse", 
+        "0.03184"
+      ], 
+      [
+        "sewing machine", 
+        "0.02753"
+      ]
+    ], 
+    [
+      [
+        "home appliance", 
+        "0.51079"
+      ], 
+      [
+        "appliance", 
+        "0.49294"
+      ], 
+      [
+        "durables", 
+        "0.48011"
+      ], 
+      [
+        "furniture", 
+        "0.47623"
+      ], 
+      [
+        "microwave", 
+        "0.47334"
+      ]
+    ], 
+    "5.639"
+  ]
+}

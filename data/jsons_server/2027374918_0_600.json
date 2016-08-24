@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "Afghan hound", 
+        "0.09006"
+      ], 
+      [
+        "Irish wolfhound", 
+        "0.05686"
+      ], 
+      [
+        "German shepherd", 
+        "0.05133"
+      ], 
+      [
+        "kuvasz", 
+        "0.04898"
+      ], 
+      [
+        "malinois", 
+        "0.04054"
+      ]
+    ], 
+    [
+      [
+        "dog", 
+        "0.93524"
+      ], 
+      [
+        "canine", 
+        "0.86299"
+      ], 
+      [
+        "domestic animal", 
+        "0.85853"
+      ], 
+      [
+        "hunting dog", 
+        "0.76543"
+      ], 
+      [
+        "carnivore", 
+        "0.70449"
+      ]
+    ], 
+    "7.071"
+  ]
+}

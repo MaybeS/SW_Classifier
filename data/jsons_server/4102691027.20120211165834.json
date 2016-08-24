@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "desktop computer", 
+        "0.17809"
+      ], 
+      [
+        "loudspeaker", 
+        "0.15808"
+      ], 
+      [
+        "reflex camera", 
+        "0.09416"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.07126"
+      ], 
+      [
+        "safe", 
+        "0.06906"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.56940"
+      ], 
+      [
+        "camera", 
+        "0.47757"
+      ], 
+      [
+        "photographic equipment", 
+        "0.46963"
+      ], 
+      [
+        "electronic equipment", 
+        "0.44629"
+      ], 
+      [
+        "device", 
+        "0.35684"
+      ]
+    ], 
+    "6.682"
+  ]
+}

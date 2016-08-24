@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "oil filter", 
+        "0.17227"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.09893"
+      ], 
+      [
+        "modem", 
+        "0.05306"
+      ], 
+      [
+        "switch", 
+        "0.03727"
+      ], 
+      [
+        "cassette player", 
+        "0.03691"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31970"
+      ], 
+      [
+        "equipment", 
+        "0.29144"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27395"
+      ], 
+      [
+        "container", 
+        "0.26100"
+      ], 
+      [
+        "oil filter", 
+        "0.24243"
+      ]
+    ], 
+    "9.201"
+  ]
+}

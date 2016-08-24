@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "spotlight", 
+        "0.36069"
+      ], 
+      [
+        "binoculars", 
+        "0.25059"
+      ], 
+      [
+        "loudspeaker", 
+        "0.08883"
+      ], 
+      [
+        "hand blower", 
+        "0.06639"
+      ], 
+      [
+        "electric fan", 
+        "0.03379"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.38241"
+      ], 
+      [
+        "optical instrument", 
+        "0.28369"
+      ], 
+      [
+        "instrument", 
+        "0.26188"
+      ], 
+      [
+        "binoculars", 
+        "0.25567"
+      ], 
+      [
+        "container", 
+        "0.24045"
+      ]
+    ], 
+    "5.632"
+  ]
+}

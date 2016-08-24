@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.27090"
+      ], 
+      [
+        "magnetic compass", 
+        "0.23501"
+      ], 
+      [
+        "loupe", 
+        "0.08966"
+      ], 
+      [
+        "puck", 
+        "0.05646"
+      ], 
+      [
+        "combination lock", 
+        "0.05479"
+      ]
+    ], 
+    [
+      [
+        "magnetic compass", 
+        "0.55435"
+      ], 
+      [
+        "compass", 
+        "0.54621"
+      ], 
+      [
+        "navigational instrument", 
+        "0.53806"
+      ], 
+      [
+        "instrument", 
+        "0.53340"
+      ], 
+      [
+        "device", 
+        "0.42927"
+      ]
+    ], 
+    "5.788"
+  ]
+}

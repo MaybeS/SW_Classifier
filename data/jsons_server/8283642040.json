@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.19805"
+      ], 
+      [
+        "joystick", 
+        "0.08390"
+      ], 
+      [
+        "spotlight", 
+        "0.08091"
+      ], 
+      [
+        "loupe", 
+        "0.05926"
+      ], 
+      [
+        "red wine", 
+        "0.05702"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.36785"
+      ], 
+      [
+        "equipment", 
+        "0.28166"
+      ], 
+      [
+        "container", 
+        "0.24630"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24335"
+      ], 
+      [
+        "covering", 
+        "0.20855"
+      ]
+    ], 
+    "5.928"
+  ]
+}

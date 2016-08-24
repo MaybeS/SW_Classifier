@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "mouse", 
+        "0.34785"
+      ], 
+      [
+        "dial telephone", 
+        "0.04532"
+      ], 
+      [
+        "stethoscope", 
+        "0.04480"
+      ], 
+      [
+        "scale", 
+        "0.04191"
+      ], 
+      [
+        "hook", 
+        "0.03845"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.40273"
+      ], 
+      [
+        "device", 
+        "0.36969"
+      ], 
+      [
+        "equipment", 
+        "0.36600"
+      ], 
+      [
+        "consumer goods", 
+        "0.21855"
+      ], 
+      [
+        "instrument", 
+        "0.21688"
+      ]
+    ], 
+    "5.830"
+  ]
+}

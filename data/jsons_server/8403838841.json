@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.39533"
+      ], 
+      [
+        "oscilloscope", 
+        "0.18586"
+      ], 
+      [
+        "switch", 
+        "0.10846"
+      ], 
+      [
+        "radio", 
+        "0.07013"
+      ], 
+      [
+        "digital clock", 
+        "0.05730"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.87099"
+      ], 
+      [
+        "equipment", 
+        "0.68664"
+      ], 
+      [
+        "oscilloscope", 
+        "0.61125"
+      ], 
+      [
+        "modem", 
+        "0.38290"
+      ], 
+      [
+        "device", 
+        "0.34552"
+      ]
+    ], 
+    "4.682"
+  ]
+}

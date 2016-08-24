@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.29229"
+      ], 
+      [
+        "digital clock", 
+        "0.18660"
+      ], 
+      [
+        "envelope", 
+        "0.14076"
+      ], 
+      [
+        "analog clock", 
+        "0.08517"
+      ], 
+      [
+        "street sign", 
+        "0.04803"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "1.16606"
+      ], 
+      [
+        "computer", 
+        "0.88457"
+      ], 
+      [
+        "machine", 
+        "0.75373"
+      ], 
+      [
+        "measuring instrument", 
+        "0.57034"
+      ], 
+      [
+        "timepiece", 
+        "0.52529"
+      ]
+    ], 
+    "6.602"
+  ]
+}

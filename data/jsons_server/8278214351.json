@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.88370"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.03501"
+      ], 
+      [
+        "reflex camera", 
+        "0.02701"
+      ], 
+      [
+        "radio", 
+        "0.01028"
+      ], 
+      [
+        "home theater", 
+        "0.00807"
+      ]
+    ], 
+    [
+      [
+        "loudspeaker", 
+        "1.31180"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "1.17534"
+      ], 
+      [
+        "transducer", 
+        "1.15580"
+      ], 
+      [
+        "electrical device", 
+        "1.13626"
+      ], 
+      [
+        "device", 
+        "0.46823"
+      ]
+    ], 
+    "5.944"
+  ]
+}

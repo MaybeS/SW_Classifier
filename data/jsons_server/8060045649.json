@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "web site", 
+        "0.09175"
+      ], 
+      [
+        "book jacket", 
+        "0.09029"
+      ], 
+      [
+        "packet", 
+        "0.08186"
+      ], 
+      [
+        "comic book", 
+        "0.07215"
+      ], 
+      [
+        "tobacco shop", 
+        "0.05339"
+      ]
+    ], 
+    [
+      [
+        "web site", 
+        "0.39006"
+      ], 
+      [
+        "machine", 
+        "0.34161"
+      ], 
+      [
+        "computer", 
+        "0.31726"
+      ], 
+      [
+        "structure", 
+        "0.26855"
+      ], 
+      [
+        "mercantile establishment", 
+        "0.24727"
+      ]
+    ], 
+    "5.302"
+  ]
+}

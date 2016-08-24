@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.92569"
+      ], 
+      [
+        "electric fan", 
+        "0.01633"
+      ], 
+      [
+        "spotlight", 
+        "0.01612"
+      ], 
+      [
+        "power drill", 
+        "0.00893"
+      ], 
+      [
+        "joystick", 
+        "0.00591"
+      ]
+    ], 
+    [
+      [
+        "microphone", 
+        "0.69193"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.62659"
+      ], 
+      [
+        "transducer", 
+        "0.61617"
+      ], 
+      [
+        "electrical device", 
+        "0.60576"
+      ], 
+      [
+        "device", 
+        "0.44225"
+      ]
+    ], 
+    "6.538"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "strawberry", 
+        "0.36442"
+      ], 
+      [
+        "shopping basket", 
+        "0.09781"
+      ], 
+      [
+        "purse", 
+        "0.06350"
+      ], 
+      [
+        "mailbag", 
+        "0.03540"
+      ], 
+      [
+        "diaper", 
+        "0.02852"
+      ]
+    ], 
+    [
+      [
+        "strawberry", 
+        "1.19940"
+      ], 
+      [
+        "berry", 
+        "1.18178"
+      ], 
+      [
+        "edible fruit", 
+        "0.89875"
+      ], 
+      [
+        "fruit", 
+        "0.82378"
+      ], 
+      [
+        "reproductive structure", 
+        "0.80112"
+      ]
+    ], 
+    "7.429"
+  ]
+}

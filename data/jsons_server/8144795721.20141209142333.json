@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "hard disc", 
+        "0.99856"
+      ], 
+      [
+        "modem", 
+        "0.00051"
+      ], 
+      [
+        "hand-held computer", 
+        "0.00051"
+      ], 
+      [
+        "cellular telephone", 
+        "0.00011"
+      ], 
+      [
+        "radio", 
+        "0.00010"
+      ]
+    ], 
+    [
+      [
+        "hard disc", 
+        "1.70798"
+      ], 
+      [
+        "magnetic disk", 
+        "1.68289"
+      ], 
+      [
+        "memory device", 
+        "1.65780"
+      ], 
+      [
+        "device", 
+        "0.52292"
+      ], 
+      [
+        "electronic equipment", 
+        "0.41710"
+      ]
+    ], 
+    "6.004"
+  ]
+}

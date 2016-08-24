@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.57161"
+      ], 
+      [
+        "stethoscope", 
+        "0.08331"
+      ], 
+      [
+        "cassette player", 
+        "0.06623"
+      ], 
+      [
+        "waffle iron", 
+        "0.04798"
+      ], 
+      [
+        "mouse", 
+        "0.04122"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.82576"
+      ], 
+      [
+        "equipment", 
+        "0.68850"
+      ], 
+      [
+        "CD player", 
+        "0.48999"
+      ], 
+      [
+        "cassette player", 
+        "0.36357"
+      ], 
+      [
+        "device", 
+        "0.29358"
+      ]
+    ], 
+    "8.096"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "espresso maker", 
+        "0.38797"
+      ], 
+      [
+        "safe", 
+        "0.22667"
+      ], 
+      [
+        "microwave", 
+        "0.08127"
+      ], 
+      [
+        "rotisserie", 
+        "0.06880"
+      ], 
+      [
+        "combination lock", 
+        "0.03156"
+      ]
+    ], 
+    [
+      [
+        "kitchen appliance", 
+        "0.69207"
+      ], 
+      [
+        "home appliance", 
+        "0.67641"
+      ], 
+      [
+        "appliance", 
+        "0.65345"
+      ], 
+      [
+        "durables", 
+        "0.63645"
+      ], 
+      [
+        "safe", 
+        "0.58449"
+      ]
+    ], 
+    "5.438"
+  ]
+}

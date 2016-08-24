@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cash machine", 
+        "0.72556"
+      ], 
+      [
+        "digital watch", 
+        "0.05600"
+      ], 
+      [
+        "screen", 
+        "0.05043"
+      ], 
+      [
+        "monitor", 
+        "0.01738"
+      ], 
+      [
+        "cellular telephone", 
+        "0.01714"
+      ]
+    ], 
+    [
+      [
+        "cash machine", 
+        "1.03195"
+      ], 
+      [
+        "machine", 
+        "0.91805"
+      ], 
+      [
+        "device", 
+        "0.48330"
+      ], 
+      [
+        "electronic equipment", 
+        "0.42175"
+      ], 
+      [
+        "equipment", 
+        "0.35355"
+      ]
+    ], 
+    "5.268"
+  ]
+}

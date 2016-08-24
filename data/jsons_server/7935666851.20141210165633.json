@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "space heater", 
+        "0.49986"
+      ], 
+      [
+        "loudspeaker", 
+        "0.15284"
+      ], 
+      [
+        "crash helmet", 
+        "0.07942"
+      ], 
+      [
+        "pencil sharpener", 
+        "0.07672"
+      ], 
+      [
+        "electric fan", 
+        "0.06707"
+      ]
+    ], 
+    [
+      [
+        "space heater", 
+        "0.60283"
+      ], 
+      [
+        "heater", 
+        "0.55032"
+      ], 
+      [
+        "device", 
+        "0.38386"
+      ], 
+      [
+        "loudspeaker", 
+        "0.25768"
+      ], 
+      [
+        "covering", 
+        "0.24511"
+      ]
+    ], 
+    "5.468"
+  ]
+}

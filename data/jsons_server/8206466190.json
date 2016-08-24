@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "maraca", 
+        "0.30082"
+      ], 
+      [
+        "stethoscope", 
+        "0.03221"
+      ], 
+      [
+        "paintbrush", 
+        "0.02592"
+      ], 
+      [
+        "plunger", 
+        "0.01997"
+      ], 
+      [
+        "whistle", 
+        "0.01956"
+      ]
+    ], 
+    [
+      [
+        "maraca", 
+        "0.38954"
+      ], 
+      [
+        "clothing", 
+        "0.36720"
+      ], 
+      [
+        "covering", 
+        "0.34813"
+      ], 
+      [
+        "musical instrument", 
+        "0.34597"
+      ], 
+      [
+        "consumer goods", 
+        "0.34521"
+      ]
+    ], 
+    "9.515"
+  ]
+}

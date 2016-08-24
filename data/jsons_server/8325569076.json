@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "laptop", 
+        "0.24163"
+      ], 
+      [
+        "notebook", 
+        "0.18854"
+      ], 
+      [
+        "zucchini", 
+        "0.06929"
+      ], 
+      [
+        "hand-held computer", 
+        "0.05279"
+      ], 
+      [
+        "golfcart", 
+        "0.02777"
+      ]
+    ], 
+    [
+      [
+        "personal computer", 
+        "0.70801"
+      ], 
+      [
+        "computer", 
+        "0.69756"
+      ], 
+      [
+        "digital computer", 
+        "0.69445"
+      ], 
+      [
+        "portable computer", 
+        "0.68521"
+      ], 
+      [
+        "machine", 
+        "0.60025"
+      ]
+    ], 
+    "5.003"
+  ]
+}

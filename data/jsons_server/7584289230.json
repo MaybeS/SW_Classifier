@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "crossword puzzle", 
+        "0.20338"
+      ], 
+      [
+        "scoreboard", 
+        "0.08550"
+      ], 
+      [
+        "digital clock", 
+        "0.07273"
+      ], 
+      [
+        "hand-held computer", 
+        "0.05089"
+      ], 
+      [
+        "web site", 
+        "0.04513"
+      ]
+    ], 
+    [
+      [
+        "crossword puzzle", 
+        "0.65632"
+      ], 
+      [
+        "puzzle", 
+        "0.59353"
+      ], 
+      [
+        "game", 
+        "0.58366"
+      ], 
+      [
+        "equipment", 
+        "0.49034"
+      ], 
+      [
+        "game equipment", 
+        "0.43097"
+      ]
+    ], 
+    "8.022"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "CD player", 
+        "0.45818"
+      ], 
+      [
+        "lens cap", 
+        "0.12445"
+      ], 
+      [
+        "loudspeaker", 
+        "0.06901"
+      ], 
+      [
+        "modem", 
+        "0.05837"
+      ], 
+      [
+        "face powder", 
+        "0.05138"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.65583"
+      ], 
+      [
+        "equipment", 
+        "0.58740"
+      ], 
+      [
+        "CD player", 
+        "0.37840"
+      ], 
+      [
+        "device", 
+        "0.32265"
+      ], 
+      [
+        "instrument", 
+        "0.30528"
+      ]
+    ], 
+    "8.610"
+  ]
+}

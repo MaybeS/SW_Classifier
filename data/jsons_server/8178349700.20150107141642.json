@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.15630"
+      ], 
+      [
+        "notebook", 
+        "0.11818"
+      ], 
+      [
+        "screw", 
+        "0.05611"
+      ], 
+      [
+        "switch", 
+        "0.05202"
+      ], 
+      [
+        "nail", 
+        "0.04873"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.37724"
+      ], 
+      [
+        "equipment", 
+        "0.34166"
+      ], 
+      [
+        "electronic equipment", 
+        "0.33684"
+      ], 
+      [
+        "personal computer", 
+        "0.33245"
+      ], 
+      [
+        "digital computer", 
+        "0.32608"
+      ]
+    ], 
+    "8.962"
+  ]
+}

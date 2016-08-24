@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microwave", 
+        "0.47031"
+      ], 
+      [
+        "television", 
+        "0.34312"
+      ], 
+      [
+        "home theater", 
+        "0.03431"
+      ], 
+      [
+        "loudspeaker", 
+        "0.03040"
+      ], 
+      [
+        "oscilloscope", 
+        "0.02588"
+      ]
+    ], 
+    [
+      [
+        "microwave", 
+        "0.63795"
+      ], 
+      [
+        "television", 
+        "0.62278"
+      ], 
+      [
+        "telecommunication system", 
+        "0.61363"
+      ], 
+      [
+        "home appliance", 
+        "0.60040"
+      ], 
+      [
+        "communication system", 
+        "0.57809"
+      ]
+    ], 
+    "7.371"
+  ]
+}

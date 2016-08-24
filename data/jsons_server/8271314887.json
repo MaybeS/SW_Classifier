@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "modem", 
+        "0.14019"
+      ], 
+      [
+        "hand blower", 
+        "0.13801"
+      ], 
+      [
+        "power drill", 
+        "0.13129"
+      ], 
+      [
+        "holster", 
+        "0.11015"
+      ], 
+      [
+        "wallet", 
+        "0.07131"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.31777"
+      ], 
+      [
+        "equipment", 
+        "0.30160"
+      ], 
+      [
+        "covering", 
+        "0.28310"
+      ], 
+      [
+        "electronic equipment", 
+        "0.27440"
+      ], 
+      [
+        "consumer goods", 
+        "0.26823"
+      ]
+    ], 
+    "5.886"
+  ]
+}

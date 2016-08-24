@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "vending machine", 
+        "0.22528"
+      ], 
+      [
+        "refrigerator", 
+        "0.21170"
+      ], 
+      [
+        "safe", 
+        "0.20604"
+      ], 
+      [
+        "rotisserie", 
+        "0.13197"
+      ], 
+      [
+        "microwave", 
+        "0.08543"
+      ]
+    ], 
+    [
+      [
+        "vending machine", 
+        "0.73888"
+      ], 
+      [
+        "slot machine", 
+        "0.68704"
+      ], 
+      [
+        "home appliance", 
+        "0.62834"
+      ], 
+      [
+        "appliance", 
+        "0.60367"
+      ], 
+      [
+        "durables", 
+        "0.58796"
+      ]
+    ], 
+    "9.078"
+  ]
+}

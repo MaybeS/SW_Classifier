@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "digital clock", 
+        "0.28147"
+      ], 
+      [
+        "scoreboard", 
+        "0.13884"
+      ], 
+      [
+        "odometer", 
+        "0.12298"
+      ], 
+      [
+        "analog clock", 
+        "0.06959"
+      ], 
+      [
+        "CD player", 
+        "0.02692"
+      ]
+    ], 
+    [
+      [
+        "measuring instrument", 
+        "0.92937"
+      ], 
+      [
+        "instrument", 
+        "0.68314"
+      ], 
+      [
+        "timepiece", 
+        "0.59319"
+      ], 
+      [
+        "odometer", 
+        "0.57051"
+      ], 
+      [
+        "meter", 
+        "0.56213"
+      ]
+    ], 
+    "6.904"
+  ]
+}

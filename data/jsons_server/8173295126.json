@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.12591"
+      ], 
+      [
+        "pay-phone", 
+        "0.11629"
+      ], 
+      [
+        "safe", 
+        "0.06876"
+      ], 
+      [
+        "hard disc", 
+        "0.06815"
+      ], 
+      [
+        "cash machine", 
+        "0.06495"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.60614"
+      ], 
+      [
+        "telephone", 
+        "0.49545"
+      ], 
+      [
+        "equipment", 
+        "0.48810"
+      ], 
+      [
+        "device", 
+        "0.41929"
+      ], 
+      [
+        "measuring instrument", 
+        "0.41783"
+      ]
+    ], 
+    "7.364"
+  ]
+}

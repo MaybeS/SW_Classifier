@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "iPod", 
+        "0.91177"
+      ], 
+      [
+        "car mirror", 
+        "0.03725"
+      ], 
+      [
+        "toaster", 
+        "0.02158"
+      ], 
+      [
+        "cellular telephone", 
+        "0.01040"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.00912"
+      ]
+    ], 
+    [
+      [
+        "iPod", 
+        "1.57539"
+      ], 
+      [
+        "stereo", 
+        "1.55224"
+      ], 
+      [
+        "reproducer", 
+        "1.52910"
+      ], 
+      [
+        "audio system", 
+        "1.50596"
+      ], 
+      [
+        "electronic equipment", 
+        "1.28019"
+      ]
+    ], 
+    "5.423"
+  ]
+}

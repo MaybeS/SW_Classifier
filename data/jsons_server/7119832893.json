@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "book jacket", 
+        "0.14046"
+      ], 
+      [
+        "scoreboard", 
+        "0.08744"
+      ], 
+      [
+        "comic book", 
+        "0.07131"
+      ], 
+      [
+        "punching bag", 
+        "0.04909"
+      ], 
+      [
+        "pop bottle", 
+        "0.03983"
+      ]
+    ], 
+    [
+      [
+        "scoreboard", 
+        "0.28420"
+      ], 
+      [
+        "structure", 
+        "0.28023"
+      ], 
+      [
+        "board", 
+        "0.28003"
+      ], 
+      [
+        "signboard", 
+        "0.28003"
+      ], 
+      [
+        "covering", 
+        "0.27762"
+      ]
+    ], 
+    "8.310"
+  ]
+}

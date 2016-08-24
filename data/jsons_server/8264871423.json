@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "knee pad", 
+        "0.48378"
+      ], 
+      [
+        "running shoe", 
+        "0.17408"
+      ], 
+      [
+        "sandal", 
+        "0.07557"
+      ], 
+      [
+        "cowboy boot", 
+        "0.05492"
+      ], 
+      [
+        "sock", 
+        "0.03473"
+      ]
+    ], 
+    [
+      [
+        "knee pad", 
+        "0.89069"
+      ], 
+      [
+        "covering", 
+        "0.84267"
+      ], 
+      [
+        "protective garment", 
+        "0.79828"
+      ], 
+      [
+        "clothing", 
+        "0.73780"
+      ], 
+      [
+        "consumer goods", 
+        "0.66445"
+      ]
+    ], 
+    "5.576"
+  ]
+}

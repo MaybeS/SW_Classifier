@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "microphone", 
+        "0.28138"
+      ], 
+      [
+        "radio", 
+        "0.15779"
+      ], 
+      [
+        "mouse", 
+        "0.07621"
+      ], 
+      [
+        "cassette player", 
+        "0.07406"
+      ], 
+      [
+        "loupe", 
+        "0.04225"
+      ]
+    ], 
+    [
+      [
+        "electronic equipment", 
+        "0.41667"
+      ], 
+      [
+        "equipment", 
+        "0.39293"
+      ], 
+      [
+        "device", 
+        "0.37011"
+      ], 
+      [
+        "electro-acoustic transducer", 
+        "0.26702"
+      ], 
+      [
+        "transducer", 
+        "0.26259"
+      ]
+    ], 
+    "8.921"
+  ]
+}

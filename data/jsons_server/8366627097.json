@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "golf ball", 
+        "0.77443"
+      ], 
+      [
+        "pill bottle", 
+        "0.04457"
+      ], 
+      [
+        "thimble", 
+        "0.03133"
+      ], 
+      [
+        "spotlight", 
+        "0.02967"
+      ], 
+      [
+        "bottlecap", 
+        "0.02432"
+      ]
+    ], 
+    [
+      [
+        "golf ball", 
+        "2.49589"
+      ], 
+      [
+        "golf equipment", 
+        "2.21442"
+      ], 
+      [
+        "ball", 
+        "1.88749"
+      ], 
+      [
+        "sports equipment", 
+        "1.70950"
+      ], 
+      [
+        "game equipment", 
+        "1.69667"
+      ]
+    ], 
+    "14.192"
+  ]
+}

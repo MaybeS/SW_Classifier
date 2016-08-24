@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "cellular telephone", 
+        "0.27232"
+      ], 
+      [
+        "hand-held computer", 
+        "0.24832"
+      ], 
+      [
+        "printer", 
+        "0.09571"
+      ], 
+      [
+        "notebook", 
+        "0.05025"
+      ], 
+      [
+        "Polaroid camera", 
+        "0.04910"
+      ]
+    ], 
+    [
+      [
+        "portable computer", 
+        "0.78438"
+      ], 
+      [
+        "personal computer", 
+        "0.78054"
+      ], 
+      [
+        "digital computer", 
+        "0.76559"
+      ], 
+      [
+        "electronic equipment", 
+        "0.75557"
+      ], 
+      [
+        "computer", 
+        "0.71052"
+      ]
+    ], 
+    "7.393"
+  ]
+}

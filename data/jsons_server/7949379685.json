@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "packet", 
+        "0.14465"
+      ], 
+      [
+        "Band Aid", 
+        "0.11697"
+      ], 
+      [
+        "cassette", 
+        "0.08225"
+      ], 
+      [
+        "cellular telephone", 
+        "0.07142"
+      ], 
+      [
+        "cash machine", 
+        "0.03715"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.29269"
+      ], 
+      [
+        "container", 
+        "0.26252"
+      ], 
+      [
+        "electronic equipment", 
+        "0.24902"
+      ], 
+      [
+        "machine", 
+        "0.24863"
+      ], 
+      [
+        "equipment", 
+        "0.24506"
+      ]
+    ], 
+    "6.171"
+  ]
+}

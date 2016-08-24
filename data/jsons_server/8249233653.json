@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "joystick", 
+        "0.44996"
+      ], 
+      [
+        "loupe", 
+        "0.39523"
+      ], 
+      [
+        "binoculars", 
+        "0.03994"
+      ], 
+      [
+        "stethoscope", 
+        "0.01842"
+      ], 
+      [
+        "lens cap", 
+        "0.01753"
+      ]
+    ], 
+    [
+      [
+        "joystick", 
+        "0.52678"
+      ], 
+      [
+        "control", 
+        "0.50334"
+      ], 
+      [
+        "data input device", 
+        "0.49050"
+      ], 
+      [
+        "peripheral", 
+        "0.46075"
+      ], 
+      [
+        "equipment", 
+        "0.42260"
+      ]
+    ], 
+    "5.235"
+  ]
+}

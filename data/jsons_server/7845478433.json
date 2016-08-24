@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loudspeaker", 
+        "0.12151"
+      ], 
+      [
+        "reflex camera", 
+        "0.10223"
+      ], 
+      [
+        "lens cap", 
+        "0.10061"
+      ], 
+      [
+        "spotlight", 
+        "0.09325"
+      ], 
+      [
+        "dumbbell", 
+        "0.09269"
+      ]
+    ], 
+    [
+      [
+        "equipment", 
+        "0.39124"
+      ], 
+      [
+        "device", 
+        "0.38365"
+      ], 
+      [
+        "camera", 
+        "0.35389"
+      ], 
+      [
+        "photographic equipment", 
+        "0.34800"
+      ], 
+      [
+        "reflex camera", 
+        "0.31770"
+      ]
+    ], 
+    "9.684"
+  ]
+}

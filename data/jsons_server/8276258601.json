@@ -1,0 +1,50 @@
+{
+  "result": [
+    true, 
+    [
+      [
+        "loupe", 
+        "0.39766"
+      ], 
+      [
+        "combination lock", 
+        "0.32090"
+      ], 
+      [
+        "oxygen mask", 
+        "0.04724"
+      ], 
+      [
+        "stethoscope", 
+        "0.03993"
+      ], 
+      [
+        "magnetic compass", 
+        "0.03397"
+      ]
+    ], 
+    [
+      [
+        "device", 
+        "0.43238"
+      ], 
+      [
+        "lock", 
+        "0.41777"
+      ], 
+      [
+        "combination lock", 
+        "0.39206"
+      ], 
+      [
+        "fastener", 
+        "0.38096"
+      ], 
+      [
+        "restraint", 
+        "0.36445"
+      ]
+    ], 
+    "10.129"
+  ]
+}
