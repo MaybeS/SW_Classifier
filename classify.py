@@ -28,11 +28,12 @@ chk_NAN = ["Noun", "Number"]
 
 getNLTK = lambda name, chk : [token[0] for token in pos_tag(name) if token[1][:2] in chk]
 getKONL = lambda name, chk : [token[0] for token in t.pos(name) if token[1] in chk]
-getTokn = lambda name, chk_ko, chk_en : [token[0] for token in t.pos(name) if (token[1] == "Alpha") or token[1] in chk_ko]
+getTokn = lambda name, chk_ko, chk_en : [token[0].lower() for token in t.pos(name) if (token[1] == "Alpha") or token[1] in chk_ko]
 getGram = lambda name, cnt : [" ".join(["".join(grams)]) for grams in ngrams(name, cnt)]
-def getName(name):
+def getName(name, cate):
     brac = getBrac(name)
     noun = getTokn(brac[0], chk_NAN, chk_NC) + getTokn(brac[1], chk_NAN, chk_NC)
+    extr = [n for n in noun if n in getTokn(cate, chk_NAN, chk_NC)]
     gram = getGram(noun, min(gram_cnt, max(len(noun)-1, 1)))
     return " ".join(list(set(noun)) + list(set(gram)))
 
@@ -43,9 +44,10 @@ def getImge(name):
 d_list = []
 cate_list = []
 for each in train_df.iterrows():
-    d = getName(each[1]['name'])# + getImge(str(each[0]))
+    cate = ";".join([each[1]['cate1'], each[1]['cate2'], each[1]['cate3']])
+    d = getName(each[1]['name'] + " " + getImge(str(each[0])), cate)
     d_list.append(d)
-    cate_list.append(";".join([each[1]['cate1'], each[1]['cate2'], each[1]['cate3']]))
+    cate_list.append(cate)
 
 cate_dict = dict(zip(list(set(cate_list)),range(len(set(cate_list)))))
 
@@ -55,7 +57,7 @@ y_list = [cate_dict[";".join([each[1]['cate1'], each[1]['cate2'], each[1]['cate3
 from sklearn.svm import LinearSVC
 from sklearn.grid_search import GridSearchCV
 import numpy as np
-svc_param = {'C':np.logspace(-3, +1, 10)}
+svc_param = {'C':np.logspace(-0.10950 - 0.2, -0.10950 + 0.2, 3)}
 
 gs_svc = GridSearchCV(LinearSVC(),svc_param,cv=10, n_jobs=4)
 gs_svc.fit(x_list, y_list)
