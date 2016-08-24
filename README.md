@@ -8,6 +8,8 @@ Docker Hub - [namsangboy/scikit-classify-server](https://hub.docker.com/r/namsan
 check [jupyter notebook](http://maynet.iptime.org:8888)
 - maynet.iptime.org:8887-8
 
+my model can find with keyword (**Maybe(S)**, **배지운(n)**, **soldier:(n)**) from scoreboard.
+
 ## Directory
 - data/caffe.py 	
 	caffe_demo crawler make json from images(given)
@@ -34,8 +36,8 @@ check [jupyter notebook](http://maynet.iptime.org:8888)
 ## Goal
 Archive: Raise the classification accuracy
 
-- basemodel: 66.1429%
-- finalmodel(model/*): 73.2041%
+- basemodel: **66.1429%**
+- finalmodel(model/*): **73.2041%**
 
 ## Implementation
 
