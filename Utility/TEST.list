@@ -345,3 +345,49 @@ def getName(name):
 	noun = getTokn(brac[0], chk_NAN, chk_NC) + getTokn(brac[1], chk_NAN, chk_NC)
 	gram = getGram(noun, min(gram_cnt, max(len(noun)-1, 1)))
 	return " ".join(list(set(noun)) + list(set(gram)))
+
+
+gram_cnt = 2
+chk_NC = ["NN", "CD"]
+chk_NA = ["Noun"]
+chk_NAN = ["Noun", "Number"]
+
+getNLTK = lambda name, chk : [token[0] for token in pos_tag(name) if token[1][:2] in chk]
+getKONL = lambda name, chk : [token[0] for token in t.pos(name) if token[1] in chk]
+getTokn = lambda name, chk_ko, chk_en : [token[0].lower() for token in t.pos(name) if (token[1] == "Alpha") or token[1] in chk_ko]
+getGram = lambda name, cnt : [" ".join(["".join(grams)]) for grams in ngrams(name, cnt)]
+def getName(name, cate):
+    brac = getBrac(name)
+    noun = getTokn(brac[0], chk_NAN, chk_NC) + getTokn(brac[1], chk_NAN, chk_NC)
+    extr = [n for n in noun if n in getTokn(cate, chk_NAN, chk_NC)]
+    gram = getGram(noun, min(gram_cnt, max(len(noun)-1, 1)))
+    return " ".join(list(set(noun)) + list(set(gram)) + extr)
+
+    
+def getName(name, cate):
+    brac = getBrac(name)
+    noun = getTokn(brac[0], chk_NAN, chk_NC) + getTokn(brac[1], chk_NAN, chk_NC)
+    extr = [n for n in noun if n in getTokn(cate, chk_NAN, chk_NC)]
+    gram = getGram(noun, min(gram_cnt, max(len(noun)-1, 1)))
+    exgr = getGram(extr, min(gram_cnt, max(len(extr)-1, 1))) 
+    return " ".join(list(set(noun)) + list(set(gram)) + extr + exgr)
+
+## image 추가후 
+- tokn(name + img) == 좋은결과 5
+- tokn(name) + tokn(img) == 좋은결과 4
+-
+
+
+## Ctest
+0.14567 = 73.0612
+0.13333 = 73.0612
+0.12340 = 73.1224
+0.11555 = 73.1429
+0.11300 = unserline
+0.11111 = 73.1817
+0.11100 = 73.1837
+0.11000 = 73.2041
+0.10950 = 73.2041
+0.10900 = 73.2041
+0.10500 = 73.1837
+0.10000 = 73.1020
