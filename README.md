@@ -5,18 +5,20 @@ Develop with Docker, Jupyter, python
 
 Docker Hub - [namsangboy/scikit-classify-server](https://hub.docker.com/r/namsangboy/scikit-classify-server/), [namsangboy/caffe-classifier-scikit](https://hub.docker.com/r/namsangboy/caffe-classifier-scikit/)
 
-check [jupyter notebook](maynet.iptime.org:8888).
+check [jupyter notebook](http://maynet.iptime.org:8888)
 - maynet.iptime.org:8887-8
 
 ## Directory
 - data/caffe.py 	
 	caffe_demo crawler make json from images(given)
 	- data/images/
-	- data/jsons/
+	- data/jsons(_server)/
 
-- model/
-	SVM learned data;
-	- model/server/
+	google image search result crawled
+	- data/Crawler/result.txt
+	- data/images(_server)_result.txt
+
+- model/: latest model(**archive above 73%**)
 
 - Utility/
 	utilities for test
@@ -27,15 +29,13 @@ check [jupyter notebook](maynet.iptime.org:8888).
 - classify_image_module.py
 	get data from json; pre defined data from image
 - classify_server.py
-
 - classify.py
-- classify.test
 
 ## Goal
 Archive: Raise the classification accuracy
 
 - basemodel: 66.1429%
-- finalmodel(model/Maybe/*): 73.2041%
+- finalmodel(model/*): 73.2041%
 
 ## Implementation
 
