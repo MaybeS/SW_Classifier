@@ -37,7 +37,8 @@ my model can find with keyword (**Maybe(S)**, **배지운(n)**, **soldier:(n)**)
 Archive: Raise the classification accuracy
 
 - basemodel: **66.1429%**
-- finalmodel(model/*): **73.2041%**
+- finalmodel(model/): **73.2041%**
+
 
 ## Implementation
 
@@ -62,7 +63,7 @@ In `classifier.ipynb`, `getName` function is for nlp.
 - get 2-gram of result. **see also `getGram` function**
 - (extra) *i try 3,4-gram, but score does not increase.*
 - remove duplication of each result(result, gram-result)
-- (extra) *try append **more important words** to back of result, but score does not increase.*
+- (extra) *try append* **more important words** *to back of result, but score does not increase.*
 	- the words which in cate
 	- the words which duplicated
 
